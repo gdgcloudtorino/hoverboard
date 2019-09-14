@@ -412,6 +412,7 @@ export const blogActions = {
     window.firebase
       .firestore()
       .collection('blog')
+      .where('published', '<=', moment().format('YYYY-MM-DD'))
       .orderBy('published', 'desc')
       .get()
       .then((snaps) => {
