@@ -233,9 +233,9 @@ const blogActions = {
     dispatch({
       type: FETCH_BLOG_LIST,
     });
-
     firebase.firestore()
       .collection('blog')
+      .where('published', '<=', moment().format('YYYY-MM-DD'))
       .orderBy('published', 'desc')
       .get()
       .then((snaps) => {
