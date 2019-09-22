@@ -56,7 +56,8 @@
     "pre-commit": "^1.2.2",
     "require-uncached": "^1.0.3",
     "sw-precache": "^5.2.0",
-    "uglify-es": "^3.3.4"
+    "uglify-es": "^3.3.4",
+    "xml-js": "^1.6.11"
   },
   "engines": {
     "node": ">=8.9.4"

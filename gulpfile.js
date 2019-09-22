@@ -53,6 +53,8 @@ const template = require('./gulp-tasks/template.js');
 // const images = require('./gulp-tasks/images.js');
 const html = require('./gulp-tasks/html.js');
 
+const sitemap = require('./internals/sitemap-generator.js');
+
 
 function build() {
   return new Promise((resolve) => {
@@ -136,6 +138,10 @@ function build() {
         ))
           .pipe(uglify())
           .pipe(gulp.dest(config.build.rootDirectory));
+      })
+      .then(() => {
+        console.log('Creating sitemap...');
+        return sitemap(config);
       })
       .then(() => {
         console.log('Build complete!');
