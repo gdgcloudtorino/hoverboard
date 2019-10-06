@@ -1,25 +1,25 @@
 {
-  "blog" : {
-    "dfp19-announced" : {
-      "backgroundColor" : "#2196F3",
-      "brief" : "It is official. Pescara will have its first GDG DevFest this November, on the 2nd and 3rd.",
-      "content" : "It's been just an year since we started a GDG Chapter in Pescara. We organized several events during this year, talking about Android, Kotlin, Cloud, Assistant and a lot of technologies, involving over 400 participants. We are produ of our work, we are proud of the community that is growing all around us.<br/><br/>DevFests are the maximum expression of a GDG. They are community-led events, focused on technology and software development, in particular on Google's technologies. Every year, tons of DevFests are organized all around the globe, hosting speakers and experts, Googlers, passionate developers. Events may include talks, hackathons, codelabs, study jams, trainings with speakers from Google, Google Developers Experts, Women Techmaker Ambassadors and speakers from other companies.<br/><br/>This November, the 2nd and 3rd, Pescara will have its first DevFest. It will be exciting! We are not giving out any detail, yet, since they'll come in the next days. Stay tuned to know more about this great event, but hurry up, and get your RSVP! We are expecting 250 and more participants, and the location will have a maximum number of seats. Make sure you're not missing your seat!<br/><br/>See you all at DevFest Pescara 2019.",
-      "image" : "/images/posts/announce.jpg",
-      "published" : "2019-09-03",
-      "source" : "/data/posts/2019-09-03-dfp19-announced.md",
-      "title" : "Announcing GDG DevFest Pescara 2019"
-    }, 
-    "dfp19-theme" : {
-      "backgroundColor" : "#2196F3",
-      "brief" : "This is DevFest, this is DevFest",
-      "content" : "Fixing other developers perplexing codes, bug that appear at the worst possible moment, bugs that reside in one of the used libraries, no backups, semicolon keys that seem to not work, no internet connection, undocumented code, Heisenbugs, merge conflicts, releases on Fridays. These are just a few of the worst nightmares for a developer.<br/><br/>DevFest Pescara 2019 will be our first DevFest. When we started thinking about it, we tried to figure out how we wanted to make it looks like. A conference, maybe? A meetup? Something mixed? Or maybe something different at all? We are a community, but almost everyone in the community is also a developer, and while we were brain storming about the main idea behind the event, during those precise weeks back in March, some of us were facing a lot of nightmares in the projects they were working on. Bugs, changes in the requirements just a few days before the release, a lot of uncertainty. A whole, big nightmare! The word \"nightmare\" was in our hears constantly, and something started to grow in our minds, like...an idea? Or should we say like a bug?<br/><br/>We do not even remember how, or precisely when, but we started thinking about how other developers would face our nightmare. We liked the thought of everyone in the community thinking about this topic and working together to give the others feedback, telling everyone tales about their own nightmares and how they solved them. We knew we wanted to organize our DevFest between October and November, and Halloween came in our minds in a blip. The connection is almost obvious, right? Halloween, Nightmares, a lot of people...<br/><br/>Our DevFest theme officially is \"Developers' Nightmares\". We named the whole event \"The DevFest Before Christmas\", freely getting inspired by Tim Burton's \"The Nightmare Before Christmas\". We want to deliver an high quality event, full of interesting topics and a lot of networking opportunity, we want to make it funny and unforgettable. The DevFest will be a 2 days conference, with talks and workshops, but we are also organizing team building activities and a lot of entertaining activities specifically designed for easing networking.<br/><br/>Stay tuned to know every details, but get ready for a Networking and beer party on November the 2nd evening! We are giving a networking and beer party where cosplay is not just allowed, but...required! We want to see your creations, we want everyone at the party wearing something that recall a developer nightmare, and we want to see you lot wear an halloween costume.<br/><br/>[SPOILER ALERT]<br/>Come with us and you will see<br/>This community, our GDG<br/>This is DevFest, this is DevFest!",
-      "image" : "/images/posts/theme.png",
-      "published" : "2019-09-17",
-      "source" : "/data/posts/2019-09-17-dfp19-theme.md",
-      "title" : "The DevFest Before Christmas"
+  "blog": {
+    "dfp19-announced": {
+      "backgroundColor": "#2196F3",
+      "brief": "It is official. Pescara will have its first GDG DevFest this November, on the 2nd and 3rd.",
+      "content": "It's been just an year since we started a GDG Chapter in Pescara. We organized several events during this year, talking about Android, Kotlin, Cloud, Assistant and a lot of technologies, involving over 400 participants. We are produ of our work, we are proud of the community that is growing all around us.<br/><br/>DevFests are the maximum expression of a GDG. They are community-led events, focused on technology and software development, in particular on Google's technologies. Every year, tons of DevFests are organized all around the globe, hosting speakers and experts, Googlers, passionate developers. Events may include talks, hackathons, codelabs, study jams, trainings with speakers from Google, Google Developers Experts, Women Techmaker Ambassadors and speakers from other companies.<br/><br/>This November, the 2nd and 3rd, Pescara will have its first DevFest. It will be exciting! We are not giving out any detail, yet, since they'll come in the next days. Stay tuned to know more about this great event, but hurry up, and get your RSVP! We are expecting 250 and more participants, and the location will have a maximum number of seats. Make sure you're not missing your seat!<br/><br/>See you all at DevFest Pescara 2019.",
+      "image": "/images/posts/announce.jpg",
+      "published": "2019-09-03",
+      "source": "/data/posts/2019-09-03-dfp19-announced.md",
+      "title": "Announcing GDG DevFest Pescara 2019"
+    },
+    "dfp19-theme": {
+      "backgroundColor": "#2196F3",
+      "brief": "This is DevFest, this is DevFest",
+      "content": "Fixing other developers perplexing codes, bug that appear at the worst possible moment, bugs that reside in one of the used libraries, no backups, semicolon keys that seem to not work, no internet connection, undocumented code, Heisenbugs, merge conflicts, releases on Fridays. These are just a few of the worst nightmares for a developer.<br/><br/>DevFest Pescara 2019 will be our first DevFest. When we started thinking about it, we tried to figure out how we wanted to make it looks like. A conference, maybe? A meetup? Something mixed? Or maybe something different at all? We are a community, but almost everyone in the community is also a developer, and while we were brain storming about the main idea behind the event, during those precise weeks back in March, some of us were facing a lot of nightmares in the projects they were working on. Bugs, changes in the requirements just a few days before the release, a lot of uncertainty. A whole, big nightmare! The word \"nightmare\" was in our hears constantly, and something started to grow in our minds, like...an idea? Or should we say like a bug?<br/><br/>We do not even remember how, or precisely when, but we started thinking about how other developers would face our nightmare. We liked the thought of everyone in the community thinking about this topic and working together to give the others feedback, telling everyone tales about their own nightmares and how they solved them. We knew we wanted to organize our DevFest between October and November, and Halloween came in our minds in a blip. The connection is almost obvious, right? Halloween, Nightmares, a lot of people...<br/><br/>Our DevFest theme officially is \"Developers' Nightmares\". We named the whole event \"The DevFest Before Christmas\", freely getting inspired by Tim Burton's \"The Nightmare Before Christmas\". We want to deliver an high quality event, full of interesting topics and a lot of networking opportunity, we want to make it funny and unforgettable. The DevFest will be a 2 days conference, with talks and workshops, but we are also organizing team building activities and a lot of entertaining activities specifically designed for easing networking.<br/><br/>Stay tuned to know every details, but get ready for a Networking and beer party on November the 2nd evening! We are giving a networking and beer party where cosplay is not just allowed, but...required! We want to see your creations, we want everyone at the party wearing something that recall a developer nightmare, and we want to see you lot wear an halloween costume.<br/><br/>[SPOILER ALERT]<br/>Come with us and you will see<br/>This community, our GDG<br/>This is DevFest, this is DevFest!",
+      "image": "/images/posts/theme.png",
+      "published": "2019-09-17",
+      "source": "/data/posts/2019-09-17-dfp19-theme.md",
+      "title": "The DevFest Before Christmas"
     }
   },
-  "gallery" : [
+  "gallery": [
     "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/highlights%2Fdf1.jpg?alt=media&token=a1149ae2-053a-42f5-be76-2c6f4bca403d",
     "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/highlights%2Fdf2.jpg?alt=media&token=8ce0b128-2f42-485d-bab0-e9838b389a99",
     "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/highlights%2Fdf3.jpg?alt=media&token=b14c9524-537b-4814-bc6c-67ba8544f1cf",
@@ -29,448 +29,1443 @@
     "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/highlights%2Fdf7.jpg?alt=media&token=007a4302-9732-4842-b99d-945aa9c8a653",
     "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/highlights%2Fdf8.jpg?alt=media&token=2f71f045-5302-4446-b28f-e3cc55f97fda"
   ],
-  "notifications" : {
-    "config" : {
-      "icon" : "",
-      "timezone" : "+01:00"
+  "notifications": {
+    "config": {
+      "icon": "",
+      "timezone": "+01:00"
     },
-    "messages" : { },
-    "subscribers" : { },
-    "test" : { },
-    "users" : { }
+    "messages": {},
+    "subscribers": {},
+    "test": {},
+    "users": {}
   },
-  "partners" : [ {
-    "logos" : [ {
-      "order" : 0,
-      "logoUrl" : "../images/logos/gdg-lviv.svg",
-      "name" : "GDG Lviv",
-      "url" : "https://plus.google.com/102444623953913144164"
-    } ],
-    "order" : 0,
-    "title" : "Template Creator"
-  }, {
-    "logos" : [ {
-      "order" : 0,
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "order" : 1,
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }],
-    "order" : 1,
-    "title" : "General Partner"
-  } ],
-  "schedule" : {
-    "2019-11-02" : {
-      "dateReadable" : "November 2",
-      "timeslots" : [ {
-        "endTime" : "10:00",
-        "sessions" : [ {
-          "items" : [ 101 ]
-        } ],
-        "startTime" : "09:00"
-      }, {
-        "endTime" : "11:00",
-        "sessions" : [ {
-          "items" : [ 103 ]
-        } ],
-        "startTime" : "10:00"
-      }, {
-        "endTime" : "11:50",
-        "sessions" : [ {
-          "items" : [ 104 ]
-        }, {
-          "items" : [ 104 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 105 ]
-        } ],
-        "startTime" : "11:00"
-      }, {
-        "endTime" : "12:40",
-        "sessions" : [ {
-          "items" : [ 104 ]
-        }, {
-          "items" : [ 104 ]
-        } ],
-        "startTime" : "11:50"
-      }, {
-        "endTime" : "14:30",
-        "sessions" : [ {
-          "items" : [ 106 ]
-        } ],
-        "startTime" : "12:40"
-      }, {
-        "endTime" : "14:55",
-        "sessions" : [ {
-          "items" : [ 107 ]
-        }, {
-          "items" : [ 107 ]
-        }, {
-          "extend" : 3,
-          "items" : [ 105 ]
-        } ],
-        "startTime" : "14:30"
-      }, {
-        "endTime" : "15:45",
-        "sessions" : [ {
-          "items" : [ 104 ]
-        }, {
-          "items" : [ 104 ]
-        } ],
-        "startTime" : "14:55"
-      }, {
-        "endTime" : "16:35",
-        "sessions" : [ {
-          "items" : [ 104 ]
-        }, {
-          "items" : [ 104 ]
-        } ],
-        "startTime" : "15:45"
-      }, {
-        "endTime" : "17:10",
-        "sessions" : [ {
-          "items" : [ 108 ]
-        } ],
-        "startTime" : "16:35"
-      }, {
-        "endTime" : "17:35",
-        "sessions" : [ {
-          "items" : [ 107 ]
-        }, {
-          "items" : [ 107 ]
-        }, {
-          "extend" : 3,
-          "items" : [ 105 ]
-        } ],
-        "startTime" : "17:10"
-      }, {
-        "endTime" : "18:00",
-        "sessions" : [ {
-          "items" : [ 107 ]
-        }, {
-          "items" : [ 107 ]
-        } ],
-        "startTime" : "17:35"
-      }, {
-        "endTime" : "18:50",
-        "sessions" : [ {
-          "items" : [ 104 ]
-        }, {
-          "items" : [ 104 ]
-        } ],
-        "startTime" : "18:00"
-      }, {
-        "endTime" : "23:00",
-        "sessions" : [ {
-          "items" : [ 109 ]
-        } ],
-        "startTime" : "20:00"
-      } ],
-      "tracks" : [ {
-        "title" : "Sala D'Annunzio"
-      }, {
-        "title" : "Sala Flaiano"
-      }, {
-        "title" : "Sala Tosti"
-      } ]
+  "partners": [
+    {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/gdg-lviv.svg",
+          "name": "GDG Lviv",
+          "url": "https://plus.google.com/102444623953913144164"
+        }
+      ],
+      "order": 0,
+      "title": "Template Creator"
     },
-    "2019-11-03" : {
-      "dateReadable" : "November 03",
-      "timeslots" : [ {
-        "endTime" : "10:00",
-        "sessions" : [ {
-          "items" : [ 110 ]
-        } ],
-        "startTime" : "09:00"
-      }, {
-        "endTime" : "10:25",
-        "sessions" : [ {
-          "items" : [ 107 ]
-        }, {
-          "items" : [ 107 ]
-        }, {
-          "items" : [ 107 ]
-        } ],
-        "startTime" : "10:00"
-      }, {
-        "endTime" : "10:50",
-        "sessions" : [ {
-          "items" : [ 107 ]
-        }, {
-          "items" : [ 107 ]
-        }, {
-          "extend" : 3,
-          "items" : [ 105 ]
-        } ],
-        "startTime" : "10:25"
-      }, {
-        "endTime" : "11:40",
-        "sessions" : [ {
-          "items" : [ 104 ]
-        }, {
-          "items" : [ 104 ]
-        } ],
-        "startTime" : "10:50"
-      }, {
-        "endTime" : "12:40",
-        "sessions" : [ {
-          "items" : [ 104 ]
-        }, {
-          "items" : [ 104 ]
-        } ],
-        "startTime" : "11:40"
-      }, {
-        "endTime" : "14:30",
-        "sessions" : [ {
-          "items" : [ 106 ]
-        } ],
-        "startTime" : "12:40"
-      }, {
-        "endTime" : "14:55",
-        "sessions" : [ {
-          "items" : [ 107 ]
-        }, {
-          "items" : [ 107 ]
-        }, {
-          "extend" : 3,
-          "items" : [ 105 ]
-        } ],
-        "startTime" : "14:30"
-      }, {
-        "endTime" : "15:45",
-        "sessions" : [ {
-          "items" : [ 104 ]
-        }, {
-          "items" : [ 104 ]
-        } ],
-        "startTime" : "14:55"
-      }, {
-        "endTime" : "16:35",
-        "sessions" : [ {
-          "items" : [ 104 ]
-        }, {
-          "items" : [ 104 ]
-        } ],
-        "startTime" : "15:45"
-      }, {
-        "endTime" : "17:10",
-        "sessions" : [ {
-          "items" : [ 108 ]
-        } ],
-        "startTime" : "16:35"
-      }, {
-        "endTime" : "18:00",
-        "sessions" : [ {
-          "items" : [ 111 ]
-        } ],
-        "startTime" : "17:10"
-      }, {
-        "endTime" : "18:30",
-        "sessions" : [ {
-          "items" : [ 112 ]
-        } ],
-        "startTime" : "18:00"
-      } ],
-      "tracks" : [ {
-        "title" : "Sala D'Annunzio"
-      }, {
-        "title" : "Sala Flaiano"
-      }, {
-        "title" : "Sala Tosti"
-      } ]
+    {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/google.svg",
+          "name": "Google",
+          "url": "https://www.google.com.ua/intl/en/about/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/gdg-x.svg",
+          "name": "GDG[x]",
+          "url": "https://github.com/gdg-x"
+        }
+      ],
+      "order": 1,
+      "title": "General Partner"
+    }
+  ],
+  "schedule": {
+    "2019-11-02": {
+      "dateReadable": "November 2",
+      "timeslots": [
+        {
+          "endTime": "09:30",
+          "sessions": [
+            {
+              "items": [
+                101
+              ]
+            }
+          ],
+          "startTime": "08:30"
+        },
+        {
+          "endTime": "10:10",
+          "sessions": [
+            {
+              "items": [
+                99
+              ]
+            }
+          ],
+          "startTime": "09:30"
+        },
+        {
+          "endTime": "11:00",
+          "sessions": [
+            {
+              "items": [
+                103
+              ]
+            }
+          ],
+          "startTime": "10:15"
+        },
+        {
+          "endTime": "11:40",
+          "sessions": [
+            {
+              "items": [
+                125
+              ]
+            },
+            {
+              "items": [
+                104
+              ]
+            },
+            {
+              "extend": 2,
+              "items": [
+                105
+              ]
+            }
+          ],
+          "startTime": "11:00"
+        },
+        {
+          "endTime": "12:30",
+          "sessions": [
+            {
+              "items": [
+                104
+              ]
+            },
+            {
+              "items": [
+                132
+              ]
+            }
+          ],
+          "startTime": "11:50"
+        },
+        {
+          "endTime": "14:30",
+          "sessions": [
+            {
+              "items": [
+                106
+              ]
+            }
+          ],
+          "startTime": "12:50"
+        },
+        {
+          "endTime": "15:10",
+          "sessions": [
+            {
+              "items": [
+                104
+              ]
+            },
+            {
+              "items": [
+                104
+              ]
+            },
+            {
+              "extend": 2,
+              "items": [
+                105
+              ]
+            }
+          ],
+          "startTime": "14:30"
+        },
+        {
+          "endTime": "16:00",
+          "sessions": [
+            {
+              "items": [
+                104
+              ]
+            },
+            {
+              "items": [
+                104
+              ]
+            }
+          ],
+          "startTime": "15:20"
+        },
+        {
+          "endTime": "16:30",
+          "sessions": [
+            {
+              "items": [
+                108
+              ]
+            }
+          ],
+          "startTime": "16:10"
+        },
+        {
+          "endTime": "17:50",
+          "sessions": [
+            {
+              "items": [
+                104
+              ]
+            },
+            {
+              "items": [
+                104
+              ]
+            }
+          ],
+          "startTime": "17:10"
+        },
+        {
+          "endTime": "24:00",
+          "sessions": [
+            {
+              "items": [
+                109
+              ]
+            }
+          ],
+          "startTime": "20:00"
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Sala D'Annunzio"
+        },
+        {
+          "title": "Sala Flaiano"
+        },
+        {
+          "title": "Sala Tosti"
+        }
+      ]
+    },
+    "2019-11-03": {
+      "dateReadable": "November 03",
+      "timeslots": [
+        {
+          "endTime": "10:00",
+          "sessions": [
+            {
+              "items": [
+                110
+              ]
+            }
+          ],
+          "startTime": "09:00"
+        },
+        {
+          "endTime": "10:45",
+          "sessions": [
+            {
+              "items": [
+                104
+              ]
+            },
+            {
+              "items": [
+                107, 107
+              ]
+            },
+            {
+              "extend": 2,
+              "items": [
+                105
+              ]
+            }
+          ],
+          "startTime": "10:00"
+        },
+        {
+          "endTime": "11:30",
+          "sessions": [
+            {
+              "items": [
+                104
+              ]
+            },
+            {
+              "items": [
+                104
+              ]
+            }
+          ],
+          "startTime": "10:50"
+        },
+        {
+          "endTime": "12:20",
+          "sessions": [
+            {
+              "items": [
+                104
+              ]
+            },
+            {
+              "items": [
+                107, 107
+              ]
+            }
+          ],
+          "startTime": "11:40"
+        },
+        {
+          "endTime": "14:00",
+          "sessions": [
+            {
+              "items": [
+                106
+              ]
+            }
+          ],
+          "startTime": "12:30"
+        },
+        {
+          "endTime": "14:40",
+          "sessions": [
+            {
+              "items": [
+                104
+              ]
+            },
+            {
+              "items": [
+                104
+              ]
+            },
+            {
+              "extend": 2,
+              "items": [
+                105
+              ]
+            }
+          ],
+          "startTime": "14:00"
+        },
+        {
+          "endTime": "15:30",
+          "sessions": [
+            {
+              "items": [
+                104
+              ]
+            },
+            {
+              "items": [
+                104
+              ]
+            }
+          ],
+          "startTime": "14:50"
+        },
+        {
+          "endTime": "16:00",
+          "sessions": [
+            {
+              "items": [
+                108
+              ]
+            }
+          ],
+          "startTime": "15:40"
+        },
+        {
+          "endTime": "16:40",
+          "sessions": [
+            {
+              "items": [
+                111
+              ]
+            }
+          ],
+          "startTime": "16:00"
+        },
+        {
+          "endTime": "17:30",
+          "sessions": [
+            {
+              "items": [
+                112
+              ]
+            }
+          ],
+          "startTime": "16:50"
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Sala D'Annunzio"
+        },
+        {
+          "title": "Sala Flaiano"
+        },
+        {
+          "title": "Sala Tosti"
+        }
+      ]
     }
   },
-  "sessions" : {
-    "101" : {
-      "complexity" : "",
-      "description" : "",
-      "language" : "",
-      "speakers" : [ ],
-      "tags" : [ "Registration", "Breakfast" ],
-      "title" : "Registration & Breakfast"
+  "sessions": {
+    "101": {
+      "complexity": "",
+      "description": "",
+      "language": "",
+      "speakers": [],
+      "tags": [
+        "Registration",
+        "Breakfast"
+      ],
+      "icon": "registration",
+      "title": "Registration & Breakfast"
     },
-    "102" : {
-      "complexity" : "",
-      "description" : "",
-      "language" : "",
-      "speakers" : [  ],
-      "tags" : [ "Breakfast" ],
-      "title" : "Breakfast"
+    "102": {
+      "complexity": "",
+      "description": "",
+      "language": "",
+      "speakers": [],
+      "tags": [
+        "Breakfast"
+      ],
+      "icon": "coffee-break",
+      "title": "Breakfast"
     },
-    "103" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
-      "language" : "English",
-      "speakers" : [  ],
-      "tags" : [ "Keynote" ],
-      "title" : "Opening keynote"
+    "99": {
+      "complexity": "Beginner",
+      "description": "Event opening, Sponsors & Speakers presentation",
+      "language": "English",
+      "speakers": [],
+      "tags": [
+        "Opening"
+      ],
+      "icon": "opening",
+      "title": "Event opening"
     },
-    "104" : {
-      "complexity" : "",
-      "description" : "TBD",
-      "language" : "",
-      "speakers" : [  ],
-      "tags" : [ "Session", "Talk" ],
-      "title" : "Talk"
+    "103": {
+      "complexity": "Beginner",
+      "description": "To be announced",
+      "language": "English",
+      "speakers": [],
+      "tags": [
+        "Keynote"
+      ],
+      "icon": "opening",
+      "title": "Opening keynote"
     },
-    "105" : {
-      "complexity" : "",
-      "description" : "TBD",
-      "language" : "",
-      "speakers" : [  ],
-      "tags" : [ "Workshop" ],
-      "title" : "Workshop"
+    "104": {
+      "complexity": "",
+      "description": "To be announced",
+      "language": "",
+      "speakers": [],
+      "tags": [
+        "Session",
+        "Talk"
+      ],
+      "title": "Talk"
     },
-    "106" : {
-      "complexity" : "",
-      "description" : "",
-      "language" : "",
-      "speakers" : [  ],
-      "tags" : [ "Lunch" ],
-      "title" : "Lunch"
+    "105": {
+      "complexity": "",
+      "description": "To be announced",
+      "language": "",
+      "speakers": [],
+      "tags": [
+        "Workshop"
+      ],
+      "title": "Workshop"
     },
-    "107" : {
-      "complexity" : "",
-      "description" : "TBD",
-      "language" : "",
-      "speakers" : [  ],
-      "tags" : [ "Talk" ],
-      "title" : "Lightning talk"
+    "106": {
+      "complexity": "",
+      "description": "",
+      "language": "",
+      "speakers": [],
+      "tags": [
+        "Lunch"
+      ],
+      "icon": "lunch",
+      "title": "Lunch"
     },
-    "108" : {
-      "complexity" : "",
-      "description" : "",
-      "language" : "",
-      "speakers" : [  ],
-      "tags" : [ "Break" ],
-      "title" : "Coffee break"
+    "107": {
+      "complexity": "",
+      "description": "To be announced",
+      "language": "",
+      "speakers": [],
+      "tags": [
+        "Talk"
+      ],
+      "title": "Lightning talk"
     },
-    "109" : {
-      "complexity" : "",
-      "description" : "TBD",
-      "language" : "",
-      "speakers" : [  ],
-      "tags" : [ "Team building" ],
-      "title" : "Dinner party"
+    "108": {
+      "complexity": "",
+      "description": "",
+      "language": "",
+      "speakers": [],
+      "tags": [
+        "Break"
+      ],
+      "icon": "coffee-break",
+      "title": "Coffee break"
     },
-    "110" : {
-      "complexity" : "",
-      "description" : "",
-      "language" : "",
-      "speakers" : [  ],
-      "tags" : [ "Breakfast" ],
-      "title" : "Breakfast"
+    "109": {
+      "complexity": "",
+      "description": "To be announced",
+      "language": "",
+      "speakers": [],
+      "tags": [
+        "Team building"
+      ],
+      "icon": "party",
+      "title": "Dinner party"
     },
-    "111" : {
-      "complexity" : "",
-      "description" : "TBD",
-      "language" : "English",
-      "speakers" : [  ],
-      "tags" : [ "Keynote" ],
-      "title" : "Closing keynote"
+    "110": {
+      "complexity": "",
+      "description": "",
+      "language": "",
+      "speakers": [],
+      "tags": [
+        "Breakfast"
+      ],
+      "title": "Breakfast"
     },
-    "112" : {
-      "complexity" : "",
-      "description" : "TBD",
-      "language" : "English",
-      "speakers" : [  ],
-      "tags" : [ "Closing" ],
-      "title" : "Conference closing"
+    "111": {
+      "complexity": "",
+      "description": "To be announced",
+      "language": "English",
+      "speakers": [],
+      "tags": [
+        "Keynote"
+      ],
+      "title": "Closing keynote"
+    },
+    "112": {
+      "complexity": "",
+      "description": "To be announced",
+      "language": "English",
+      "speakers": [],
+      "tags": [
+        "Closing"
+      ],
+      "title": "Conference closing"
+    },
+    "113": {
+      "complexity": "Intermediate",
+      "description": "You can make any website a Progressive Web App, but how can you give it that native look and feel?\n\nDuring this talk, we'll cover the pillars for native-like PWAs, as well as multiple UX & performance strategies such as the app update process, code splitting, advanced app shells, UX & more.\n\nThese techniques will make your PWA indistinguishable from a native app, while taking advantage of the benefits of the web.",
+      "language": "English",
+      "speakers": [
+        "JadJoubran"
+      ],
+      "tags": ["PWA"],
+      "title": "Secrets of Native-like PWAs"
+    },
+    "114": {
+      "complexity": "Introductory and overview",
+      "description": "A system is as secure as its weakest component. Imagine having a state-of-the-art Firewall to protect your devices from anything outside of your network. Are you secure? What if you connect your laptop to your home network after having used it in a bar?\nOk well, let\u2019s say you also have one of the best Advanced Malware Protection software installed on every device you own, are you protected now? The answer to this is simple, can you really install such software onto all your devices? Even the IoT devices? \nIn this talk, we will address how a multi-layered approach, with a separation of concern, to security can better protect your system.",
+      "language": "English",
+      "speakers": [
+        "EliaMaracani"
+      ],
+      "icon": "cisco",
+      "tags": ["Security", "Advanced Malware Protection"],
+      "title": "The case for a layered approach to Cyber Security"
+    },
+    "115": {
+      "complexity": "Intermediate",
+      "description": "Threats are always evolving, and so must Security Solutions if we want to keep our networks and devices protected. In this talk we will explore how the use of an open ecosystem of API-enabled Security Solutions allows us to not only greatly improve the overall protection, but also drastically increase its customizability and personalization, enabling a much finer tuning to the very specific requirements dictated by your network, your devices, your company. \nHackers share information and intel in many forums, so why shouldn\u2019t we use the same approach to improve our defenses? \n\nMost companies only have an antivirus installed on the devices they own and a Firewall to protect the internal network, but is that really the best solution? What if we would be able to build a script that, once a ransomware is detected on a device, it would automatically and instantly protect all your devices on and off the company\u2019s network, preventing the malware from communicating with the Command and Control Server?",
+      "language": "English",
+      "speakers": [
+        "EliaMaracani"
+      ],
+      "icon": "cisco",
+      "tags": ["Security", "Advanced Malware Protection"],
+      "title": "The desperate need for open, cooperating and automated security solutions \u2013 Two Cisco's examples"
+    },
+    "116": {
+      "complexity": "Introductory and overview",
+      "description": "Smartphone and smart glasses manufacturers like Google, Apple and Microsoft are increasing the number of available devices with mixed reality features. The environmental understanding capability allows the developers to create a totally new kind of experience for the users using framework like ARCore, ARKit or Microsoft Mixer Reality Toolkit. They provide a deep merging between the virtual and the real world around us. It's easy to make mistakes so the users can feel uncomfortable living the experiences with our AR apps. In this workshop we discuss the best approach to design good user interfaces and provide a shine natural interaction for the user based on mixed reality paradigm.",
+      "language": "Italian",
+      "speakers": [
+        "MichelantonioTrizio"
+      ],
+      "tags": ["AR/VR", "ARCore", "ARKit"],
+      "title": "UI/UX App Design @ Mixed Reality Age"
+    },
+    "117": {
+      "complexity": "Intermediate",
+      "description": "Diversity & Inclusion ||\nWhat Is Inclusion and Why Does It Matter?\nBuilding, Sustaining, and Benefiting from Diversity \nCross-Cultural Communication\nCultural Identity and Cultural Values at Work",
+      "language": "English",
+      "speakers": [
+        "DennyCasabianca"
+      ],
+      "tags": ["Diversity", "Inclusion"],
+      "title": "Inclusion as the Key"
+    },
+    "118": {
+      "complexity": "Introductory and overview",
+      "description": "In questo talk andremo ad espolare la libreria Rxjs dalla base capendo cosa \u00e8 un observable e cosa \u00e8 la programmazione funzionale reattiva,e come applicare ci\u00f2 in un contesto pratico",
+      "language": "Italian",
+      "speakers": [
+        "LukaMilosevic"
+      ],
+      "tags": ["Reactive programming", "RxJS"],
+      "title": "Understanding Rxjs from the ground up!"
+    },
+    "119": {
+      "complexity": "Intermediate",
+      "description": "In this workshop you will put in practice, through a fun \u201ctreasure hunt\u201d like scenario, how the many APIs exposed by Cisco\u2019s Security Products will allow you to detect, investigate, identify and isolate the threat that got into your network. All of this with the help of Python and REST APIs.",
+      "language": "English",
+      "speakers": [
+        "EliaMaracani"
+      ],
+      "icon": "cisco",
+      "tags": ["Security", "Workshop"],
+      "title": "Hands on Cisco Security APIs"
+    },
+    "120": {
+      "complexity": "Introductory and overview",
+      "description": "The No Free Lunch Theorem states that there exists no learning algorithm better than any other given one, thus making it necessary for a ML Engineer to know their ways around multiple ways to tackle a problem.\nIn this talk we'll have a look at common algorithms and models that a ML Engineer should know and when to actually use them.",
+      "language": "Italian",
+      "speakers": [
+        "LeonardoDipilato"
+      ],
+      "tags": ["ML"],
+      "title": "No Free Lunch Theorem: Machine Learning 101"
+    },
+    "121": {
+      "complexity": "Introductory and overview",
+      "description": "JavaScript is an extremely common language whose core was developed in 10 days in 1995. Doing things with such a haste left some troubles in the core language that haven't been fixed.\nIn this talk, we'll look at some snippets of code to highlight some of the unusualities that JavaScript brings.",
+      "language": "Italian",
+      "speakers": [
+        "LeonardoDipilato"
+      ],
+      "tags": ["Javascript unusualities"],
+      "title": "JavaScript Shenanigans"
+    },
+    "122": {
+      "complexity": "Introductory and overview",
+      "description": "L'evoluzione del mondo cloud ha portato allo sviluppo di nuovi paradigmi, come ad esempio i microservizi. In questo talk verranno analizzati i pro ed i contro di una infrastruttura a microservizi rispetto a quelle basate sui monoliti.\nQueste nuove tecnologie permettono ai nostri servizi di essere pi\u00f9 efficienti, scalabili e affidabili. Scopriremo come i microservizi ci permettono di testare e deployare le nostre applicazioni rapidamente.\nInoltre vedremo, con degli esempi, come abbandonare il nostro ormai obsoleto monolite per migrare su questo nuovo paradigma.",
+      "language": "Italian",
+      "speakers": [
+        "MichelangeloMorrillo"
+      ],
+      "tags": ["Microservices"],
+      "title": "Speed up our application with Microservices"
+    },
+    "123": {
+      "complexity": "Intermediate",
+      "description": "The talk is about the speakers' experience in taking technical decisions, as a software engineer and as a a technical manager.",
+      "language": "English",
+      "speakers": [
+        "JunaSalviati", "NicolaGuglielmi"
+      ],
+      "tags": ["Technical decisions", "Technical management"],
+      "title": "Taking technical decisions"
+    },
+    "124": {
+      "complexity": "Intermediate",
+      "description": "Adatteremo insieme un progetto Flutter per il Mobile alla sua versione per Web e Desktop dimostrando come con un unico sorgente riusciamo a eseguire Flutter su tutte le piattaforme: Android, iOS, macOS, Windows e Web.",
+      "language": "Italian",
+      "speakers": [
+        "GianMarcoDiFrancesco"
+      ],
+      "icon": "flutter",
+      "tags": ["Flutter Study Jam", "Workshop"],
+      "title": "Flutter: da Mobile a Web e Desktop"
+    },
+    "125": {
+      "complexity": "Intermediate",
+      "description": "Talk sia tecnico che motivazionale/strategico, adatto a tutti ma in particolar modo pensato per gli sviluppatori, che spesso sono avulsi dal Cloud.\nInvece il rapporto Devs/Cloud \u00e8 di grande rilevanza, perch\u00e9 la realizzazione di Sistemi Applicativi flessibili e scalabili \u00e8 e sar\u00e0 sempre pi\u00f9 un grande elemento di successo. Ma per questo ci vogliono gli skill adatti.\n\nParte strategica:\nLe possibilit\u00e0 pratiche - come prepararsi e come qualificarsi - cosa \u00e8 importante sapere. \nLo scenario attuale dell\u2019offerta: nonsoloGoogle ma anche AWS ed Azure.\nCosa offre Google ai Dev. Doni ed Opportunit\u00e0.\nCommunity ed Expert program.\n\nParte tecnica:\nFirebase e GCP: servizi in comune, differenze. Cosa usare e come.\nServerless  e Limitless con Cloud RUN: operativi in tempi brevi \u2192 Codelabs e CI/CD\nQwiklabs ed altro: imparare senza rischiare di spendere una lira\u2026\nProfessional Cloud Developer Certification: la vogliamo fare insieme?\n",
+      "language": "Italian",
+      "speakers": [
+        "AntonellaBlasetti"
+      ],
+      "icon": "gcp",
+      "tags": ["Cloud Study Jam", "Cloud", "GCP"],
+      "title": "Serverless and Limitless"
+    },
+    "126": {
+      "complexity": "Introductory and overview",
+      "description": "Se anche Flutter sta crescendo a passi da gigante per la codifica multi-piattaforma su iOS e Android,\ngrazie alla integrazione  del supporto al web, al desktop e ai dispositivi embedded, promette lo sviluppo di applicazioni per \u2018qualsiasi cosa\u2019 da un singolo codebase.\nDurante il talk parleremmo di Hummingbird, il progetto che ci permette l\u2019esecuzione del nostro codice Flutter, non solo nei cellulari, ma anche nei browser.   \n",
+      "language": "Italian",
+      "speakers": [
+        "RihannaKedir"
+      ],
+      "icon": "flutter",
+      "tags": ["Flutter Study Jam"],
+      "title": "Flutter For Web"
+    },
+    "127": {
+      "complexity": "Intermediate",
+      "description": "Firebase rende incredibilmente facile scrivere, distribuire e scalare funzioni e servizi backend senza preoccuparsi dell\u2019infrastruttura e di framework/librerie. Ma quali sono le reali potenzialit\u00e0 e (soprattutto) cosa dobbiamo fare per non cedere al lato oscuro ed implementare correttamente API REST, trigger automatici o funzioni custom? In questo talk esploreremo il paradigma \u201cserverless\u201d offerto da Firebase e come sfruttarlo per rendere la galassia un posto (leggermente) migliore.",
+      "language": "Italian",
+      "speakers": [
+        "MichelMurabito"
+      ],
+      "tags": ["Firebase"],
+      "title": "Firebase Functions - Il lato chiaro della Forza"
+    },
+    "128": {
+      "complexity": "Intermediate",
+      "description": "Firebase rende incredibilmente facile scrivere, distribuire e scalare funzioni e servizi backend senza preoccuparsi dell\u2019infrastruttura e di framework/librerie. La galassia non \u00e8 un luogo perfetto ed in questo talk analizzeremo situazioni limite (e il lato oscuro) di una tecnologia fantastica che va utilizzata correttamente. Come progettare al meglio i nostri servizi? Come evitare problemi di produzione e ottimizzare le nostre funzioni, quali sistemi abbiamo per schedulare job e/o creare funzioni adatte a situazioni atipiche? ",
+      "language": "Italian",
+      "speakers": [
+        "MichelMurabito"
+      ],
+      "tags": ["Firebase"],
+      "title": "Firebase Functions - Il lato oscuro della Forza"
+    },
+    "129": {
+      "complexity": "Introductory and overview",
+      "description": "Spesso parliamo di cosa sappiamo, in questo talk invece affronteremo dei concetti chiave che forse (noi tutti) ignoriamo sulle community! Perch\u00e8 farne parte? Cosa potr\u00f2 ricevere ma soprattutto cosa dare? Perch\u00e8 insieme possiamo rendere il mondo un posto, leggermente, migliore!",
+      "language": "Italian",
+      "speakers": [
+        "MichelMurabito"
+      ],
+      "tags": ["Communities"],
+      "title": "Una lista di cose che potremmo NON sapere sulle community"
+    },
+    "130": {
+      "complexity": "Introductory and overview",
+      "description": "Gestire un team \u00e8 complesso, alcune volte sembra quasi di essere soli durante l\u2019esplorazione spaziale! Ma nessun grande lavoro pu\u00f2 essere fatto senza un grande team. \u201cDa grandi team grandi responsabilit\u00e0\u201d, non era proprio cos\u00ec\u2026 Ma cosa dovresti fare per aiutare il tuo gruppo a raggiungere gli obiettivi? E quali pratiche sane dovresti introdurre per rendere il luogo di lavoro, un p\u00f2, migliore?",
+      "language": "Italian",
+      "speakers": [
+        "MichelMurabito"
+      ],
+      "tags": ["Team management"],
+      "title": "Manage Teams, a space adventure!"
+    },
+    "131": {
+      "complexity": "Introductory and overview",
+      "description": "Sicurezza, coraggio e delle buone slide di supporto riescono a sbloccare, davanti al pubblico, anche la persona pi\u00f9 timida. \nVi spiegher\u00f2 nel dettaglio tutto ci\u00f2 che succede prima-durante-dopo il vostro talk dandovi alcuni consigli utili, e perch\u00e9 oramai tutti parlano di public speaking. ",
+      "language": "Italian",
+      "speakers": [
+        "DianaBernabei"
+      ],
+      "tags": ["Soft Skills"],
+      "title": "Come tenere un talk"
+    },
+    "132": {
+      "complexity": "Intermediate",
+      "description": "Youtube is the most used video sharing website in the world and contains a volume of video and data that is impressive to imagine, its ease of use hides the complexity of the data required for its operation and especially for monetization.\n\nIn this talk we will see how we managed to interact with the economic reports of many Youtube channels, import a large volume of data through Google's APIs and create a web service based on the intelligent aggregation of these data.\n\nTo interact with the Youtube Reports API and to download the data, we used the official Python client library for Google's discovery based APIs.\n\nTo create the Web service and all asynchronous task we used Django Web Framework and the uWSGI application server.\n\nTo store the large volume of data and import it quickly we used the PostgreSQL database.",
+      "language": "Italian",
+      "speakers": [
+        "PaoloMelchiorre"
+      ],
+      "tags": ["Django", "PostgreSQL"],
+      "title": "Manage Youtube reports with Django and PostgreSQL"
+    },
+    "133": {
+      "complexity": "Intermediate",
+      "description": "In this workshop you will learn how to develop an Action to learn a new language",
+      "language": "Italian",
+      "speakers": [
+        "JunaSalviati"
+      ],
+      "tags": ["Google Assistant"],
+      "title": "Google Assistant as a teacher!"
+    },
+    "134": {
+      "complexity": "Intermediate",
+      "description": "Neural Networks are, more often than not, treated as black boxes: there\u2019s this strange idea of them copying the human brain in such a complex way that no human could ever understand, but that couldn\u2019t be farther from the truth. Neural Networks are actually, conceptually, quite simple in how they work and make up for their simplicity by adding more and more stuff on top of them. Knowing how Neural Networks work is a must for anyone who wants to work in the field of Machine Learning, but even as a bystander having a clear mental image of how stuff works can open your mind to new concepts. In this session we\u2019ll completely demystify how Neural Networks of all kinds work, not by completely disregarding the math side of things, but by actually using it in a human way (instead of cold artificial matrix multiplications).",
+      "language": "English",
+      "speakers": [
+        "VasudevMaduri"
+      ],
+      "icon": "gcp",
+      "tags": ["Cloud Study Jam", "GCP", "ML"],
+      "title": "Neural Networks for Humans: demystifying the math"
+    },
+    "135": {
+      "complexity": "Introductory and overview",
+      "description": "Millions of people swap selfies on Snapchat or play Super Mario Run every day. Do you know where these apps are running? It's the venerable Google App Engine and the infrastructure of Google Cloud that allow developers to focus on their code and let it scaler the application to Google.\nWhether you are deploying applications with App Engine, or functions with Cloud Functions, you no longer worry about servers or clusters to provision and you pay proportionately for usage, with no fixed costs.\nIn this session, let's find out together what's under the hood, and especially Google's new \"serverless\" beyond App Engine and Cloud Functions.",
+      "language": "English",
+      "speakers": [
+        "VasudevMaduri"
+      ],
+      "icon": "gcp",
+      "tags": ["Cloud Study Jam", "GCP", "Serverless"],
+      "title": "A brave new world. \"Serverless\" computing on Google Cloud."
+    },
+    "136": {
+      "complexity": "Introductory and overview",
+      "description": "In questa sessione inizieremo con una retrospettiva storica sulla diffusione delle reti neurali, dalla nascita, attraverso i lunghi inverni, fino ad arrivare ai recenti successi del deep learning. Uno dei massimi risultati del deep learning \u00e8 stato AlphaGo, il programma che per la prima volta \u00e8 riuscito a battere i pi\u00f9 forti giocatori di Go al mondo. Vedremo a grandi linee il funzionamento di AlphaGo e parleremo anche del progetto SAI, il cui obiettivo \u00e8 far evolvere AlphaGo consentendogli di giocare in condizioni di svantaggio e con uno stile di gioco pi\u00f9 \"umano\".",
+      "language": "Italian",
+      "speakers": [
+        "GianlucaAmato"
+      ],
+      "tags": ["ML", "AlphaGO"],
+      "title": "Dal percettrone ad AlphaGo (e SAI)"
+    },
+    "137": {
+      "complexity": "Intermediate",
+      "description": "GraphQL \u00e8 entrato ormai nello stack di molti sviluppatori e pare voglia soppiantare ci\u00f2 che REST ha fatto fino ad ora. Tramite esempi pratici, vedremo prima come sia possibile implementare un server GraphQL utilizzando Apollo, approfondendo le opportunit\u00e0 offerte da questo intero ecosistema, per poi passare ad interrogare il server tramite Angular, cercando di capire come cambia lo sviluppo frontend sia dal punto di vista di comunicazione con le API che dal punto di vista dello State Management. Il tutto sperando che la concorrenza non ci RESTi male! :D",
+      "language": "Italian",
+      "speakers": [
+        "GregorioPalama", "FrancescoSciuti"
+      ],
+      "tags": ["GraphQL", "Apollo", "Angular"],
+      "title": "GraphQL con Apollo e Angular - Tutto il REST \u00e8 noia!"
+    },
+    "138": {
+      "complexity": "Intermediate",
+      "description": "The speech approach the problem of being driver of changes in a company that oppose resistance to the changes,expose the threshold between change the company or evaluate the next job hop in a constant professional growth path.",
+      "language": "English",
+      "speakers": [
+        "NicolaGuglielmi"
+      ],
+      "tags": ["Careers"],
+      "title": "Change the company or Change company"
+    },
+    "139": {
+      "complexity": "Introductory and overview",
+      "description": "What are developers\u2019 nightmares? My personal answer is getting lost in overdesign, unchecked mutability and code verbosity. And this is why my talk will be about functional programming: because it deals with these problems pretty smartly. After more than two and a half years working almost exclusively with a functional language, Clojure, in production, I would like to share my experience, discuss what all this fuss about functional programming is and why someone who has always worked with objects should care.",
+      "language": "English",
+      "speakers": [
+        "ElenaCanovi"
+      ],
+      "tags": ["Functional programming", "Clojure"],
+      "title": "Functional programming: why should I care?"
+    },
+    "140": {
+      "complexity": "Introductory and overview",
+      "description": "Dipendente o imprenditore? Quali sono le ragioni per cui vale la pena scegliere l'una o l'altra strada? Ti racconto la mia storia partendo dalle giornate passate a studiare e a scrivere codice, dalle serate davanti al PC a lavorare per la mia startup oltreoceano, fino alla nascita dell'azienda dei mie sogni per la quale avrei voluto sempre lavorare. Parleremo inoltre di superpoteri, limiti e tanto altro, con l'obiettivo di farti tornare a casa con tanti suggerimenti utili, sia se sei in procinto di avviare la tua impresa sia se lavori per un'azienda.",
+      "language": "Italian",
+      "speakers": [
+        "StefanoDAlessandro"
+      ],
+      "tags": ["Careers"],
+      "title": "Da developer a imprenditore, vi racconto la mia storia"
     }
   },
-  "speakers" : {
-    "speaker1" : {
-      "bio" : "bio",
-      "company" : "company",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Italy",
-      "featured" : false,
-      "name" : "speaker",
-      "photo" : "/images/people/aleksander_piotrowski.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
-      "shortBio" : "short bio",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/",
-        "name" : "Twitter"
-      }, {
-        "icon" : "facebook",
-        "link" : "http://facebook.com/",
-        "name" : "Facebook"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/",
-        "name" : "LinkedIn"
-      } ],
-      "order" : 1,
-      "title" : "Hero"
+  "speakers": {
+    "JadJoubran": {
+      "bio": "Jad is a Google Developer Expert and fullstack teacher.\n\nHe's on a mission to inspire developers around the world by coaching at Le Wagon coding bootcamp and regularly speaking at international conferences.\n\nLately, Jad's focus lies on spreading knowledge about Progressive Web Apps and mentoring developers through online courses, blog articles and workshops for startups & enterprises.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Amsterdam, Netherlands",
+      "name": "Jad Joubran",
+      "order": 1,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FJad_Joubran.png?alt=media&token=9645ae9a-2ce7-474d-b40b-73c9998cb664",
+      "shortBio": "FullStack teacher in Amsterdam, Brussels & London",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/joubranjad",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jadjoubran/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "medium",
+          "link": "https://medium.com/@JoubranJad/",
+          "name": "Blog"
+        },
+        {
+          "icon": "website",
+          "link": "https://jadjoubran.io/",
+          "name": "Web Site"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Expert - Web Technologies",
+          "link": "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-jad_joubran",
+          "name": "gde"
+        }
+      ],
+      "title": "FullStack teacher in Amsterdam, Brussels & London"
+    },
+    "AntonellaBlasetti": {
+      "bio": "University Master Degree in Statistics I worked as Application and System Engineer in the International SW Development Lab of IBM in Italy. I was Professor of Relational Database Design at the University La Sapienza of Rome. I am founder and co-owner of Information Design, an IT Consulting Company. I worked as temporary manager (IT and Finance) in the Daimler (Mercedes) Outsourcing Company; I took part in international task forces for defining valuation and transfer strategies of all the assets of big data centers (IBM Mainframes). I have been working in International Software Projects and I have a Big experience in Databases and Data/System Integration. I am a Google Expert Cloud  and I got several certifications: AWS Solutions Architect Associate GOOGLE CLOUD Associate Engineer GOOGLE CLOUD Professional Data Engineer GOOGLE CLOUD Professional Cloud Architect ORACLE Database Administrator Neo4j Certification. I am passionate about Machine Learning and Big Data. Since 2011, I have been Google Developer Group GDG ROMA Founder and Leader. I have always supervised the technical aspects of all activities. We organize any kind of events, from the big ones (600 people) to Labs and long-term training programs. I like to enlist special kinds of events: Several Treasure Hunts with Android apps A GDG rail car Lab traveling to Droidcon A Cloud event for about 350 people in the Mercedes Benz Congress Center with the chance to take a ride with fast and powerful Mercedes cars An I/O extended with kids playing tech in the garden and the training activities: Android Web mobile Development ML Angular Cloud DialogFlow/Action on Google. I organize very active sessions, without long boring lectures. With our help, many people managed to improve their professional life, to get a better job, and to gain more self-confidence and motivation. I am really proud of it and I am grateful to Google for giving me this opportunity.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Rome, Italy",
+      "name": "Antonella Blasetti",
+      "order": 2,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FAntonella_Blasetti.jpg?alt=media&token=f6280a04-6997-4bba-ae6b-09cd1c56fc66",
+      "shortBio": "IT Manager Information Design - Google Developer Expert Cloud - AWS e GCP Cloud Certified - Leader Google Developer Group Roma",
+      "title": "IT Manager Information Design - Google Developer Expert Cloud - AWS e GCP Cloud Certified - Leader Google Developer Group Roma",
+      "badges": [
+        {
+          "description": "Google Developers Group Roma",
+          "link": "https://www.meetup.com/GDG-Roma/",
+          "name": "gdg"
+        },
+        {
+          "description": "Google Developers Expert - Cloud",
+          "link": "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-antonella_blasetti",
+          "name": "gde"
+        }
+      ]
+    },
+    "RihannaKedir": {
+      "bio": "Rihanna is a passionate software engineer, maker and new tech enthusiast. She is Google Developer Expert  in Web Technologies. She strongly believes in the importance of sharing knowledge and experience and that is why in her spare time she does volunteering as mentor and speaker in various communities and events. As co-leader of GDG Rome  and Women TechMakers Ambassador, she participates not only in organizing different kinds of events but also in preparing various types of technical and non technical contents and speaks.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Rome, Italy",
+      "name": "Rihanna Kedir",
+      "order": 3,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FRihanna_Kedir.jpg?alt=media&token=b8af8c52-74d4-4852-99de-996f2f48df7b",
+      "shortBio": "GDE web technologies",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/rihanna_ke",
+          "name": "Twitter"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Group Roma",
+          "link": "https://www.meetup.com/GDG-Roma",
+          "name": "gdg"
+        },
+        {
+          "description": "Google Developers Expert - Web Technologies",
+          "link": "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-rihanna_kedir_ibrahim",
+          "name": "gde"
+        },
+        {
+          "description": "WTM Ambassador",
+          "link": "https://www.womentechmakers.com/ambassadors/rihanna-kedir",
+          "name": "wtm"
+        }
+      ],
+      "title": "GDE web technologies"
+    },
+    "EliaMaracani": {
+      "bio": "I'm an Italian guy with a passion for Security, Programming, Technology, and Science in general. \nAfter graduating from a master degree in Computer Science in Milan Bicocca cum laude, I joined the Cisco program called CSAP working for one year in Amsterdam. I moved back to Italy in mid-2019 and I'm now working as a Technical Solutions Specialist for Cisco in Milan.",
+      "company": "Cisco",
+      "companyLogoUrl": "",
+      "country": "Bergamo, Italy",
+      "name": "Elia Maracani",
+      "order": 4,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FElia_Maracani.jpg?alt=media&token=b6894486-65e8-4416-ab4d-f66f8c484ed6",
+      "shortBio": "Technical Solutions Specialist, Cisco",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/parkein3",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Technical Solutions Specialist, Cisco"
+    },
+    "VasudevMaduri": {
+      "bio": "I am Vasudev Maduri, an analytics engineer working at Hitachi Consulting. A machine learning developer by profession. My past works are related to IoT on Google Cloud, Deep Learning with TensorFlow and Cloud Infrastructure management. Currently, am working on a solution for manufacturing industry shop floor automation.\n\nBeing a data enthusiast, I learn a lot from the data community and share my experiences & knowledge through my blog, Linkedin etc..\nMy research areas include predictive analytics, video analytics, and my research work has been published in the \"procedia computer science\" journal.\n",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "",
+      "name": "Vasudev Maduri",
+      "order": 5,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FVasudev_Maduri.jpeg?alt=media&token=4110311a-1cc4-40f2-af27-d8a32a1fc7cc",
+      "shortBio": "Technology Enthusiasit, Machine Learning developer",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/devmaduri",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/vasudevmaduri/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "http://deva4u.wordpress.com/",
+          "name": "Blog"
+        }
+      ],
+      "title": "Technology Enthusiasit, Machine Learning developer"
+    },
+    "MichelMurabito": {
+      "bio": "Attualmente ricopre la carica di Deputy Chief Technical Officer in Liscor S.p.A, classe 1986 nato a Torino e cresciuto in Sicilia, inizia a scrivere software per gioco a 12 anni. Primo lavoro a 18 anni come Sviluppatore Software, da l\u00ec inizia ad esplorare vari contesti e nuove opportunit\u00e0 di crescita professionale. \nLavora come dipendente e come libero professionista collaborando ad alcuni progetti tecnologici per la Regione Siciliana e il MiBACT. Contribuisce alla creazione di numerose startup digital e di prodotti innovativi per grossi clienti internazionali. Tra il 2015 e il 2017 si occupa di relazioni con gli sviluppatori, nel team di Developer Relations per una grossa multinazionale Americana. Tra le pi\u00f9 grandi passioni quella di raccontare le nuove tecnologie e come gli sviluppatori possono aiutare a creare prodotti migliori; Tra 2017 e il 2019 ha partecipato come speaker a 80 eventi e conferenze in Italia ed Europa.\n\n",
+      "company": "Liscor S.p.A.",
+      "companyLogoUrl": "",
+      "country": "Milano, Italy",
+      "name": "Michel Murabito",
+      "order": 6,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FMichel_Murabito.jpg?alt=media&token=03d8210a-a400-42f5-89f6-bd165643e0bf",
+      "shortBio": "Deputy CTO @Liscor (@Lutech Group)",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/michelmurabito",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/michel-murabito-b5568845",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "medium",
+          "link": "https://medium.com/@mich.murabito/",
+          "name": "Blog"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Group Milano",
+          "link": "https://www.meetup.com/GDG-Milano",
+          "name": "gdg"
+        }
+      ],
+      "title": "Deputy CTO @Liscor (@Lutech Group)"
+    },
+    "DianaBernabei": {
+      "bio": "Studentessa di Informatica presso l'universit\u00e0 di Pisa. Manager del GDG Pisa e WTM ambassador. Sono una sviluppatrice web front-end e amante del coding e della grafica. Nel tempo libero mi piace tenermi aggiornata su design, personal growth e public speaking.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Pisa, Italy",
+      "name": "Diana Bernabei",
+      "order": 7,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FDiana_Bernabei.png?alt=media&token=2fde5c26-1210-4846-8eb6-69e940440683",
+      "shortBio": "WTM ambassador, GDG Pisa manager, CS student",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/dianabernabei",
+          "name": "Twitter"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Group Pisa",
+          "link": "https://www.meetup.com/GDG-Pisa",
+          "name": "gdg"
+        },
+        {
+          "description": "WTM Ambassador",
+          "link": "https://www.womentechmakers.com/ambassadors/diana-bernabei",
+          "name": "wtm"
+        }
+      ],
+      "title": "WTM ambassador, GDG Pisa manager, CS student"
+    },
+    "ElenaCanovi": {
+      "bio": "Physicist by training, happy remote worker, I switched to software development in 2017 and since then I have designed, developed and deployed backend software in cloud architectures.\nBesides work, I\u2019m an avid reader, I\u2019m very interested in science and tech communication and in the promotion of diversity in STEM.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "L'Aquila, Italy",
+      "name": "Elena Canovi",
+      "order": 8,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2Felena_canovi.jpg?alt=media&token=b671f48e-c1d7-473e-8d9b-447b51a60d61",
+      "shortBio": ".",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/elenacanovi",
+          "name": "Twitter"
+        }
+      ],
+      "title": "."
+    },
+    "StefanoDAlessandro": {
+      "bio": "Laurea in Informatica, Master in Web Technology, lavora nel mondo IT da ormai 10 anni prima come Developer e poi come Project Manager. Dal 2016 \u00e8 un Imprenditore Digitale, CEO e Co-Founder di Suredi azienda che nasce con l'obiettivo di progettare e sviluppare prodotti digitali memorabili ;) Stefano \u00e8 inoltre Co-Founder della Community pescarese Lean Startup Lab che si occupa di far incontrare talenti (Sognatori, Innovatori, Marketers, Sviluppatori, Designer, Imprenditori) e diffondere la metodologia Lean Startup, utile per chi vuole sviluppare un'idea e trasformarla in business evitando sprechi di risorse.\nLe sue 3 parole preferite: \"SI PUO' FARE!\" Ma che cosa si pu\u00f2 fare? Beh, crearsi il proprio spazio nel mondo, raccontare la propria storia, sfruttare le proprie passioni ed ambizioni, con curiosit\u00e0, fame e voglia di fare...cercando di contribuire, con il proprio fare, a rendere il mondo un posto migliore. ",
+      "company": "Suredi",
+      "companyLogoUrl": "",
+      "country": "Pescara, Italy",
+      "name": "Stefano D'Alessandro",
+      "order": 9,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2Fstefano_dalessandro.jpg?alt=media&token=cdcef278-f753-4389-aabb-6e8b3ed7be60",
+      "shortBio": "CEO & Co-Founder @ Suredi",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/stefanodalex",
+          "name": "Twitter"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Group Pescara",
+          "link": "https://www.meetup.com/GDG-Pescara",
+          "name": "gdg"
+        }
+      ],
+      "title": "CEO & Co-Founder @ Suredi"
+    },
+    "GianMarcoDiFrancesco": {
+      "bio": "Dopo essermi avvicinato per hobby al mondo della programmazione mobile ho iniziato il corso di Informatica Applicata dell'Universit\u00e0 di Urbino. Laureato da poco, sviluppo mobile presso Digit Srl (Startup e spinoff universitario) utilizzando Flutter come framework principale. ",
+      "company": "Digit Srl",
+      "companyLogoUrl": "",
+      "country": "Urbino, Italy",
+      "name": "Gian Marco Di Francesco",
+      "order": 10,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FGian_Marco_Di_Francesco.png?alt=media&token=9d45260f-2fb1-4ede-a78e-d34b7a25568a",
+      "shortBio": "Sviluppatore mobile presso Digit Srl",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/DiFraGM",
+          "name": "Twitter"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Group Urbino",
+          "link": "https://www.meetup.com/GDG-Urbino",
+          "name": "gdg"
+        }
+      ],
+      "title": "Sviluppatore mobile presso Digit Srl"
+    },
+    "MichelantonioTrizio": {
+      "bio": "Engineer & Entrepreneur. I took master degree in computer Engineering with thesis in Artificial Intelligence at Polytechnic University of Bari in 2007. I worked for several years in ICT companies in the south of Italy as developer. I attended the Mind The Bridge startup school in San Francisco in 2011. Back in Italy I started working on my own companies. I'm the founder of GDG Bari and he is the current community lead. Now, I'm the CTO of Wideverse, a spin-off of Polytechnic University of Bari that works on VR and AR technologies. I'm an Android developer.",
+      "company": "Wideverse",
+      "companyLogoUrl": "",
+      "country": "Bari, Italy",
+      "name": "Michelantonio Trizio",
+      "order": 11,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FMichelantonio_Trizio.jpg?alt=media&token=256b7f1f-528b-4809-a966-77395928cf72",
+      "shortBio": "CTO @ Wideverse",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/mik3lantoni0",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/michelantoniotrizio/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "http://nerdipity.org/",
+          "name": "Blog"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Group Bari",
+          "link": "https://www.meetup.com/GDG-Bari",
+          "name": "gdg"
+        }
+      ],
+      "title": "CTO @ Wideverse"
+    },
+    "NicolaGuglielmi": {
+      "bio": "I started my first computer at 10 and I never stopped researching and learning each single day from then.\nI\u2019m a technology enthusiast, not meaning only the IT ones but every product of the mind that extends human abilities to solve a problem.\nI love solve problems, I can safely say that is what I'm doing since I started to work, and perhaps before.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Campobasso, Italy",
+      "name": "Nicola Guglielmi",
+      "order": 12,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FNicola_Guglielmi.jpg?alt=media&token=fca3b42d-996d-4c93-a5dc-3af70ce12fa8",
+      "shortBio": "GEOTEC SPA, Innovation Manager",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/nicola-guglielmi/",
+          "name": "LinkedIn"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Group Campobasso",
+          "link": "https://www.meetup.com/GDG-Campobasso",
+          "name": "gdg"
+        }
+      ],
+      "title": "GEOTEC SPA, Innovation Manager"
+    },
+    "PaoloMelchiorre": {
+      "bio": "I\u2019m a Python developer who contributes to the Django project and gives talks at tech conferences.\n\nI\u2019ve been a GNU/Linux user since 2000 and I use and promote Free Software.\n\nI have a degree in Computer Science and currently I work remotely, in Pescara (Italy), for 20tab.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Pescara, Italy",
+      "name": "Paolo Melchiorre",
+      "order": 13,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FPaolo_Melchiorre.jpg?alt=media&token=a691d7c8-a455-4f1d-9e32-8af3cc18d82d",
+      "shortBio": "www.paulox.net",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/pauloxnet",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/paolomelchiorre/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://www.paulox.net/",
+          "name": "Blog"
+        },
+        {
+          "icon": "youtube",
+          "link": "https://youtube.com/c/PaoloMelchiorre/",
+          "name": "Youtube"
+        }
+      ],
+      "title": "www.paulox.net"
+    },
+    "DennyCasabianca": {
+      "bio": "Programmatore, idealista, innovatore. Durante i suoi studi universitari Denny ha avuto modo d'interfacciarsi con 124 nazionalit\u00e0 diverse lavorando per una no-profit internazionale.\n\nFermamente convinto che nel mondo si dovrebbero costruire ponti e non muri, Denny crede che la parola \"diversit\u00e0\" sia sinonimo di ricchezza e opportunit\u00e0.",
+      "company": "Aesys srl",
+      "companyLogoUrl": "",
+      "country": "Pescara, Italy",
+      "name": "Denny Casabianca",
+      "order": 14,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FDenny_Casabianca.jpg?alt=media&token=7d4651a7-0814-46ca-8f19-c55c7b314ac7",
+      "shortBio": "--",
+      "title": "--",
+      "badges": [
+        {
+          "description": "Google Developers Group Pescara",
+          "link": "https://www.meetup.com/GDG-Pescara/",
+          "name": "gdg"
+        }
+      ]
+    },
+    "GianlucaAmato": {
+      "bio": "Gianluca Amato, laurea in Scienze dell'Informazione e dottorato  in Informatica,  \u00e8 professore di II fascia di Logica Matematica, presso l'Unversit\u00e0 degli Studi \"G. d'Annunzio\" di Chieti-Pescara. In passato, sempre presso la stessa universit\u00e0, \u00e8 stato ricercatore in Informatica. Geek gi\u00e0 da tenera et\u00e0, scrive la sua prima pubblicazione a 13 anni per la compianta rivista \"MC Microcomputer\". Per la cronaca, l'articolo \u00e8 proprio sul reinforcement learning, la tecnica di apprendimento automatico usata in AlphaGo.",
+      "company": "Universit\u00e0 degli Studi \"G. d'Annunzio\"",
+      "companyLogoUrl": "",
+      "country": "Pescara, Italy",
+      "name": "Gianluca Amato",
+      "order": 15,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FGianluca_Amato.jpeg?alt=media&token=c26f605a-273b-4e4b-ac1e-f294f8f382fd",
+      "shortBio": "",
+      "title": ""
+    },
+    "FrancescoSciuti": {
+      "bio": "A talented and accomplished programmer extremely competent after several years of experience in enterprise programming , high skilled in web development (frontend and backend) and in team project management.\n\nI have a keen interest in new technologies and in IT development and I\u2019m always upgrading and evaluating my knowledge and skills to stay at the cutting-edge of web development.\n\nMy outstanding verbal and written communication skills let me involved in lots of meetings, workshop and courses both in Sicily and in Italy as a speaker and tech event organizer.\n\nFocused on continual professional and technological improvement: books, courses, articles, forums and regular attender of tech events where I can meet new and interesting people with which exchange as much as possible ideas and technical knowledge.\n\nI want to put myself in challenges both in the personal and professional side and this is way I\u2019m involved ,as an active contributor, in many Italian communities (Angular ,React, Javascript ,GDG, PUG, etc\u2026) and I contribute as a counselor to CoderDojo Foundation (Computational youth learning).\n\nI\u2019ve worked for a long time as a employee and then as a freelancer, but nowadays I has my own company: Acadevmy \u2013 Software Factory, founded with my friends Andrea and Salvo.",
+      "company": "Acadevmy srl",
+      "companyLogoUrl": "",
+      "country": "Catania, Italy",
+      "name": "Francesco Sciuti",
+      "order": 16,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FFrancesco_Sciuti.jpg?alt=media&token=c4ef1b57-b085-4185-bdd4-c4764947c0ca",
+      "shortBio": "CEO @ Acadevmy srl",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/FrancescoSciuti",
+          "name": "Twitter"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Group Catania",
+          "link": "https://www.meetup.com/GDG-Catania",
+          "name": "gdg"
+        }
+      ],
+      "title": "CEO @ Acadevmy srl"
+    },
+    "GregorioPalama": {
+      "bio": "Lavoro nell'industria IT da oltre 10 anni e ho esperienze in diversi settori. Attualmente, ricopro il ruolo di Project Manager e Mobile Solutions Engineer in Aesys srl. Sono costantemente alla ricerca di cose nuove da studiare e apprendere e non riesco a stare neanche un giorno senza aggiornarmi. Sono co-organizzatore del GDG Pescara assieme ad altri sviluppatori, amo condividere le mie conoscenze e cercare di farlo in maniera divertente.",
+      "company": "Aesys srl",
+      "companyLogoUrl": "",
+      "country": "Pescara, Italy",
+      "name": "Gregorio Palam\u00e0",
+      "order": 17,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FGregorio_Palama.jpg?alt=media&token=53f91e2c-6f6e-47b4-9f95-9b524338c370",
+      "shortBio": "Project Manager & Senior Mobile Developer @ Aesys / Community Manager @ GDG Pescara",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/gregoriopalama",
+          "name": "Twitter"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Group Pescara",
+          "link": "https://www.meetup.com/GDG-Pescara",
+          "name": "gdg"
+        }
+      ],
+      "title": "Project Manager & Senior Mobile Developer @ Aesys / Community Manager @ GDG Pescara"
+    },
+    "JunaSalviati": {
+      "bio": "Juna has always been curious about technology and computers so she wrote her first line of code at 10. She continued to write code and graduated as a Software Engineer. She have always been cultivating a passion for classical studies, humanities and is fascinated by communication studies and human-machine interaction.\n",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Rome, Italy",
+      "name": "Juna Salviati",
+      "order": 18,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FJuna_Salviati.png?alt=media&token=f03c6f8c-9d77-480f-bc97-88176b649d5c",
+      "shortBio": "Software Engineer",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/1littleendian",
+          "name": "Twitter"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Group Roma",
+          "link": "https://www.meetup.com/GDG-Roma/",
+          "name": "gdg"
+        }
+      ],
+      "title": "Software Engineer"
+    },
+    "LeonardoDipilato": {
+      "bio": "Aerospace Engineer by day. Tech Addict by night.\nPreacher of self-study, always on the lookout for some way to mix I.T. and Aerospace.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Pisa, Italy",
+      "name": "Leonardo Dipilato",
+      "order": 19,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FLeonardo_Dipilato.jpg?alt=media&token=3ac02f92-b374-4ba4-b671-766b27a3ba7f",
+      "shortBio": "Manager - GDG Pisa; Freelance ML Engineer",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/leonardo-dipilato-512a42167/",
+          "name": "LinkedIn"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Group Pisa",
+          "link": "https://www.meetup.com/GDG-Pisa/",
+          "name": "gdg"
+        }
+      ],
+      "title": "Manager - GDG Pisa; Freelance ML Engineer"
+    },
+    "LukaMilosevic": {
+      "bio": "Sono un giovane developer sempre pronto a scoprire nuove tecnologie e condividere la mia conoscenza con gli altri",
+      "company": "Aesys srl",
+      "companyLogoUrl": "",
+      "country": "Pescara, Italy",
+      "name": "Luka Milosevic",
+      "order": 20,
+      "photoUrl": "https://sessionize.com/image?f=57a707319cc7e6387dda697684ad9a56,200,200,True,False,7cf3c212-d5b1-469d-8148-f4b19270b894.jpg",
+      "shortBio": "Junior Front-end developer @ AESYS",
+      "badges": [
+        {
+          "description": "Google Developers Group Pescara",
+          "link": "https://www.meetup.com/GDG-Pescara/",
+          "name": "gdg"
+        }
+      ],
+      "title": "Junior Front-end developer @ AESYS"
+    },
+    "MichelangeloMorrillo": {
+      "bio": "Playing with Linux since I was 13 yo, now I'm Software Developer with a strong passion for DevOps environment.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Milano, Italy",
+      "name": "Michelangelo Morrillo",
+      "order": 21,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FMichelangelo_Morrillo.JPG?alt=media&token=5e8348f1-d4cf-43aa-9bfe-14f8fe15add5",
+      "shortBio": "Software Developer",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/michelangelo-m-075902a7",
+          "name": "LinkedIn"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Group Milano",
+          "link": "https://www.meetup.com/GDG-Milano",
+          "name": "gdg"
+        },
+        {
+          "description": "Google Developers Group Pescara",
+          "link": "https://www.meetup.com/GDG-Pescara",
+          "name": "gdg"
+        }
+      ],
+      "title": "Software Developer"
     }
   },
-  "team" : [ {
-    "members" : [ {
-      "name" : "Gregorio Palamà",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/gregorio-palama.png?alt=media&token=41865b74-feef-4cb7-8b5d-4ad82ac9e404",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/gregoriopalama",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/gregorio-palam%C3%A0/",
-        "name" : "LinkedIn"
-      } ],
-      "order" : 0,
-      "title" : "Core Organizer"
-    }, {
-      "name" : "Simone Di Nardo Di Maio",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/simone-dinardodimaio.jpg?alt=media&token=03df7ec0-076e-4462-89f6-4e638a5685a4",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/simone-di-nardo-di-maio-85b14a31/",
-        "name" : "LinkedIn"
-      } ],
-      "order" : 1,
-      "title" : "Core Organizer"
-    }, {
-      "name" : "Antonio Passarella",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/antonio-passarella.jpg?alt=media&token=7b9a3a58-a8b0-4527-b0a8-e8d11f074d9c",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/antonio-passarella-84a99163/",
-        "name" : "LinkedIn"
-      } ],
-      "order" : 2,
-      "title" : "Core Organizer"
-    }, {
-      "name" : "Francesca Scozzari",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/francesca-scozzari.jpg?alt=media&token=77c80d2b-f947-4107-bdf6-f1e3a86d77ca",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/francesca-scozzari-a46b947/",
-        "name" : "LinkedIn"
-      } ],
-      "order" : 3,
-      "title" : "Core Organizer"
-    }],
-    "title" : "Core Team"
-  } ],
-  "tickets" : [ {
-    "available" : true,
-    "currency" : "",
-    "ends" : "Oct 20",
-    "info" : "Regular RSVP",
-    "name" : "Regular",
-    "price" : "FREE",
-    "soldOut" : false,
-    "starts" : "Aug 1",
-    "url" : "https://www.meetup.com/GDG-Pescara/events/263385066/"
-  }],
-  "triggers" : {
-    "images" : false
+  "team": [
+    {
+      "members": [
+        {
+          "name": "Gregorio Palamà",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/gregorio-palama.png?alt=media&token=41865b74-feef-4cb7-8b5d-4ad82ac9e404",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/gregoriopalama",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/gregorio-palam%C3%A0/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 0,
+          "title": "Core Organizer"
+        },
+        {
+          "name": "Simone Di Nardo Di Maio",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/simone-dinardodimaio.jpg?alt=media&token=03df7ec0-076e-4462-89f6-4e638a5685a4",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/simone-di-nardo-di-maio-85b14a31/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 1,
+          "title": "Core Organizer"
+        },
+        {
+          "name": "Antonio Passarella",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/antonio-passarella.jpg?alt=media&token=7b9a3a58-a8b0-4527-b0a8-e8d11f074d9c",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/antonio-passarella-84a99163/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 2,
+          "title": "Core Organizer"
+        },
+        {
+          "name": "Francesca Scozzari",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/francesca-scozzari.jpg?alt=media&token=77c80d2b-f947-4107-bdf6-f1e3a86d77ca",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/francesca-scozzari-a46b947/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 3,
+          "title": "Core Organizer"
+        }
+      ],
+      "title": "Core Team"
+    }
+  ],
+  "tickets": [
+    {
+      "available": true,
+      "currency": "",
+      "ends": "Oct 20",
+      "info": "Regular RSVP",
+      "name": "Regular",
+      "price": "FREE",
+      "soldOut": false,
+      "starts": "Aug 1",
+      "url": "https://www.meetup.com/GDG-Pescara/events/263385066/"
+    }
+  ],
+  "triggers": {
+    "images": false
   }
 }
