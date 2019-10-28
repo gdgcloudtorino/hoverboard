@@ -1,0 +1,82 @@
+<link rel="import" href="../../bower_components/polymer/polymer-element.html">
+<link rel="import" href="../../bower_components/marked-element/marked-element.html">
+<link rel="import" href="../../bower_components/plastic-image/plastic-image.html">
+<link rel="import" href="../../bower_components/paper-icon-button/paper-icon-button.html">
+<link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
+<link rel="import" href="../elements/md-content.html">
+<link rel="import" href="../elements/map-block.html">
+
+<link rel="import" href="../mixins/redux-mixin.html">
+<link rel="import" href="../elements/shared-styles.html">
+
+<dom-module id="location-page">
+  <template>
+    <style is="custom-style" include="shared-styles flex flex-alignment"></style>
+
+    <style>
+
+      :host  {
+        display: block;
+      }
+
+      .description-wrapper {
+          background-color: var(--secondary-background-color);
+          width: 100%;
+          overflow: hidden;
+      }
+
+    </style>
+
+    <polymer-helmet
+      title="{$ heroSettings.locationPage.title $} | {$ title $}"
+      description="{$ heroSettings.locationPage.metaDescription $}"
+      active="[[active]]"
+    ></polymer-helmet>
+
+    <hero-block
+      background-image="{$ heroSettings.locationPage.background.image $}"
+      background-color="{$ heroSettings.locationPage.background.color $}"
+      font-color="{$ heroSettings.locationPage.fontColor $}"
+      active="[[active]]"
+    >
+      <div class="hero-title highlight-font">{$ heroSettings.locationPage.title $}</div>
+      <p class="hero-description">{$ heroSettings.locationPage.description $}</p>
+    </hero-block>
+
+    <!-- <div class="description-wrapper">
+      <div class="container" layout horizontal justified>
+        <marked-element class="description" markdown="{$ locationPage.description $}">
+          <div slot="markdown-html"></div>
+        </marked-element>
+      </div>
+    </div> -->
+
+    <md-content md-source="[[source]]"></md-content>
+    <map-block></map-block>
+
+    <footer-block></footer-block>
+  </template>
+
+  <script>
+
+    // eslint-disable-next-line no-undef
+    class Location extends Polymer.Element {
+      static get is() {
+        return 'location-page';
+      }
+
+      static get properties() {
+        return {
+          active: Boolean,
+          source: {
+            type: String,
+            value: '{$ locationSource $}',
+          },
+        };
+      }
+    }
+
+    window.customElements.define(Location.is, Location);
+  </script>
+</dom-module>
+

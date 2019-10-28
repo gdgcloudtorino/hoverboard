@@ -164,6 +164,7 @@
       _renderContent() {
         const heads = this.shadowRoot.querySelectorAll('.markdown-text h3');
         const contentDom = this.shadowRoot.querySelector('.content');
+        const allLinks = this.shadowRoot.querySelectorAll('a');
         let lastHeadElement;
 
         for (let i = 0; i < heads.length; i++) {
@@ -193,8 +194,40 @@
           heads[i].addEventListener('click', this._changeUrl);
         }
 
+        for (let j = 0; j < allLinks.length; j++) {
+          const {shouldOpenInBlankTarget, newLink} = this._parseLinkForTargetBlank(allLinks[j].href);
+          
+          if (shouldOpenInBlankTarget) {
+            allLinks[j].target = "_blank";
+            allLinks[j].href = newLink;
+          }
+        }
+
         const contentWrapper = this.shadowRoot.querySelector('.content-wrapper');
         contentWrapper.classList.add('visible');
+      }
+
+      _parseLinkForTargetBlank(link) {
+        if (link.indexOf('?') < 0)
+          return {shouldOpenInBlankTarget: false};
+        
+        let shouldOpenInBlankTarget = false;
+        
+        let queryStringParams = link.substring(link.indexOf('?')+1).split('&');
+        let returnQueryStringParams = [];
+        for (let i = 0; i < queryStringParams.length; i ++) {
+          if (queryStringParams[i] != 'target=_blank') {
+            returnQueryStringParams.push(queryStringParams[i]);
+          } else {
+            shouldOpenInBlankTarget = true;
+          }
+        }
+
+        let returnLink = link.substr(0, link.indexOf('?'))
+        if (returnQueryStringParams.length > 1) {
+          returnLink = returnLink.concat('?').concat(returnQueryStringParams.join('&'));
+        }
+        return {shouldOpenInBlankTarget: shouldOpenInBlankTarget, newLink: returnLink};
       }
 
       _scrollToChapter(e) {

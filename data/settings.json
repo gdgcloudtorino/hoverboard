@@ -30,6 +30,11 @@
       "label": "Team"
     },
     {
+      "route": "location",
+      "permalink": "/location/",
+      "label": "Location"
+    },
+    {
       "route": "blog",
       "permalink": "/blog/",
       "label": "Blog"
@@ -77,6 +82,15 @@
     "schedule": {
       "title": "Schedule",
       "metaDescription": "Choose your sessions to visit",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "locationPage": {
+      "title": "Location",
+      "metaDescription": "Please find directions and address of the venue on this page",
+      "description": "Please find directions and address of the venue on this page",
       "background": {
         "color": "#fff"
       },
