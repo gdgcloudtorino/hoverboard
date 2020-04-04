@@ -71,7 +71,7 @@ class AboutBlock extends ReduxMixin(PolymerElement) {
         <div>
           <h1 class="container-title">{$ aboutBlock.title $}</h1>
           <p>{$ aboutBlock.callToAction.featuredSessions.description $}</p>
-          <a
+          <!--<a
             href="{$ aboutBlock.callToAction.featuredSessions.link $}"
             ga-on="click"
             ga-event-category="video"
@@ -83,10 +83,10 @@ class AboutBlock extends ReduxMixin(PolymerElement) {
               <span class="cta-label">{$ aboutBlock.callToAction.featuredSessions.label $}</span>
               <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
             </paper-button>
-          </a>
+          </a>-->
 
-          <p>{$ aboutBlock.callToAction.howItWas.description $}</p>
-          <paper-button
+          <!--<p>{$ aboutBlock.callToAction.howItWas.description $}</p>-->
+          <!--<paper-button
             class="animated icon-right"
             on-tap="_playVideo"
             ga-on="click"
@@ -95,7 +95,7 @@ class AboutBlock extends ReduxMixin(PolymerElement) {
             ga-event-label="about block - {$ aboutBlock.callToAction.howItWas.label $}">
             <span>{$  aboutBlock.callToAction.howItWas.label $}</span>
             <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
-          </paper-button>
+          </paper-button>-->
         </div>
 
         <div class="statistics-block">

@@ -27,7 +27,7 @@ class HeroBlock extends PolymerElement {
       }
 
       .hero-overlay[show] {
-        opacity: 1;
+        opacity: 0.8;
       }
 
       .hero-image {
