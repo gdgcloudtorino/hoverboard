@@ -1,12 +1,12 @@
 {
   "organizer": {
-    "name": "GDG Pescara",
+    "name": "GDG Italia",
     "twitter": "gdgpescara",
     "blog": "https://devfest.gdgpescara.it/blog",
     "url": "http://gdgpescara.it/"
   },
-  "startDate": "2019-11-02T09:08:30+01:00",
-  "endDate": "2019-11-03T19:19:00+01:00",
+  "startDate": "2020-04-25T09:08:30+01:00",
+  "endDate": "2020-04-26T19:19:00+01:00",
   "webapp": {
     "shortName": "DevFest",
     "themeColor": "#673AB7",
@@ -15,7 +15,7 @@
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest19",
+  "hashtag": "DevFestTogheter",
   "disabledSchedule": false,
   "navigation": [
     {
