@@ -36,7 +36,7 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Pescara",
+          "name": "GDG Italia",
           "url": "http://gdgpescara.it/",
           "newTab": true
         },
@@ -62,7 +62,7 @@
       "links": [
         {
           "name": "Call for Papers",
-          "url": "https://sessionize.com/gdg-devfest-pescara-2019/",
+          "url": "https://sessionize.com/devfest-together/",
           "newTab": true
         },
         {
@@ -87,7 +87,7 @@
     "title": "About",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Pescara brings together the world class experts in Android, Web, Cloud, Machine Learning technologies to Pescara for 2 days of sessions, workshops and showcases."
+        "description": "GDG DevFest Togheter brings together the world class experts in Android, Web, Cloud, Machine Learning technologies to Pescara for 2 days of sessions, workshops and showcases."
       }
     },
     "statisticsBlock": {
