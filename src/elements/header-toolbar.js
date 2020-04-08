@@ -151,7 +151,7 @@ class HeaderToolbar extends ReduxMixin(PolymerElement) {
 
         <paper-tab class="signin-tab" on-tap="signIn" link hidden$="[[user.signedIn]]">{$ signIn $}</paper-tab>
 
-        <a
+        <!--<a
           href$="[[_getTicketUrl(tickets)]]"
           target="_blank"
           rel="noopener noreferrer"
@@ -159,7 +159,7 @@ class HeaderToolbar extends ReduxMixin(PolymerElement) {
           ga-event-category="ticket button"
           ga-event-action="buy_click">
           <paper-button class="buy-button" primary>{$ buyTicket $}</paper-button>
-        </a>
+        </a> -->
       </paper-tabs>
 
       <paper-menu-button
