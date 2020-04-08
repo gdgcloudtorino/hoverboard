@@ -1,16 +1,17 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-dev.firebaseapp.com/",
+  "url": "https://devfest-together-3f484.web.app/",
   "analytics": "UA-43643469-8",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyBu9LI-hY4NfUOPJJKuV3BfQm7edLr2-aE",
-    "appId": "1:1083195713896:web:9aed8296d8d642cb",
-    "authDomain": "hoverboard-dev.firebaseapp.com",
-    "databaseURL": "https://hoverboard-dev.firebaseio.com",
-    "messagingSenderId": "1083195713896",
-    "projectId": "hoverboard-dev",
-    "storageBucket": "hoverboard-dev.appspot.com"
+    "apiKey": "AIzaSyBFCe5VpnVwe2iBOUt_Ipta_zzQ1AFtBlk",
+    "authDomain": "devfest-together-3f484.firebaseapp.com",
+    "databaseURL": "https://devfest-together-3f484.firebaseio.com",
+    "projectId": "devfest-together-3f484",
+    "storageBucket": "devfest-together-3f484.appspot.com",
+    "messagingSenderId": "232756250168",
+    "appId": "1:232756250168:web:50a923a8dc6d8875de08cd",
+    "measurementId": "G-KQ1TS993PQ"
   },
   "googleMapApiKey": "AIzaSyBu9LI-hY4NfUOPJJKuV3BfQm7edLr2-aE"
 }
