@@ -3,7 +3,7 @@
   "description": "Be a hero. Be a GDG!",
   "image": "images/social-share.jpg",
   "keywords": "devfest togheter, event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "November 02-03, 2019",
+  "dates": "April 25-26, 2020",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
@@ -23,7 +23,6 @@
   "time": "Time",
   "faq": "/data/faq.md",
   "coc": "/data/coc.md",
-  "locationSource": "/data/location.md",
   "footer": {
     "blog": "Blog"
   },
@@ -87,7 +86,7 @@
     "title": "About",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Togheter brings together the world class experts in Android, Web, Cloud, Machine Learning technologies to Pescara for 2 days of sessions, workshops and showcases."
+        "description": "GDG DevFest Togheter brings together the world class experts in Android, Web, Cloud, Machine Learning technologies for 2 days of sessions, workshops and showcases."
       }
     },
     "statisticsBlock": {

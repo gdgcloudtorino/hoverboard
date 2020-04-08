@@ -28,11 +28,7 @@
       "permalink": "/team/",
       "label": "Team"
     },
-    {
-      "route": "location",
-      "permalink": "/location/",
-      "label": "Location"
-    },
+    
     {
       "route": "blog",
       "permalink": "/blog/",
@@ -121,11 +117,11 @@
     }
   },
   "location": {
-    "label": "Location",
-    "name": "Aurum",
-    "city": "Pescara",
-    "short": "Pescara, Italy",
-    "address": "Largo Gardone Riviera, Pescara, Italy",
+    "label": "",
+    "name": "",
+    "city": "Youtube(?)",
+    "short": "",
+    "address": "",
     "pointer": {
       "latitude": 42.4539319,
       "longitude": 14.2357789,
@@ -135,7 +131,7 @@
       "latitude": 44,
       "longitude": 10
     },
-    "description": "The Aurum is a historic building in Pescara, once the site of the Aurum liqueur-producing distillery."
+    "description": ""
   },
   "mediaQueries": {
     "xs": {
