@@ -35,11 +35,6 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Italia",
-          "url": "http://gdgpescara.it/",
-          "newTab": true
-        },
-        {
           "name": "GDG",
           "url": "https://developers.google.com/groups/",
           "newTab": true
@@ -51,7 +46,7 @@
         },
         {
           "name": "Meet the Team",
-          "url": "https://gdgpescara.it/team",
+          "url": "/team",
           "newTab": true
         }
       ]
@@ -91,20 +86,20 @@
     },
     "statisticsBlock": {
       "attendees": {
-        "label": "Attendees",
-        "number": "250+"
+        "label": "Partecipanti",
+        "number": "100+"
       },
       "days": {
-        "label": "Days",
+        "label": "Giorni",
         "number": "2"
       },
       "sessions": {
-        "label": "Sessions",
-        "number": "30+"
+        "label": "Sessioni",
+        "number": "20+"
       },
       "tracks": {
-        "label": "Tracks",
-        "number": "3"
+        "label": "Track",
+        "number": "6"
       }
     }
   },
@@ -165,8 +160,8 @@
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "Get notified about the important conference updates",
-      "label": "Follow us on Facebook"
+      "description": "Ricevi gli aggiornamenti più importanti sull'evento",
+      "label": "Attiva le notifiche"
     },
     "yourEmail": "Your email",
     "emailAddress": "Email Address",

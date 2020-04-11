@@ -3,7 +3,7 @@
     "name": "GDG Italia",
     "twitter": "gdgpescara",
     "blog": "https://devfest.gdgpescara.it/blog",
-    "url": "http://gdgpescara.it/"
+    "url": "https://developers.google.com/groups/"
   },
   "startDate": "2020-04-25T09:08:30+01:00",
   "endDate": "2020-04-26T19:19:00+01:00",
@@ -153,10 +153,6 @@
     "facebook": "https://www.facebook.com/gdgpescara/",
     "follow": [
       {
-        "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Pescara/events/263385066/"
-      },
-      {
         "name": "facebook",
         "url": "https://www.facebook.com/gdgpescara/"
       },
@@ -167,10 +163,6 @@
       {
         "name": "instagram",
         "url": "https://www.instagram.com/gdgpescara"
-      },
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCfXVmVIO1q72WyEJKn2FOXQ"
       }
     ],
     "share": [
@@ -183,11 +175,6 @@
         "url": "https://twitter.com/intent/tweet?text="
       }
     ]
-  },
-  "mailto": "info@gdgpescara.it",
-  "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
   "signInProviders": {
     "providersData": [
