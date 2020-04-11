@@ -8,14 +8,14 @@
   "startDate": "2020-04-25T09:08:30+01:00",
   "endDate": "2020-04-26T19:19:00+01:00",
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "DevParty",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFestTogheter",
+  "hashtag": "DevPartyTogheter",
   "disabledSchedule": false,
   "navigation": [
     {
