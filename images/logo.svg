@@ -6,12 +6,17 @@
 	.st0{fill:#FFFFFF;}
 	.st1{font-family:"Roboto", sans-serif;}
 	.st2{font-size:60px;}
-	.st3{letter-spacing:3px;}
+	.st3{letter-spacing:1px;}
 	.st8{letter-spacing:25px;}
 	.st4{fill:#EA4335;}
 	.st5{fill:#4285F4;}
 	.st6{fill:#FBBC04;}
 	.st7{fill:#0F9D58;}
+	@media only screen
+		and (min-device-width: 320px)
+		and (max-device-width: 812px)  {
+		.st3{letter-spacing:5px;}
+	}
 </style>
 <g id="Livello_3">
 	<text transform="matrix(1 0 0 1 305.1976 59.1753)"><tspan x="0" y="0" class="st0 st1 st2 st3">GDG DevParty </tspan><tspan x="0" y="60" class="st0 st1 st2 st8">Together</tspan></text>
