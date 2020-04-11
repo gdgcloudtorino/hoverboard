@@ -219,21 +219,21 @@
     }
   },
   "aboutOrganizerBlock": {
-    "image": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/highlights%2Fdf5.jpg?alt=media&token=72a57467-a08a-46c0-8ba2-4ab18bdfa0a4",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgdg-italia.jpg?alt=media&token=fd872e9f-ad55-4412-a580-e1454954c884",
     "blocks": [
       {
         "title": "Organizer",
         "description": "GDG Italia...",
         "callToAction": {
-          "label": "Open team page",
+          "label": "Apri la pagina del Team",
           "link": "/team"
         }
       },
       {
-        "title": "What is a GDG?",
-        "description": "A Google Developer Group is a community of volunteers who create exciting projects and share experiences about Google technologies.",
+        "title": "Cosa è un GDG?",
+        "description": "Un Google Developer Group è una community fatta da volontari, che creano progetti entusiasmanti e condividono esperienze sulle tecnologie Google.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Leggi i dettagli",
           "link": "https://developers.google.com/groups/",
           "newTab": true
         }
