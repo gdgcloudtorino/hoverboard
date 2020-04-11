@@ -128,6 +128,24 @@ class HomePage extends ScrollFunctions(ReduxMixin(PolymerElement)) {
           line-height: 1.1;
         }
       }
+
+      .hero-logo-desktop {
+        display: inline;
+      }
+      .hero-logo-mobile {
+        display: none;
+      }
+
+      @media only screen
+        and (min-device-width: 320px)
+        and (max-device-width: 812px)  {
+        .hero-logo-desktop {
+          display: none;
+        }
+        .hero-logo-mobile {
+          display: inline;
+        }
+      }
     </style>
 
     <polymer-helmet active="[[active]]"></polymer-helmet>
@@ -140,7 +158,8 @@ class HomePage extends ScrollFunctions(ReduxMixin(PolymerElement)) {
       active="[[active]]"
       hide-logo>
       <div class="home-content" layout vertical center>
-        <plastic-image class="hero-logo" srcset="/images/logo.svg" alt="{$ title $}"></plastic-image>
+        <plastic-image class="hero-logo hero-logo-desktop" srcset="/images/logo.svg" alt="{$ title $}"></plastic-image>
+        <plastic-image class="hero-logo hero-logo-mobile" srcset="/images/logo-mobile.svg" alt="{$ title $}"></plastic-image>
         <div class="info-items">
           <div class="info-item">{$ location.city $}. {$ dates $}</div>
           <div class="info-item">{$ heroSettings.home.description $}</div>

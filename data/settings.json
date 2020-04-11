@@ -154,15 +154,15 @@
     "follow": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/gdgpescara/"
+        "url": "https://www.facebook.com/search/top/?q=%23GDGDevParty&epa=SEARCH_BOX"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/gdgpescara/"
+        "url": "https://twitter.com/search?q=%23GDGDevParty&src=typed_query"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/gdgpescara"
+        "url": "https://www.instagram.com/explore/tags/GDGDevParty/?hl=it"
       }
     ],
     "share": [
