@@ -1638,6 +1638,30 @@
           ],
           "order": 10,
           "title": "Infrastruttura"
+        },
+        {
+          "name": "Alessio Rizzolo",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FAlessioRizzolo.jpg?alt=media&token=886c6199-39ed-42a1-8a3d-d2abf1a09aee",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/rizzolessio/",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/rizzolessio",
+              "name": "Twitter"
+            },
+            {
+              "icon": "instagram",
+              "link": "https://www.instagram.com/rizzolessio/",
+              "name": "Instagram"
+            }
+          ],
+          "order": 11,
+          "gdg": "GDG Torino",
+          "title": "Comunicazione"
         }
       ],
       "title": "Core Team"
