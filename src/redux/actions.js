@@ -653,7 +653,8 @@ const _getTeamMembers = (teamId) => firebase.firestore()
     .get()
     .then((snaps) => snaps.docs
         .map((snap) => Object.assign({}, snap.data(), { id: snap.id })),
-    );
+    )
+    .then((members) =>  shuffle(members));
 
 export const teamActions = {
   fetchTeam: () => (dispatch) => {
@@ -1009,3 +1010,10 @@ export const helperActions = {
   },
 };
 
+const shuffle = function (a) {
+  for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+};

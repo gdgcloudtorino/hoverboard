@@ -144,6 +144,7 @@ class TeamPage extends ReduxMixin(PolymerElement) {
 
               <div class="member-details" layout vertical center-justified start>
                 <h2 class="name">[[member.name]]</h2>
+                <div class="activity">[[member.gdg]]</div>
                 <div class="activity">[[member.title]]</div>
                 <div class="contacts">
                   <template is="dom-repeat" items="[[member.socials]]" as="social">

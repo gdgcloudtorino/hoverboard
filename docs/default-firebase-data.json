@@ -1393,7 +1393,8 @@
       "members": [
         {
           "name": "Gregorio Palamà",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/gregorio-palama.png?alt=media&token=41865b74-feef-4cb7-8b5d-4ad82ac9e404",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FGregorioPalama.png?alt=media&token=e3a79ce0-22c3-416b-a880-dca17b98455a",
+          "gdg": "GDG Pescara",
           "socials": [
             {
               "icon": "twitter",
@@ -1407,46 +1408,236 @@
             }
           ],
           "order": 0,
-          "title": "Core Organizer"
+          "title": "Coordinamento"
         },
         {
-          "name": "Simone Di Nardo Di Maio",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/simone-dinardodimaio.jpg?alt=media&token=03df7ec0-076e-4462-89f6-4e638a5685a4",
+          "name": "Francesco Pirrone",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FFrancescoPirrone.jpg?alt=media&token=47f33280-2536-4aff-9d25-80c7b0eb54c0",
+          "gdg": "GDG Cloud Torino",
           "socials": [
             {
+              "icon": "twitter",
+              "link": "https://twitter.com/cfrancescop",
+              "name": "Twitter"
+            },
+            {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/simone-di-nardo-di-maio-85b14a31/",
+              "link": "https://www.linkedin.com/in/francesco-pirrone-5b3641116/",
               "name": "LinkedIn"
             }
           ],
           "order": 1,
-          "title": "Core Organizer"
+          "title": "Infrastruttura"
         },
         {
-          "name": "Antonio Passarella",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/antonio-passarella.jpg?alt=media&token=7b9a3a58-a8b0-4527-b0a8-e8d11f074d9c",
+          "name": "Gianni Forlastro",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FGianniForlastro.png?alt=media&token=67ede0e7-b744-47ce-8ae2-3c3bdc8b6aa9",
+          "gdg": "GDG Cloud Torino",
           "socials": [
             {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/gianni.forlastro",
+              "name": "Facebook"
+            },
+            {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/antonio-passarella-84a99163/",
+              "link": "https://www.linkedin.com/in/giovanni-forlastro/",
               "name": "LinkedIn"
+            },
+            {
+              "icon": "instagram",
+              "link": "https://www.instagram.com/mosquitoman81/",
+              "name": "Instagram"
             }
           ],
           "order": 2,
-          "title": "Core Organizer"
+          "title": "Contenuti"
         },
         {
-          "name": "Francesca Scozzari",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/francesca-scozzari.jpg?alt=media&token=77c80d2b-f947-4107-bdf6-f1e3a86d77ca",
+          "name": "Leonardo Dipilato",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FLeonardoDipilato.jpg?alt=media&token=94a7f8a1-4a17-4d84-b87d-1af1036bf23f",
+          "gdg": "GDG Pisa",
           "socials": [
             {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/leonardo.dipilato.3/",
+              "name": "Facebook"
+            },
+            {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/francesca-scozzari-a46b947/",
+              "link": "https://www.linkedin.com/in/leonardo-dipilato-512a42167/",
               "name": "LinkedIn"
+            },
+            {
+              "icon": "medium",
+              "link": "https://medium.com/@leonardipilato",
+              "name": "Medium"
             }
           ],
           "order": 3,
-          "title": "Core Organizer"
+          "title": "Contenuti"
+        },
+        {
+          "name": "Stefano Tomasi",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FStefanoTomasi.png?alt=media&token=2bb61888-ae19-4396-820f-e07f9d9d7715",
+          "gdg": "GDG Trento",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/GDGTrento//",
+              "name": "Facebook"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://it.linkedin.com/in/stefanotomasi-web",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 4,
+          "title": "Comunicazione"
+        },
+        {
+          "name": "Mattia Piccirillo",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FMattiaPiccirillo.jpg?alt=media&token=35b4f067-a933-40f6-8b46-0e997ace43fc",
+          "gdg": "GDG Firenze",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/mattiapiccirillo.google/",
+              "name": "Facebook"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/mattiapiccirillo/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "instagram",
+              "link": "https://www.instagram.com/mattiapiccirillo14/",
+              "name": "Instagram"
+            }
+          ],
+          "order": 5,
+          "title": "Infrastruttura"
+        },
+        {
+          "name": "Asia Salvaterra",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FAsiaSalvaterra.png?alt=media&token=30ad6303-b4af-4cb4-b79d-c5131e512ec3",
+          "gdg": "GDG Trento",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/asiasalva",
+              "name": "Facebook"
+            },
+            {
+              "icon": "instagram",
+              "link": "https://www.instagram.com/asiasalva/",
+              "name": "Instagram"
+            }
+          ],
+          "order": 6,
+          "title": "Comunicazione"
+        },
+        {
+          "name": "Giacomo Ranieri",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FGiacomoRanieri.jpg?alt=media&token=42453fee-ba11-4a21-925e-df625529c759",
+          "gdg": "GDG Torino",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/giacomo-ranieri-27081987",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 7,
+          "title": "Infrastruttura"
+        },
+        {
+          "name": "Nicola Corti",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FNicolaCorti.jpeg?alt=media&token=86274a9a-79e4-4f9a-90b2-c732f0b057a4",
+          "gdg": "GDG Pisa",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/cortinico",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/cortinico",
+              "name": "Github"
+            },
+            {
+              "icon": "website",
+              "link": "https://ncorti.com",
+              "name": "Website"
+            }
+          ],
+          "order": 8,
+          "title": "Infrastruttura"
+        },
+        {
+          "name": "Saveria Serena Foti",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FSaveriaSerenaFoti.jpg?alt=media&token=a52e703a-847a-464b-86d2-e5b31c840d9e",
+          "gdg": "GDG Nebrodi",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/saveria-serena-foti/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "instagram",
+              "link": "https://www.instagram.com/serenithyweb/",
+              "name": "Instagram"
+            }
+          ],
+          "order": 8,
+          "title": "Infrastruttura"
+        },
+        {
+          "name": "Michela Bertaina",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FMichelaBertaina.jpeg?alt=media&token=de3ecd2e-06b6-4cb9-8230-fcdb6046428f",
+          "gdg": "GDG Bari",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/bertainamichela",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/michela-bertaina-b79203125/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/michela.bertaina",
+              "name": "Facebook"
+            }
+          ],
+          "order": 9,
+          "title": "Infrastruttura"
+        },
+        {
+          "name": "Juna Salviati",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FJunaSalviati.png?alt=media&token=69ba69bc-d617-478c-9ecd-44992b33b104",
+          "gdg": "GDG Roma",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/1littleendian",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/junasalviati/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 10,
+          "title": "Infrastruttura"
         }
       ],
       "title": "Core Team"
