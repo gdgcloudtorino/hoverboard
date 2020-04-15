@@ -42,7 +42,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "Join the commuity, learn new things!",
+      "description": "",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/banner.png"
@@ -119,7 +119,7 @@
   "location": {
     "label": "",
     "name": "",
-    "city": "Youtube(?)",
+    "city": "",
     "short": "",
     "address": "",
     "pointer": {

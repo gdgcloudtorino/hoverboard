@@ -7,7 +7,7 @@
       "image": "/images/posts/announce.jpg",
       "published": "2019-09-03",
       "source": "/data/posts/2019-09-03-dfp19-announced.md",
-      "title": "Announcing GDG DevFest Pescara 2019"
+      "title": "GDG DevParty Together 2020"
     },
     "dfp19-theme": {
       "backgroundColor": "#2196F3",
@@ -20,14 +20,14 @@
     }
   },
   "gallery": [
-    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F1.jpg?alt=media&token=ecfa4bd7-46b9-4141-ae83-df0283212359",
-    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F2.jpg?alt=media&token=2c04a6c8-b127-4452-9095-1a07c525c21d",
-    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F3.jpg?alt=media&token=453d037d-80bb-4003-935b-3cdc88921c8b",
-    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F4.jpg?alt=media&token=810ca4b8-ea95-426e-ae92-c3779837e7fd",
-    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F5.jpg?alt=media&token=b90588e6-ef89-4df7-9202-61c4565fd933",
-    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F6.jpg?alt=media&token=4d04ba11-de30-45c3-905b-23544108e67b",
-    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F7.jpg?alt=media&token=186a2913-439a-4046-b0cd-629b9db7dca0",
-    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F8.jpg?alt=media&token=3e6fd35f-d56a-4a89-8f8b-761a4a8b1607"
+    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F4.jpg?alt=media&token=74183b49-4459-4a52-a75f-8750d8ea9669",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F2.jpg?alt=media&token=cb5cecd4-3669-45c7-ac73-f70d79e1f0ae",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F3.jpg?alt=media&token=8f5207b6-16bd-4493-aa30-a7dcef3e12c6",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F1.jpg?alt=media&token=66bb472e-8d09-4aff-b8e2-86ab6362e4e5",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F5.jpg?alt=media&token=bf5c9d2f-1c88-4893-86b9-57681798a848",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F6.jpg?alt=media&token=5e7d7cfc-8ef4-4bd9-a4e6-0e44e4ea5e6d",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F7.jpg?alt=media&token=4a097e27-c4a2-4ae2-ba33-9a08e65e12e7",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F8.jpg?alt=media&token=2d23bd7f-a160-48b4-8a9d-ba2927a7eea6"
   ],
   "notifications": {
     "config": {
@@ -1057,7 +1057,7 @@
       "name": "Elena Canovi",
       "order": 8,
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2Felena_canovi.jpg?alt=media&token=b671f48e-c1d7-473e-8d9b-447b51a60d61",
-      "shortBio": ".",
+      "shortBio": "",
       "socials": [
         {
           "icon": "twitter",
@@ -1065,7 +1065,7 @@
           "name": "Twitter"
         }
       ],
-      "title": "."
+      "title": ""
     },
     "StefanoDAlessandro": {
       "bio": "Laurea in Informatica, Master in Web Technology, lavora nel mondo IT da ormai 10 anni prima come Developer e poi come Project Manager. Dal 2016 \u00e8 un Imprenditore Digitale, CEO e Co-Founder di Suredi azienda che nasce con l'obiettivo di progettare e sviluppare prodotti digitali memorabili ;) Stefano \u00e8 inoltre Co-Founder della Community pescarese Lean Startup Lab che si occupa di far incontrare talenti (Sognatori, Innovatori, Marketers, Sviluppatori, Designer, Imprenditori) e diffondere la metodologia Lean Startup, utile per chi vuole sviluppare un'idea e trasformarla in business evitando sprechi di risorse.\nLe sue 3 parole preferite: \"SI PUO' FARE!\" Ma che cosa si pu\u00f2 fare? Beh, crearsi il proprio spazio nel mondo, raccontare la propria storia, sfruttare le proprie passioni ed ambizioni, con curiosit\u00e0, fame e voglia di fare...cercando di contribuire, con il proprio fare, a rendere il mondo un posto migliore. ",

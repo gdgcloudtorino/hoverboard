@@ -161,7 +161,7 @@ class HomePage extends ScrollFunctions(ReduxMixin(PolymerElement)) {
         <plastic-image class="hero-logo hero-logo-desktop" srcset="/images/logo.svg" alt="{$ title $}"></plastic-image>
         <plastic-image class="hero-logo hero-logo-mobile" srcset="/images/logo-mobile.svg" alt="{$ title $}"></plastic-image>
         <div class="info-items">
-          <div class="info-item">{$ location.city $}. {$ dates $}</div>
+          <div class="info-item">{$ location.city $} {$ dates $}</div>
           <div class="info-item">{$ heroSettings.home.description $}</div>
         </div>
 
@@ -177,7 +177,7 @@ class HomePage extends ScrollFunctions(ReduxMixin(PolymerElement)) {
             <iron-icon icon="hoverboard:movie"></iron-icon>
             {$ viewHighlights $}
           </paper-button>
-          <!-- 
+          
           <paper-button
             on-tap="_scrollToTickets" ga-on="click"
             ga-event-category="tickets"
@@ -188,7 +188,7 @@ class HomePage extends ScrollFunctions(ReduxMixin(PolymerElement)) {
             <iron-icon icon="hoverboard:ticket"></iron-icon>
             {$ buyTicket $}
           </paper-button> 
-          -->
+          
         </div>-->
 
         <div class="scroll-down" on-tap="_scrollNextBlock">
