@@ -1594,7 +1594,7 @@
             }
           ],
           "order": 8,
-          "title": "Infrastruttura"
+          "title": "Comunicazione & Community Engagement"
         },
         {
           "name": "Michela Bertaina",
@@ -1618,7 +1618,7 @@
             }
           ],
           "order": 9,
-          "title": "Infrastruttura"
+          "title": "Coordinamento"
         },
         {
           "name": "Juna Salviati",
@@ -1662,6 +1662,72 @@
           "order": 11,
           "gdg": "GDG Torino",
           "title": "Comunicazione"
+        },
+        {
+          "name": "Loredana Frontino",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FLoredanaFrontino.png?alt=media&token=3b402b46-1a15-464c-93df-d9f3e0a2f48e",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/loredana-frontino-0a2367132",
+              "name": "Linkedin"
+            }
+          ],
+          "order": 12,
+          "gdg": "GDG Torino",
+          "title": "Comunicazione"
+        },
+        {
+          "name": "Lucia Vigoroso",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FLuciaVigoroso.png?alt=media&token=7f8a1165-aac9-4c39-a0df-2b5ba6e3b455",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/lucia-vigoroso-40267472/",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "instagram",
+              "link": "https://www.instagram.com/lucia_vig/",
+              "name": "Instagram"
+            }
+          ],
+          "order": 13,
+          "gdg": "GDG Torino",
+          "title": "Comunicazione"
+        },
+        {
+          "name": "Santino Caruso",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FSantoCaruso.png?alt=media&token=24f91f1a-ba6e-4ac6-a1c4-87974aeffbfd",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/santocaruso/",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/ssantinocaruso",
+              "name": "Twitter"
+            }
+          ],
+          "order": 14,
+          "gdg": "GDG Cosenza",
+          "title": "Infrastruttura"
+        },
+        {
+          "name": "Nicola Guglielmi",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FNicolaGuglielmi.jpg?alt=media&token=de2cb4bd-1fe4-4649-8e25-11d9c81bb3e3",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/nicola-guglielmi/",
+              "name": "Linkedin"
+            }
+          ],
+          "order": 15,
+          "gdg": "GDG Campobasso",
+          "title": "Follow-up"
         }
       ],
       "title": "Core Team"
