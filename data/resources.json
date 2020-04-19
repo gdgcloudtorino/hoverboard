@@ -226,8 +226,7 @@
         "description": "GDG Italia",
         "callToAction": {
           "label": "Apri la pagina del Team",
-          "link": "/team",
-          "showLink": true
+          "link": "/team"
         }
       },
       {
@@ -236,18 +235,14 @@
         "callToAction": {
           "label": "Leggi i dettagli",
           "link": "https://developers.google.com/groups/",
-          "newTab": true,
-          "showLink": true
+          "newTab": true
         }
       },
       {
         "title": "Cos'è un DevParty?",
         "description": "DevParty è un evento online gestito dalla community Google Developer Groups italiani.",
         "callToAction": {
-          "label": "Leggi i dettagli",
-          "link": "https://devfest.withgoogle.com/",
-          "newTab": true,
-          "showLink": false
+          "label": "Leggi i dettagli"
         }
       }
     ]
