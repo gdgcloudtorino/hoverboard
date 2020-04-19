@@ -11,7 +11,7 @@
   "partnershipResources": "Risorse di Partnership",
   "eventResources": "Risorse dell'evento",
   "buyTicket": "Prenota un biglietto",
-  "signIn": "Registrati",
+  "signIn": "Login",
   "signOut": "Esci",
   "viewHighlights": "Guarda gli Highlight",
   "offlineMessage": "Puoi ancora visualizzare questo sito offline.",
@@ -104,11 +104,11 @@
     }
   },
   "ticketsBlock": {
-    "title": "RSVPs",
-    "ticketsDetails": "RSVPs grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included.",
-    "soldOut": "You missed it!",
-    "notAvailableYet": "Not available yet",
-    "save": "Save ${discount}% today"
+    "title": "Biglietti",
+    "ticketsDetails": "Il biglietto garantisce l'accesso a tutte le sessioni della conferenza",
+    "soldOut": "Persi per poco!",
+    "notAvailableYet": "Non ancora disponibili",
+    "save": ""
   },
   "partnersBlock": {
     "title": "Partners",

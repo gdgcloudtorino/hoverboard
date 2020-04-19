@@ -166,8 +166,8 @@ class HomePage extends ScrollFunctions(ReduxMixin(PolymerElement)) {
         </div>
 
 
-        <!--<div class="action-buttons" layout horizontal center-justified wrap>
-          <paper-button
+        <div class="action-buttons" layout horizontal center-justified wrap>
+          <!--<paper-button
             class="watch-video"
             on-tap="_playVideo"
             ga-on="click"
@@ -176,7 +176,7 @@ class HomePage extends ScrollFunctions(ReduxMixin(PolymerElement)) {
             ga-event-label="hero block - view highlights">
             <iron-icon icon="hoverboard:movie"></iron-icon>
             {$ viewHighlights $}
-          </paper-button>
+          </paper-button>-->
           
           <paper-button
             on-tap="_scrollToTickets" ga-on="click"
@@ -189,7 +189,7 @@ class HomePage extends ScrollFunctions(ReduxMixin(PolymerElement)) {
             {$ buyTicket $}
           </paper-button> 
           
-        </div>-->
+        </div>
 
         <div class="scroll-down" on-tap="_scrollNextBlock">
           <svg
@@ -220,7 +220,7 @@ class HomePage extends ScrollFunctions(ReduxMixin(PolymerElement)) {
     <about-block></about-block>
     <!--<speakers-block></speakers-block>-->
     <!--<subscribe-block></subscribe-block>-->
-    <!--<tickets-block></tickets-block> -->
+    <tickets-block></tickets-block>
     <gallery-block></gallery-block>
     <about-organizer-block></about-organizer-block>
     <!--<featured-videos></featured-videos>-->
