@@ -1728,6 +1728,25 @@
           "order": 15,
           "gdg": "GDG Campobasso",
           "title": "Follow-up"
+        },
+        {
+          "name": "Noelia Di Pretoro",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FNoeliaDiPretoro.jpg?alt=media&token=1a6e3c72-8019-4ad6-92ae-02ff31830175",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://it.linkedin.com/in/noelia-di-pretoro",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/noelia.dipretoro",
+              "name": "Facebook"
+            }
+          ],
+          "order": 16,
+          "gdg": "GDG Campobasso",
+          "title": "Community engagement"
         }
       ],
       "title": "Core Team"
