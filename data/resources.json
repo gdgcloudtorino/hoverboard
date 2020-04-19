@@ -237,13 +237,6 @@
           "link": "https://developers.google.com/groups/",
           "newTab": true
         }
-      },
-      {
-        "title": "Cos'è un DevParty?",
-        "description": "DevParty è un evento online gestito dalla community Google Developer Groups italiani.",
-        "callToAction": {
-          "label": "Leggi i dettagli"
-        }
       }
     ]
   },
