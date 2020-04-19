@@ -73,6 +73,7 @@ class AboutOrganizerBlock extends ReduxMixin(PolymerElement) {
           <marked-element class="description" markdown="{$ block.description $}">
             <div slot="markdown-html"></div>
           </marked-element>
+          {% if block.calltoaction.showLink %}
           <a
             href="{$ block.callToAction.link $}"
             {% if block.calltoaction.newtab %}
@@ -83,6 +84,7 @@ class AboutOrganizerBlock extends ReduxMixin(PolymerElement) {
               <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
             </paper-button>
           </a>
+          {% endif %}>
         </div>
         {% endfor %}
       </div>
