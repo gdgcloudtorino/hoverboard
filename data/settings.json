@@ -33,11 +33,6 @@
       "route": "blog",
       "permalink": "/blog/",
       "label": "Blog"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Schedule"
     }
   ],
   "heroSettings": {

@@ -219,9 +219,9 @@ class HoverboardApp extends UtilsFunctions(ScrollFunctions(ReduxMixin(PolymerEle
         <iron-pages attr-for-selected="name" selected="[[route.route]]" selected-attribute="active" hide-immediately>
           <home-page name="home"></home-page>
           <blog-page name="blog" route="[[subroute]]"></blog-page>
-          <schedule-page name="schedule" route="[[subroute]]"></schedule-page>
-          <speakers-page name="speakers" route="[[subroute]]"></speakers-page>
-          <previous-speakers-page name="previous-speakers" route="[[subroute]]"></previous-speakers-page>
+          <!--<schedule-page name="schedule" route="[[subroute]]"></schedule-page>-->
+          <!--<speakers-page name="speakers" route="[[subroute]]"></speakers-page>-->
+          <!--<previous-speakers-page name="previous-speakers" route="[[subroute]]"></previous-speakers-page>-->
           <team-page name="team"></team-page>
           <faq-page name="faq"></faq-page>
           <coc-page name="coc"></coc-page>
