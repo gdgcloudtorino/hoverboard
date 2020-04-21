@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 <a href="https://hoverboard-master.firebaseapp.com" align="center">:zap: Live demo</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="#getting-started">:rocket: Get Started</a>
+<a href="#getting-started">:rocket:Get Started</a>
 </p>
 
 [![Build Status](https://travis-ci.org/gdgcloudtorino/hoverboard.svg?branch=devfest)](https://travis-ci.org/gdgcloudtorino/hoverboard)
