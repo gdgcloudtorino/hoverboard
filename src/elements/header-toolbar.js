@@ -273,6 +273,7 @@ class HeaderToolbar extends ReduxMixin(PolymerElement) {
       addToHomescreen: state.ui.addToHomescreen,
       heroSettings: state.ui.heroSettings,
       viewport: state.ui.viewport,
+      tickets: state.tickets,
     };
   }
 
