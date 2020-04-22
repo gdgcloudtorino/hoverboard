@@ -47,25 +47,25 @@
           "order": 1,
           "logoUrl": "../images/logos/gdg_bari.png",
           "name": "GDG Bari",
-          "url": ""
+          "url": "https://www.meetup.com/it-IT/GDG-Bari/"
         }, 
         {
           "order": 2,
           "logoUrl": "../images/logos/gdg_campobasso.png",
           "name": "GDG Campobasso",
-          "url": ""
+          "url": "https://www.meetup.com/it-IT/GDG-Campobasso/"
         },
         {
           "order": 3,
           "logoUrl": "../images/logos/gdg_cosenza.png",
           "name": "GDG Cosenza",
-          "url": ""
+          "url": "https://www.meetup.com/it-IT/Google-Developer-Group-Cosenza/"
         },
         {
           "order": 4,
           "logoUrl": "../images/logos/gdg_firenze.png",
           "name": "GDG Firenze",
-          "url": ""
+          "url": "https://www.meetup.com/it-IT/GDG-Firenze/"
         }
       ],
       "order": 1,
