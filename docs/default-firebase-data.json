@@ -133,6 +133,18 @@
       ],
       "order": 1,
       "title": "General Partner"
+    },
+    {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/jetbrains.png",
+          "name": "JetBrains",
+          "url": "https://www.jetbrains.com/"
+        }
+      ],
+      "order": 2,
+      "title": "Supporters"
     }
   ],
   "schedule": {
