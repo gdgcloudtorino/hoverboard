@@ -66,7 +66,62 @@
           "logoUrl": "../images/logos/gdg_firenze.png",
           "name": "GDG Firenze",
           "url": "https://www.meetup.com/it-IT/GDG-Firenze/"
+        },
+        {
+          "order": 5,
+          "logoUrl": "../images/logos/dsc_firenze.png",
+          "name": "DSC Firenze",
+          "url": ""
+        },
+        {
+          "order": 6,
+          "logoUrl": "../images/logos/gdg_nebrodi.png",
+          "name": "GDG Nebrodi",
+          "url": "https://www.meetup.com/it-IT/gdgnebrodi/"
+        },
+        {
+          "order": 7,
+          "logoUrl": "../images/logos/gdg_pescara.png",
+          "name": "GDG Pescara",
+          "url": "https://www.meetup.com/it-IT/GDG-Pescara/"
+        },
+        {
+          "order": 8,
+          "logoUrl": "../images/logos/gdg_pisa.png",
+          "name": "GDG Pisa",
+          "url": "https://www.meetup.com/it-IT/GDG-Pisa/"
+        },
+        {
+          "order": 9,
+          "logoUrl": "../images/logos/gdg_roma.png",
+          "name": "GDG Roma",
+          "url": "https://www.meetup.com/it-IT/GDG-Roma/"
+        },
+        {
+          "order": 10,
+          "logoUrl": "../images/logos/gdg_torino.png",
+          "name": "GDG Torino",
+          "url": "https://www.meetup.com/it-IT/GDG-Torino/"
+        },
+        {
+          "order": 11,
+          "logoUrl": "../images/logos/gdg_cloud_torino.png",
+          "name": "GDG Cloud Torino",
+          "url": "https://www.meetup.com/it-IT/Google-Cloud-Developer-Community-Torino/"
+        },
+        {
+          "order": 12,
+          "logoUrl": "../images/logos/gdg_trento.png",
+          "name": "GDG Trento",
+          "url": "https://www.meetup.com/it-IT/GDG-Trento/"
+        },
+        {
+          "order": 13,
+          "logoUrl": "../images/logos/wtm_italia.png",
+          "name": "WTM Italia",
+          "url": ""
         }
+
       ],
       "order": 1,
       "title": "General Partner"
