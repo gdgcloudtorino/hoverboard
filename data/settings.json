@@ -1,8 +1,8 @@
 {
   "organizer": {
     "name": "GDG Italia",
-    "twitter": "gdgpescara",
-    "blog": "https://devfest.gdgpescara.it/blog",
+    "twitter": "",
+    "blog": "",
     "url": "https://developers.google.com/groups/"
   },
   "startDate": "2020-04-25T09:08:30+01:00",
@@ -145,7 +145,7 @@
     }
   },
   "socialNetwork": {
-    "facebook": "https://www.facebook.com/gdgpescara/",
+    "facebook": "https://www.facebook.com/events/268878730794767/",
     "follow": [
       {
         "name": "facebook",
