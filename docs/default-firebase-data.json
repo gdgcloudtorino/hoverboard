@@ -45,9 +45,27 @@
         },
         {
           "order": 1,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
+          "logoUrl": "../images/logos/gdg_bari.png",
+          "name": "GDG Bari",
+          "url": ""
+        }, 
+        {
+          "order": 2,
+          "logoUrl": "../images/logos/gdg_campobasso.png",
+          "name": "GDG Campobasso",
+          "url": ""
+        },
+        {
+          "order": 3,
+          "logoUrl": "../images/logos/gdg_cosenza.png",
+          "name": "GDG Cosenza",
+          "url": ""
+        },
+        {
+          "order": 4,
+          "logoUrl": "../images/logos/gdg_firenze.png",
+          "name": "GDG Firenze",
+          "url": ""
         }
       ],
       "order": 1,
@@ -56,10 +74,10 @@
   ],
   "schedule": {
     "2019-11-02": {
-      "dateReadable": "November 2",
+      "dateReadable": "May 2",
       "timeslots": [
         {
-          "endTime": "09:30",
+          "endTime": "15:00",
           "sessions": [
             {
               "items": [
@@ -219,13 +237,13 @@
       ],
       "tracks": [
         {
-          "title": "Sala D'Annunzio"
+          "title": "Sala Cloud"
         },
         {
-          "title": "Sala Flaiano"
+          "title": "Sala Mobile"
         },
         {
-          "title": "Sala Tosti"
+          "title": "Sala Soft Skill"
         }
       ]
     },

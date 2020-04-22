@@ -2,7 +2,7 @@
 
 ### Dates and Location
 
-GDG DevParty Together will take place online on the 2nd and 3rd of May. 
+GDG DevParty Together will take place online on the 2nd and 3rd of May 2020. 
 
 ### Stay Informed
 
@@ -10,13 +10,13 @@ To stay up to date on the latest information on sessions, speakers, and activiti
 
 ### Content Formats
 
-During two conference days attendees will be able to attend sessions and hands-on workshops, chat with experts and attendees at coffee breaks and after party, and more.
+During two conference days attendees will be able to attend sessions and hands-on workshops, chat with experts at coffee breaks.
   
 ## Registration
 
 ### Drawing Dates
 
-The window to reserve a ticket will be opened until 2PM GMT+2 on October 26th 2019, or earlier if the tickets are sold out. To reserve a ticket [follow the link](https://www.meetup.com/it-IT/Google-Cloud-Developer-Community-Torino/events/270178239/).
+The window to reserve a ticket will be opened until 2PM GMT+2 on 2nd May 2020. To reserve a ticket [follow the link](https://www.eventbrite.it/e/biglietti-gdg-devparty-together-102721366372?aff=website).
   
 
 ### Registration Terms & Conditions

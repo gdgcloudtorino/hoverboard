@@ -31,12 +31,9 @@ This policy is [licensed](https://support.google.com/developergroups/answer/3340
 
 This policy is based on and influenced by several other community policies including Ohio LinuxFest Anti-Harassment policy, Con Anti-Harassment Project, Geek Feminism Wiki (created by the Ada Initiative), ConfCodeofConduct.com, JSconf, Rust, Diversity in Python, and Write/Speak/Code.
 
-### Report incident
+### Report
 
-To report an incident look for a staff member by badge/attire or contact our incident response team below:
+To report your impressions or improvements for the next DevParty contact our team at the following addresses:
 {% for contact in codeOfConductBlock.contacts %}
 - {$ contact $}{% endfor %}
 
-#### Anonymous report
-
-You can make an anonymous report [here]({$ codeOfConductBlock.form $}). We can't follow up with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
