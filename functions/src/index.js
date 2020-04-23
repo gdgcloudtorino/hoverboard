@@ -7,6 +7,7 @@ import optimizeImages from './optimize-images';
 import mailchimpSubscribe from './mailchimp-subscribe';
 import prerender from './prerender';
 import { scheduleWrite, sessionsWrite, speakersWrite } from './generate-sessions-speakers-schedule';
+import { bingoCardAdded } from './bingo';
 
 admin.initializeApp();
 
@@ -20,4 +21,5 @@ export {
   scheduleWrite,
   sessionsWrite,
   speakersWrite,
+  bingoCardAdded,
 }

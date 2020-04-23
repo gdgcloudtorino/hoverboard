@@ -28,7 +28,11 @@
       "permalink": "/team/",
       "label": "Team"
     },
-    
+    {
+      "route": "schedule",
+      "permalink": "/schedule/",
+      "label": "Agenda"
+    },
     {
       "route": "blog",
       "permalink": "/blog/",
