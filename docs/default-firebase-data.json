@@ -182,7 +182,7 @@
             },
             {
               "items": [
-                105
+                24
               ]
             },
             {
@@ -256,7 +256,7 @@
             },
             {
               "items": [
-                105
+                26
               ]
             },
             {
@@ -288,7 +288,7 @@
             },
             {
               "items": [
-                105
+                22
               ]
             },
             {
@@ -337,7 +337,7 @@
           "title": "Track 1"
         },
         {
-          "title": "Track 2"
+          "title": "Frontend"
         },
         {
           "title": "Track 3"
@@ -373,7 +373,7 @@
             },
             {
               "items": [
-                105
+                44
               ]
             }
           ],
@@ -394,7 +394,7 @@
             },
             {
               "items": [
-                105
+                42
               ]
             }
           ],
@@ -479,7 +479,7 @@
             },
             {
               "items": [
-                105
+                43
               ]
             }
           ],
@@ -526,7 +526,7 @@
           "title": "Track 2"
         },
         {
-          "title": "Track 3"
+          "title": "IWD / Diversity"
         }
       ]
     }
@@ -595,43 +595,241 @@
         "Closing", "Keynote"
       ],
       "title": "Chiusura conferenza"
+    },
+    "22": {
+      "complexity": "",
+      "description": "\"E quindi il generic type necessario è ATTCᐸT, Uᐳ = [U] extends [EITᐸTᐳ] ? EITᐸTᐳ extends U ? T : never : never\". Tra keyof, mapped types e conditional types coi controfiocchi, leggere codice TypeScript di livello medio-avanzato sembra essere diventato leggere il copione di \"Amici miei\". La talk si propone di demistificare le principali operazioni eseguibili sui tipi, partendo dal keying-in fino ad arrivare al temutissimo infer U. Avremo modo di esaminare anche i principali mapped types e conditional types messi a disposizione out-of-the-box da TS con qualche esempio pratico, in modo da prendere sufficiente confidenza con queste feature. Chiunque utilizza TypeScript nella propria quotidianità, sia nel FrontEnd che nel BackEnd, è il benvenuto! Lo vedete che stuzzica? Che prematura anche?",
+      "language": "Italiano",
+      "speakers": ["AndreaSimoneCosta"],
+      "tags": ["Frontend"],
+      "title": "Supercazzole in TypeScript"
+    },
+    "24": {
+      "complexity": "",
+      "description": "Sessione di live coding in cui verrà realizzata una piccola applicazione (una sorta di ToDo List) senza utilizzare alcun framework e scrivendo il tutto con qualche web components! Il tutto in mezz'ora...speriamo di farcela! :D",
+      "language": "Italiano",
+      "speakers": ["FrancescoSciuti"],
+      "tags": ["Frontend"],
+      "title": "Web Components: Scriviamo un'applicazione frameworkless in mezz'ora!"
+    },
+    "26": {
+      "complexity": "",
+      "description": "Esistono alcune funzionalità di app native che non è possibile creare e distribuire su open web ad oggi. Il cosiddetto 'app gap', cioè il divario tra ciò che è possibile sul Web e ciò che è possibile su un'app nativa. Il progetto Fugu è nato per colmare questa lacuna. In questo talk sbirciamo le diverse API incluse nel progetto, come applicarli e in quale fase della sperimentazione sono.",
+      "language": "Italiano",
+      "speakers": ["RihannaKedir"],
+      "tags": ["Frontend"],
+      "title": "Bridging the Gap between Web and Native Apps"
+    },
+    "42": {
+      "complexity": "",
+      "description": "In un mondo sempre più globalizzato e tecnologico, l'uso dei mezzi virtuali che consente di entrare rapidamente in contatto con gli altri sta sempre più modificando il nostro modo di comunicare, di stare in relazione. Queste nuove realtà, da una parte mettono in evidenza fragilità, timori e bisogni esistenziali che appartengono all'uomo di tutti i tempi, la paura della solitudine, la paura di non essere apprezzati, il bisogno di essere ammirati e amati, dall’altra rischiano di fornire risposte gravemente patologiche a questi fattori psicologici, deformando in modo permanete e forse irreversibile il modo di stare al mondo e di stare in relazione tra esseri umani. Il rischio è snaturare la forma e struttura dei rapporti interpersonali. Quali cambiamenti apporta la realtà virtuale nelle relazioni interpersonali? •   Annulla le distanze tra le persone. L’abbattimento del confine con l’altro produce numerosissime conseguenze sul piano psicologico; •   Si indebolisce in modo gravemente pericoloso la percezione dell’impatto delle proprie azioni sui corrispettivi destinatari (vedi cyberbullismo, violenza virtuale in genere) con seri risvolti anche sulle azioni messe in atto in modo concreto come derivato di esperienze virtuali prolungate e protratte; •   I rischi sulle nuove generazioni sono altissimi. A lungo termine si può preventivare un irreversibile mutamento degli schemi relazionali. I bambini che trascorrano abitualmente troppo tempo su internet o con i video giochi e pochissimo tempo dentro a interazioni relazionali reali, non potranno acquisire gli schemi di interazione corrispettivi alle vari circostanze sociali (la gestione del conflitto, il litigio; la capacità di affidarsi all’altro nelle varie circostanze di necessità supportava, affettiva, di confronto; la capacità di interagire con l’altro nelle vari circostanze di vita). In altri termini il rischio è che si produca un danno irreversibile rispetto alle abilità sociali; •   Un danno rispetto alla capacità empatica, un danno rispetto alla dimensione emozionale in genere, la capacità di riconoscere, esprimere e gestire le emozioni. •   Nel complesso se ne avrà un impoverimento doloroso sul piano affettivo, relazionale ed emotivo. L’essere umano ha bisogno di relazioni reali, di contatti umani, di interazioni fisiche. Ci stiamo allontanando da queste dimensioni acuendo le paure che ad esse si correlano illudendoci di averne trovato l’antidoto, mentre invece ciò di cui abbiamo veramente bisogno è una reale evoluzione che ci porti a  migliorare le nostre capacità di stare in relazione con l’altro al fine di goderne al meglio. Soluzioni: Il mondo virtuale è una preziosa risorsa. Sarebbe assolutamente errato pensare che sia un nostro nemico da combattere. È il frutto di un progresso evolutivo della specie di cui dobbiamo saggiamente avvalerci per evolvere ulteriormente, piuttosto che finirne schiacciati addirittura involvendo, come si rischia, se non si gestisce con appropriatezza queste realtà. La strada è veicolare informazioni corrette sulla natura umana. Il mondo virtuale occorre che sempre più si interroghi su cosa è sano e cosa non lo è per le menti umane con cui si connette. È opportuno che si operi dentro criteri etici che facciano da filtro, promuovendo e veicolando solo prodotti eticamente validi. Sarebbe auspicabile che si investisse in prodotti (app) che promuovano i processi evolutivi della specie (anziché il contrario), che cioè venissero studiati in modo da favorire le evoluzioni delle varie aree: cognitiva, emotiva, sociale, ecc.",
+      "language": "Italiano",
+      "speakers": ["SabrinaDAmanti"],
+      "tags": ["IWD/Diversity"],
+      "title": "Risvolti sociali dell'uso dei social - cosa cambia nello stare in relazione"
+    },
+    "43": {
+      "complexity": "",
+      "description": "La mia sessione è un talk che parla di diversity ed è diviso concettualmente in due parti. Nella prima parte si parla del ruolo della donna nell'ambito tech e le principali difficoltà che si incontrano, raccontando la mia esperienza personale e qualche aneddoto su come superare queste difficoltà. Nella seconda parte si allarga il concetto di diversità intendendolo come quelle insieme di caratteristiche che rendono unico ognuno di noi e sulle quali possiamo far leva in un team per raggiungere risultati di business importanti.",
+      "language": "Italiano",
+      "speakers": ["ValentinaGiovinazzo"],
+      "tags": ["IWD/Diversity"],
+      "title": "La diversità come valore"
+    },
+    "44": {
+      "complexity": "",
+      "description": "Questo talk porrà l'accento sul come le diverse culture stanno affrontando l'emergenza Covid-19, fenomeno tipicamente complesso (vedi link sul Filosofo della Complessità e Accademico Mauro Ceruti), sia dal punto di vista antropologico/sociologico che dal punto di vista psicologico. Verranno messi in risalto il ruolo delle donne, i diritti umani/civili, la differenza di genere, le problematiche pregresse relative alle differenze delle classi sociali, l'importanza della comunicazione in casi di crisi (basti pensare all'Osservatorio sulla comunicazione in tempo di crisi organizzato dal Prof. Stefano Rolando dell'Università IULM), l'apprendimento (didattica a distanza, mediazione interlinguistica, DSA), i processi cognitivi ed emotivi (emozioni, il non contatto umano, nuove patologie), i nuovi stili di vita, ecc. L'idea è quella di analizzare e mettere a confronto più casi possibili ai fini di sottolineare come il Covid-19 abbia stravolto la nostra psiche e le nostre abitudini in tutte le parti del Globo. Ci sarà uno spazio dedicato alle domande =)",
+      "language": "Italiano",
+      "speakers": ["ValentinaAnnaVentura"],
+      "tags": ["IWD/Diversity"],
+      "title": "La diversità ai tempi del Covid-19"
     }
   },
   "speakers": {
-    "RihannaKedir": {
-      "bio": "Rihanna is a passionate software engineer, maker and new tech enthusiast. She is Google Developer Expert  in Web Technologies. She strongly believes in the importance of sharing knowledge and experience and that is why in her spare time she does volunteering as mentor and speaker in various communities and events. As co-leader of GDG Rome  and Women TechMakers Ambassador, she participates not only in organizing different kinds of events but also in preparing various types of technical and non technical contents and speaks.",
+    "ValentinaGiovinazzo": {
+      "bio": "Sono Valentina Giovinazzo, ho 28 anni e sono di Roma. Lavoro in ConTe.it da 5 anni, azienda presso la quale ho svolto mansioni diverse. Ho iniziato come consulente assicurativo, lavoro intrapreso per mantenermi gli studi. All'interno di ConTe.it poi ho avuto l'occasione tramite concorso interno di diventare un'analista di business, esperienza che mi ha aperto le porte nel mondo IT dandomi la possibilità di diventare product owner e avvicinarmi al mondo dello sviluppo. Durante questa esperienza ho avuto modo di conoscere i responsabili IT che mi hanno dato la possibilità di passare al lato oscuro della forza (dal business a IT) diventando team leader di un'area di sviluppo: quella digital, che noi chiamiamo \"customer experience\" perché ci occupiamo di tutto ciò che è a diretto contatto col nostro cliente finale. Non ho quindi un background tech, ma lavorando con i ragazzi mi sono appassionata a questo mondo, sto studiando molto e mi piacerebbe portare la mia esperienza di diversità in un contesto tecnico.",
       "company": "",
       "companyLogoUrl": "",
-      "country": "Rome, Italy",
-      "name": "Rihanna Kedir",
-      "order": 3,
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestpescara.appspot.com/o/speakers%2FRihanna_Kedir.jpg?alt=media&token=b8af8c52-74d4-4852-99de-996f2f48df7b",
-      "shortBio": "GDE web technologies",
+      "country": "Italy",
+      "name": "Valentina Giovinazzo",
+      "order": 33,
+      "photoUrl": "https://sessionize.com/image?f=66df2709ac4b66c0d1c00a960d4e8e17,200,200,1,0,4b-7077-41e1-92c7-ee186956ccaf.6fa75507-7ded-440d-84c2-3571093903b5.png",
+      "shortBio": "IT team leader presso ConTe.it - Admiral Group, area Digital",
+      "title": "IT team leader presso ConTe.it - Admiral Group, area Digital",
       "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/rihanna_ke",
-          "name": "Twitter"
-        }
+          {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/valentina-giovinazzo-5b0672110/",
+              "name" : "LinkedIn"
+          }
+      ],
+      "badges": [
+      ]
+    },
+    "ValentinaAnnaVentura": {
+      "bio": "https://italia.campus-party.org/cpstories/valentina-ventura-a-cpit3/",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Italy",
+      "name": "Valentina Anna Ventura",
+      "order": 34,
+      "photoUrl": "https://sessionize.com/image?f=847e2d1e64357bea8e4301b8c26ff0b8,200,200,1,0,645c2a74-591c-434f-abf2-5cbc4f7b6365.jpg",
+      "shortBio": "GDG GELA, WTM, Women Techmakers, Google Developer Group Gela",
+      "title": "GDG GELA, WTM, Women Techmakers, Google Developer Group Gela",
+      "socials": [
+          {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/valeventura13",
+              "name" : "Twitter"
+          }
+          ,{
+              "icon" : "facebook",
+              "link" : "https://www.facebook.com/valentinavventura",
+              "name" : "Facebook"
+          }
       ],
       "badges": [
         {
-          "description": "Google Developers Group Roma",
-          "link": "https://www.meetup.com/GDG-Roma",
+          "description": "Google Developers Group Gela",
+          "link": "https://www.meetup.com/Google-Developer-Group-Gela-GDG-Gela/",
           "name": "gdg"
-        },
-        {
-          "description": "Google Developers Expert - Web Technologies",
-          "link": "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-rihanna_kedir_ibrahim",
-          "name": "gde"
-        },
-        {
-          "description": "WTM Ambassador",
-          "link": "https://www.womentechmakers.com/ambassadors/rihanna-kedir",
-          "name": "wtm"
         }
+      ]
+    },
+    "SabrinaDAmanti": {
+      "bio": "Sono psicologa e psicoterapeuta ad orientamento analitico transazionale. Lavoro in quest'ambito dal 2000, anno in cui ho iniziato la mia prima attività come psicologa nelle scuole. Lavoro come psicoterapeuta con studio privato dal 2005. Mi occupo di formazione e sono autrice di articoli divulgativi presenti on line e di articoli specialistici e di libri di psicologia. Sono ricercatrice nell'ambito della comunicazione disfunzionale, le scoperte da me realizzate in quest'ambito sono riportate in vari articoli e libri.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Italy",
+      "name": "Sabrina D'Amanti",
+      "order": 29,
+      "photoUrl": "https://sessionize.com/image?f=565a97d52890cb2fc79b1303bcfb4224,200,200,1,0,a68db51c-72bd-4bdf-aa3b-72254811d0c3.jpg",
+      "shortBio": "Psicologa e psicoterapeuta",
+      "title": "Psicologa e psicoterapeuta",
+      "socials": [
       ],
-      "title": "GDE web technologies"
+      "badges": [
+      ]
+    },
+    "RihannaKedir": {
+      "bio": "Rihanna is a passionate software engineer, maker and new tech enthusiast. She strongly believes in the importance of sharing knowledge and experience and that is why in her spare time she does volunteering as mentor and speaker in various communities and events. As co-leader of GDG Rome  and Women TechMakers Ambassador, she participates not only in organizing different kinds of events but also in preparing various types of technical and non technical contents and speaks.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Italy",
+      "name": "Rihanna Kedir",
+      "order": 27,
+      "photoUrl": "https://sessionize.com/image?f=47d5e3c09f03cd422ec38fe778f86d31,200,200,1,0,43-e017-4f2e-8d4f-5cea427a0bcf.d33c2641-589c-4d37-9df4-5a5258edec33.jpg",
+      "shortBio": "GDE web technologies",
+      "title": "GDE web technologies",
+      "socials": [
+          {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/rihanna_ke",
+              "name" : "Twitter"
+          }
+          ,{
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/rihanna-kedir-05068568/",
+              "name" : "LinkedIn"
+          }
+          ,{
+              "icon" : "facebook",
+              "link" : "https://www.facebook.com/rihanna.ke",
+              "name" : "Facebook"
+          }
+          ,{
+              "icon" : "website",
+              "link" : "https://medium.com/@rihanna.ke",
+              "name" : "Web Site"
+          }
+      ],
+      "badges": [
+          {
+            "description": "Google Developers Group Roma",
+            "link": "https://www.meetup.com/GDG-Roma",
+            "name": "gdg"
+          },
+          {
+            "description": "Google Developers Expert - Web Technologies",
+            "link": "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-rihanna_kedir_ibrahim",
+            "name": "gde"
+          },
+          {
+            "description": "WTM Ambassador",
+            "link": "https://www.womentechmakers.com/ambassadors/rihanna-kedir",
+            "name": "wtm"
+          }
+      ]
+    },
+    "FrancescoSciuti": {
+      "bio": "A talented and accomplished programmer extremely competent after several years of experience in enterprise programming , high skilled in web development (frontend and backend) and in team project management. I have a keen interest in new technologies and in IT development and I’m always upgrading and evaluating my knowledge and skills to stay at the cutting-edge of web development. My outstanding verbal and written communication skills let me involved in lots of meetings, workshop and courses both in Sicily and in Italy as a speaker and tech event organizer. Focused on continual professional and technological improvement: books, courses, articles, forums and regular attender of tech events where I can meet new and interesting people with which exchange as much as possible ideas and technical knowledge. I want to put myself in challenges both in the personal and professional side and this is way I’m involved ,as an active contributor, in many Italian communities (Angular ,React, Javascript ,GDG, PUG, etc…) and I contribute as a counselor to CoderDojo Foundation (Computational youth learning). I’ve worked for a long time as a employee and then as a freelancer, but nowadays I has my own company: Acadevmy – Software Factory, founded with my friends Andrea and Salvo.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Italy",
+      "name": "Francesco Sciuti",
+      "order": 14,
+      "photoUrl": "https://sessionize.com/image?f=4121409f987713382ad4aee72c5dea3d,200,200,1,0,42-456a-4934-a1ac-414d4ba2990b.71973600-d633-4263-8a5f-af81a0d4dd94.jpg",
+      "shortBio": "CEO @ Acadevmy srl",
+      "title": "CEO @ Acadevmy srl",
+      "socials": [
+          {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/FrancescoSciuti",
+              "name" : "Twitter"
+          }
+          ,{
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/francescosciuti/",
+              "name" : "LinkedIn"
+          }
+          ,{
+              "icon" : "facebook",
+              "link" : "https://www.facebook.com/francesco.sciuti",
+              "name" : "Facebook"
+          }
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Group Catania",
+          "link": "https://www.meetup.com/it-IT/GDG-Catania/",
+          "name": "gdg"
+        }
+      ]
+    },
+    "AndreaSimoneCosta": {
+      "bio": "FrontEnd Developer e studente di Informatica presso l'Università di Pisa, si appassiona alla programmazione durante gli studi in Elettronica per poi immergersi nell'universo JS, trovando in Vue un perfetto compagno di avventure.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Italy",
+      "name": "Andrea Simone Costa",
+      "order": 5,
+      "photoUrl": "https://sessionize.com/image?f=4a59c519ae94bf96f6c24329292f3a7c,200,200,1,0,5b-a7b6-4f4f-8eed-72fae10ee3f6.bd5052ab-6a56-49b7-acb4-04b6177c78d4.jpg",
+      "shortBio": "FrontEnd Developer at ExTelos",
+      "title": "FrontEnd Developer at ExTelos",
+      "socials": [
+          {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/JFieldEffectT",
+              "name" : "Twitter"
+          }
+          ,{
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/andrea-simone-costa/",
+              "name" : "LinkedIn"
+          }
+          ,{
+              "icon" : "facebook",
+              "link" : "https://www.facebook.com/andreasimone.costa.5",
+              "name" : "Facebook"
+          }
+          ,{
+              "icon" : "website",
+              "link" : "https://italiancoders.it/",
+              "name" : "Web Site"
+          }
+      ],
+      "badges": [
+      ]
     }
   },
   "team": [
