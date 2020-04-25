@@ -3,7 +3,7 @@
   "version": "3.0.0",
   "description": "Conference website template",
   "scripts": {
-    "build": "npm run clean && cross-env NODE_ENV=production rollup -c rollup.config.js",
+    "build": "npm run clean && cross-env NODE_ENV=production rollup -c rollup.config.js && babel-node ./internals/sitemap-generator.js",
     "clean": "rimraf dist",
     "deploy": "npm run build && cross-env NODE_ENV=production firebase deploy",
     "firestore:copy": "babel-node ./internals/firestore-copy-data",
@@ -75,7 +75,8 @@
     "rollup-plugin-index-html": "^1.9.3",
     "rollup-plugin-re": "^1.0.7",
     "rollup-plugin-workbox": "^5.0.1",
-    "serve": "^11.3.0"
+    "serve": "^11.3.0",
+    "xml-js": "^1.6.11"
   },
   "engines": {
     "node": "10"

@@ -41,7 +41,7 @@ const generateBlogData = () => {
   };
 
 
-function sitemap(config) {
+function sitemap() {
     let urls = [...generateMenuData(), ...generateBlogData() ]
     let sitemapJson = {
         _declaration: {
@@ -61,7 +61,7 @@ function sitemap(config) {
             ignoreComment: true, 
             spaces: 4
         })
-    return fs.writeFile(config.build.rootDirectory+'/sitemap.xml', 
+    return fs.writeFile('dist/sitemap.xml', 
         xml,
         function (err) {
             if (err) throw err;
@@ -69,4 +69,4 @@ function sitemap(config) {
         });
 }
 
-module.exports = sitemap;
+sitemap();
