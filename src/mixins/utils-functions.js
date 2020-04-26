@@ -52,9 +52,8 @@ export const UtilsFunctions = (subclass) => class extends subclass {
   toggleQueryParam(currentQueryParams, key, value) {
     const keyValue = `${key}=${value}`;
     const currentKeyValuePairs = currentQueryParams ? currentQueryParams.split('&') : [];
-    const resultArray = currentKeyValuePairs.includes(keyValue) ?
-      currentKeyValuePairs.filter((pair) => pair !== keyValue) :
-      currentKeyValuePairs.concat(keyValue);
+    let resultArray = currentKeyValuePairs.filter((pair) => !pair.startsWith(`${key}=`));
+    resultArray = resultArray.concat(keyValue);
     return resultArray.join('&');
   }
 };
