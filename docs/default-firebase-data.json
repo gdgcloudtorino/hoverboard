@@ -212,7 +212,7 @@
             },
             {
               "items": [
-                105
+                61
               ]
             },
             {
@@ -297,7 +297,7 @@
             },
             {
               "items": [
-                105
+                66
               ]
             },
             {
@@ -318,7 +318,7 @@
             },
             {
               "items": [
-                105
+                65
               ]
             },
             {
@@ -346,7 +346,7 @@
           "title": "Track 1"
         },
         {
-          "title": "Track 2"
+          "title": "Mobile"
         },
         {
           "title": "IWD / Diversity"
@@ -393,7 +393,7 @@
           "sessions": [
             {
               "items": [
-                105
+                53
               ]
             },
             {
@@ -478,7 +478,7 @@
           "sessions": [
             {
               "items": [
-                105
+                52
               ]
             },
             {
@@ -499,7 +499,7 @@
           "sessions": [
             {
               "items": [
-                105
+                54
               ]
             },
             {
@@ -529,7 +529,7 @@
       ],
       "tracks": [
         {
-          "title": "Track 1"
+          "title": "Machine Learning"
         },
         {
           "title": "Frontend"
@@ -649,9 +649,57 @@
       "complexity": "",
       "description": "Questo talk porrà l'accento sul come le diverse culture stanno affrontando l'emergenza Covid-19, fenomeno tipicamente complesso (vedi link sul Filosofo della Complessità e Accademico Mauro Ceruti), sia dal punto di vista antropologico/sociologico che dal punto di vista psicologico. Verranno messi in risalto il ruolo delle donne, i diritti umani/civili, la differenza di genere, le problematiche pregresse relative alle differenze delle classi sociali, l'importanza della comunicazione in casi di crisi (basti pensare all'Osservatorio sulla comunicazione in tempo di crisi organizzato dal Prof. Stefano Rolando dell'Università IULM), l'apprendimento (didattica a distanza, mediazione interlinguistica, DSA), i processi cognitivi ed emotivi (emozioni, il non contatto umano, nuove patologie), i nuovi stili di vita, ecc. L'idea è quella di analizzare e mettere a confronto più casi possibili ai fini di sottolineare come il Covid-19 abbia stravolto la nostra psiche e le nostre abitudini in tutte le parti del Globo. Ci sarà uno spazio dedicato alle domande =)",
       "language": "Italiano",
-      "speakers": ["ValentinaAnnaVentura"],
+      "speakers": ["ValentinaAnnaVentura", "MariangelaTandurella"],
       "tags": ["IWD/Diversity"],
       "title": "La diversità ai tempi del Covid-19"
+    },
+    "52": {
+      "complexity": "",
+      "description": "In piena emergenza Covid-19, Cloudtec è stata chiamata a sviluppare una istanza specializzata della propria soluzione Cloudbot al fine di realizzare, in tempi rapidissimi, un Assistente Digitale per la Protezione Civile della Città di Palermo. Il risultato è stato Cloudbot Covid-19, un Assistente Virtual sviluppato con tecnologia Google Cloud pronto all’uso e compatibile con tutti i siti web in modalità chat e con tutti i dispositivi mobili Android e iOS grazie al pieno supporto di Google Assistant oltre che Google Home e Google Mini.",
+      "language": "Italiano",
+      "speakers": ["StefanoCarlini"],
+      "tags": ["Machine Learning"],
+      "title": "Cloudbot for Covid-19"
+    },
+    "53": {
+      "complexity": "",
+      "description": "Il deep learning è attualmente  utilizzato in un'ampia varietà di applicazioni. I dispositivi su cui viene utilizzato, come gli smartphone e i sensori Internet-of-Things, generano dati che devono essere analizzati in tempo reale utilizzando il deep learning o utilizzati per fare il training di modelli di reti neurali. Tuttavia, l'inference e il training richiedono notevoli risorse di calcolo per funzionare velocemente, specialmente nel caso in cui questi modelli debbano girare su sensori e device che sono sulla edge, con poche risorse di calcolo, batterie che non durano a lungo e spesso senza connessione a internet. Per velocizzare le operazioni che le reti neurali devono compiere su questi device, hardware dedicato come le TPU (Tensor Processing Unit) è stato sviluppato ed è disponibile anche a basso costo su device, come le schede Coral prodotte da Google. In questo talk andremo a vedere come funzionano questi chip specializzati per fare girare modelli di reti neurali e come è possibile sviluppare modelli ottimizzati per tali device con TensorFlow Lite, la libreria di Google per compilare apposta modelli per device come il Raspberry Pi o il Google Coral Device.",
+      "language": "Italiano",
+      "speakers": ["UmbertoMichelucci"],
+      "tags": ["Machine Learning"],
+      "title": "TPUs and TensorFlow Lite - un'introduzione"
+    },
+    "54": {
+      "complexity": "",
+      "description": "L’apprendimento per rinforzo è uno dei paradigmi più affascinanti nell'ambito dell’apprendimento automatico e sta suscitando sempre più interesse dalla comunità scientifica che ne sta ampliando i contesti applicativi. In questo talk si illustreranno i concetti base di questo paradigma e la spiegazione del Q-Learning, un algoritmo risolutivo, nonché la sua applicazione nel caso di studio Maze game.",
+      "language": "Italiano",
+      "speakers": ["LucaDiVita"],
+      "tags": ["Machine Learning"],
+      "title": "Errare humanum est, le macchine invece imparano"
+    },
+    "61": {
+      "complexity": "",
+      "description": "Creare un'app mobile senza Dependency Injection è, al giorno d'oggi, molto difficile. E finora, questo significava Dagger. Grazie alla code generation e altre funzionalità, questo framework si è imposto come standard di fatto su Android. Ma è davvero l'unica opzione? In questo talk andremo ad analizzare uno degli sfidanti più conosciuti, attraverso un'analisi dettagliata di Koin e una comparazione punto a punto con Dagger.",
+      "language": "Italiano",
+      "speakers": ["RobertoOrgiu"],
+      "tags": ["Mobile"],
+      "title": "Flipping the Koin"
+    },
+    "65": {
+      "complexity": "",
+      "description": "Voglia di dare una smossa alle vostre applicazioni? Grazie al sistema di animazioni di Flutter è semplice realizzare animazioni complesse e d'impatto! Insieme vedremo come utilizzare al meglio gli AnimatedContainer e come realizzare una semplice login con una marcia in più!",
+      "language": "Italiano",
+      "speakers": ["CarloLucera"],
+      "tags": ["Mobile"],
+      "title": "Animate your Flutter application"
+    },
+    "66": {
+        "complexity": "",
+        "description": "Sia sviluppando app mobile che siti web, gli schermi utilizzati dai nostri utenti sono i più disparati, ma ce n'e' ancora uno che spesso viene ignorato, nonostante sia quello con maggiore potenziale: la TV. In questo talk vedremo un'introduzione a Google Cast, e come questo possa essere usato, non solo da app mobile ma anche da siti web, per fornire uno spazio maggiore e centrale ai contenuti più importanti.",
+        "language": "Italiano",
+        "speakers": ["DanieleBonaldo"],
+        "tags": ["Mobile"],
+        "title": "Google Cast, when one screen is not enough"
     }
   },
   "speakers": {
@@ -834,6 +882,207 @@
           ,{
               "icon" : "website",
               "link" : "https://italiancoders.it/",
+              "name" : "Web Site"
+          }
+      ],
+      "badges": [
+      ]
+    },
+    "MariangelaTandurella": {
+      "bio": "Psicologa clinica-esperta in DSA - 35 anni. Cresciuta (ma poi mica tanto!) tra fotografie, libri e viaggi, non ha ancora smesso di sognare un mondo...a misura di bambino!",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Italy",
+      "name": "Mariangela Tandurella",
+      "order": 36,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/speakers%2FMariangelaTandurella.jpg?alt=media&token=1f292df3-fa5f-4617-a53d-ee0e3ee982ad",
+      "shortBio": "Psicologa clinica-esperta in DSA",
+      "title": "Psicologa clinica-esperta in DSA",
+      "socials": [
+          
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Group Gela",
+          "link": "https://www.meetup.com/Google-Developer-Group-Gela-GDG-Gela/",
+          "name": "gdg"
+        }
+      ]
+    },
+    "RobertoOrgiu": {
+      "bio": "Born in Italy in 1987, passionate for everything that switches on and off and particularly for handheld and wearable devices. I love to learn new languages such as Kotlin, patterns and everything Android-related. I recently joined The New York Times Android team as Android Engineer.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Italy",
+      "name": "Roberto Orgiu",
+      "order": 28,
+      "photoUrl": "https://sessionize.com/image?f=0fb5ea70903f37204842b616d8a7e856,200,200,1,0,80-f02c-42cf-92db-98e670bef1a6.eefe1bb7-b14f-4b68-a09f-510d368ef096.jpg",
+      "shortBio": "Android Engineer @ NYTimes",
+      "title": "Android Engineer @ NYTimes",
+      "socials": [
+          {
+              "icon" : "twitter",
+              "link" : "http://twitter.com/_tiwiz",
+              "name" : "Twitter"
+          }
+          ,{
+              "icon" : "linkedin",
+              "link" : "http://www.linkedin.com/in/robertoorgiu",
+              "name" : "LinkedIn"
+          }
+          ,{
+              "icon" : "website",
+              "link" : "https://medium.com/@_tiwiz",
+              "name" : "Web Site"
+          }
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Expert - Android, Identity, Internet of Things, Kotlin",
+          "link": "https://developers.google.com/community/experts/directory/profile/profile-roberto_orgiu",
+          "name": "gde"
+        }
+      ]
+    },
+    "LucaDiVita": {
+      "bio": "Master degree in Engineering of computers at Università degli studi de L'Aquila. Enthusiast of Cyber Security and Machine Learning.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Italy",
+      "name": "Luca Di Vita",
+      "order": 19,
+      "photoUrl": "https://sessionize.com/image?f=b7f9e9fa487c03a3a099413df180f401,200,200,1,0,eabebf6a-d508-4118-bdb0-1ef31b827e48.jpg",
+      "shortBio": "Machine Learning Engineer presso AESYS",
+      "title": "Machine Learning Engineer presso AESYS",
+      "socials": [
+          {
+              "icon" : "linkedin",
+              "link" : "https://it.linkedin.com/in/luca-di-vita-563b0a183",
+              "name" : "LinkedIn"
+          }
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Group - Pescara",
+          "link": "https://www.meetup.com/it-IT/GDG-Pescara/",
+          "name": "gdg"
+        }
+      ]
+    },
+    "DanieleBonaldo": {
+      "bio": "Daniele is Android developer passionate about photography, wearable technologies and Internet of Things. Before working for Novoda, he worked at i’m Spa, an Italian startup where he had the chance to play with the Android platform while developing one of the first smartwatches on the market. International conference speaker and Google Developer Expert, now he loves to work on everything related to the Android ecosystem, from Chromecast to Wear to smart mirrors.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Italy",
+      "name": "Daniele Bonaldo",
+      "order": 9,
+      "photoUrl": "https://sessionize.com/image?f=ff0ca91f65222606df00fd51b92cf417,200,200,1,0,a6138775-ab60-488b-98d0-1e1005428fc1.jpg",
+      "shortBio": "Android Developer and GDE",
+      "title": "Android Developer and GDE",
+      "socials": [
+          {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/danybony_",
+              "name" : "Twitter"
+          }
+          ,{
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/danielebonaldo",
+              "name" : "LinkedIn"
+          }
+          ,{
+              "icon" : "website",
+              "link" : "https://www.danielebonaldo.com/",
+              "name" : "Web Site"
+          }
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Expert - Android, Internet of Things, Wearables",
+          "link": "https://developers.google.com/community/experts/directory/profile/profile-daniele_bonaldo",
+          "name": "gde"
+        }
+      ]
+    },
+    "CarloLucera": {
+      "bio": "Conosciuto sul Web come HatDroid, Carlo è un entusiasta delle nuove tecnologie ed uno sviluppatore Android. Da sempre alla ricerca di nuove tecniche e strategie per migliorarsi.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Italy",
+      "name": "Carlo Lucera",
+      "order": 7,
+      "photoUrl": "https://sessionize.com/image?f=bd896fc0aa47c025d93311746f6e7634,200,200,1,0,63-3a70-4761-9d5a-87734da756fa.a78927fb-1b14-4034-be86-723d4479fde8.jpg",
+      "shortBio": "HatDroid! Android & Flutter devN",
+      "title": "HatDroid! Android & Flutter devN",
+      "socials": [
+          {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/hat_droid",
+              "name" : "Twitter"
+          }
+          ,{
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/clucera/",
+              "name" : "LinkedIn"
+          }
+          ,{
+              "icon" : "facebook",
+              "link" : "https://www.facebook.com/hatdroid",
+              "name" : "Facebook"
+          }
+      ],
+      "badges": [
+      ]
+    },
+    "UmbertoMichelucci": {
+      "bio": "Umberto Michelucci è co-founder e chief AI Scientist di TOELT LLC, un'azienda che mira a sviluppare nuovi e moderni metodi di insegnamento, coaching e ricerca per l'AI per rendere le tecnologie e la ricerca AI accessibili ad ogni azienda e a tutti. È esperto in simulazione numerica, statistica, data science e machine learning. Oltre a diversi anni di esperienza nella ricerca presso la George Washington University (USA) e l'Università di Augsburg (DE), ha 15 anni di esperienza pratica nel campo del data warehouse, di data science e del machine learning. Il suo primo libro, Applied Deep Learning-A Case-Based Approach to Understanding Deep Neural Networks, è stato pubblicato da Springer nel 2018. Ha pubblicato il suo nuovo libro, Convolutional and Recurrent Neural Networks Theory and Applications nel 2019. È molto attivo nella ricerca nel campo dell'intelligenza artificiale. Pubblica regolarmente i risultati delle sue ricerche su importanti riviste e tiene regolarmente conferenze a conferenze internazionali. Umberto ha studiato fisica e matematica. È docente presso la ZHAW University of Applied Sciences per il deep learning e per la teoria e le applicazioni delle reti neurali. È anche lo head dell'AI Center of Excellence all'Helsana Versicherung AG. È anche un Google Developer Expert in Machine Learning con sede in Svizzera.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Italy",
+      "name": "Umberto Michelucci",
+      "order": 32,
+      "photoUrl": "https://sessionize.com/image?f=1a72c2c8a52f6d31896e1ed51d9298a1,200,200,1,0,ba87072c-025b-413f-9226-43ceb5c8a6b5.jpg",
+      "shortBio": "Google Developer Expert in Machine Learning, founder of TOELT LLC",
+      "title": "Google Developer Expert in Machine Learning, founder of TOELT LLC",
+      "socials": [
+          {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/umbertomichelucci/",
+              "name" : "LinkedIn"
+          }
+          ,{
+              "icon" : "website",
+              "link" : "http://blog.toelt.ai",
+              "name" : "Web Site"
+          }
+      ],
+      "badges": [
+        {
+          "description": "Google Developers Expert - Machine Learning",
+          "link": "https://developers.google.com/community/experts/directory/profile/profile-umberto_michelucci",
+          "name": "gde"
+        }
+      ]
+    },
+    "StefanoCarlini": {
+      "bio": "Mi occupo di Informatica applicata alle Telecomunicazioni e al Cloud Computing e sono un esperto in ambito Free and Open Source Software (FLOSS); mi dedico con passione alle soluzioni offerte dalle tecnologie Google Cloud (formerly Google for Work) e a tutto ciò che è inerente a Voice over IP (VoIP) e Unified Communication and Collaboration (UC&C). Dopo diverse esperienza in ambito Telco e Google Cloud, nel 2019 sono stato co-founder di Cloudtec, startup innovativa che offre servizi e soluzioni in ambito Public and Hybrid Cloud Computing con l’obiettivo di posizionarsi come operatore ad alto valore aggiunto specializzato nella realizzazione di progetti basati su tecnologie innovative, quali  Intelligenza Artificiale, Machine Learning, IoT, Visione aumentata.",
+      "company": "",
+      "companyLogoUrl": "",
+      "country": "Italy",
+      "name": "Stefano Carlini",
+      "order": 31,
+      "photoUrl": "https://sessionize.com/image?f=486ccf8cb3c82eaca4708b9d08b5ee56,200,200,1,0,708b244d-d38a-4a6a-b7f2-d1a5c0b655e8.jpg",
+      "shortBio": "Cloudtec, Head of Business Development",
+      "title": "Cloudtec, Head of Business Development",
+      "socials": [
+          {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/stefanocarlini/",
+              "name" : "LinkedIn"
+          }
+          ,{
+              "icon" : "website",
+              "link" : "https://www.cloudtec.it/",
               "name" : "Web Site"
           }
       ],

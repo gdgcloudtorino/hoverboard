@@ -34,6 +34,11 @@
       "label": "Agenda"
     },
     {
+      "route": "speakers",
+      "permalink": "/speakers/",
+      "label": "Speakers"
+    },
+    {
       "route": "blog",
       "permalink": "/blog/",
       "label": "Blog"
@@ -58,8 +63,8 @@
     },
     "speakers": {
       "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "metaDescription": "Ascolta ciò che i nostri Speakers hanno da raccontarci. Googlers, Google Developer Experts, Partner e ospiti importanti, che renderanno l'evento unico e carico di contenuti.",
+      "description": "Ascolta ciò che i nostri Speakers hanno da raccontarci. Googlers, Google Developer Experts, Partner e ospiti importanti, che renderanno l'evento unico e carico di contenuti.",
       "background": {
         "color": "#FFF"
       },

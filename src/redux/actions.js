@@ -432,6 +432,7 @@ export const speakersActions = {
           .then((snaps) => {
             resolve(snaps.docs.map((snap) => Object.assign({}, snap.data())));
           })
+          .then((speakers) =>  shuffle(speakers))
           .catch(reject);
     });
 

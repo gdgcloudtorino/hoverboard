@@ -220,7 +220,7 @@ class HoverboardApp extends UtilsFunctions(ScrollFunctions(ReduxMixin(PolymerEle
           <home-page name="home"></home-page>
           <blog-page name="blog" route="[[subroute]]"></blog-page>
           <schedule-page name="schedule" route="[[subroute]]"></schedule-page>
-          <!--<speakers-page name="speakers" route="[[subroute]]"></speakers-page>-->
+          <speakers-page name="speakers" route="[[subroute]]"></speakers-page>
           <!--<previous-speakers-page name="previous-speakers" route="[[subroute]]"></previous-speakers-page>-->
           <team-page name="team"></team-page>
           <faq-page name="faq"></faq-page>
