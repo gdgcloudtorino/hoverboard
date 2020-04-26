@@ -10,7 +10,7 @@
     "public": "dist",
     "rewrites": [{
       "source": "**",
-      "destination": "/"
+      "destination": "/dist/index.html"
     }],
     "ignore": [
       "/test/**",
