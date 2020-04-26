@@ -10,7 +10,7 @@
     "public": "dist",
     "rewrites": [{
       "source": "**",
-      "function": "prerender"
+      "destination": "/"
     }],
     "ignore": [
       "/test/**",
