@@ -1454,6 +1454,30 @@
           "order": 16,
           "gdg": "GDG Campobasso",
           "title": "Community engagement"
+        },
+        {
+          "name": "Martina Chillura",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FMartinaChillura.jpeg?alt=media&token=d038981a-7c7c-4f61-9da1-e337562462dc",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/martina-chillura",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/martina.chillura",
+              "name": "Facebook"
+            },
+            {
+              "icon": "instagram",
+              "link": "https://www.instagram.com/blueblocky/",
+              "name": "Instagram"
+            }
+          ],
+          "order": 17,
+          "gdg": "",
+          "title": "Community engagement"
         }
       ],
       "title": "Core Team"
