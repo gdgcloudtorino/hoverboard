@@ -68,6 +68,7 @@ import {
   WIPE_PREVIOUS_FEEDBACK,
 } from './constants.js';
 import { store } from './store.js';
+import moment from 'moment/src/moment';
 
 export const uiActions = {
   toggleDrawer: (value = null) => {
@@ -432,18 +433,18 @@ export const speakersActions = {
           .then((snaps) => {
             resolve(snaps.docs.map((snap) => Object.assign({}, snap.data())));
           })
-          .then((speakers) =>  shuffle(speakers))
           .catch(reject);
     });
 
     return Promise.all([speakersPromise])
         .then(([speakers]) => {
+          const shuffledSpeakers = shuffle(speakers);
           dispatch({
             type: FETCH_SPEAKERS_SUCCESS,
             payload: {
-              obj: speakers.reduce((acc, curr) =>
+              obj: shuffledSpeakers.reduce((acc, curr) =>
                 Object.assign({}, acc, { [curr.id]: curr }), {}),
-              list: speakers,
+              list: shuffledSpeakers,
             },
           });
         })
@@ -656,7 +657,7 @@ const _getTeamMembers = (teamId) => firebase.firestore()
     .then((snaps) => snaps.docs
         .map((snap) => Object.assign({}, snap.data(), { id: snap.id })),
     )
-    .then((members) =>  shuffle(members));
+    .then((members) => shuffle(members));
 
 export const teamActions = {
   fetchTeam: () => (dispatch) => {
@@ -1014,8 +1015,8 @@ export const helperActions = {
 
 const shuffle = function (a) {
   for (let i = a.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [a[i], a[j]] = [a[j], a[i]];
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
   }
   return a;
 };
