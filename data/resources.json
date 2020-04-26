@@ -63,6 +63,11 @@
           "name": "FAQs",
           "url": "/faq/",
           "newTab": false
+        },
+        {
+          "name": "Codice di condotta",
+          "url": "https://docs.google.com/document/d/1HZI_xfuozANZUquZ_rbyzggrIqZvjb0geGfPiecvGUU/edit#heading=h.5lnwmfsfgdww",
+          "newTab": true
         }
       ]
     }
