@@ -1032,6 +1032,11 @@
           }
       ],
       "badges": [
+        {
+          "description": "Google Developers Group Palermo",
+          "link": "https://www.meetup.com/it-IT/GDGPalermo/",
+          "name": "gdg"
+        }
       ]
     },
     "UmbertoMichelucci": {
