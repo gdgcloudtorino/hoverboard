@@ -1,1502 +1,1553 @@
 {
-  "blog":
-    {
-    "motivi-per-diventare-speaker": {
-      "backgroundColor": "#2196F3",
-      "brief": "Perché non fare un ulteriore passo in avanti e diventare uno speaker?",
-      "content": "Chi studia o lavora nell’ambito dell’IT sa bene quanto la partecipazione agli eventi tenuti dalle aziende o dalle community sia fondamentale per tenere il passo con quello che è un mondo in perenne evoluzione.<br/><br/>Da una parte anche una semplice partecipazione permette di conoscere nuove idee, venire a conoscenza di storie di successo, ma anche di meno piacevoli, ma non per questo meno costruttivi, fallimenti. Ogni testimonianza permette di evitare passi falsi, scoprire nuove tecnologie e comprenderne il funzionamento o togliersi quel dubbio che spesso affligge per giorni o settimane.<br/><br/>Oltre a questo c’è il networking: conoscere nuove persone, nuove aziende, nuove realtà è sempre un’esperienza che ci arricchisce, sia sul piano personale che professionale.<br/><br/>Perché non fare dunque un ulteriore passo in avanti e diventare uno speaker?<br/><br/>Per i più timidi è giusto evidenziare quanto portare una propria “talk” permetta di prendere dimestichezza con il “public speaking” e vincere i propri timori. Tutti hanno un punto di vista che merita di essere esposto, un’esperienza da raccontare o un’idea da condividere quindi perché non mettersi in gioco?<br/><br/>Se invece il coraggio non manca è necessario ricordare quanto raccontare la propria esperienza e dimostrare le proprie competenze possano giovare alla propria carriera.<br/><br/>Il ritorno di immagine e la pubblicità derivanti dall’esposizione della propria talk si riveleranno infatti elementi costruttivi, sia che si parli a nome della propria azienda o semplicemente si cerchi un modo per mettersi sotto i riflettori e mostrare di cosa si è capaci.<br/><br/>Oltre a questi vantaggi non bisogna dimenticare che quello che accomuna chi partecipa, qualsiasi sia la veste, a questi eventi sono interesse e passione. Se questi ingredienti non mancano o, al contrario, sentite il bisogno di ritrovarli, partecipare ad un evento è quello che fa per voi.<br/><br/><strong>Articolo pubblicato su <a href='https://medium.com/@gdgtrento/motivi-per-partecipare-ed-essere-speaker-alla-devfest-3023d4288c38'>Medium</a> da GDG Trento</strong>",
-      "image": "/images/posts/motivi_devfest_trento.jpeg",
-      "published": "2020-04-22",
-      "source": "/data/posts/2020-04-22-motivi.md",
-      "title": "Motivi per partecipare ed essere speaker alla DevFest"
-    },
-    "la-prima-devparty-italianatutta-online-giovanni-forlastro": {
-      "backgroundColor": "#2196F3",
-      "brief": "Siete tutti invitati alla GDG DevParty Online: la prima conferenza gratuita, ideata dai GDG Italiani.",
-      "content": "Il periodo storico in cui stiamo vivendo ci vede costretti tutti a casa, impossibilitati ad uscire se non per “comprovate esigenze lavorative” e/o “per motivi di salute”.<br/><br/>Per fronteggiare l'emergenza sanitaria dovuta al coronavirus-COVID19, il governo Italiano ha adottato delle misure stringenti: con il Decreto del Presidente del Consiglio dei Ministri (dpcm) del 22 Marzo, Palazzo Chigi ha optato per la sospensione di gran parte delle attività produttive e commerciali e ha deciso di vietare ogni spostamento, soprattutto all’esterno del comune in cui ci si trova.<br/><br/>E questo ha, di fatto, bloccato l'intera nazione. Ma non solo. Infatti questa disastrosa emergenza che, come ben sappiamo non è circoscritta all'Italia ma mondiale, ha obbligato grandi organizzazioni (e a maggior ragione anche quelle piccole) a rimandare, o peggio cancellare, gli eventi programmati da tempo.<br/><br/>E' il caso dell’_E3_, la fiera più importante al mondo dell’industria dei videogiochi, del _Google I/O 2020_, del _Google Cloud Next_ di San Francisco, del _Facebook F8_, del _Mobile World Congress_ di Barcellona e di tante altre che si sono man mano aggiunte alla lista.<br/><br/>Anche le varie community dei **GDG Italiani** si sono ritrovati a doversi confrontare con questo enorme problema, che ancora oggi persiste per gli eventi che, mese dopo mese, vengono organizzati nei tradizionali luoghi d'aggregazione.<br/><br/>Ma non si sono dati per vinti: infatti, grazie al loro voglia di interazione con la proprio comunità, hanno ideato la prima grande conferenza GDG Italiana online: la **DevParty Together**.<br/><br/>Si svolgerà **gratuitamente e interamente online**, nel weekend del **2 e 3 Maggio 2020** e vedrà sul palco virtuale tantissimi Google Developer Experts e professionisti del settore che approfondiranno temi interessanti nelle aree **Cloud Computing, Frontend, Machine Learning, IWD & Diversity, Mobile e Soft Skill**.<br/><br/>Inoltre le dieci persone più rapide ad iscriversi, potranno partecipare al workshop \"**I'm Remarkable**\", ideato internamente in Google e incentrato sulla motivazione e sulla corretta autopromozione di se stessi.<br/><br/>**Ben oltre 30 talk, su 3 rooms in contemporanea: sei curioso di sapere chi sarà presente come relatore?**<br/><br/>**Articolo pubblicato su [LinkedIn](https://www.linkedin.com/pulse/la-prima-devparty-italianatutta-online-giovanni-forlastro/) da Gianni Forlastro**",
-      "image": "/images/posts/prima_devparty.png",
-      "published": "2020-04-24",
-      "source": "/data/posts/2020-04-24-prima-devparty.md",
-      "title": "La prima DevParty Italiana..tutta online!"
-    },
-    "far-parte-community": {
-      "backgroundColor": "#2196F3",
-      "brief": "Combatto un'intima e personale battaglia a favore delle diversità e da qualche anno insieme a delle persone meravigliose che mi hanno stravolto la vita",
-      "content": "Da piccola amavo molto giocare all'aperto, in bici, a calcio, con gli animali e a scacchi. Quante ginocchia sbucciate! Da quando ho posato le mie mani sulla mia prima tastiera e dentro il mio primo computer, ho scoperto una nuova dimensione che mi ha affascinata così tanto da influenzare la mia esistenza, ma meno quella dei miei amici. Crescendo ho capito che maggiore sarebbe stata la mia passione per i <b>marchingegni tecnologici</b> e minore interazione avrei avuto con gli altri. <b>Una terribile scoperta!</b><br><br><i>Nel mio piccolo, ho cercato di far comprendere alle persone, che la tecnologia non è così male come si vuol presentare e per fortuna sono aumentati coloro che si occupano di migliorare l'esperienza d'uso degli utenti nei confronti dei prodotti <b>#Software</b> & <b>#Hardware</b>.</i><br><br> Tornando al mio percorso, sono venuta a conoscenza di altre amare verità, anche provandole direttamente:<br>1. le \"donne che fanno tecnologia\" sono strane (?!)<br> 2. programmare è un lavoro da uomini (What?)<br> 3. in percentuale le donne che fanno il mio stesso lavoro sono pochissime (è una realtà)<br><b>Che incubo!</b> Ad oggi, può sembrare una pazzia, ma esistono realmente persone che scartano i curriculum vitae in base al genere, età, religione ed etnia.<br> I <a href='https://builtin.com/women-tech/women-in-tech-workplace-statistics' target='_new'>numeri</a> parlano chiaro:<br><ul><li>solo il 26% delle donne lavora nel campo</li><li>il 3% sono afro-americane, il 6% sono donne asiatiche e il 2% ispaniche.</li><li>50% delle donne ha dichiarato di essere stata discriminata sul posto di lavoro</li><li>43% degli Americani crede che le donne creino un luogo di lavoro più rispettoso e sicuro degli uomini. Solo il 5% crede il contrario.</li><li>Positivamente, i guadagni delle donne stanno superando quelli degli uomini quando si tratta di lavori ad alta competenza.</li><br> A quanto pare, sembra che le cose stiano cambiando perché alcune persone tutti i giorni si impegnano per andare controtendenza.<br><br/><br/>**Articolo completo pubblicato su [LinkedIn](https://www.linkedin.com/pulse/far-parte-di-una-community-chiara-corrado/) da Chiara Corrado **",
-      "image": "/images/posts/far_community.jpg",
-      "published": "2020-04-25",
-      "source": "/data/posts/2020-04-25-una-community.md",
-      "title": "Far parte di una community"
-    }
-  },
-  "gallery": [
-    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F4.jpg?alt=media&token=74183b49-4459-4a52-a75f-8750d8ea9669",
-    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F2.jpg?alt=media&token=cb5cecd4-3669-45c7-ac73-f70d79e1f0ae",
-    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F3.jpg?alt=media&token=8f5207b6-16bd-4493-aa30-a7dcef3e12c6",
-    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F1.jpg?alt=media&token=66bb472e-8d09-4aff-b8e2-86ab6362e4e5",
-    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F5.jpg?alt=media&token=bf5c9d2f-1c88-4893-86b9-57681798a848",
-    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F6.jpg?alt=media&token=5e7d7cfc-8ef4-4bd9-a4e6-0e44e4ea5e6d",
-    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F7.jpg?alt=media&token=4a097e27-c4a2-4ae2-ba33-9a08e65e12e7",
-    "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F8.jpg?alt=media&token=2d23bd7f-a160-48b4-8a9d-ba2927a7eea6"
-  ],
-  "notifications": {
-    "config": {
-      "icon": "",
-      "timezone": "+01:00"
-    },
-    "messages": {},
-    "subscribers": {},
-    "test": {},
-    "users": {}
-  },
-  "partners": [
-    {
-      "logos": [
-        {
-          "order": 0,
-          "logoUrl": "../images/logos/gdg-lviv.svg",
-          "name": "GDG Lviv",
-          "url": "https://plus.google.com/102444623953913144164"
-        }
-      ],
-      "order": 0,
-      "title": "Template Creator"
-    },
-    {
-      "logos": [
-        {
-          "order": 0,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 1,
-          "logoUrl": "../images/logos/gdg_bari.png",
-          "name": "GDG Bari",
-          "url": "https://www.meetup.com/it-IT/GDG-Bari/"
-        }, 
-        {
-          "order": 2,
-          "logoUrl": "../images/logos/gdg_campobasso.png",
-          "name": "GDG Campobasso",
-          "url": "https://www.meetup.com/it-IT/GDG-Campobasso/"
-        },
-        {
-          "order": 3,
-          "logoUrl": "../images/logos/gdg_cosenza.png",
-          "name": "GDG Cosenza",
-          "url": "https://www.meetup.com/it-IT/Google-Developer-Group-Cosenza/"
-        },
-        {
-          "order": 4,
-          "logoUrl": "../images/logos/gdg_firenze.png",
-          "name": "GDG Firenze",
-          "url": "https://www.meetup.com/it-IT/GDG-Firenze/"
-        },
-        {
-          "order": 5,
-          "logoUrl": "../images/logos/dsc_firenze.png",
-          "name": "DSC Firenze",
-          "url": ""
-        },
-        {
-          "order": 6,
-          "logoUrl": "../images/logos/gdg_nebrodi.png",
-          "name": "GDG Nebrodi",
-          "url": "https://www.meetup.com/it-IT/gdgnebrodi/"
-        },
-        {
-          "order": 7,
-          "logoUrl": "../images/logos/gdg_pescara.png",
-          "name": "GDG Pescara",
-          "url": "https://www.meetup.com/it-IT/GDG-Pescara/"
-        },
-        {
-          "order": 8,
-          "logoUrl": "../images/logos/gdg_pisa.png",
-          "name": "GDG Pisa",
-          "url": "https://www.meetup.com/it-IT/GDG-Pisa/"
-        },
-        {
-          "order": 9,
-          "logoUrl": "../images/logos/gdg_roma.png",
-          "name": "GDG Roma",
-          "url": "https://www.meetup.com/it-IT/GDG-Roma/"
-        },
-        {
-          "order": 10,
-          "logoUrl": "../images/logos/gdg_torino.png",
-          "name": "GDG Torino",
-          "url": "https://www.meetup.com/it-IT/GDG-Torino/"
-        },
-        {
-          "order": 11,
-          "logoUrl": "../images/logos/gdg_cloud_torino.png",
-          "name": "GDG Cloud Torino",
-          "url": "https://www.meetup.com/it-IT/Google-Cloud-Developer-Community-Torino/"
-        },
-        {
-          "order": 12,
-          "logoUrl": "../images/logos/gdg_trento.png",
-          "name": "GDG Trento",
-          "url": "https://www.meetup.com/it-IT/GDG-Trento/"
-        },
-        {
-          "order": 13,
-          "logoUrl": "../images/logos/wtm_italia.png",
-          "name": "WTM Italia",
-          "url": ""
-        }
+	"blog": {
+		"motivi-per-diventare-speaker": {
+			"backgroundColor": "#2196F3",
+			"brief": "Perché non fare un ulteriore passo in avanti e diventare uno speaker?",
+			"content": "Chi studia o lavora nell’ambito dell’IT sa bene quanto la partecipazione agli eventi tenuti dalle aziende o dalle community sia fondamentale per tenere il passo con quello che è un mondo in perenne evoluzione.<br/><br/>Da una parte anche una semplice partecipazione permette di conoscere nuove idee, venire a conoscenza di storie di successo, ma anche di meno piacevoli, ma non per questo meno costruttivi, fallimenti. Ogni testimonianza permette di evitare passi falsi, scoprire nuove tecnologie e comprenderne il funzionamento o togliersi quel dubbio che spesso affligge per giorni o settimane.<br/><br/>Oltre a questo c’è il networking: conoscere nuove persone, nuove aziende, nuove realtà è sempre un’esperienza che ci arricchisce, sia sul piano personale che professionale.<br/><br/>Perché non fare dunque un ulteriore passo in avanti e diventare uno speaker?<br/><br/>Per i più timidi è giusto evidenziare quanto portare una propria “talk” permetta di prendere dimestichezza con il “public speaking” e vincere i propri timori. Tutti hanno un punto di vista che merita di essere esposto, un’esperienza da raccontare o un’idea da condividere quindi perché non mettersi in gioco?<br/><br/>Se invece il coraggio non manca è necessario ricordare quanto raccontare la propria esperienza e dimostrare le proprie competenze possano giovare alla propria carriera.<br/><br/>Il ritorno di immagine e la pubblicità derivanti dall’esposizione della propria talk si riveleranno infatti elementi costruttivi, sia che si parli a nome della propria azienda o semplicemente si cerchi un modo per mettersi sotto i riflettori e mostrare di cosa si è capaci.<br/><br/>Oltre a questi vantaggi non bisogna dimenticare che quello che accomuna chi partecipa, qualsiasi sia la veste, a questi eventi sono interesse e passione. Se questi ingredienti non mancano o, al contrario, sentite il bisogno di ritrovarli, partecipare ad un evento è quello che fa per voi.<br/><br/><strong>Articolo pubblicato su <a href='https://medium.com/@gdgtrento/motivi-per-partecipare-ed-essere-speaker-alla-devfest-3023d4288c38'>Medium</a> da GDG Trento</strong>",
+			"image": "/images/posts/motivi_devfest_trento.jpeg",
+			"published": "2020-04-22",
+			"source": "/data/posts/2020-04-22-motivi.md",
+			"title": "Motivi per partecipare ed essere speaker alla DevFest"
+		},
+		"la-prima-devparty-italianatutta-online-giovanni-forlastro": {
+			"backgroundColor": "#2196F3",
+			"brief": "Siete tutti invitati alla GDG DevParty Online: la prima conferenza gratuita, ideata dai GDG Italiani.",
+			"content": "Il periodo storico in cui stiamo vivendo ci vede costretti tutti a casa, impossibilitati ad uscire se non per “comprovate esigenze lavorative” e/o “per motivi di salute”.<br/><br/>Per fronteggiare l'emergenza sanitaria dovuta al coronavirus-COVID19, il governo Italiano ha adottato delle misure stringenti: con il Decreto del Presidente del Consiglio dei Ministri (dpcm) del 22 Marzo, Palazzo Chigi ha optato per la sospensione di gran parte delle attività produttive e commerciali e ha deciso di vietare ogni spostamento, soprattutto all’esterno del comune in cui ci si trova.<br/><br/>E questo ha, di fatto, bloccato l'intera nazione. Ma non solo. Infatti questa disastrosa emergenza che, come ben sappiamo non è circoscritta all'Italia ma mondiale, ha obbligato grandi organizzazioni (e a maggior ragione anche quelle piccole) a rimandare, o peggio cancellare, gli eventi programmati da tempo.<br/><br/>E' il caso dell’_E3_, la fiera più importante al mondo dell’industria dei videogiochi, del _Google I/O 2020_, del _Google Cloud Next_ di San Francisco, del _Facebook F8_, del _Mobile World Congress_ di Barcellona e di tante altre che si sono man mano aggiunte alla lista.<br/><br/>Anche le varie community dei **GDG Italiani** si sono ritrovati a doversi confrontare con questo enorme problema, che ancora oggi persiste per gli eventi che, mese dopo mese, vengono organizzati nei tradizionali luoghi d'aggregazione.<br/><br/>Ma non si sono dati per vinti: infatti, grazie al loro voglia di interazione con la proprio comunità, hanno ideato la prima grande conferenza GDG Italiana online: la **DevParty Together**.<br/><br/>Si svolgerà **gratuitamente e interamente online**, nel weekend del **2 e 3 Maggio 2020** e vedrà sul palco virtuale tantissimi Google Developer Experts e professionisti del settore che approfondiranno temi interessanti nelle aree **Cloud Computing, Frontend, Machine Learning, IWD & Diversity, Mobile e Soft Skill**.<br/><br/>Inoltre le dieci persone più rapide ad iscriversi, potranno partecipare al workshop \"**I'm Remarkable**\", ideato internamente in Google e incentrato sulla motivazione e sulla corretta autopromozione di se stessi.<br/><br/>**Ben oltre 30 talk, su 3 rooms in contemporanea: sei curioso di sapere chi sarà presente come relatore?**<br/><br/>**Articolo pubblicato su [LinkedIn](https://www.linkedin.com/pulse/la-prima-devparty-italianatutta-online-giovanni-forlastro/) da Gianni Forlastro**",
+			"image": "/images/posts/prima_devparty.png",
+			"published": "2020-04-24",
+			"source": "/data/posts/2020-04-24-prima-devparty.md",
+			"title": "La prima DevParty Italiana..tutta online!"
+		},
+		"far-parte-community": {
+			"backgroundColor": "#2196F3",
+			"brief": "Combatto un'intima e personale battaglia a favore delle diversità e da qualche anno insieme a delle persone meravigliose che mi hanno stravolto la vita",
+			"content": "Da piccola amavo molto giocare all'aperto, in bici, a calcio, con gli animali e a scacchi. Quante ginocchia sbucciate! Da quando ho posato le mie mani sulla mia prima tastiera e dentro il mio primo computer, ho scoperto una nuova dimensione che mi ha affascinata così tanto da influenzare la mia esistenza, ma meno quella dei miei amici. Crescendo ho capito che maggiore sarebbe stata la mia passione per i <b>marchingegni tecnologici</b> e minore interazione avrei avuto con gli altri. <b>Una terribile scoperta!</b><br><br><i>Nel mio piccolo, ho cercato di far comprendere alle persone, che la tecnologia non è così male come si vuol presentare e per fortuna sono aumentati coloro che si occupano di migliorare l'esperienza d'uso degli utenti nei confronti dei prodotti <b>#Software</b> & <b>#Hardware</b>.</i><br><br> Tornando al mio percorso, sono venuta a conoscenza di altre amare verità, anche provandole direttamente:<br>1. le \"donne che fanno tecnologia\" sono strane (?!)<br> 2. programmare è un lavoro da uomini (What?)<br> 3. in percentuale le donne che fanno il mio stesso lavoro sono pochissime (è una realtà)<br><b>Che incubo!</b> Ad oggi, può sembrare una pazzia, ma esistono realmente persone che scartano i curriculum vitae in base al genere, età, religione ed etnia.<br> I <a href='https://builtin.com/women-tech/women-in-tech-workplace-statistics' target='_new'>numeri</a> parlano chiaro:<br><ul><li>solo il 26% delle donne lavora nel campo</li><li>il 3% sono afro-americane, il 6% sono donne asiatiche e il 2% ispaniche.</li><li>50% delle donne ha dichiarato di essere stata discriminata sul posto di lavoro</li><li>43% degli Americani crede che le donne creino un luogo di lavoro più rispettoso e sicuro degli uomini. Solo il 5% crede il contrario.</li><li>Positivamente, i guadagni delle donne stanno superando quelli degli uomini quando si tratta di lavori ad alta competenza.</li><br> A quanto pare, sembra che le cose stiano cambiando perché alcune persone tutti i giorni si impegnano per andare controtendenza.<br><br/><br/>**Articolo completo pubblicato su [LinkedIn](https://www.linkedin.com/pulse/far-parte-di-una-community-chiara-corrado/) da Chiara Corrado **",
+			"image": "/images/posts/far_community.jpg",
+			"published": "2020-04-25",
+			"source": "/data/posts/2020-04-25-una-community.md",
+			"title": "Far parte di una community"
+		}
+	},
+	"gallery": [
+		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F4.jpg?alt=media&token=74183b49-4459-4a52-a75f-8750d8ea9669",
+		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F2.jpg?alt=media&token=cb5cecd4-3669-45c7-ac73-f70d79e1f0ae",
+		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F3.jpg?alt=media&token=8f5207b6-16bd-4493-aa30-a7dcef3e12c6",
+		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F1.jpg?alt=media&token=66bb472e-8d09-4aff-b8e2-86ab6362e4e5",
+		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F5.jpg?alt=media&token=bf5c9d2f-1c88-4893-86b9-57681798a848",
+		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F6.jpg?alt=media&token=5e7d7cfc-8ef4-4bd9-a4e6-0e44e4ea5e6d",
+		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F7.jpg?alt=media&token=4a097e27-c4a2-4ae2-ba33-9a08e65e12e7",
+		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F8.jpg?alt=media&token=2d23bd7f-a160-48b4-8a9d-ba2927a7eea6"
+	],
+	"notifications": {
+		"config": {
+			"icon": "",
+			"timezone": "+01:00"
+		},
+		"messages": {},
+		"subscribers": {},
+		"test": {},
+		"users": {}
+	},
+	"partners": [{
+			"logos": [{
+				"order": 0,
+				"logoUrl": "../images/logos/gdg-lviv.svg",
+				"name": "GDG Lviv",
+				"url": "https://plus.google.com/102444623953913144164"
+			}],
+			"order": 0,
+			"title": "Template Creator"
+		},
+		{
+			"logos": [{
+					"order": 0,
+					"logoUrl": "../images/logos/google.svg",
+					"name": "Google",
+					"url": "https://www.google.com.ua/intl/en/about/"
+				},
+				{
+					"order": 1,
+					"logoUrl": "../images/logos/gdg_bari.png",
+					"name": "GDG Bari",
+					"url": "https://www.meetup.com/it-IT/GDG-Bari/"
+				},
+				{
+					"order": 2,
+					"logoUrl": "../images/logos/gdg_campobasso.png",
+					"name": "GDG Campobasso",
+					"url": "https://www.meetup.com/it-IT/GDG-Campobasso/"
+				},
+				{
+					"order": 3,
+					"logoUrl": "../images/logos/gdg_cosenza.png",
+					"name": "GDG Cosenza",
+					"url": "https://www.meetup.com/it-IT/Google-Developer-Group-Cosenza/"
+				},
+				{
+					"order": 4,
+					"logoUrl": "../images/logos/gdg_firenze.png",
+					"name": "GDG Firenze",
+					"url": "https://www.meetup.com/it-IT/GDG-Firenze/"
+				},
+				{
+					"order": 5,
+					"logoUrl": "../images/logos/dsc_firenze.png",
+					"name": "DSC Firenze",
+					"url": ""
+				},
+				{
+					"order": 6,
+					"logoUrl": "../images/logos/gdg_nebrodi.png",
+					"name": "GDG Nebrodi",
+					"url": "https://www.meetup.com/it-IT/gdgnebrodi/"
+				},
+				{
+					"order": 7,
+					"logoUrl": "../images/logos/gdg_pescara.png",
+					"name": "GDG Pescara",
+					"url": "https://www.meetup.com/it-IT/GDG-Pescara/"
+				},
+				{
+					"order": 8,
+					"logoUrl": "../images/logos/gdg_pisa.png",
+					"name": "GDG Pisa",
+					"url": "https://www.meetup.com/it-IT/GDG-Pisa/"
+				},
+				{
+					"order": 9,
+					"logoUrl": "../images/logos/gdg_roma.png",
+					"name": "GDG Roma",
+					"url": "https://www.meetup.com/it-IT/GDG-Roma/"
+				},
+				{
+					"order": 10,
+					"logoUrl": "../images/logos/gdg_torino.png",
+					"name": "GDG Torino",
+					"url": "https://www.meetup.com/it-IT/GDG-Torino/"
+				},
+				{
+					"order": 11,
+					"logoUrl": "../images/logos/gdg_cloud_torino.png",
+					"name": "GDG Cloud Torino",
+					"url": "https://www.meetup.com/it-IT/Google-Cloud-Developer-Community-Torino/"
+				},
+				{
+					"order": 12,
+					"logoUrl": "../images/logos/gdg_trento.png",
+					"name": "GDG Trento",
+					"url": "https://www.meetup.com/it-IT/GDG-Trento/"
+				},
+				{
+					"order": 13,
+					"logoUrl": "../images/logos/wtm_italia.png",
+					"name": "WTM Italia",
+					"url": ""
+				}
 
-      ],
-      "order": 1,
-      "title": "General Partner"
-    },
-    {
-      "logos": [
-        {
-          "order": 0,
-          "logoUrl": "../images/logos/jetbrains.png",
-          "name": "JetBrains",
-          "url": "https://www.jetbrains.com/"
-        }
-      ],
-      "order": 2,
-      "title": "Supporters"
-    }
-  ],
-  "schedule": {
-    "2020-05-02": {
-      "dateReadable": "2 Maggio",
-      "timeslots": [
-        {
-          "endTime": "15:20",
-          "sessions": [
-            {
-              "items": [
-                100
-              ]
-            }
-          ],
-          "startTime": "15:00"
-        },
-        {
-          "endTime": "16:05",
-          "sessions": [
-            {
-              "items": [
-                105
-              ]
-            },
-            {
-              "items": [
-                105
-              ]
-            },
-            {
-              "items": [
-                44
-              ]
-            }
-          ],
-          "startTime": "15:20"
-        },
-        {
-          "endTime": "16:50",
-          "sessions": [
-            {
-              "items": [
-                105
-              ]
-            },
-            {
-              "items": [
-                61
-              ]
-            },
-            {
-              "items": [
-                42
-              ]
-            }
-          ],
-          "startTime": "16:05"
-        },
-        {
-          "endTime": "17:00",
-          "sessions": [
-            {
-              "items": [
-                110
-              ]
-            }
-          ],
-          "startTime": "16:50"
-        },
-        {
-          "endTime": "17:45",
-          "sessions": [
-            {
-              "items": [
-                105
-              ]
-            },
-            {
-              "items": [
-                105
-              ]
-            },
-            {
-              "items": [
-                105
-              ]
-            }
-          ],
-          "startTime": "17:00"
-        },
-        {
-          "endTime": "18:30",
-          "sessions": [
-            {
-              "items": [
-                105
-              ]
-            },
-            {
-              "items": [
-                105
-              ]
-            },
-            {
-              "items": [
-                105
-              ]
-            }
-          ],
-          "startTime": "17:45"
-        },
-        {
-          "endTime": "18:40",
-          "sessions": [
-            {
-              "items": [
-                110
-              ]
-            }
-          ],
-          "startTime": "18:30"
-        },
-        {
-          "endTime": "19:25",
-          "sessions": [
-            {
-              "items": [
-                105
-              ]
-            },
-            {
-              "items": [
-                66
-              ]
-            },
-            {
-              "items": [
-                43
-              ]
-            }
-          ],
-          "startTime": "18:40"
-        },
-        {
-          "endTime": "20:15",
-          "sessions": [
-            {
-              "items": [
-                105
-              ]
-            },
-            {
-              "items": [
-                65
-              ]
-            },
-            {
-              "items": [
-                105
-              ]
-            }
-          ],
-          "startTime": "19:25"
-        },
-        {
-          "endTime": "20:30",
-          "sessions": [
-            {
-              "items": [
-                101
-              ]
-            }
-          ],
-          "startTime": "20:15"
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Track 1"
-        },
-        {
-          "title": "Mobile"
-        },
-        {
-          "title": "IWD / Diversity"
-        }
-      ]
-    },
-    "2020-05-03": {
-      "dateReadable": "3 Maggio",
-      "timeslots": [
-        {
-          "endTime": "15:10",
-          "sessions": [
-            {
-              "items": [
-                100
-              ]
-            }
-          ],
-          "startTime": "15:00"
-        },
-        {
-          "endTime": "15:55",
-          "sessions": [
-            {
-              "items": [
-                105
-              ]
-            },
-            {
-              "items": [
-                24
-              ]
-            },
-            {
-              "items": [
-                105
-              ]
-            }
-          ],
-          "startTime": "15:10"
-        },
-        {
-          "endTime": "16:40",
-          "sessions": [
-            {
-              "items": [
-                53
-              ]
-            },
-            {
-              "items": [
-                105
-              ]
-            },
-            {
-              "items": [
-                105
-              ]
-            }
-          ],
-          "startTime": "15:55"
-        },
-        {
-          "endTime": "16:50",
-          "sessions": [
-            {
-              "items": [
-                110
-              ]
-            }
-          ],
-          "startTime": "16:40"
-        },
-        {
-          "endTime": "17:35",
-          "sessions": [
-            {
-              "items": [
-                105
-              ]
-            },
-            {
-              "items": [
-                105
-              ]
-            },
-            {
-              "items": [
-                105
-              ]
-            }
-          ],
-          "startTime": "16:50"
-        },
-        {
-          "endTime": "18:20",
-          "sessions": [
-            {
-              "items": [
-                105
-              ]
-            },
-            {
-              "items": [
-                26
-              ]
-            },
-            {
-              "items": [
-                105
-              ]
-            }
-          ],
-          "startTime": "17:35"
-        },
-        {
-          "endTime": "18:30",
-          "sessions": [
-            {
-              "items": [
-                110
-              ]
-            }
-          ],
-          "startTime": "18:20"
-        },
-        {
-          "endTime": "19:15",
-          "sessions": [
-            {
-              "items": [
-                52
-              ]
-            },
-            {
-              "items": [
-                22
-              ]
-            },
-            {
-              "items": [
-                105
-              ]
-            }
-          ],
-          "startTime": "18:30"
-        },
-        {
-          "endTime": "20:00",
-          "sessions": [
-            {
-              "items": [
-                54
-              ]
-            },
-            {
-              "items": [
-                105
-              ]
-            },
-            {
-              "items": [
-                105
-              ]
-            }
-          ],
-          "startTime": "19:15"
-        },
-        {
-          "endTime": "20:45",
-          "sessions": [
-            {
-              "items": [
-                102
-              ]
-            }
-          ],
-          "startTime": "20:00"
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Machine Learning"
-        },
-        {
-          "title": "Frontend"
-        },
-        {
-          "title": "Track 3"
-        }
-      ]
-    }
-  },
-  "sessions": {
-    "100": {
-      "complexity": "",
-      "description": "",
-      "language": "",
-      "speakers": [],
-      "tags": [
-        "Opening",
-        "Apertura"
-      ],
-      "icon": "opening",
-      "title": "Keynote di apertura"
-    },
-    "110": {
-      "complexity": "",
-      "description": "",
-      "language": "",
-      "speakers": [],
-      "tags": [
-        "Break"
-      ],
-      "icon": "coffee-break",
-      "title": "Pausa"
-    },
-    "105": {
-      "complexity": "",
-      "description": "Da Definire",
-      "language": "Italiano",
-      "speakers": [],
-      "tags": [
-        "Talk"
-      ],
-      "icon": "",
-      "title": "TBD"
-    },
-    "106": {
-      "complexity": "",
-      "description": "Da Definire",
-      "language": "",
-      "speakers": [],
-      "tags": [
-        "Workshop"
-      ],
-      "title": "Workshop"
-    },
-    "101": {
-      "complexity": "",
-      "description": "Da Definire",
-      "language": "Italiano",
-      "speakers": [],
-      "tags": [
-        "Keynote", "Closing"
-      ],
-      "title": "Keynote di chiusura"
-    },
-    "102": {
-      "complexity": "",
-      "description": "Da Definire",
-      "language": "Italiano",
-      "speakers": [],
-      "tags": [
-        "Closing", "Keynote"
-      ],
-      "title": "Chiusura conferenza"
-    },
-    "22": {
-      "complexity": "",
-      "description": "\"E quindi il generic type necessario è ATTCᐸT, Uᐳ = [U] extends [EITᐸTᐳ] ? EITᐸTᐳ extends U ? T : never : never\". Tra keyof, mapped types e conditional types coi controfiocchi, leggere codice TypeScript di livello medio-avanzato sembra essere diventato leggere il copione di \"Amici miei\". La talk si propone di demistificare le principali operazioni eseguibili sui tipi, partendo dal keying-in fino ad arrivare al temutissimo infer U. Avremo modo di esaminare anche i principali mapped types e conditional types messi a disposizione out-of-the-box da TS con qualche esempio pratico, in modo da prendere sufficiente confidenza con queste feature. Chiunque utilizza TypeScript nella propria quotidianità, sia nel FrontEnd che nel BackEnd, è il benvenuto! Lo vedete che stuzzica? Che prematura anche?",
-      "language": "Italiano",
-      "speakers": ["AndreaSimoneCosta"],
-      "tags": ["Frontend"],
-      "title": "Supercazzole in TypeScript"
-    },
-    "24": {
-      "complexity": "",
-      "description": "Sessione di live coding in cui verrà realizzata una piccola applicazione (una sorta di ToDo List) senza utilizzare alcun framework e scrivendo il tutto con qualche web components! Il tutto in mezz'ora...speriamo di farcela! :D",
-      "language": "Italiano",
-      "speakers": ["FrancescoSciuti"],
-      "tags": ["Frontend"],
-      "title": "Web Components: Scriviamo un'applicazione frameworkless in mezz'ora!"
-    },
-    "26": {
-      "complexity": "",
-      "description": "Esistono alcune funzionalità di app native che non è possibile creare e distribuire su open web ad oggi. Il cosiddetto 'app gap', cioè il divario tra ciò che è possibile sul Web e ciò che è possibile su un'app nativa. Il progetto Fugu è nato per colmare questa lacuna. In questo talk sbirciamo le diverse API incluse nel progetto, come applicarli e in quale fase della sperimentazione sono.",
-      "language": "Italiano",
-      "speakers": ["RihannaKedir"],
-      "tags": ["Frontend"],
-      "title": "Bridging the Gap between Web and Native Apps"
-    },
-    "42": {
-      "complexity": "",
-      "description": "In un mondo sempre più globalizzato e tecnologico, l'uso dei mezzi virtuali che consente di entrare rapidamente in contatto con gli altri sta sempre più modificando il nostro modo di comunicare, di stare in relazione. Queste nuove realtà, da una parte mettono in evidenza fragilità, timori e bisogni esistenziali che appartengono all'uomo di tutti i tempi, la paura della solitudine, la paura di non essere apprezzati, il bisogno di essere ammirati e amati, dall’altra rischiano di fornire risposte gravemente patologiche a questi fattori psicologici, deformando in modo permanete e forse irreversibile il modo di stare al mondo e di stare in relazione tra esseri umani. Il rischio è snaturare la forma e struttura dei rapporti interpersonali. Quali cambiamenti apporta la realtà virtuale nelle relazioni interpersonali? •   Annulla le distanze tra le persone. L’abbattimento del confine con l’altro produce numerosissime conseguenze sul piano psicologico; •   Si indebolisce in modo gravemente pericoloso la percezione dell’impatto delle proprie azioni sui corrispettivi destinatari (vedi cyberbullismo, violenza virtuale in genere) con seri risvolti anche sulle azioni messe in atto in modo concreto come derivato di esperienze virtuali prolungate e protratte; •   I rischi sulle nuove generazioni sono altissimi. A lungo termine si può preventivare un irreversibile mutamento degli schemi relazionali. I bambini che trascorrano abitualmente troppo tempo su internet o con i video giochi e pochissimo tempo dentro a interazioni relazionali reali, non potranno acquisire gli schemi di interazione corrispettivi alle vari circostanze sociali (la gestione del conflitto, il litigio; la capacità di affidarsi all’altro nelle varie circostanze di necessità supportava, affettiva, di confronto; la capacità di interagire con l’altro nelle vari circostanze di vita). In altri termini il rischio è che si produca un danno irreversibile rispetto alle abilità sociali; •   Un danno rispetto alla capacità empatica, un danno rispetto alla dimensione emozionale in genere, la capacità di riconoscere, esprimere e gestire le emozioni. •   Nel complesso se ne avrà un impoverimento doloroso sul piano affettivo, relazionale ed emotivo. L’essere umano ha bisogno di relazioni reali, di contatti umani, di interazioni fisiche. Ci stiamo allontanando da queste dimensioni acuendo le paure che ad esse si correlano illudendoci di averne trovato l’antidoto, mentre invece ciò di cui abbiamo veramente bisogno è una reale evoluzione che ci porti a  migliorare le nostre capacità di stare in relazione con l’altro al fine di goderne al meglio. Soluzioni: Il mondo virtuale è una preziosa risorsa. Sarebbe assolutamente errato pensare che sia un nostro nemico da combattere. È il frutto di un progresso evolutivo della specie di cui dobbiamo saggiamente avvalerci per evolvere ulteriormente, piuttosto che finirne schiacciati addirittura involvendo, come si rischia, se non si gestisce con appropriatezza queste realtà. La strada è veicolare informazioni corrette sulla natura umana. Il mondo virtuale occorre che sempre più si interroghi su cosa è sano e cosa non lo è per le menti umane con cui si connette. È opportuno che si operi dentro criteri etici che facciano da filtro, promuovendo e veicolando solo prodotti eticamente validi. Sarebbe auspicabile che si investisse in prodotti (app) che promuovano i processi evolutivi della specie (anziché il contrario), che cioè venissero studiati in modo da favorire le evoluzioni delle varie aree: cognitiva, emotiva, sociale, ecc.",
-      "language": "Italiano",
-      "speakers": ["SabrinaDAmanti"],
-      "tags": ["IWD/Diversity"],
-      "title": "Risvolti sociali dell'uso dei social - cosa cambia nello stare in relazione"
-    },
-    "43": {
-      "complexity": "",
-      "description": "La mia sessione è un talk che parla di diversity ed è diviso concettualmente in due parti. Nella prima parte si parla del ruolo della donna nell'ambito tech e le principali difficoltà che si incontrano, raccontando la mia esperienza personale e qualche aneddoto su come superare queste difficoltà. Nella seconda parte si allarga il concetto di diversità intendendolo come quelle insieme di caratteristiche che rendono unico ognuno di noi e sulle quali possiamo far leva in un team per raggiungere risultati di business importanti.",
-      "language": "Italiano",
-      "speakers": ["ValentinaGiovinazzo"],
-      "tags": ["IWD/Diversity"],
-      "title": "La diversità come valore"
-    },
-    "44": {
-      "complexity": "",
-      "description": "Questo talk porrà l'accento sul come le diverse culture stanno affrontando l'emergenza Covid-19, fenomeno tipicamente complesso (vedi link sul Filosofo della Complessità e Accademico Mauro Ceruti), sia dal punto di vista antropologico/sociologico che dal punto di vista psicologico. Verranno messi in risalto il ruolo delle donne, i diritti umani/civili, la differenza di genere, le problematiche pregresse relative alle differenze delle classi sociali, l'importanza della comunicazione in casi di crisi (basti pensare all'Osservatorio sulla comunicazione in tempo di crisi organizzato dal Prof. Stefano Rolando dell'Università IULM), l'apprendimento (didattica a distanza, mediazione interlinguistica, DSA), i processi cognitivi ed emotivi (emozioni, il non contatto umano, nuove patologie), i nuovi stili di vita, ecc. L'idea è quella di analizzare e mettere a confronto più casi possibili ai fini di sottolineare come il Covid-19 abbia stravolto la nostra psiche e le nostre abitudini in tutte le parti del Globo. Ci sarà uno spazio dedicato alle domande =)",
-      "language": "Italiano",
-      "speakers": ["ValentinaAnnaVentura", "MariangelaTandurella"],
-      "tags": ["IWD/Diversity"],
-      "title": "La diversità ai tempi del Covid-19"
-    },
-    "52": {
-      "complexity": "",
-      "description": "In piena emergenza Covid-19, Cloudtec è stata chiamata a sviluppare una istanza specializzata della propria soluzione Cloudbot al fine di realizzare, in tempi rapidissimi, un Assistente Digitale per la Protezione Civile della Città di Palermo. Il risultato è stato Cloudbot Covid-19, un Assistente Virtual sviluppato con tecnologia Google Cloud pronto all’uso e compatibile con tutti i siti web in modalità chat e con tutti i dispositivi mobili Android e iOS grazie al pieno supporto di Google Assistant oltre che Google Home e Google Mini.",
-      "language": "Italiano",
-      "speakers": ["StefanoCarlini"],
-      "tags": ["Machine Learning"],
-      "title": "Cloudbot for Covid-19"
-    },
-    "53": {
-      "complexity": "",
-      "description": "Il deep learning è attualmente  utilizzato in un'ampia varietà di applicazioni. I dispositivi su cui viene utilizzato, come gli smartphone e i sensori Internet-of-Things, generano dati che devono essere analizzati in tempo reale utilizzando il deep learning o utilizzati per fare il training di modelli di reti neurali. Tuttavia, l'inference e il training richiedono notevoli risorse di calcolo per funzionare velocemente, specialmente nel caso in cui questi modelli debbano girare su sensori e device che sono sulla edge, con poche risorse di calcolo, batterie che non durano a lungo e spesso senza connessione a internet. Per velocizzare le operazioni che le reti neurali devono compiere su questi device, hardware dedicato come le TPU (Tensor Processing Unit) è stato sviluppato ed è disponibile anche a basso costo su device, come le schede Coral prodotte da Google. In questo talk andremo a vedere come funzionano questi chip specializzati per fare girare modelli di reti neurali e come è possibile sviluppare modelli ottimizzati per tali device con TensorFlow Lite, la libreria di Google per compilare apposta modelli per device come il Raspberry Pi o il Google Coral Device.",
-      "language": "Italiano",
-      "speakers": ["UmbertoMichelucci"],
-      "tags": ["Machine Learning"],
-      "title": "TPUs and TensorFlow Lite - un'introduzione"
-    },
-    "54": {
-      "complexity": "",
-      "description": "L’apprendimento per rinforzo è uno dei paradigmi più affascinanti nell'ambito dell’apprendimento automatico e sta suscitando sempre più interesse dalla comunità scientifica che ne sta ampliando i contesti applicativi. In questo talk si illustreranno i concetti base di questo paradigma e la spiegazione del Q-Learning, un algoritmo risolutivo, nonché la sua applicazione nel caso di studio Maze game.",
-      "language": "Italiano",
-      "speakers": ["LucaDiVita"],
-      "tags": ["Machine Learning"],
-      "title": "Errare humanum est, le macchine invece imparano"
-    },
-    "61": {
-      "complexity": "",
-      "description": "Creare un'app mobile senza Dependency Injection è, al giorno d'oggi, molto difficile. E finora, questo significava Dagger. Grazie alla code generation e altre funzionalità, questo framework si è imposto come standard di fatto su Android. Ma è davvero l'unica opzione? In questo talk andremo ad analizzare uno degli sfidanti più conosciuti, attraverso un'analisi dettagliata di Koin e una comparazione punto a punto con Dagger.",
-      "language": "Italiano",
-      "speakers": ["RobertoOrgiu"],
-      "tags": ["Mobile"],
-      "title": "Flipping the Koin"
-    },
-    "65": {
-      "complexity": "",
-      "description": "Voglia di dare una smossa alle vostre applicazioni? Grazie al sistema di animazioni di Flutter è semplice realizzare animazioni complesse e d'impatto! Insieme vedremo come utilizzare al meglio gli AnimatedContainer e come realizzare una semplice login con una marcia in più!",
-      "language": "Italiano",
-      "speakers": ["CarloLucera"],
-      "tags": ["Mobile"],
-      "title": "Animate your Flutter application"
-    },
-    "66": {
-        "complexity": "",
-        "description": "Sia sviluppando app mobile che siti web, gli schermi utilizzati dai nostri utenti sono i più disparati, ma ce n'e' ancora uno che spesso viene ignorato, nonostante sia quello con maggiore potenziale: la TV. In questo talk vedremo un'introduzione a Google Cast, e come questo possa essere usato, non solo da app mobile ma anche da siti web, per fornire uno spazio maggiore e centrale ai contenuti più importanti.",
-        "language": "Italiano",
-        "speakers": ["DanieleBonaldo"],
-        "tags": ["Mobile"],
-        "title": "Google Cast, when one screen is not enough"
-    }
-  },
-  "speakers": {
-    "ValentinaGiovinazzo": {
-      "bio": "Sono Valentina Giovinazzo, ho 28 anni e sono di Roma. Lavoro in ConTe.it da 5 anni, azienda presso la quale ho svolto mansioni diverse. Ho iniziato come consulente assicurativo, lavoro intrapreso per mantenermi gli studi. All'interno di ConTe.it poi ho avuto l'occasione tramite concorso interno di diventare un'analista di business, esperienza che mi ha aperto le porte nel mondo IT dandomi la possibilità di diventare product owner e avvicinarmi al mondo dello sviluppo. Durante questa esperienza ho avuto modo di conoscere i responsabili IT che mi hanno dato la possibilità di passare al lato oscuro della forza (dal business a IT) diventando team leader di un'area di sviluppo: quella digital, che noi chiamiamo \"customer experience\" perché ci occupiamo di tutto ciò che è a diretto contatto col nostro cliente finale. Non ho quindi un background tech, ma lavorando con i ragazzi mi sono appassionata a questo mondo, sto studiando molto e mi piacerebbe portare la mia esperienza di diversità in un contesto tecnico.",
-      "company": "",
-      "companyLogoUrl": "",
-      "country": "Italy",
-      "name": "Valentina Giovinazzo",
-      "order": 33,
-      "photoUrl": "https://sessionize.com/image?f=66df2709ac4b66c0d1c00a960d4e8e17,200,200,1,0,4b-7077-41e1-92c7-ee186956ccaf.6fa75507-7ded-440d-84c2-3571093903b5.png",
-      "shortBio": "IT team leader presso ConTe.it - Admiral Group, area Digital",
-      "title": "IT team leader presso ConTe.it - Admiral Group, area Digital",
-      "socials": [
-          {
-              "icon" : "linkedin",
-              "link" : "https://www.linkedin.com/in/valentina-giovinazzo-5b0672110/",
-              "name" : "LinkedIn"
-          }
-      ],
-      "badges": [
-      ]
-    },
-    "ValentinaAnnaVentura": {
-      "bio": "https://italia.campus-party.org/cpstories/valentina-ventura-a-cpit3/",
-      "company": "",
-      "companyLogoUrl": "",
-      "country": "Italy",
-      "name": "Valentina Anna Ventura",
-      "order": 34,
-      "photoUrl": "https://sessionize.com/image?f=847e2d1e64357bea8e4301b8c26ff0b8,200,200,1,0,645c2a74-591c-434f-abf2-5cbc4f7b6365.jpg",
-      "shortBio": "GDG GELA, WTM, Women Techmakers, Google Developer Group Gela",
-      "title": "GDG GELA, WTM, Women Techmakers, Google Developer Group Gela",
-      "socials": [
-          {
-              "icon" : "twitter",
-              "link" : "https://twitter.com/valeventura13",
-              "name" : "Twitter"
-          }
-          ,{
-              "icon" : "facebook",
-              "link" : "https://www.facebook.com/valentinavventura",
-              "name" : "Facebook"
-          }
-      ],
-      "badges": [
-        {
-          "description": "Google Developers Group Gela",
-          "link": "https://www.meetup.com/Google-Developer-Group-Gela-GDG-Gela/",
-          "name": "gdg"
-        }
-      ]
-    },
-    "SabrinaDAmanti": {
-      "bio": "Sono psicologa e psicoterapeuta ad orientamento analitico transazionale. Lavoro in quest'ambito dal 2000, anno in cui ho iniziato la mia prima attività come psicologa nelle scuole. Lavoro come psicoterapeuta con studio privato dal 2005. Mi occupo di formazione e sono autrice di articoli divulgativi presenti on line e di articoli specialistici e di libri di psicologia. Sono ricercatrice nell'ambito della comunicazione disfunzionale, le scoperte da me realizzate in quest'ambito sono riportate in vari articoli e libri.",
-      "company": "",
-      "companyLogoUrl": "",
-      "country": "Italy",
-      "name": "Sabrina D'Amanti",
-      "order": 29,
-      "photoUrl": "https://sessionize.com/image?f=565a97d52890cb2fc79b1303bcfb4224,200,200,1,0,a68db51c-72bd-4bdf-aa3b-72254811d0c3.jpg",
-      "shortBio": "Psicologa e psicoterapeuta",
-      "title": "Psicologa e psicoterapeuta",
-      "socials": [
-      ],
-      "badges": [
-      ]
-    },
-    "RihannaKedir": {
-      "bio": "Rihanna is a passionate software engineer, maker and new tech enthusiast. She strongly believes in the importance of sharing knowledge and experience and that is why in her spare time she does volunteering as mentor and speaker in various communities and events. As co-leader of GDG Rome  and Women TechMakers Ambassador, she participates not only in organizing different kinds of events but also in preparing various types of technical and non technical contents and speaks.",
-      "company": "",
-      "companyLogoUrl": "",
-      "country": "Italy",
-      "name": "Rihanna Kedir",
-      "order": 27,
-      "photoUrl": "https://sessionize.com/image?f=47d5e3c09f03cd422ec38fe778f86d31,200,200,1,0,43-e017-4f2e-8d4f-5cea427a0bcf.d33c2641-589c-4d37-9df4-5a5258edec33.jpg",
-      "shortBio": "GDE web technologies",
-      "title": "GDE web technologies",
-      "socials": [
-          {
-              "icon" : "twitter",
-              "link" : "https://twitter.com/rihanna_ke",
-              "name" : "Twitter"
-          }
-          ,{
-              "icon" : "linkedin",
-              "link" : "https://www.linkedin.com/in/rihanna-kedir-05068568/",
-              "name" : "LinkedIn"
-          }
-          ,{
-              "icon" : "facebook",
-              "link" : "https://www.facebook.com/rihanna.ke",
-              "name" : "Facebook"
-          }
-          ,{
-              "icon" : "website",
-              "link" : "https://medium.com/@rihanna.ke",
-              "name" : "Web Site"
-          }
-      ],
-      "badges": [
-          {
-            "description": "Google Developers Group Roma",
-            "link": "https://www.meetup.com/GDG-Roma",
-            "name": "gdg"
-          },
-          {
-            "description": "Google Developers Expert - Web Technologies",
-            "link": "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-rihanna_kedir_ibrahim",
-            "name": "gde"
-          },
-          {
-            "description": "WTM Ambassador",
-            "link": "https://www.womentechmakers.com/ambassadors/rihanna-kedir",
-            "name": "wtm"
-          }
-      ]
-    },
-    "FrancescoSciuti": {
-      "bio": "A talented and accomplished programmer extremely competent after several years of experience in enterprise programming , high skilled in web development (frontend and backend) and in team project management. I have a keen interest in new technologies and in IT development and I’m always upgrading and evaluating my knowledge and skills to stay at the cutting-edge of web development. My outstanding verbal and written communication skills let me involved in lots of meetings, workshop and courses both in Sicily and in Italy as a speaker and tech event organizer. Focused on continual professional and technological improvement: books, courses, articles, forums and regular attender of tech events where I can meet new and interesting people with which exchange as much as possible ideas and technical knowledge. I want to put myself in challenges both in the personal and professional side and this is way I’m involved ,as an active contributor, in many Italian communities (Angular ,React, Javascript ,GDG, PUG, etc…) and I contribute as a counselor to CoderDojo Foundation (Computational youth learning). I’ve worked for a long time as a employee and then as a freelancer, but nowadays I has my own company: Acadevmy – Software Factory, founded with my friends Andrea and Salvo.",
-      "company": "",
-      "companyLogoUrl": "",
-      "country": "Italy",
-      "name": "Francesco Sciuti",
-      "order": 14,
-      "photoUrl": "https://sessionize.com/image?f=4121409f987713382ad4aee72c5dea3d,200,200,1,0,42-456a-4934-a1ac-414d4ba2990b.71973600-d633-4263-8a5f-af81a0d4dd94.jpg",
-      "shortBio": "CEO @ Acadevmy srl",
-      "title": "CEO @ Acadevmy srl",
-      "socials": [
-          {
-              "icon" : "twitter",
-              "link" : "https://twitter.com/FrancescoSciuti",
-              "name" : "Twitter"
-          }
-          ,{
-              "icon" : "linkedin",
-              "link" : "https://www.linkedin.com/in/francescosciuti/",
-              "name" : "LinkedIn"
-          }
-          ,{
-              "icon" : "facebook",
-              "link" : "https://www.facebook.com/francesco.sciuti",
-              "name" : "Facebook"
-          }
-      ],
-      "badges": [
-        {
-          "description": "Google Developers Group Catania",
-          "link": "https://www.meetup.com/it-IT/GDG-Catania/",
-          "name": "gdg"
-        }
-      ]
-    },
-    "AndreaSimoneCosta": {
-      "bio": "FrontEnd Developer e studente di Informatica presso l'Università di Pisa, si appassiona alla programmazione durante gli studi in Elettronica per poi immergersi nell'universo JS, trovando in Vue un perfetto compagno di avventure.",
-      "company": "",
-      "companyLogoUrl": "",
-      "country": "Italy",
-      "name": "Andrea Simone Costa",
-      "order": 5,
-      "photoUrl": "https://sessionize.com/image?f=4a59c519ae94bf96f6c24329292f3a7c,200,200,1,0,5b-a7b6-4f4f-8eed-72fae10ee3f6.bd5052ab-6a56-49b7-acb4-04b6177c78d4.jpg",
-      "shortBio": "FrontEnd Developer at ExTelos",
-      "title": "FrontEnd Developer at ExTelos",
-      "socials": [
-          {
-              "icon" : "twitter",
-              "link" : "https://twitter.com/JFieldEffectT",
-              "name" : "Twitter"
-          }
-          ,{
-              "icon" : "linkedin",
-              "link" : "https://www.linkedin.com/in/andrea-simone-costa/",
-              "name" : "LinkedIn"
-          }
-          ,{
-              "icon" : "facebook",
-              "link" : "https://www.facebook.com/andreasimone.costa.5",
-              "name" : "Facebook"
-          }
-          ,{
-              "icon" : "website",
-              "link" : "https://italiancoders.it/",
-              "name" : "Web Site"
-          }
-      ],
-      "badges": [
-      ]
-    },
-    "MariangelaTandurella": {
-      "bio": "Psicologa clinica-esperta in DSA - 35 anni. Cresciuta (ma poi mica tanto!) tra fotografie, libri e viaggi, non ha ancora smesso di sognare un mondo...a misura di bambino!",
-      "company": "",
-      "companyLogoUrl": "",
-      "country": "Italy",
-      "name": "Mariangela Tandurella",
-      "order": 36,
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/speakers%2FMariangelaTandurella.jpg?alt=media&token=1f292df3-fa5f-4617-a53d-ee0e3ee982ad",
-      "shortBio": "Psicologa clinica-esperta in DSA",
-      "title": "Psicologa clinica-esperta in DSA",
-      "socials": [
-          
-      ],
-      "badges": [
-        {
-          "description": "Google Developers Group Gela",
-          "link": "https://www.meetup.com/Google-Developer-Group-Gela-GDG-Gela/",
-          "name": "gdg"
-        }
-      ]
-    },
-    "RobertoOrgiu": {
-      "bio": "Born in Italy in 1987, passionate for everything that switches on and off and particularly for handheld and wearable devices. I love to learn new languages such as Kotlin, patterns and everything Android-related. I recently joined The New York Times Android team as Android Engineer.",
-      "company": "",
-      "companyLogoUrl": "",
-      "country": "Italy",
-      "name": "Roberto Orgiu",
-      "order": 28,
-      "photoUrl": "https://sessionize.com/image?f=0fb5ea70903f37204842b616d8a7e856,200,200,1,0,80-f02c-42cf-92db-98e670bef1a6.eefe1bb7-b14f-4b68-a09f-510d368ef096.jpg",
-      "shortBio": "Android Engineer @ NYTimes",
-      "title": "Android Engineer @ NYTimes",
-      "socials": [
-          {
-              "icon" : "twitter",
-              "link" : "http://twitter.com/_tiwiz",
-              "name" : "Twitter"
-          }
-          ,{
-              "icon" : "linkedin",
-              "link" : "http://www.linkedin.com/in/robertoorgiu",
-              "name" : "LinkedIn"
-          }
-          ,{
-              "icon" : "website",
-              "link" : "https://medium.com/@_tiwiz",
-              "name" : "Web Site"
-          }
-      ],
-      "badges": [
-        {
-          "description": "Google Developers Expert - Android, Identity, Internet of Things, Kotlin",
-          "link": "https://developers.google.com/community/experts/directory/profile/profile-roberto_orgiu",
-          "name": "gde"
-        }
-      ]
-    },
-    "LucaDiVita": {
-      "bio": "Master degree in Engineering of computers at Università degli studi de L'Aquila. Enthusiast of Cyber Security and Machine Learning.",
-      "company": "",
-      "companyLogoUrl": "",
-      "country": "Italy",
-      "name": "Luca Di Vita",
-      "order": 19,
-      "photoUrl": "https://sessionize.com/image?f=b7f9e9fa487c03a3a099413df180f401,200,200,1,0,eabebf6a-d508-4118-bdb0-1ef31b827e48.jpg",
-      "shortBio": "Machine Learning Engineer presso AESYS",
-      "title": "Machine Learning Engineer presso AESYS",
-      "socials": [
-          {
-              "icon" : "linkedin",
-              "link" : "https://it.linkedin.com/in/luca-di-vita-563b0a183",
-              "name" : "LinkedIn"
-          }
-      ],
-      "badges": [
-        {
-          "description": "Google Developers Group - Pescara",
-          "link": "https://www.meetup.com/it-IT/GDG-Pescara/",
-          "name": "gdg"
-        }
-      ]
-    },
-    "DanieleBonaldo": {
-      "bio": "Daniele is Android developer passionate about photography, wearable technologies and Internet of Things. Before working for Novoda, he worked at i’m Spa, an Italian startup where he had the chance to play with the Android platform while developing one of the first smartwatches on the market. International conference speaker and Google Developer Expert, now he loves to work on everything related to the Android ecosystem, from Chromecast to Wear to smart mirrors.",
-      "company": "",
-      "companyLogoUrl": "",
-      "country": "Italy",
-      "name": "Daniele Bonaldo",
-      "order": 9,
-      "photoUrl": "https://sessionize.com/image?f=ff0ca91f65222606df00fd51b92cf417,200,200,1,0,a6138775-ab60-488b-98d0-1e1005428fc1.jpg",
-      "shortBio": "Android Developer and GDE",
-      "title": "Android Developer and GDE",
-      "socials": [
-          {
-              "icon" : "twitter",
-              "link" : "https://twitter.com/danybony_",
-              "name" : "Twitter"
-          }
-          ,{
-              "icon" : "linkedin",
-              "link" : "https://www.linkedin.com/in/danielebonaldo",
-              "name" : "LinkedIn"
-          }
-          ,{
-              "icon" : "website",
-              "link" : "https://www.danielebonaldo.com/",
-              "name" : "Web Site"
-          }
-      ],
-      "badges": [
-        {
-          "description": "Google Developers Expert - Android, Internet of Things, Wearables",
-          "link": "https://developers.google.com/community/experts/directory/profile/profile-daniele_bonaldo",
-          "name": "gde"
-        }
-      ]
-    },
-    "CarloLucera": {
-      "bio": "Conosciuto sul Web come HatDroid, Carlo è un entusiasta delle nuove tecnologie ed uno sviluppatore Android. Da sempre alla ricerca di nuove tecniche e strategie per migliorarsi.",
-      "company": "",
-      "companyLogoUrl": "",
-      "country": "Italy",
-      "name": "Carlo Lucera",
-      "order": 7,
-      "photoUrl": "https://sessionize.com/image?f=bd896fc0aa47c025d93311746f6e7634,200,200,1,0,63-3a70-4761-9d5a-87734da756fa.a78927fb-1b14-4034-be86-723d4479fde8.jpg",
-      "shortBio": "HatDroid! Android & Flutter devN",
-      "title": "HatDroid! Android & Flutter devN",
-      "socials": [
-          {
-              "icon" : "twitter",
-              "link" : "https://twitter.com/hat_droid",
-              "name" : "Twitter"
-          }
-          ,{
-              "icon" : "linkedin",
-              "link" : "https://www.linkedin.com/in/clucera/",
-              "name" : "LinkedIn"
-          }
-          ,{
-              "icon" : "facebook",
-              "link" : "https://www.facebook.com/hatdroid",
-              "name" : "Facebook"
-          }
-      ],
-      "badges": [
-        {
-          "description": "Google Developers Group Palermo",
-          "link": "https://www.meetup.com/it-IT/GDGPalermo/",
-          "name": "gdg"
-        }
-      ]
-    },
-    "UmbertoMichelucci": {
-      "bio": "Umberto Michelucci è co-founder e chief AI Scientist di TOELT LLC, un'azienda che mira a sviluppare nuovi e moderni metodi di insegnamento, coaching e ricerca per l'AI per rendere le tecnologie e la ricerca AI accessibili ad ogni azienda e a tutti. È esperto in simulazione numerica, statistica, data science e machine learning. Oltre a diversi anni di esperienza nella ricerca presso la George Washington University (USA) e l'Università di Augsburg (DE), ha 15 anni di esperienza pratica nel campo del data warehouse, di data science e del machine learning. Il suo primo libro, Applied Deep Learning-A Case-Based Approach to Understanding Deep Neural Networks, è stato pubblicato da Springer nel 2018. Ha pubblicato il suo nuovo libro, Convolutional and Recurrent Neural Networks Theory and Applications nel 2019. È molto attivo nella ricerca nel campo dell'intelligenza artificiale. Pubblica regolarmente i risultati delle sue ricerche su importanti riviste e tiene regolarmente conferenze a conferenze internazionali. Umberto ha studiato fisica e matematica. È docente presso la ZHAW University of Applied Sciences per il deep learning e per la teoria e le applicazioni delle reti neurali. È anche lo head dell'AI Center of Excellence all'Helsana Versicherung AG. È anche un Google Developer Expert in Machine Learning con sede in Svizzera.",
-      "company": "",
-      "companyLogoUrl": "",
-      "country": "Italy",
-      "name": "Umberto Michelucci",
-      "order": 32,
-      "photoUrl": "https://sessionize.com/image?f=1a72c2c8a52f6d31896e1ed51d9298a1,200,200,1,0,ba87072c-025b-413f-9226-43ceb5c8a6b5.jpg",
-      "shortBio": "Google Developer Expert in Machine Learning, founder of TOELT LLC",
-      "title": "Google Developer Expert in Machine Learning, founder of TOELT LLC",
-      "socials": [
-          {
-              "icon" : "linkedin",
-              "link" : "https://www.linkedin.com/in/umbertomichelucci/",
-              "name" : "LinkedIn"
-          }
-          ,{
-              "icon" : "website",
-              "link" : "http://blog.toelt.ai",
-              "name" : "Web Site"
-          }
-      ],
-      "badges": [
-        {
-          "description": "Google Developers Expert - Machine Learning",
-          "link": "https://developers.google.com/community/experts/directory/profile/profile-umberto_michelucci",
-          "name": "gde"
-        }
-      ]
-    },
-    "StefanoCarlini": {
-      "bio": "Mi occupo di Informatica applicata alle Telecomunicazioni e al Cloud Computing e sono un esperto in ambito Free and Open Source Software (FLOSS); mi dedico con passione alle soluzioni offerte dalle tecnologie Google Cloud (formerly Google for Work) e a tutto ciò che è inerente a Voice over IP (VoIP) e Unified Communication and Collaboration (UC&C). Dopo diverse esperienza in ambito Telco e Google Cloud, nel 2019 sono stato co-founder di Cloudtec, startup innovativa che offre servizi e soluzioni in ambito Public and Hybrid Cloud Computing con l’obiettivo di posizionarsi come operatore ad alto valore aggiunto specializzato nella realizzazione di progetti basati su tecnologie innovative, quali  Intelligenza Artificiale, Machine Learning, IoT, Visione aumentata.",
-      "company": "",
-      "companyLogoUrl": "",
-      "country": "Italy",
-      "name": "Stefano Carlini",
-      "order": 31,
-      "photoUrl": "https://sessionize.com/image?f=486ccf8cb3c82eaca4708b9d08b5ee56,200,200,1,0,708b244d-d38a-4a6a-b7f2-d1a5c0b655e8.jpg",
-      "shortBio": "Cloudtec, Head of Business Development",
-      "title": "Cloudtec, Head of Business Development",
-      "socials": [
-          {
-              "icon" : "linkedin",
-              "link" : "https://www.linkedin.com/in/stefanocarlini/",
-              "name" : "LinkedIn"
-          }
-          ,{
-              "icon" : "website",
-              "link" : "https://www.cloudtec.it/",
-              "name" : "Web Site"
-          }
-      ],
-      "badges": [
-      ]
-    }
-  },
-  "team": [
-    {
-      "members": [
-        {
-          "name": "Gregorio Palamà",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FGregorioPalama.png?alt=media&token=e3a79ce0-22c3-416b-a880-dca17b98455a",
-          "gdg": "GDG Pescara",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/gregoriopalama",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/gregorio-palam%C3%A0/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 0,
-          "title": "Coordinamento"
-        },
-        {
-          "name": "Francesco Pirrone",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FFrancescoPirrone.jpg?alt=media&token=47f33280-2536-4aff-9d25-80c7b0eb54c0",
-          "gdg": "GDG Cloud Torino",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/cfrancescop",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/francesco-pirrone-5b3641116/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 1,
-          "title": "Infrastruttura"
-        },
-        {
-          "name": "Gianni Forlastro",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FGianniForlastro.png?alt=media&token=67ede0e7-b744-47ce-8ae2-3c3bdc8b6aa9",
-          "gdg": "GDG Cloud Torino",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/gianni.forlastro",
-              "name": "Facebook"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/giovanni-forlastro/",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "instagram",
-              "link": "https://www.instagram.com/mosquitoman81/",
-              "name": "Instagram"
-            }
-          ],
-          "order": 2,
-          "title": "Contenuti"
-        },
-        {
-          "name": "Leonardo Dipilato",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FLeonardoDipilato.jpg?alt=media&token=94a7f8a1-4a17-4d84-b87d-1af1036bf23f",
-          "gdg": "GDG Pisa",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/leonardo.dipilato.3/",
-              "name": "Facebook"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/leonardo-dipilato-512a42167/",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "medium",
-              "link": "https://medium.com/@leonardipilato",
-              "name": "Medium"
-            }
-          ],
-          "order": 3,
-          "title": "Contenuti"
-        },
-        {
-          "name": "Stefano Tomasi",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FStefanoTomasi.png?alt=media&token=2bb61888-ae19-4396-820f-e07f9d9d7715",
-          "gdg": "GDG Trento",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/GDGTrento//",
-              "name": "Facebook"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://it.linkedin.com/in/stefanotomasi-web",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 4,
-          "title": "Comunicazione"
-        },
-        {
-          "name": "Mattia Piccirillo",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FMattiaPiccirillo.jpg?alt=media&token=35b4f067-a933-40f6-8b46-0e997ace43fc",
-          "gdg": "GDG Firenze",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/mattiapiccirillo.google/",
-              "name": "Facebook"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/mattiapiccirillo/",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "instagram",
-              "link": "https://www.instagram.com/mattiapiccirillo14/",
-              "name": "Instagram"
-            }
-          ],
-          "order": 5,
-          "title": "Infrastruttura"
-        },
-        {
-          "name": "Asia Salvaterra",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FAsiaSalvaterra.png?alt=media&token=30ad6303-b4af-4cb4-b79d-c5131e512ec3",
-          "gdg": "GDG Trento",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/asiasalva",
-              "name": "Facebook"
-            },
-            {
-              "icon": "instagram",
-              "link": "https://www.instagram.com/asiasalva/",
-              "name": "Instagram"
-            }
-          ],
-          "order": 6,
-          "title": "Comunicazione"
-        },
-        {
-          "name": "Giacomo Ranieri",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FGiacomoRanieri.jpg?alt=media&token=42453fee-ba11-4a21-925e-df625529c759",
-          "gdg": "GDG Torino",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/giacomo-ranieri-27081987",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 7,
-          "title": "Infrastruttura"
-        },
-        {
-          "name": "Nicola Corti",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FNicolaCorti.jpeg?alt=media&token=86274a9a-79e4-4f9a-90b2-c732f0b057a4",
-          "gdg": "GDG Pisa",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/cortinico",
-              "name": "Twitter"
-            },
-            {
-              "icon": "github",
-              "link": "https://github.com/cortinico",
-              "name": "Github"
-            },
-            {
-              "icon": "website",
-              "link": "https://ncorti.com",
-              "name": "Website"
-            }
-          ],
-          "order": 8,
-          "title": "Infrastruttura"
-        },
-        {
-          "name": "Saveria Serena Foti",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FSaveriaSerenaFoti.jpg?alt=media&token=a52e703a-847a-464b-86d2-e5b31c840d9e",
-          "gdg": "GDG Nebrodi",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/saveria-serena-foti/",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "instagram",
-              "link": "https://www.instagram.com/serenithyweb/",
-              "name": "Instagram"
-            }
-          ],
-          "order": 8,
-          "title": "Comunicazione & Community Engagement"
-        },
-        {
-          "name": "Michela Bertaina",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FMichelaBertaina.jpeg?alt=media&token=de3ecd2e-06b6-4cb9-8230-fcdb6046428f",
-          "gdg": "GDG Bari",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/bertainamichela",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/michela-bertaina-b79203125/",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/michela.bertaina",
-              "name": "Facebook"
-            }
-          ],
-          "order": 9,
-          "title": "Coordinamento"
-        },
-        {
-          "name": "Juna Salviati",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FJunaSalviati.png?alt=media&token=69ba69bc-d617-478c-9ecd-44992b33b104",
-          "gdg": "GDG Roma",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/1littleendian",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/junasalviati/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 10,
-          "title": "Infrastruttura"
-        },
-        {
-          "name": "Alessio Rizzolo",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FAlessioRizzolo.jpg?alt=media&token=886c6199-39ed-42a1-8a3d-d2abf1a09aee",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/rizzolessio/",
-              "name": "Linkedin"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/rizzolessio",
-              "name": "Twitter"
-            },
-            {
-              "icon": "instagram",
-              "link": "https://www.instagram.com/rizzolessio/",
-              "name": "Instagram"
-            }
-          ],
-          "order": 11,
-          "gdg": "GDG Torino",
-          "title": "Comunicazione"
-        },
-        {
-          "name": "Loredana Frontino",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FLoredanaFrontino.png?alt=media&token=3b402b46-1a15-464c-93df-d9f3e0a2f48e",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/loredana-frontino-0a2367132",
-              "name": "Linkedin"
-            }
-          ],
-          "order": 12,
-          "gdg": "GDG Torino",
-          "title": "Comunicazione"
-        },
-        {
-          "name": "Lucia Vigoroso",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FLuciaVigoroso.png?alt=media&token=7f8a1165-aac9-4c39-a0df-2b5ba6e3b455",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/lucia-vigoroso-40267472/",
-              "name": "Linkedin"
-            },
-            {
-              "icon": "instagram",
-              "link": "https://www.instagram.com/lucia_vig/",
-              "name": "Instagram"
-            }
-          ],
-          "order": 13,
-          "gdg": "GDG Torino",
-          "title": "Comunicazione"
-        },
-        {
-          "name": "Santino Caruso",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FSantoCaruso.png?alt=media&token=24f91f1a-ba6e-4ac6-a1c4-87974aeffbfd",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/santocaruso/",
-              "name": "Linkedin"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/ssantinocaruso",
-              "name": "Twitter"
-            }
-          ],
-          "order": 14,
-          "gdg": "GDG Cosenza",
-          "title": "Infrastruttura"
-        },
-        {
-          "name": "Nicola Guglielmi",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FNicolaGuglielmi.jpg?alt=media&token=de2cb4bd-1fe4-4649-8e25-11d9c81bb3e3",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/nicola-guglielmi/",
-              "name": "Linkedin"
-            }
-          ],
-          "order": 15,
-          "gdg": "GDG Campobasso",
-          "title": "Follow-up"
-        },
-        {
-          "name": "Noelia Di Pretoro",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FNoeliaDiPretoro.jpg?alt=media&token=1a6e3c72-8019-4ad6-92ae-02ff31830175",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://it.linkedin.com/in/noelia-di-pretoro",
-              "name": "Linkedin"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/noelia.dipretoro",
-              "name": "Facebook"
-            }
-          ],
-          "order": 16,
-          "gdg": "GDG Campobasso",
-          "title": "Community engagement"
-        },
-        {
-          "name": "Martina Chillura",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FMartinaChillura.jpeg?alt=media&token=d038981a-7c7c-4f61-9da1-e337562462dc",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/martina-chillura",
-              "name": "Linkedin"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/martina.chillura",
-              "name": "Facebook"
-            },
-            {
-              "icon": "instagram",
-              "link": "https://www.instagram.com/blueblocky/",
-              "name": "Instagram"
-            }
-          ],
-          "order": 17,
-          "gdg": "",
-          "title": "Community engagement"
-        }
-      ],
-      "title": "Core Team"
-    }
-  ],
-  "tickets": [
-    {
-      "available": true,
-      "currency": "",
-      "ends": "3 Maggio",
-      "info": "Regular",
-      "name": "Regular",
-      "price": "Gratuito",
-      "soldOut": false,
-      "starts": "2 Maggio",
-      "url": "https://www.eventbrite.it/e/biglietti-gdg-devparty-together-102721366372?aff=website"
-    }
-  ],
-  "triggers": {
-    "images": false
-  }
+			],
+			"order": 1,
+			"title": "General Partner"
+		},
+		{
+			"logos": [{
+				"order": 0,
+				"logoUrl": "../images/logos/jetbrains.png",
+				"name": "JetBrains",
+				"url": "https://www.jetbrains.com/"
+			}],
+			"order": 2,
+			"title": "Supporters"
+		}
+	],
+	"schedule": {
+		"2020-05-02": {
+			"dateReadable": "2 Maggio",
+			"timeslots": [{
+					"endTime": "15:20",
+					"sessions": [{
+						"items": [
+							100
+						]
+					}],
+					"startTime": "15:00"
+				},
+				{
+					"endTime": "16:05",
+					"sessions": [{
+							"items": [
+								14
+							]
+						},
+						{
+							"items": [
+								105
+							]
+						},
+						{
+							"items": [
+								44
+							]
+						}
+					],
+					"startTime": "15:20"
+				},
+				{
+					"endTime": "16:50",
+					"sessions": [{
+							"items": [
+								12
+							]
+						},
+						{
+							"items": [
+								61
+							]
+						},
+						{
+							"items": [
+								42
+							]
+						}
+					],
+					"startTime": "16:05"
+				},
+				{
+					"endTime": "17:00",
+					"sessions": [{
+						"items": [
+							110
+						]
+					}],
+					"startTime": "16:50"
+				},
+				{
+					"endTime": "17:45",
+					"sessions": [{
+							"items": [
+								13
+							]
+						},
+						{
+							"items": [
+								105
+							]
+						},
+						{
+							"items": [
+								105
+							]
+						}
+					],
+					"startTime": "17:00"
+				},
+				{
+					"endTime": "18:30",
+					"sessions": [{
+							"items": [
+								105
+							]
+						},
+						{
+							"items": [
+								105
+							]
+						},
+						{
+							"items": [
+								105
+							]
+						}
+					],
+					"startTime": "17:45"
+				},
+				{
+					"endTime": "18:40",
+					"sessions": [{
+						"items": [
+							110
+						]
+					}],
+					"startTime": "18:30"
+				},
+				{
+					"endTime": "19:25",
+					"sessions": [{
+							"items": [
+								105
+							]
+						},
+						{
+							"items": [
+								66
+							]
+						},
+						{
+							"items": [
+								43
+							]
+						}
+					],
+					"startTime": "18:40"
+				},
+				{
+					"endTime": "20:15",
+					"sessions": [{
+							"items": [
+								105
+							]
+						},
+						{
+							"items": [
+								65
+							]
+						},
+						{
+							"items": [
+								105
+							]
+						}
+					],
+					"startTime": "19:25"
+				},
+				{
+					"endTime": "20:30",
+					"sessions": [{
+						"items": [
+							101
+						]
+					}],
+					"startTime": "20:15"
+				}
+			],
+			"tracks": [{
+					"title": "Cloud Computing"
+				},
+				{
+					"title": "Mobile"
+				},
+				{
+					"title": "IWD / Diversity"
+				}
+			]
+		},
+		"2020-05-03": {
+			"dateReadable": "3 Maggio",
+			"timeslots": [{
+					"endTime": "15:10",
+					"sessions": [{
+						"items": [
+							100
+						]
+					}],
+					"startTime": "15:00"
+				},
+				{
+					"endTime": "15:55",
+					"sessions": [{
+							"items": [
+								105
+							]
+						},
+						{
+							"items": [
+								24
+							]
+						},
+						{
+							"items": [
+								34
+							]
+						}
+					],
+					"startTime": "15:10"
+				},
+				{
+					"endTime": "16:40",
+					"sessions": [{
+							"items": [
+								53
+							]
+						},
+						{
+							"items": [
+								105
+							]
+						},
+						{
+							"items": [
+								32
+							]
+						}
+					],
+					"startTime": "15:55"
+				},
+				{
+					"endTime": "16:50",
+					"sessions": [{
+						"items": [
+							110
+						]
+					}],
+					"startTime": "16:40"
+				},
+				{
+					"endTime": "17:35",
+					"sessions": [{
+							"items": [
+								105
+							]
+						},
+						{
+							"items": [
+								105
+							]
+						},
+						{
+							"items": [
+								105
+							]
+						}
+					],
+					"startTime": "16:50"
+				},
+				{
+					"endTime": "18:20",
+					"sessions": [{
+							"items": [
+								105
+							]
+						},
+						{
+							"items": [
+								26
+							]
+						},
+						{
+							"items": [
+								33
+							]
+						}
+					],
+					"startTime": "17:35"
+				},
+				{
+					"endTime": "18:30",
+					"sessions": [{
+						"items": [
+							110
+						]
+					}],
+					"startTime": "18:20"
+				},
+				{
+					"endTime": "19:15",
+					"sessions": [{
+							"items": [
+								52
+							]
+						},
+						{
+							"items": [
+								22
+							]
+						},
+						{
+							"items": [
+								105
+							]
+						}
+					],
+					"startTime": "18:30"
+				},
+				{
+					"endTime": "20:00",
+					"sessions": [{
+							"items": [
+								54
+							]
+						},
+						{
+							"items": [
+								105
+							]
+						},
+						{
+							"items": [
+								105
+							]
+						}
+					],
+					"startTime": "19:15"
+				},
+				{
+					"endTime": "20:45",
+					"sessions": [{
+						"items": [
+							102
+						]
+					}],
+					"startTime": "20:00"
+				}
+			],
+			"tracks": [{
+					"title": "Machine Learning"
+				},
+				{
+					"title": "Frontend"
+				},
+				{
+					"title": "Soft Skills"
+				}
+			]
+		}
+	},
+	"sessions": {
+		"100": {
+			"complexity": "",
+			"description": "",
+			"language": "",
+			"speakers": [],
+			"tags": [
+				"Opening",
+				"Apertura"
+			],
+			"icon": "opening",
+			"title": "Keynote di apertura"
+		},
+		"110": {
+			"complexity": "",
+			"description": "",
+			"language": "",
+			"speakers": [],
+			"tags": [
+				"Break"
+			],
+			"icon": "coffee-break",
+			"title": "Pausa"
+		},
+		"105": {
+			"complexity": "",
+			"description": "Da Definire",
+			"language": "Italiano",
+			"speakers": [],
+			"tags": [
+				"Talk"
+			],
+			"icon": "",
+			"title": "TBD"
+		},
+		"106": {
+			"complexity": "",
+			"description": "Da Definire",
+			"language": "",
+			"speakers": [],
+			"tags": [
+				"Workshop"
+			],
+			"title": "Workshop"
+		},
+		"101": {
+			"complexity": "",
+			"description": "Da Definire",
+			"language": "Italiano",
+			"speakers": [],
+			"tags": [
+				"Keynote", "Closing"
+			],
+			"title": "Keynote di chiusura"
+		},
+		"102": {
+			"complexity": "",
+			"description": "Da Definire",
+			"language": "Italiano",
+			"speakers": [],
+			"tags": [
+				"Closing", "Keynote"
+			],
+			"title": "Chiusura conferenza"
+		},
+		"12": {
+			"complexity": "",
+			"description": "La configurazione di un server spiegata come Google leggerebbe una ricetta di GialloZafferano. In questa modalità leggera e scherzosa vedremo come mettere su un Virtual Private Server, cioè uno spazio tutto tuo, a costo fisso, da configurare e gestire come vuoi. Docker ci aiuterà a tenere tutto pulito e in ordine, senza troppi file a giro o dipendenze da aggiornare, anche se decidessimo di condividere il server con degli amici. Portainer ci fornirà una UI per tenere sempre tutto sotto controllo. Traefik mette al centro la sicurezza, gestendo i certificati per le connessioni al posto nostro, in maniera totalmente gratuita, e potremo associare un dominio o sottodominio a ciascun servizio. Watchtower terrà aggiornati tutti i nostri servizi, per avere sempre le ultime versioni con le patch di sicurezze e tutte le future non appena vengono pubblicate. Mettiamo tutto insieme e otteniamo un sistema sicuro, aggiornato, pulito e ordinato dove caricare i nostri progetti con pochissimo sforzo!",
+			"language": "Italiano",
+			"speakers": ["AldoDAquino"],
+			"tags": ["Cloud Computing"],
+			"title": "Okay Google, configuriamo il VPS!"
+		},
+		"13": {
+			"complexity": "",
+			"description": "In this session we will integrate Visual Studio Code in a Pod and we will use it from our browser! Thanks to this technology (theia IDE) we can focus in the future about how to work better remotely and use advantages from executing editor inside K8S. In questa sessione integreremo l'IDE Visual Studio Code dentro un POD e utilizzeremo l'editor direttamente dal browser. Grazie a questa tecnologia (theia IDE) potremmo migliorare il mondo del lavoro da remoto in un futuro prossimo e trarre diversi vantaggi dall'esecuzione del nostro editor all'interno di Kubernetes.",
+			"language": "Italiano",
+			"speakers": ["WalterDalMut"],
+			"tags": ["Cloud Computing"],
+			"title": "An IDE on Kubernetes"
+		},
+		"14": {
+			"complexity": "",
+			"description": "In questa sessione si approfondirà come costruire un'architettura scalabile su GCP, conforme anche agli standard europei (GDPR, EBA, Italian laws)",
+			"language": "Italiano",
+			"speakers": ["AndreaUlisse"],
+			"tags": ["Cloud Computing"],
+			"title": "How to build a scalable & compliant architecture on GCP"
+		},
+		"22": {
+			"complexity": "",
+			"description": "\"E quindi il generic type necessario è ATTCᐸT, Uᐳ = [U] extends [EITᐸTᐳ] ? EITᐸTᐳ extends U ? T : never : never\". Tra keyof, mapped types e conditional types coi controfiocchi, leggere codice TypeScript di livello medio-avanzato sembra essere diventato leggere il copione di \"Amici miei\". La talk si propone di demistificare le principali operazioni eseguibili sui tipi, partendo dal keying-in fino ad arrivare al temutissimo infer U. Avremo modo di esaminare anche i principali mapped types e conditional types messi a disposizione out-of-the-box da TS con qualche esempio pratico, in modo da prendere sufficiente confidenza con queste feature. Chiunque utilizza TypeScript nella propria quotidianità, sia nel FrontEnd che nel BackEnd, è il benvenuto! Lo vedete che stuzzica? Che prematura anche?",
+			"language": "Italiano",
+			"speakers": ["AndreaSimoneCosta"],
+			"tags": ["Frontend"],
+			"title": "Supercazzole in TypeScript"
+		},
+		"24": {
+			"complexity": "",
+			"description": "Sessione di live coding in cui verrà realizzata una piccola applicazione (una sorta di ToDo List) senza utilizzare alcun framework e scrivendo il tutto con qualche web components! Il tutto in mezz'ora...speriamo di farcela! :D",
+			"language": "Italiano",
+			"speakers": ["FrancescoSciuti"],
+			"tags": ["Frontend"],
+			"title": "Web Components: Scriviamo un'applicazione frameworkless in mezz'ora!"
+		},
+		"26": {
+			"complexity": "",
+			"description": "Esistono alcune funzionalità di app native che non è possibile creare e distribuire su open web ad oggi. Il cosiddetto 'app gap', cioè il divario tra ciò che è possibile sul Web e ciò che è possibile su un'app nativa. Il progetto Fugu è nato per colmare questa lacuna. In questo talk sbirciamo le diverse API incluse nel progetto, come applicarli e in quale fase della sperimentazione sono.",
+			"language": "Italiano",
+			"speakers": ["RihannaKedir"],
+			"tags": ["Frontend"],
+			"title": "Bridging the Gap between Web and Native Apps"
+		},
+		"32": {
+			"complexity": "",
+			"description": "In questi anni si è sviluppato sempre di più un approccio agile ed empirico alla gestione dei progetti e dei prodotti. Se da un lato è cresciuta la richiesta di competenze relative a SCRUM, dall’altro il design thinking ha portato una più chiara e semplice comprensione di qual deve essere l’approccio per lo sviluppo dei prodotti, tanto che molti product manager si stanno avvicinando sempre più a questo approccio, nato all’interno del dipartimento di design di Stanford, la famosa \"d.school\". In questo intervento vedremo, tramite un case study su di un prodotto non digitale, come il design thinking possa essere utile nello sviluppo di uno specifico prodotto e come il processo da esso definito sia da un lato semplice e facilmente comprensibile, dall’altro completo e funzionale ai bisogni. L’intervento è rivolto a tutti coloro che vogliono approcciare il design thinking. Come SCRUM, il design thinking è interessante da comprendere e apprendere, qualsiasi sia il proprio ruolo. Esso si fonda su attività di gruppo, in cui tutti possono e devono dare il proprio contributo.",
+			"language": "Italiano",
+			"speakers": ["EliaBellussi"],
+			"tags": ["Soft skill"],
+			"title": "Design Thinking un approccio agile allo sviluppo del prodotto"
+		},
+		"33": {
+			"complexity": "",
+			"description": "Come poter gestire al meglio il lavoro da remoto, anche in questi tempi di emergenza, saltando da una call all'altra su Meet e gli altri n strumenti di videoconference...",
+			"language": "Italiano",
+			"speakers": ["ChristianPezzin"],
+			"tags": ["Soft skill"],
+			"title": "WFH e Smart Working: regole della casa..."
+		},
+		"34": {
+			"complexity": "",
+			"description": "In un contesto Agile i Feature Teams sono una delle strutture organizzative  più efficaci per sviluppare un ecosistema complesso in modo rapido, mantenendo alta la qualità e basso il TCO (total cost of ownership). Spesso questi team sono però vincolati da architetture monolitiche, o a lasagna/spaghetti, che non consentono di operare end-to-end sulle feature, creando dipendenze tra team, colli di bottiglia e frustrazione. Lo stile architetturale a Microservizi (sì, è uno stile e non un pattern e quindi va interpretato a seconda dei casi) da una mano a questi team ad essere più indipendenti tra loro e  li aiuta a lavorare tutti con lo stesso scopo: generare valore per gli utenti finali in modo continuo. In questo talk vedremo come organizzare più team che lavorano su uno stesso prodotto e come lo stile architetturale a Microservizi supporti questa organizzazione evolvendo con l'evolversi dei team.",
+			"language": "Italiano",
+			"speakers": ["GiulioRoggero"],
+			"tags": ["Soft skill"],
+			"title": "Come i Microservizi favoriscono il lavoro dei Feature Teams"
+		},
+		"42": {
+			"complexity": "",
+			"description": "In un mondo sempre più globalizzato e tecnologico, l'uso dei mezzi virtuali che consente di entrare rapidamente in contatto con gli altri sta sempre più modificando il nostro modo di comunicare, di stare in relazione. Queste nuove realtà, da una parte mettono in evidenza fragilità, timori e bisogni esistenziali che appartengono all'uomo di tutti i tempi, la paura della solitudine, la paura di non essere apprezzati, il bisogno di essere ammirati e amati, dall’altra rischiano di fornire risposte gravemente patologiche a questi fattori psicologici, deformando in modo permanete e forse irreversibile il modo di stare al mondo e di stare in relazione tra esseri umani. Il rischio è snaturare la forma e struttura dei rapporti interpersonali. Quali cambiamenti apporta la realtà virtuale nelle relazioni interpersonali? •   Annulla le distanze tra le persone. L’abbattimento del confine con l’altro produce numerosissime conseguenze sul piano psicologico; •   Si indebolisce in modo gravemente pericoloso la percezione dell’impatto delle proprie azioni sui corrispettivi destinatari (vedi cyberbullismo, violenza virtuale in genere) con seri risvolti anche sulle azioni messe in atto in modo concreto come derivato di esperienze virtuali prolungate e protratte; •   I rischi sulle nuove generazioni sono altissimi. A lungo termine si può preventivare un irreversibile mutamento degli schemi relazionali. I bambini che trascorrano abitualmente troppo tempo su internet o con i video giochi e pochissimo tempo dentro a interazioni relazionali reali, non potranno acquisire gli schemi di interazione corrispettivi alle vari circostanze sociali (la gestione del conflitto, il litigio; la capacità di affidarsi all’altro nelle varie circostanze di necessità supportava, affettiva, di confronto; la capacità di interagire con l’altro nelle vari circostanze di vita). In altri termini il rischio è che si produca un danno irreversibile rispetto alle abilità sociali; •   Un danno rispetto alla capacità empatica, un danno rispetto alla dimensione emozionale in genere, la capacità di riconoscere, esprimere e gestire le emozioni. •   Nel complesso se ne avrà un impoverimento doloroso sul piano affettivo, relazionale ed emotivo. L’essere umano ha bisogno di relazioni reali, di contatti umani, di interazioni fisiche. Ci stiamo allontanando da queste dimensioni acuendo le paure che ad esse si correlano illudendoci di averne trovato l’antidoto, mentre invece ciò di cui abbiamo veramente bisogno è una reale evoluzione che ci porti a  migliorare le nostre capacità di stare in relazione con l’altro al fine di goderne al meglio. Soluzioni: Il mondo virtuale è una preziosa risorsa. Sarebbe assolutamente errato pensare che sia un nostro nemico da combattere. È il frutto di un progresso evolutivo della specie di cui dobbiamo saggiamente avvalerci per evolvere ulteriormente, piuttosto che finirne schiacciati addirittura involvendo, come si rischia, se non si gestisce con appropriatezza queste realtà. La strada è veicolare informazioni corrette sulla natura umana. Il mondo virtuale occorre che sempre più si interroghi su cosa è sano e cosa non lo è per le menti umane con cui si connette. È opportuno che si operi dentro criteri etici che facciano da filtro, promuovendo e veicolando solo prodotti eticamente validi. Sarebbe auspicabile che si investisse in prodotti (app) che promuovano i processi evolutivi della specie (anziché il contrario), che cioè venissero studiati in modo da favorire le evoluzioni delle varie aree: cognitiva, emotiva, sociale, ecc.",
+			"language": "Italiano",
+			"speakers": ["SabrinaDAmanti"],
+			"tags": ["IWD/Diversity"],
+			"title": "Risvolti sociali dell'uso dei social - cosa cambia nello stare in relazione"
+		},
+		"43": {
+			"complexity": "",
+			"description": "La mia sessione è un talk che parla di diversity ed è diviso concettualmente in due parti. Nella prima parte si parla del ruolo della donna nell'ambito tech e le principali difficoltà che si incontrano, raccontando la mia esperienza personale e qualche aneddoto su come superare queste difficoltà. Nella seconda parte si allarga il concetto di diversità intendendolo come quelle insieme di caratteristiche che rendono unico ognuno di noi e sulle quali possiamo far leva in un team per raggiungere risultati di business importanti.",
+			"language": "Italiano",
+			"speakers": ["ValentinaGiovinazzo"],
+			"tags": ["IWD/Diversity"],
+			"title": "La diversità come valore"
+		},
+		"44": {
+			"complexity": "",
+			"description": "Questo talk porrà l'accento sul come le diverse culture stanno affrontando l'emergenza Covid-19, fenomeno tipicamente complesso (vedi link sul Filosofo della Complessità e Accademico Mauro Ceruti), sia dal punto di vista antropologico/sociologico che dal punto di vista psicologico. Verranno messi in risalto il ruolo delle donne, i diritti umani/civili, la differenza di genere, le problematiche pregresse relative alle differenze delle classi sociali, l'importanza della comunicazione in casi di crisi (basti pensare all'Osservatorio sulla comunicazione in tempo di crisi organizzato dal Prof. Stefano Rolando dell'Università IULM), l'apprendimento (didattica a distanza, mediazione interlinguistica, DSA), i processi cognitivi ed emotivi (emozioni, il non contatto umano, nuove patologie), i nuovi stili di vita, ecc. L'idea è quella di analizzare e mettere a confronto più casi possibili ai fini di sottolineare come il Covid-19 abbia stravolto la nostra psiche e le nostre abitudini in tutte le parti del Globo. Ci sarà uno spazio dedicato alle domande =)",
+			"language": "Italiano",
+			"speakers": ["ValentinaAnnaVentura", "MariangelaTandurella"],
+			"tags": ["IWD/Diversity"],
+			"title": "La diversità ai tempi del Covid-19"
+		},
+		"52": {
+			"complexity": "",
+			"description": "In piena emergenza Covid-19, Cloudtec è stata chiamata a sviluppare una istanza specializzata della propria soluzione Cloudbot al fine di realizzare, in tempi rapidissimi, un Assistente Digitale per la Protezione Civile della Città di Palermo. Il risultato è stato Cloudbot Covid-19, un Assistente Virtual sviluppato con tecnologia Google Cloud pronto all’uso e compatibile con tutti i siti web in modalità chat e con tutti i dispositivi mobili Android e iOS grazie al pieno supporto di Google Assistant oltre che Google Home e Google Mini.",
+			"language": "Italiano",
+			"speakers": ["StefanoCarlini"],
+			"tags": ["Machine Learning"],
+			"title": "Cloudbot for Covid-19"
+		},
+		"53": {
+			"complexity": "",
+			"description": "Il deep learning è attualmente  utilizzato in un'ampia varietà di applicazioni. I dispositivi su cui viene utilizzato, come gli smartphone e i sensori Internet-of-Things, generano dati che devono essere analizzati in tempo reale utilizzando il deep learning o utilizzati per fare il training di modelli di reti neurali. Tuttavia, l'inference e il training richiedono notevoli risorse di calcolo per funzionare velocemente, specialmente nel caso in cui questi modelli debbano girare su sensori e device che sono sulla edge, con poche risorse di calcolo, batterie che non durano a lungo e spesso senza connessione a internet. Per velocizzare le operazioni che le reti neurali devono compiere su questi device, hardware dedicato come le TPU (Tensor Processing Unit) è stato sviluppato ed è disponibile anche a basso costo su device, come le schede Coral prodotte da Google. In questo talk andremo a vedere come funzionano questi chip specializzati per fare girare modelli di reti neurali e come è possibile sviluppare modelli ottimizzati per tali device con TensorFlow Lite, la libreria di Google per compilare apposta modelli per device come il Raspberry Pi o il Google Coral Device.",
+			"language": "Italiano",
+			"speakers": ["UmbertoMichelucci"],
+			"tags": ["Machine Learning"],
+			"title": "TPUs and TensorFlow Lite - un'introduzione"
+		},
+		"54": {
+			"complexity": "",
+			"description": "L’apprendimento per rinforzo è uno dei paradigmi più affascinanti nell'ambito dell’apprendimento automatico e sta suscitando sempre più interesse dalla comunità scientifica che ne sta ampliando i contesti applicativi. In questo talk si illustreranno i concetti base di questo paradigma e la spiegazione del Q-Learning, un algoritmo risolutivo, nonché la sua applicazione nel caso di studio Maze game.",
+			"language": "Italiano",
+			"speakers": ["LucaDiVita"],
+			"tags": ["Machine Learning"],
+			"title": "Errare humanum est, le macchine invece imparano"
+		},
+		"61": {
+			"complexity": "",
+			"description": "Creare un'app mobile senza Dependency Injection è, al giorno d'oggi, molto difficile. E finora, questo significava Dagger. Grazie alla code generation e altre funzionalità, questo framework si è imposto come standard di fatto su Android. Ma è davvero l'unica opzione? In questo talk andremo ad analizzare uno degli sfidanti più conosciuti, attraverso un'analisi dettagliata di Koin e una comparazione punto a punto con Dagger.",
+			"language": "Italiano",
+			"speakers": ["RobertoOrgiu"],
+			"tags": ["Mobile"],
+			"title": "Flipping the Koin"
+		},
+		"65": {
+			"complexity": "",
+			"description": "Voglia di dare una smossa alle vostre applicazioni? Grazie al sistema di animazioni di Flutter è semplice realizzare animazioni complesse e d'impatto! Insieme vedremo come utilizzare al meglio gli AnimatedContainer e come realizzare una semplice login con una marcia in più!",
+			"language": "Italiano",
+			"speakers": ["CarloLucera"],
+			"tags": ["Mobile"],
+			"title": "Animate your Flutter application"
+		},
+		"66": {
+			"complexity": "",
+			"description": "Sia sviluppando app mobile che siti web, gli schermi utilizzati dai nostri utenti sono i più disparati, ma ce n'e' ancora uno che spesso viene ignorato, nonostante sia quello con maggiore potenziale: la TV. In questo talk vedremo un'introduzione a Google Cast, e come questo possa essere usato, non solo da app mobile ma anche da siti web, per fornire uno spazio maggiore e centrale ai contenuti più importanti.",
+			"language": "Italiano",
+			"speakers": ["DanieleBonaldo"],
+			"tags": ["Mobile"],
+			"title": "Google Cast, when one screen is not enough"
+		}
+	},
+	"speakers": {
+		"ValentinaGiovinazzo": {
+			"bio": "Sono Valentina Giovinazzo, ho 28 anni e sono di Roma. Lavoro in ConTe.it da 5 anni, azienda presso la quale ho svolto mansioni diverse. Ho iniziato come consulente assicurativo, lavoro intrapreso per mantenermi gli studi. All'interno di ConTe.it poi ho avuto l'occasione tramite concorso interno di diventare un'analista di business, esperienza che mi ha aperto le porte nel mondo IT dandomi la possibilità di diventare product owner e avvicinarmi al mondo dello sviluppo. Durante questa esperienza ho avuto modo di conoscere i responsabili IT che mi hanno dato la possibilità di passare al lato oscuro della forza (dal business a IT) diventando team leader di un'area di sviluppo: quella digital, che noi chiamiamo \"customer experience\" perché ci occupiamo di tutto ciò che è a diretto contatto col nostro cliente finale. Non ho quindi un background tech, ma lavorando con i ragazzi mi sono appassionata a questo mondo, sto studiando molto e mi piacerebbe portare la mia esperienza di diversità in un contesto tecnico.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Valentina Giovinazzo",
+			"order": 33,
+			"photoUrl": "https://sessionize.com/image?f=66df2709ac4b66c0d1c00a960d4e8e17,200,200,1,0,4b-7077-41e1-92c7-ee186956ccaf.6fa75507-7ded-440d-84c2-3571093903b5.png",
+			"shortBio": "IT team leader presso ConTe.it - Admiral Group, area Digital",
+			"title": "IT team leader presso ConTe.it - Admiral Group, area Digital",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/valentina-giovinazzo-5b0672110/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},
+		"ValentinaAnnaVentura": {
+			"bio": "https://italia.campus-party.org/cpstories/valentina-ventura-a-cpit3/",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Valentina Anna Ventura",
+			"order": 34,
+			"photoUrl": "https://sessionize.com/image?f=847e2d1e64357bea8e4301b8c26ff0b8,200,200,1,0,645c2a74-591c-434f-abf2-5cbc4f7b6365.jpg",
+			"shortBio": "GDG GELA, WTM, Women Techmakers, Google Developer Group Gela",
+			"title": "GDG GELA, WTM, Women Techmakers, Google Developer Group Gela",
+			"socials": [{
+				"icon": "twitter",
+				"link": "https://twitter.com/valeventura13",
+				"name": "Twitter"
+			}, {
+				"icon": "facebook",
+				"link": "https://www.facebook.com/valentinavventura",
+				"name": "Facebook"
+			}],
+			"badges": [{
+				"description": "Google Developers Group Gela",
+				"link": "https://www.meetup.com/Google-Developer-Group-Gela-GDG-Gela/",
+				"name": "gdg"
+			}]
+		},
+		"SabrinaDAmanti": {
+			"bio": "Sono psicologa e psicoterapeuta ad orientamento analitico transazionale. Lavoro in quest'ambito dal 2000, anno in cui ho iniziato la mia prima attività come psicologa nelle scuole. Lavoro come psicoterapeuta con studio privato dal 2005. Mi occupo di formazione e sono autrice di articoli divulgativi presenti on line e di articoli specialistici e di libri di psicologia. Sono ricercatrice nell'ambito della comunicazione disfunzionale, le scoperte da me realizzate in quest'ambito sono riportate in vari articoli e libri.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Sabrina D'Amanti",
+			"order": 29,
+			"photoUrl": "https://sessionize.com/image?f=565a97d52890cb2fc79b1303bcfb4224,200,200,1,0,a68db51c-72bd-4bdf-aa3b-72254811d0c3.jpg",
+			"shortBio": "Psicologa e psicoterapeuta",
+			"title": "Psicologa e psicoterapeuta",
+			"socials": [],
+			"badges": []
+		},
+		"RihannaKedir": {
+			"bio": "Rihanna is a passionate software engineer, maker and new tech enthusiast. She strongly believes in the importance of sharing knowledge and experience and that is why in her spare time she does volunteering as mentor and speaker in various communities and events. As co-leader of GDG Rome  and Women TechMakers Ambassador, she participates not only in organizing different kinds of events but also in preparing various types of technical and non technical contents and speaks.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Rihanna Kedir",
+			"order": 27,
+			"photoUrl": "https://sessionize.com/image?f=47d5e3c09f03cd422ec38fe778f86d31,200,200,1,0,43-e017-4f2e-8d4f-5cea427a0bcf.d33c2641-589c-4d37-9df4-5a5258edec33.jpg",
+			"shortBio": "GDE web technologies",
+			"title": "GDE web technologies",
+			"socials": [{
+				"icon": "twitter",
+				"link": "https://twitter.com/rihanna_ke",
+				"name": "Twitter"
+			}, {
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/rihanna-kedir-05068568/",
+				"name": "LinkedIn"
+			}, {
+				"icon": "facebook",
+				"link": "https://www.facebook.com/rihanna.ke",
+				"name": "Facebook"
+			}, {
+				"icon": "website",
+				"link": "https://medium.com/@rihanna.ke",
+				"name": "Web Site"
+			}],
+			"badges": [{
+					"description": "Google Developers Group Roma",
+					"link": "https://www.meetup.com/GDG-Roma",
+					"name": "gdg"
+				},
+				{
+					"description": "Google Developers Expert - Web Technologies",
+					"link": "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-rihanna_kedir_ibrahim",
+					"name": "gde"
+				},
+				{
+					"description": "WTM Ambassador",
+					"link": "https://www.womentechmakers.com/ambassadors/rihanna-kedir",
+					"name": "wtm"
+				}
+			]
+		},
+		"FrancescoSciuti": {
+			"bio": "A talented and accomplished programmer extremely competent after several years of experience in enterprise programming , high skilled in web development (frontend and backend) and in team project management. I have a keen interest in new technologies and in IT development and I’m always upgrading and evaluating my knowledge and skills to stay at the cutting-edge of web development. My outstanding verbal and written communication skills let me involved in lots of meetings, workshop and courses both in Sicily and in Italy as a speaker and tech event organizer. Focused on continual professional and technological improvement: books, courses, articles, forums and regular attender of tech events where I can meet new and interesting people with which exchange as much as possible ideas and technical knowledge. I want to put myself in challenges both in the personal and professional side and this is way I’m involved ,as an active contributor, in many Italian communities (Angular ,React, Javascript ,GDG, PUG, etc…) and I contribute as a counselor to CoderDojo Foundation (Computational youth learning). I’ve worked for a long time as a employee and then as a freelancer, but nowadays I has my own company: Acadevmy – Software Factory, founded with my friends Andrea and Salvo.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Francesco Sciuti",
+			"order": 14,
+			"photoUrl": "https://sessionize.com/image?f=4121409f987713382ad4aee72c5dea3d,200,200,1,0,42-456a-4934-a1ac-414d4ba2990b.71973600-d633-4263-8a5f-af81a0d4dd94.jpg",
+			"shortBio": "CEO @ Acadevmy srl",
+			"title": "CEO @ Acadevmy srl",
+			"socials": [{
+				"icon": "twitter",
+				"link": "https://twitter.com/FrancescoSciuti",
+				"name": "Twitter"
+			}, {
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/francescosciuti/",
+				"name": "LinkedIn"
+			}, {
+				"icon": "facebook",
+				"link": "https://www.facebook.com/francesco.sciuti",
+				"name": "Facebook"
+			}],
+			"badges": [{
+				"description": "Google Developers Group Catania",
+				"link": "https://www.meetup.com/it-IT/GDG-Catania/",
+				"name": "gdg"
+			}]
+		},
+		"AndreaSimoneCosta": {
+			"bio": "FrontEnd Developer e studente di Informatica presso l'Università di Pisa, si appassiona alla programmazione durante gli studi in Elettronica per poi immergersi nell'universo JS, trovando in Vue un perfetto compagno di avventure.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Andrea Simone Costa",
+			"order": 5,
+			"photoUrl": "https://sessionize.com/image?f=4a59c519ae94bf96f6c24329292f3a7c,200,200,1,0,5b-a7b6-4f4f-8eed-72fae10ee3f6.bd5052ab-6a56-49b7-acb4-04b6177c78d4.jpg",
+			"shortBio": "FrontEnd Developer at ExTelos",
+			"title": "FrontEnd Developer at ExTelos",
+			"socials": [{
+				"icon": "twitter",
+				"link": "https://twitter.com/JFieldEffectT",
+				"name": "Twitter"
+			}, {
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/andrea-simone-costa/",
+				"name": "LinkedIn"
+			}, {
+				"icon": "facebook",
+				"link": "https://www.facebook.com/andreasimone.costa.5",
+				"name": "Facebook"
+			}, {
+				"icon": "website",
+				"link": "https://italiancoders.it/",
+				"name": "Web Site"
+			}],
+			"badges": []
+		},
+		"MariangelaTandurella": {
+			"bio": "Psicologa clinica-esperta in DSA - 35 anni. Cresciuta (ma poi mica tanto!) tra fotografie, libri e viaggi, non ha ancora smesso di sognare un mondo...a misura di bambino!",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Mariangela Tandurella",
+			"order": 36,
+			"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/speakers%2FMariangelaTandurella.jpg?alt=media&token=1f292df3-fa5f-4617-a53d-ee0e3ee982ad",
+			"shortBio": "Psicologa clinica-esperta in DSA",
+			"title": "Psicologa clinica-esperta in DSA",
+			"socials": [
+
+			],
+			"badges": [{
+				"description": "Google Developers Group Gela",
+				"link": "https://www.meetup.com/Google-Developer-Group-Gela-GDG-Gela/",
+				"name": "gdg"
+			}]
+		},
+		"RobertoOrgiu": {
+			"bio": "Born in Italy in 1987, passionate for everything that switches on and off and particularly for handheld and wearable devices. I love to learn new languages such as Kotlin, patterns and everything Android-related. I recently joined The New York Times Android team as Android Engineer.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Roberto Orgiu",
+			"order": 28,
+			"photoUrl": "https://sessionize.com/image?f=0fb5ea70903f37204842b616d8a7e856,200,200,1,0,80-f02c-42cf-92db-98e670bef1a6.eefe1bb7-b14f-4b68-a09f-510d368ef096.jpg",
+			"shortBio": "Android Engineer @ NYTimes",
+			"title": "Android Engineer @ NYTimes",
+			"socials": [{
+				"icon": "twitter",
+				"link": "http://twitter.com/_tiwiz",
+				"name": "Twitter"
+			}, {
+				"icon": "linkedin",
+				"link": "http://www.linkedin.com/in/robertoorgiu",
+				"name": "LinkedIn"
+			}, {
+				"icon": "website",
+				"link": "https://medium.com/@_tiwiz",
+				"name": "Web Site"
+			}],
+			"badges": [{
+				"description": "Google Developers Expert - Android, Identity, Internet of Things, Kotlin",
+				"link": "https://developers.google.com/community/experts/directory/profile/profile-roberto_orgiu",
+				"name": "gde"
+			}]
+		},
+		"LucaDiVita": {
+			"bio": "Master degree in Engineering of computers at Università degli studi de L'Aquila. Enthusiast of Cyber Security and Machine Learning.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Luca Di Vita",
+			"order": 19,
+			"photoUrl": "https://sessionize.com/image?f=b7f9e9fa487c03a3a099413df180f401,200,200,1,0,eabebf6a-d508-4118-bdb0-1ef31b827e48.jpg",
+			"shortBio": "Machine Learning Engineer presso AESYS",
+			"title": "Machine Learning Engineer presso AESYS",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://it.linkedin.com/in/luca-di-vita-563b0a183",
+				"name": "LinkedIn"
+			}],
+			"badges": [{
+				"description": "Google Developers Group - Pescara",
+				"link": "https://www.meetup.com/it-IT/GDG-Pescara/",
+				"name": "gdg"
+			}]
+		},
+		"DanieleBonaldo": {
+			"bio": "Daniele is Android developer passionate about photography, wearable technologies and Internet of Things. Before working for Novoda, he worked at i’m Spa, an Italian startup where he had the chance to play with the Android platform while developing one of the first smartwatches on the market. International conference speaker and Google Developer Expert, now he loves to work on everything related to the Android ecosystem, from Chromecast to Wear to smart mirrors.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Daniele Bonaldo",
+			"order": 9,
+			"photoUrl": "https://sessionize.com/image?f=ff0ca91f65222606df00fd51b92cf417,200,200,1,0,a6138775-ab60-488b-98d0-1e1005428fc1.jpg",
+			"shortBio": "Android Developer and GDE",
+			"title": "Android Developer and GDE",
+			"socials": [{
+				"icon": "twitter",
+				"link": "https://twitter.com/danybony_",
+				"name": "Twitter"
+			}, {
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/danielebonaldo",
+				"name": "LinkedIn"
+			}, {
+				"icon": "website",
+				"link": "https://www.danielebonaldo.com/",
+				"name": "Web Site"
+			}],
+			"badges": [{
+				"description": "Google Developers Expert - Android, Internet of Things, Wearables",
+				"link": "https://developers.google.com/community/experts/directory/profile/profile-daniele_bonaldo",
+				"name": "gde"
+			}]
+		},
+		"CarloLucera": {
+			"bio": "Conosciuto sul Web come HatDroid, Carlo è un entusiasta delle nuove tecnologie ed uno sviluppatore Android. Da sempre alla ricerca di nuove tecniche e strategie per migliorarsi.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Carlo Lucera",
+			"order": 7,
+			"photoUrl": "https://sessionize.com/image?f=bd896fc0aa47c025d93311746f6e7634,200,200,1,0,63-3a70-4761-9d5a-87734da756fa.a78927fb-1b14-4034-be86-723d4479fde8.jpg",
+			"shortBio": "HatDroid! Android & Flutter devN",
+			"title": "HatDroid! Android & Flutter devN",
+			"socials": [{
+				"icon": "twitter",
+				"link": "https://twitter.com/hat_droid",
+				"name": "Twitter"
+			}, {
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/clucera/",
+				"name": "LinkedIn"
+			}, {
+				"icon": "facebook",
+				"link": "https://www.facebook.com/hatdroid",
+				"name": "Facebook"
+			}],
+			"badges": [{
+				"description": "Google Developers Group Palermo",
+				"link": "https://www.meetup.com/it-IT/GDGPalermo/",
+				"name": "gdg"
+			}]
+		},
+		"UmbertoMichelucci": {
+			"bio": "Umberto Michelucci è co-founder e chief AI Scientist di TOELT LLC, un'azienda che mira a sviluppare nuovi e moderni metodi di insegnamento, coaching e ricerca per l'AI per rendere le tecnologie e la ricerca AI accessibili ad ogni azienda e a tutti. È esperto in simulazione numerica, statistica, data science e machine learning. Oltre a diversi anni di esperienza nella ricerca presso la George Washington University (USA) e l'Università di Augsburg (DE), ha 15 anni di esperienza pratica nel campo del data warehouse, di data science e del machine learning. Il suo primo libro, Applied Deep Learning-A Case-Based Approach to Understanding Deep Neural Networks, è stato pubblicato da Springer nel 2018. Ha pubblicato il suo nuovo libro, Convolutional and Recurrent Neural Networks Theory and Applications nel 2019. È molto attivo nella ricerca nel campo dell'intelligenza artificiale. Pubblica regolarmente i risultati delle sue ricerche su importanti riviste e tiene regolarmente conferenze a conferenze internazionali. Umberto ha studiato fisica e matematica. È docente presso la ZHAW University of Applied Sciences per il deep learning e per la teoria e le applicazioni delle reti neurali. È anche lo head dell'AI Center of Excellence all'Helsana Versicherung AG. È anche un Google Developer Expert in Machine Learning con sede in Svizzera.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Umberto Michelucci",
+			"order": 32,
+			"photoUrl": "https://sessionize.com/image?f=1a72c2c8a52f6d31896e1ed51d9298a1,200,200,1,0,ba87072c-025b-413f-9226-43ceb5c8a6b5.jpg",
+			"shortBio": "Google Developer Expert in Machine Learning, founder of TOELT LLC",
+			"title": "Google Developer Expert in Machine Learning, founder of TOELT LLC",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/umbertomichelucci/",
+				"name": "LinkedIn"
+			}, {
+				"icon": "website",
+				"link": "http://blog.toelt.ai",
+				"name": "Web Site"
+			}],
+			"badges": [{
+				"description": "Google Developers Expert - Machine Learning",
+				"link": "https://developers.google.com/community/experts/directory/profile/profile-umberto_michelucci",
+				"name": "gde"
+			}]
+		},
+		"StefanoCarlini": {
+			"bio": "Mi occupo di Informatica applicata alle Telecomunicazioni e al Cloud Computing e sono un esperto in ambito Free and Open Source Software (FLOSS); mi dedico con passione alle soluzioni offerte dalle tecnologie Google Cloud (formerly Google for Work) e a tutto ciò che è inerente a Voice over IP (VoIP) e Unified Communication and Collaboration (UC&C). Dopo diverse esperienza in ambito Telco e Google Cloud, nel 2019 sono stato co-founder di Cloudtec, startup innovativa che offre servizi e soluzioni in ambito Public and Hybrid Cloud Computing con l’obiettivo di posizionarsi come operatore ad alto valore aggiunto specializzato nella realizzazione di progetti basati su tecnologie innovative, quali  Intelligenza Artificiale, Machine Learning, IoT, Visione aumentata.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Stefano Carlini",
+			"order": 31,
+			"photoUrl": "https://sessionize.com/image?f=486ccf8cb3c82eaca4708b9d08b5ee56,200,200,1,0,708b244d-d38a-4a6a-b7f2-d1a5c0b655e8.jpg",
+			"shortBio": "Cloudtec, Head of Business Development",
+			"title": "Cloudtec, Head of Business Development",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/stefanocarlini/",
+				"name": "LinkedIn"
+			}, {
+				"icon": "website",
+				"link": "https://www.cloudtec.it/",
+				"name": "Web Site"
+			}],
+			"badges": []
+		},
+		"WalterDalMut": {
+			"bio": "Appassionato di infrastrutture distribuite e di Cloud. Nel corso degli anni ho ottenuto diverse certificazioni, tra cui: AWS Solutions Architect Professional, AWS SysOps Admin Associate, Certified Kubernetes Application Developer e Docker Certified Associate.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Walter Dal Mut",
+			"order": 35,
+			"photoUrl": "https://sessionize.com/image?f=2f1b8a40981cc3e11859053b77bfe5a6,200,200,1,0,5a334c41-5376-49e2-a37c-903ab07aca93.jpg",
+			"shortBio": "Solutions Architect @ Corley S.r.l.",
+			"title": "Solutions Architect @ Corley S.r.l.",
+			"socials": [{
+				"icon": "twitter",
+				"link": "https://twitter.com/walterdalmut",
+				"name": "Twitter"
+			}, {
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/walterdalmut/",
+				"name": "LinkedIn"
+			}, {
+				"icon": "website",
+				"link": "http://walterdalmut.com/",
+				"name": "Web Site"
+			}],
+			"badges": []
+		},
+		"AldoDAquino": {
+			"bio": "Nato a Grosseto nel 1995. Laureato in Informatica presso l'Università di Pisa sto scrivendo adesso la tesi magistrale presso lo stesso ateneo. Sono molto bravo con JavaScript e Node.js, Docker e orchestrazione cloud. Mi piace imparare cose nuove, provare nuovi linguaggi e scoprire nuove tecnologie. Ho partecipato ad alcuni hackaton e nel tempo libero mi piace lavorare a qualche progetto open-source. Al momento mi sto interessando a Go, le performance del web e gli SSG.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Aldo D'Aquino",
+			"order": 1,
+			"photoUrl": "https://sessionize.com/image?f=94d55239c87fdbe4d61da6994386c811,200,200,1,0,93d9f0cc-9c42-468b-a2b9-0d8fd039dc6b.jpg",
+			"shortBio": "Laureando in Informatica - curriculum ICT presso l'Università di Pisa",
+			"title": "Laureando in Informatica - curriculum ICT presso l'Università di Pisa",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/daquinoaldo",
+				"name": "LinkedIn"
+			}, {
+				"icon": "website",
+				"link": "https://ald.ooo",
+				"name": "Web Site"
+			}],
+			"badges": []
+		},
+		"AndreaUlisse": {
+			"bio": "12 years of experience in multinational and startup environments developing performant, scalable and available back-ends in cloud environments. Currently Customer Engineer at Google with main focus on Cloud solutions for the enterprise FSI world. Very passionate about technology and innovation.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Andrea Ulisse",
+			"order": 3,
+			"photoUrl": "https://sessionize.com/image?f=b980ca5505b0b30cff879d8e83e5cd90,200,200,1,0,f763187a-c989-4191-82ad-e3f5d6c6846b.jpg",
+			"shortBio": "Google Cloud Customer Engineer, FSI",
+			"title": "Google Cloud Customer Engineer, FSI",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/andreaulisse/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},
+		"GiulioRoggero": {
+			"bio": "Sono fortunato perché il mio lavoro e la mia passione coincidono!  Scrivere codice, disegnare Architetture Software e “mettere in produzione” sistemi informatici complessi sono le attività che prediligo. In 20 anni di professione ho messo le mani in diversi contesti: dalla migrazione di 3 milioni di righe di codice da SCO Unix a Linux, alle architetture a microservizi su cluster kubernetes. Ho la fortuna di lavorare con i fortissimi team di Mia-Platform e Intré con i quali condivido successi e fatiche nel ruolo di CTO per la prima e di Strategist per la seconda; e visto che il codice da solo non basta, con i coach di Agile Reloaded abbiamo creato una bella realtà per aiutare le aziende a lavorare al meglio.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Giulio Roggero",
+			"order": 17,
+			"photoUrl": "https://sessionize.com/image?f=8336543360834edac894e917d710ef80,200,200,1,0,92-445d-456b-8585-f94d1c4a0e0a.e36e648a-02fc-4694-b627-980d8b91d699.jpeg",
+			"shortBio": "Founder & CTO Mia-Platform, Partner & CS Intré,  Founder Agile Reloaded",
+			"title": "Founder & CTO Mia-Platform, Partner & CS Intré,  Founder Agile Reloaded",
+			"socials": [{
+				"icon": "twitter",
+				"link": "https://twitter.com/giulioroggero",
+				"name": "Twitter"
+			}, {
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/giulioroggero/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},
+		"EliaBellussi": {
+			"bio": "Passionate about technology with 7+ years of experience: working in relationship management, system engineering, product and project management with stakeholders and clients such as GE Avio Aero (aerospace), Eutelsat - Skylogic (telecommunication), Banca Intesa Sanpaolo (finance) for the complex environment and specialized in technological innovation, emerging technologies and pre-sale strategy. Passionate about education for the younger generation on the history of technology and encouraging young people, especially women, to pursue careers in STEM. Involved in the organization and facilitation of events such as: \"Ada Lovelace Day\", \"A bit of [hi] story \" and \"CoderDojo\" as president of the Piedmont Computer History Museum (Italy).",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Elia Bellussi",
+			"order": 10,
+			"photoUrl": "https://sessionize.com/image?f=79bd234c995454a6318d9cd62933071a,200,200,1,0,41db1f19-d3dc-4498-a327-541867f30171.jpg",
+			"shortBio": "Product Management | Project Management | Data Analytics",
+			"title": "Product Management | Project Management | Data Analytics",
+			"socials": [{
+				"icon": "twitter",
+				"link": "https://twitter.com/ebellussi",
+				"name": "Twitter"
+			}, {
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/eliabellussi/",
+				"name": "LinkedIn"
+			}, {
+				"icon": "facebook",
+				"link": "https://www.facebook.com/elia.bellussi/",
+				"name": "Facebook"
+			}],
+			"badges": []
+		},
+		"ChristianPezzin": {
+			"bio": "Technology enthusiast, a bit geek, a bit maker, I love to explore new techs that can support us in our every day life with a positive impact.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Christian Pezzin",
+			"order": 8,
+			"photoUrl": "https://sessionize.com/image?f=f30566b2a28c7878c1e5d13b412e5d32,200,200,1,0,58-ec29-448a-ae21-e282fe0adfc6.158459c2-ce98-44fb-8436-db3b4378c8f5.jpg",
+			"shortBio": "Chief Digital Officer, Sapio (ex Googler)",
+			"title": "Chief Digital Officer, Sapio (ex Googler)",
+			"socials": [{
+				"icon": "twitter",
+				"link": "https://twitter.com/pezzin/",
+				"name": "Twitter"
+			}, {
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/pezzin/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		}
+	},
+	"team": [{
+		"members": [{
+				"name": "Gregorio Palamà",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FGregorioPalama.png?alt=media&token=e3a79ce0-22c3-416b-a880-dca17b98455a",
+				"gdg": "GDG Pescara",
+				"socials": [{
+						"icon": "twitter",
+						"link": "https://twitter.com/gregoriopalama",
+						"name": "Twitter"
+					},
+					{
+						"icon": "linkedin",
+						"link": "https://www.linkedin.com/in/gregorio-palam%C3%A0/",
+						"name": "LinkedIn"
+					}
+				],
+				"order": 0,
+				"title": "Coordinamento"
+			},
+			{
+				"name": "Francesco Pirrone",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FFrancescoPirrone.jpg?alt=media&token=47f33280-2536-4aff-9d25-80c7b0eb54c0",
+				"gdg": "GDG Cloud Torino",
+				"socials": [{
+						"icon": "twitter",
+						"link": "https://twitter.com/cfrancescop",
+						"name": "Twitter"
+					},
+					{
+						"icon": "linkedin",
+						"link": "https://www.linkedin.com/in/francesco-pirrone-5b3641116/",
+						"name": "LinkedIn"
+					}
+				],
+				"order": 1,
+				"title": "Infrastruttura"
+			},
+			{
+				"name": "Gianni Forlastro",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FGianniForlastro.png?alt=media&token=67ede0e7-b744-47ce-8ae2-3c3bdc8b6aa9",
+				"gdg": "GDG Cloud Torino",
+				"socials": [{
+						"icon": "facebook",
+						"link": "https://www.facebook.com/gianni.forlastro",
+						"name": "Facebook"
+					},
+					{
+						"icon": "linkedin",
+						"link": "https://www.linkedin.com/in/giovanni-forlastro/",
+						"name": "LinkedIn"
+					},
+					{
+						"icon": "instagram",
+						"link": "https://www.instagram.com/mosquitoman81/",
+						"name": "Instagram"
+					}
+				],
+				"order": 2,
+				"title": "Contenuti"
+			},
+			{
+				"name": "Leonardo Dipilato",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FLeonardoDipilato.jpg?alt=media&token=94a7f8a1-4a17-4d84-b87d-1af1036bf23f",
+				"gdg": "GDG Pisa",
+				"socials": [{
+						"icon": "facebook",
+						"link": "https://www.facebook.com/leonardo.dipilato.3/",
+						"name": "Facebook"
+					},
+					{
+						"icon": "linkedin",
+						"link": "https://www.linkedin.com/in/leonardo-dipilato-512a42167/",
+						"name": "LinkedIn"
+					},
+					{
+						"icon": "medium",
+						"link": "https://medium.com/@leonardipilato",
+						"name": "Medium"
+					}
+				],
+				"order": 3,
+				"title": "Contenuti"
+			},
+			{
+				"name": "Stefano Tomasi",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FStefanoTomasi.png?alt=media&token=2bb61888-ae19-4396-820f-e07f9d9d7715",
+				"gdg": "GDG Trento",
+				"socials": [{
+						"icon": "facebook",
+						"link": "https://www.facebook.com/GDGTrento//",
+						"name": "Facebook"
+					},
+					{
+						"icon": "linkedin",
+						"link": "https://it.linkedin.com/in/stefanotomasi-web",
+						"name": "LinkedIn"
+					}
+				],
+				"order": 4,
+				"title": "Comunicazione"
+			},
+			{
+				"name": "Mattia Piccirillo",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FMattiaPiccirillo.jpg?alt=media&token=35b4f067-a933-40f6-8b46-0e997ace43fc",
+				"gdg": "GDG Firenze",
+				"socials": [{
+						"icon": "facebook",
+						"link": "https://www.facebook.com/mattiapiccirillo.google/",
+						"name": "Facebook"
+					},
+					{
+						"icon": "linkedin",
+						"link": "https://www.linkedin.com/in/mattiapiccirillo/",
+						"name": "LinkedIn"
+					},
+					{
+						"icon": "instagram",
+						"link": "https://www.instagram.com/mattiapiccirillo14/",
+						"name": "Instagram"
+					}
+				],
+				"order": 5,
+				"title": "Infrastruttura"
+			},
+			{
+				"name": "Asia Salvaterra",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FAsiaSalvaterra.png?alt=media&token=30ad6303-b4af-4cb4-b79d-c5131e512ec3",
+				"gdg": "GDG Trento",
+				"socials": [{
+						"icon": "facebook",
+						"link": "https://www.facebook.com/asiasalva",
+						"name": "Facebook"
+					},
+					{
+						"icon": "instagram",
+						"link": "https://www.instagram.com/asiasalva/",
+						"name": "Instagram"
+					}
+				],
+				"order": 6,
+				"title": "Comunicazione"
+			},
+			{
+				"name": "Giacomo Ranieri",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FGiacomoRanieri.jpg?alt=media&token=42453fee-ba11-4a21-925e-df625529c759",
+				"gdg": "GDG Torino",
+				"socials": [{
+					"icon": "linkedin",
+					"link": "https://www.linkedin.com/in/giacomo-ranieri-27081987",
+					"name": "LinkedIn"
+				}],
+				"order": 7,
+				"title": "Infrastruttura"
+			},
+			{
+				"name": "Nicola Corti",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FNicolaCorti.jpeg?alt=media&token=86274a9a-79e4-4f9a-90b2-c732f0b057a4",
+				"gdg": "GDG Pisa",
+				"socials": [{
+						"icon": "twitter",
+						"link": "https://twitter.com/cortinico",
+						"name": "Twitter"
+					},
+					{
+						"icon": "github",
+						"link": "https://github.com/cortinico",
+						"name": "Github"
+					},
+					{
+						"icon": "website",
+						"link": "https://ncorti.com",
+						"name": "Website"
+					}
+				],
+				"order": 8,
+				"title": "Infrastruttura"
+			},
+			{
+				"name": "Saveria Serena Foti",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FSaveriaSerenaFoti.jpg?alt=media&token=a52e703a-847a-464b-86d2-e5b31c840d9e",
+				"gdg": "GDG Nebrodi",
+				"socials": [{
+						"icon": "linkedin",
+						"link": "https://www.linkedin.com/in/saveria-serena-foti/",
+						"name": "LinkedIn"
+					},
+					{
+						"icon": "instagram",
+						"link": "https://www.instagram.com/serenithyweb/",
+						"name": "Instagram"
+					}
+				],
+				"order": 8,
+				"title": "Comunicazione & Community Engagement"
+			},
+			{
+				"name": "Michela Bertaina",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FMichelaBertaina.jpeg?alt=media&token=de3ecd2e-06b6-4cb9-8230-fcdb6046428f",
+				"gdg": "GDG Bari",
+				"socials": [{
+						"icon": "twitter",
+						"link": "https://twitter.com/bertainamichela",
+						"name": "Twitter"
+					},
+					{
+						"icon": "linkedin",
+						"link": "https://www.linkedin.com/in/michela-bertaina-b79203125/",
+						"name": "LinkedIn"
+					},
+					{
+						"icon": "facebook",
+						"link": "https://www.facebook.com/michela.bertaina",
+						"name": "Facebook"
+					}
+				],
+				"order": 9,
+				"title": "Coordinamento"
+			},
+			{
+				"name": "Juna Salviati",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FJunaSalviati.png?alt=media&token=69ba69bc-d617-478c-9ecd-44992b33b104",
+				"gdg": "GDG Roma",
+				"socials": [{
+						"icon": "twitter",
+						"link": "https://twitter.com/1littleendian",
+						"name": "Twitter"
+					},
+					{
+						"icon": "linkedin",
+						"link": "https://www.linkedin.com/in/junasalviati/",
+						"name": "LinkedIn"
+					}
+				],
+				"order": 10,
+				"title": "Infrastruttura"
+			},
+			{
+				"name": "Alessio Rizzolo",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FAlessioRizzolo.jpg?alt=media&token=886c6199-39ed-42a1-8a3d-d2abf1a09aee",
+				"socials": [{
+						"icon": "linkedin",
+						"link": "https://www.linkedin.com/in/rizzolessio/",
+						"name": "Linkedin"
+					},
+					{
+						"icon": "twitter",
+						"link": "https://twitter.com/rizzolessio",
+						"name": "Twitter"
+					},
+					{
+						"icon": "instagram",
+						"link": "https://www.instagram.com/rizzolessio/",
+						"name": "Instagram"
+					}
+				],
+				"order": 11,
+				"gdg": "GDG Torino",
+				"title": "Comunicazione"
+			},
+			{
+				"name": "Loredana Frontino",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FLoredanaFrontino.png?alt=media&token=3b402b46-1a15-464c-93df-d9f3e0a2f48e",
+				"socials": [{
+					"icon": "linkedin",
+					"link": "https://www.linkedin.com/in/loredana-frontino-0a2367132",
+					"name": "Linkedin"
+				}],
+				"order": 12,
+				"gdg": "GDG Torino",
+				"title": "Comunicazione"
+			},
+			{
+				"name": "Lucia Vigoroso",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FLuciaVigoroso.png?alt=media&token=7f8a1165-aac9-4c39-a0df-2b5ba6e3b455",
+				"socials": [{
+						"icon": "linkedin",
+						"link": "https://www.linkedin.com/in/lucia-vigoroso-40267472/",
+						"name": "Linkedin"
+					},
+					{
+						"icon": "instagram",
+						"link": "https://www.instagram.com/lucia_vig/",
+						"name": "Instagram"
+					}
+				],
+				"order": 13,
+				"gdg": "GDG Torino",
+				"title": "Comunicazione"
+			},
+			{
+				"name": "Santino Caruso",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FSantoCaruso.png?alt=media&token=24f91f1a-ba6e-4ac6-a1c4-87974aeffbfd",
+				"socials": [{
+						"icon": "linkedin",
+						"link": "https://www.linkedin.com/in/santocaruso/",
+						"name": "Linkedin"
+					},
+					{
+						"icon": "twitter",
+						"link": "https://twitter.com/ssantinocaruso",
+						"name": "Twitter"
+					}
+				],
+				"order": 14,
+				"gdg": "GDG Cosenza",
+				"title": "Infrastruttura"
+			},
+			{
+				"name": "Nicola Guglielmi",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FNicolaGuglielmi.jpg?alt=media&token=de2cb4bd-1fe4-4649-8e25-11d9c81bb3e3",
+				"socials": [{
+					"icon": "linkedin",
+					"link": "https://www.linkedin.com/in/nicola-guglielmi/",
+					"name": "Linkedin"
+				}],
+				"order": 15,
+				"gdg": "GDG Campobasso",
+				"title": "Follow-up"
+			},
+			{
+				"name": "Noelia Di Pretoro",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FNoeliaDiPretoro.jpg?alt=media&token=1a6e3c72-8019-4ad6-92ae-02ff31830175",
+				"socials": [{
+						"icon": "linkedin",
+						"link": "https://it.linkedin.com/in/noelia-di-pretoro",
+						"name": "Linkedin"
+					},
+					{
+						"icon": "facebook",
+						"link": "https://www.facebook.com/noelia.dipretoro",
+						"name": "Facebook"
+					}
+				],
+				"order": 16,
+				"gdg": "GDG Campobasso",
+				"title": "Community engagement"
+			},
+			{
+				"name": "Martina Chillura",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FMartinaChillura.jpeg?alt=media&token=d038981a-7c7c-4f61-9da1-e337562462dc",
+				"socials": [{
+						"icon": "linkedin",
+						"link": "https://www.linkedin.com/in/martina-chillura",
+						"name": "Linkedin"
+					},
+					{
+						"icon": "facebook",
+						"link": "https://www.facebook.com/martina.chillura",
+						"name": "Facebook"
+					},
+					{
+						"icon": "instagram",
+						"link": "https://www.instagram.com/blueblocky/",
+						"name": "Instagram"
+					}
+				],
+				"order": 17,
+				"gdg": "",
+				"title": "Community engagement"
+			}
+		],
+		"title": "Core Team"
+	}],
+	"tickets": [{
+		"available": true,
+		"currency": "",
+		"ends": "3 Maggio",
+		"info": "Regular",
+		"name": "Regular",
+		"price": "Gratuito",
+		"soldOut": false,
+		"starts": "2 Maggio",
+		"url": "https://www.eventbrite.it/e/biglietti-gdg-devparty-together-102721366372?aff=website"
+	}],
+	"triggers": {
+		"images": false
+	}
 }

@@ -194,7 +194,7 @@ class SessionDetails extends UtilsFunctions(SpeakersHoC(mixinBehaviors([IronOver
 
   _close() {
     dialogsActions.closeDialog(DIALOGS.SESSION);
-    let newURL = window.location.protocol + '//' + window.location.host + window.location.pathname;
+    const newURL = window.location.protocol + '//' + window.location.host + window.location.pathname;
     window.history.pushState({}, null, newURL);
   }
 
