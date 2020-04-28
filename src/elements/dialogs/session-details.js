@@ -194,10 +194,10 @@ class SessionDetails extends UtilsFunctions(SpeakersHoC(mixinBehaviors([IronOver
 
   _close() {
     dialogsActions.closeDialog(DIALOGS.SESSION);
-    var newURL = window.location.protocol + '//' + window.location.host + window.location.pathname;
-    for (let speaker in this.speakersMap) {
+    let newURL = window.location.protocol + '//' + window.location.host + window.location.pathname;
+    for (const speaker in this.speakersMap) {
       if (newURL.endsWith(speaker)) {
-        newURL = newURL.split('/').slice(0,-1).join('/');
+        newURL = newURL.split('/').slice(0, -1).join('/');
       }
     }
     window.history.pushState({}, null, newURL);
