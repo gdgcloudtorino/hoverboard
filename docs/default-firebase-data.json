@@ -1436,6 +1436,10 @@
 				"icon": "twitter",
 				"link": "http://twitter.com/giorgio_boa?s=09",
 				"name": "Twitter"
+			},{
+				"icon": "linkedin",
+				"link": "https://it.linkedin.com/in/giorgio-boa-3ba717139",
+				"name": "LinkedIn"
 			}],
 			"badges": []
 		},
