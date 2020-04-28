@@ -772,7 +772,7 @@
 			"language": "Italiano",
 			"speakers": ["ValentinaGiovinazzo"],
 			"tags": ["IWD/Diversity"],
-			"title": "La diversità come valore"
+			"title": "#techNeedsDiversity"
 		},
 		"44": {
 			"complexity": "",
@@ -840,7 +840,7 @@
     },
     "56": {
 			"complexity": "",
-			"description": "Vorrei presentare il sistema sviluppato dal nostro team dell'Università di Napoli per risolvere in maniera automatica la Ghigliottina, popolare gioco televisivo parte del programma l'Eredità di Rai1. Il nostro sistema è in grado di indovinare 2 volte su 3 mettendo in campo strumenti di Machine Learning e Natural Language Processing. Lo strumento è disponibile online tramite un bot su Telegram, uno su Twitter e una skill di Alexa. Il software è open-source ed è sviluppato in Python usando Google Application Engine come backend. Infine vorrei presentare Ghigliottin-AI: una open challenge parte della campagna di valutazione evalita2020 aperta a sviluppatori che vogliono cimentarsi in questo task. Per maggiori informazioni: https://ghigliottin-ai.github.io/",
+			"description": "Vorrei presentare il sistema sviluppato dal nostro team dell'<a href='https://sites.google.com/view/unior-nlp-research-group'>Università L'Orientale di Napoli</a> per risolvere in maniera automatica la Ghigliottina, popolare gioco televisivo parte del programma l'Eredità di Rai1. Il nostro sistema è in grado di indovinare 2 volte su 3 mettendo in campo strumenti di Machine Learning e Natural Language Processing. Lo strumento è disponibile online tramite un bot su Telegram, uno su Twitter e una skill di Alexa. Il software è open-source ed è sviluppato in Python usando Google Application Engine come backend. Infine vorrei presentare Ghigliottin-AI: una open challenge parte della campagna di valutazione evalita2020 aperta a sviluppatori che vogliono cimentarsi in questo task. Per maggiori informazioni: https://ghigliottin-ai.github.io/",
 			"language": "Italiano",
 			"speakers": ["FedericoSangati"],
 			"tags": ["Machine Learning"],
