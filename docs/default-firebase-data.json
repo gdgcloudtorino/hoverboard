@@ -154,6 +154,11 @@
 				"logoUrl": "../images/logos/jetbrains.png",
 				"name": "JetBrains",
 				"url": "https://www.jetbrains.com/"
+			},{
+				"order": 1,
+				"logoUrl": "../images/logos/corley_logo.png",
+				"name": "Corley",
+				"url": "https://corley.it/"
 			}],
 			"order": 2,
 			"title": "Supporters"
