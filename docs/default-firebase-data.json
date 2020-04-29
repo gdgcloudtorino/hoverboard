@@ -159,6 +159,11 @@
 				"logoUrl": "../images/logos/corley_logo.png",
 				"name": "Corley",
 				"url": "https://corley.it/"
+			},{
+				"order": 2,
+				"logoUrl": "../images/logos/grusp_logo.png",
+				"name": "GRUsp",
+				"url": "https://www.grusp.org/it/"
 			}],
 			"order": 2,
 			"title": "Supporters"
