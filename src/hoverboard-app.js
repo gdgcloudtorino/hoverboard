@@ -45,6 +45,7 @@ import './pages/previous-speakers-page.js';
 import './pages/schedule-page.js';
 import './pages/speakers-page.js';
 import './pages/team-page.js';
+import './pages/games-page.js';
 import {
   notificationsActions,
   routingActions,
@@ -223,6 +224,7 @@ class HoverboardApp extends UtilsFunctions(ScrollFunctions(ReduxMixin(PolymerEle
           <speakers-page name="speakers" route="[[subroute]]"></speakers-page>
           <!--<previous-speakers-page name="previous-speakers" route="[[subroute]]"></previous-speakers-page>-->
           <team-page name="team"></team-page>
+          <games-page name="games"></games-page>
           <faq-page name="faq"></faq-page>
           <coc-page name="coc"></coc-page>
         </iron-pages>

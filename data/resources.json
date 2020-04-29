@@ -126,6 +126,23 @@
     },
     "toast": "Ti contatteremo il prima possibile!"
   },
+  "lottoBlock": {
+    "yourEmail": "La tua email",
+    "emailAddress": "Indirizzo email",
+    "name": "Nome",
+    "lastName": "Cognome",
+    "form": {
+      "title": "Richiedi una cartella!",
+      "submitLabel": "Invia",
+      "name": "Nome",
+      "lastName": "Cognome"
+    },
+    "emailRequired": "Inserisci una email valida",
+    "close": "Chiudi",
+    "generalError": "Errore, prova nuovamente.",
+    "toast": "Richiesta inserita, riceverai le tue cartelle per email!",
+    "mustBeSigned": "Effettua il login per poter richiedere una cartella"
+  },
   "blog": {
     "published": "Pubblicato",
     "suggested": "Prossimamente"
@@ -173,15 +190,20 @@
     "firstName": "Nome",
     "lastName": "Cognome",
     "formTitle": "Ottieni gli ultimi aggiornamenti, approfondimenti e novità su GDG DevParty Together direttamente nella tua casella di posta.",
-    "emailRequired": "Please enter a valid email address.",
+    "emailRequired": "Inserisci un indirizzo email valido",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
-    "close": "Close",
-    "generalError": "An error has occurred. Please, try again later.",
+    "close": "Chiudi",
+    "generalError": "Errore, prova più tardi.",
     "toast": "Successfully subscribed!"
   },
   "team": {
     "description": "Google è conosciuta ovunque nel mondo. Tutti 'googolano', controllano su 'maps' e comunicano con 'gmail'. Per l'utente comune, sono servizi che funzionano e basta, ma non per noi. Gli sviluppatori ci vedono molto di più: API, problemi di scalabilità, Stack tecnologici complessi. Questo è il GDG.<br><br> [Google Developers Group (GDG) Italia](...) - è una community aperta e volontaria che crea progetti interessanti e condivide esperienze su tecnologie Google con passione.<br><br> Il nostro scopo è connettere i migliori esperti del settore con l'audience italiana per dare un impulso allo sviluppo IT."
+  },
+  "games": {
+    "description": "Abbiamo organizzato dei giochi appassionanti per divertirci insieme durante la nostra DevParty Together! E mica solo uno! Sono ben tre: **DevParty Lotto**, **Contest Fotografico** e **Best Question**. Vieni a scoprire tutti i dettagli in questa presentazione che abbiamo preparato per l'occasione.",
+    "lotto": "DevParty Lotto",
+    "button": "Richiedi una cartella"
   },
   "schedule": {
     "saveSessionsSignedOut": "Registrati per salvare le tue sessioni"

@@ -1,4 +1,7 @@
 import {
+  ADD_CARD_REQUEST,
+  ADD_CARD_REQUEST_FAILURE,
+  ADD_CARD_REQUEST_SUCCESS,
   ADD_POTENTIAL_PARTNER_FAILURE,
   ADD_POTENTIAL_PARTNER_SUCCESS,
   ADD_POTENTIAL_PARTNER,
@@ -197,6 +200,30 @@ export const partnersReducer = (state = initialState.partners, action) => {
       });
 
     case ADD_POTENTIAL_PARTNER_SUCCESS:
+      return Object.assign({}, state, {
+        adding: false,
+      });
+
+    default:
+      return state;
+  }
+};
+
+export const lottoReducer = (state = initialState.partners, action) => {
+  switch (action.type) {
+    case ADD_CARD_REQUEST:
+      return Object.assign({}, state, {
+        adding: true,
+        addingError: null,
+      });
+
+    case ADD_CARD_REQUEST_FAILURE:
+      return Object.assign({}, state, {
+        adding: false,
+        addingError: action.payload.error,
+      });
+
+    case ADD_CARD_REQUEST_SUCCESS:
       return Object.assign({}, state, {
         adding: false,
       });
@@ -570,6 +597,7 @@ export const appReducer = (state = initialState, action) => {
     dialogs: dialogsReducer(state.dialogs, action),
     tickets: ticketsReducer(state.tickets, action),
     partners: partnersReducer(state.partners, action),
+    lotto: lottoReducer(state.partners, action),
     feedback: feedbackReducer(state.feedback, action),
     videos: videosReducer(state.videos, action),
     blog: blogReducer(state.blog, action),

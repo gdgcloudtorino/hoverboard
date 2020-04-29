@@ -52,6 +52,11 @@ export const ADD_POTENTIAL_PARTNER = 'app/Partners/ADD_POTENTIAL_PARTNER';
 export const ADD_POTENTIAL_PARTNER_FAILURE = 'app/Partners/ADD_POTENTIAL_PARTNER_FAILURE';
 export const ADD_POTENTIAL_PARTNER_SUCCESS = 'app/Partners/ADD_POTENTIAL_PARTNER_SUCCESS';
 
+// lotto
+export const ADD_CARD_REQUEST = 'app/Lotto/ADD_CARD_REQUEST';
+export const ADD_CARD_REQUEST_FAILURE = 'app/Lotto/ADD_CARD_REQUEST_FAILURE';
+export const ADD_CARD_REQUEST_SUCCESS = 'app/Lotto/ADD_CARD_REQUEST_SUCCESS';
+
 // featured videos
 export const FETCH_VIDEOS = 'app/Videos/FETCH_VIDEOS';
 export const FETCH_VIDEOS_FAILURE = 'app/Videos/FETCH_VIDEOS_FAILURE';

@@ -6,6 +6,10 @@ service cloud.firestore {
         && request.resource.data.comment.size() <= 256;
     }
 
+    match /cardRequests/{cardRequest} {
+    	allow read, write: if request.auth.uid != null;
+    }
+
     match /blog/{post} {
       // Applies to single document read requests
       allow get;
