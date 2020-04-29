@@ -283,16 +283,16 @@ const importNotificationsConfig = async () => {
 };
 
 initializeFirebase()
-  .then(() => importBlog())
-  .then(() => importGallery())
-  .then(() => importNotificationsConfig())
-  .then(() => importPartners())
+  //.then(() => importBlog())
+  //.then(() => importGallery())
+  //.then(() => importNotificationsConfig())
+  //.then(() => importPartners())
   //.then(() => importPreviousSpeakers())
   .then(() => importSchedule())
   .then(() => importSessions())
   .then(() => importSpeakers())
-  .then(() => importTeam())
-  .then(() => importTickets())
+  //.then(() => importTeam())
+  //.then(() => importTickets())
   //.then(() => importVideos())
 
   .then(() => {
