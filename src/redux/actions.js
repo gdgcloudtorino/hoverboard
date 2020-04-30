@@ -1030,7 +1030,6 @@ export const lottoActions = {
       type: ADD_CARD_REQUEST,
       payload: data,
     });
-    
     const id = data.email.replace(/[^\w\s]/gi, '');
     const request = {
       email: data.email,

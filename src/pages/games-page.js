@@ -6,7 +6,7 @@ import 'plastic-image';
 import '../elements/shared-styles.js';
 import { ReduxMixin } from '../mixins/redux-mixin.js';
 import { dialogsActions, lottoActions, toastActions } from '../redux/actions.js';
-import { DIALOGS, ADD_CARD_REQUEST_FAILURE } from '../redux/constants.js';
+import { DIALOGS } from '../redux/constants.js';
 
 class GamesPage extends ReduxMixin(PolymerElement) {
   static get template() {
@@ -110,7 +110,6 @@ class GamesPage extends ReduxMixin(PolymerElement) {
       toastActions.showToast({ message: '{$ lottoBlock.mustBeSigned $}' });
       return;
     }
-    
     dialogsActions.openDialog(DIALOGS.SUBSCRIBE, {
       title: '{$ lottoBlock.form.title $}',
       submitLabel: '{$ lottoBlock.form.submitLabel $}',
@@ -118,7 +117,7 @@ class GamesPage extends ReduxMixin(PolymerElement) {
       lastNameFieldLabel: '{$ lottoBlock.form.lastName $}',
       emailFieldValue: this.user.email,
       submit: (data) => {
-        this.dispatchAction(lottoActions.addCardRequest(data))
+        this.dispatchAction(lottoActions.addCardRequest(data));
       },
     });
   }
@@ -133,7 +132,5 @@ class GamesPage extends ReduxMixin(PolymerElement) {
       }
     }
   }
-
 }
-
 window.customElements.define(GamesPage.is, GamesPage);
