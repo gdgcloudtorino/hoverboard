@@ -151,7 +151,9 @@ class SessionElement extends UtilsFunctions(ReduxMixin(GestureEventListeners(Pol
         <div flex>
           <h3 class="session-title">[[session.title]]</h3>
           <text-truncate lines="3">
-            <div class="session-description">[[summary]]</div>
+            <marked-element class="description" markdown="[[summary]]">
+              <div slot="markdown-html"></div>
+            </marked-element>
           </text-truncate>
         </div>
         <span class="language">[[slice(session.language, 2)]]</span>
