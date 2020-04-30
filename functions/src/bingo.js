@@ -3,13 +3,15 @@ import { firestore } from 'firebase-admin';
 import Storage from '@google-cloud/storage';
 import path from 'path';
 
+const gcs = new Storage();
+
 export const bingoCardAdded = functions.storage.object().onFinalize(async (file) => {
   const filePath = file.name;
   const contentType = file.contentType;
   const dir = path.dirname(filePath);
   const name = path.basename(filePath);
   const bucket = gcs.bucket(file.bucket);
-  const file = bucket.file(filePath);
+  const storageFile = bucket.file(filePath);
 
   if (!contentType.startsWith('image/')) {
     return console.log('This is not an image.');
@@ -26,12 +28,11 @@ export const bingoCardAdded = functions.storage.object().onFinalize(async (file)
 
   try {
     await firestore().runTransaction(async transaction => {
-      images = parseInt(images) + 1;
       const downloadOptions = {
         action: 'read',
         expires: '05-31-2020'
       };
-      const [downloadUrl] = await file.getSignedUrl(downloadOptions);
+      const [downloadUrl] = await storageFile.getSignedUrl(downloadOptions);
       const cardRef = firestore().collection("bingo").doc("0").collection("cards").doc()
       transaction.create(cardRef, {
         imageName: name,
@@ -41,7 +42,6 @@ export const bingoCardAdded = functions.storage.object().onFinalize(async (file)
         assigned: false
       });
       transaction.create(firestore().collection("bingo").doc("0").collection("images").doc(name), {
-        seq: images,
         name: name,
         fullPath: file.name,
         mediaLink: downloadUrl,
@@ -56,19 +56,24 @@ export const bingoCardAdded = functions.storage.object().onFinalize(async (file)
   return console.log("Entry created for bingo image");
 });
 
-export const bingoCardRequested = functions.firestore.document('cardRequests/{requestId}').onWrite(async (change, context) => {
-  const requestSnapshot = await firestore().collection("cardRequests").doc(context.params.requestId).get();
-  if (requestSnapshot.get("assigned") == true ) {
+export const bingoCardRequested = functions.firestore.document('cardRequests/{requestId}').onCreate(async (snap, context) => {
+  const cardRequest = snap.data();
+  
+  if (cardRequest == null) {
+    return console.log('Error: cardRequest is null');
+  }
+
+  if (cardRequest.assigned == true ) {
     return console.log('There are already card assigned to the same email: '+ context.params.requestId);
   }
 
   const cardsQuery = await firestore().collection("bingo").doc("0").collection("cards")
-    .where("assigned", "==", true).get();
+    .where("assigned", "==", false).get();
   if (cardsQuery.empty || cardsQuery.size < 2) {
     await firestore().collection("discardedRequests").doc(context.params.requestId).set({
-      email: requestSnapshot.get("email"),
-      name: requestSnapshot.get("name"),
-      lastName: requestSnapshot.get("lastName")
+      email: cardRequest.email,
+      name: cardRequest.name,
+      lastName: cardRequest.lastName
     });
     return console.log('All images have been assigned');
   }
@@ -93,9 +98,9 @@ export const bingoCardRequested = functions.firestore.document('cardRequests/{re
       });
 
       transaction.create(firestore().collection("assignedCards").doc(context.params.requestId), {
-        email: requestSnapshot.get("email"),
-        name: requestSnapshot.get("name"),
-        lastName: requestSnapshot.get("lastName"),
+        email: cardRequest.email,
+        name: cardRequest.name,
+        lastName: cardRequest.lastName,
         saturdayCardId: saturdayCardId,
         saturdayMediaLink: saturdayCard.imageMediaLink,
         sundayCardId: sundayCardId,
