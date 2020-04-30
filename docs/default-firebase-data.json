@@ -169,6 +169,16 @@
 				"logoUrl": "../images/logos/droidcon_logo.png",
 				"name": "droidcon italy",
 				"url": "https://it.droidcon.com/2020/webinars/"
+			},{
+				"order": 4,
+				"logoUrl": "../images/logos/PS_logo.png",
+				"name": "Pluralsight",
+				"url": "https://www.pluralsight.com/"
+			},{
+				"order": 5,
+				"logoUrl": "../images/logos/slido_logo.png",
+				"name": "Sli.do",
+				"url": "https://www.sli.do/"
 			}],
 			"order": 2,
 			"title": "Supporters"
