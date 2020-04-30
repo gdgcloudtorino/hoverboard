@@ -164,6 +164,11 @@
 				"logoUrl": "../images/logos/grusp_logo.png",
 				"name": "GRUsp",
 				"url": "https://www.grusp.org/it/"
+			},{
+				"order": 3,
+				"logoUrl": "../images/logos/droidcon_logo.png",
+				"name": "droidcon italy",
+				"url": "https://it.droidcon.com/2020/webinars/"
 			}],
 			"order": 2,
 			"title": "Supporters"
