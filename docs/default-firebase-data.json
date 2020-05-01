@@ -958,7 +958,7 @@
 		"ValentinaAnnaVentura": {
 			"bio": "https://italia.campus-party.org/cpstories/valentina-ventura-a-cpit3/",
 			"company": "",
-			"companyLogoUrl": "",
+			"companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/logos%2Fgdggela.png?alt=media&token=2e689e43-c71a-4009-8edd-5a8088b08876",
 			"country": "Italy",
 			"name": "Valentina Anna Ventura",
 			"order": 34,
@@ -1098,7 +1098,7 @@
 		"MariangelaTandurella": {
 			"bio": "Psicologa clinica-esperta in DSA - 35 anni. Cresciuta (ma poi mica tanto!) tra fotografie, libri e viaggi, non ha ancora smesso di sognare un mondo...a misura di bambino!",
 			"company": "",
-			"companyLogoUrl": "",
+			"companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/logos%2Fgdggela.png?alt=media&token=2e689e43-c71a-4009-8edd-5a8088b08876",
 			"country": "Italy",
 			"name": "Mariangela Tandurella",
 			"order": 36,
@@ -2401,5 +2401,21 @@
 	}],
 	"triggers": {
 		"images": false
-	}
+	},
+	"tracksLinks": [{
+		"name": "Cloud Computing",
+		"imageUrl": "../images/tracks/cloud.png",
+		"url": "https://www.eventbrite.it/e/biglietti-gdg-devparty-together-102721366372?aff=website",
+		"description": "Sabato 2 Maggio, 15:00-20:00"
+	},{
+		"name": "Mobile",
+		"imageUrl": "../images/tracks/mobile.png",
+		"url": "https://www.eventbrite.it/e/biglietti-gdg-devparty-together-102721366372?aff=website",
+		"description": "Sabato 2 Maggio, 15:00-20:00"
+	},{
+		"name": "IWD/Diversity",
+		"imageUrl": "../images/tracks/iwddiversity.png",
+		"url": "https://www.eventbrite.it/e/biglietti-gdg-devparty-together-102721366372?aff=website",
+		"description": "Sabato 2 Maggio, 15:00-20:00"
+	}]
 }

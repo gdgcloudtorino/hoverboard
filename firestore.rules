@@ -212,6 +212,17 @@ service cloud.firestore {
       allow write: if false;
     }
 
+    match /tracksLinks/{tracksLink} {
+      // Applies to single document read requests
+      allow get;
+
+      // Applies to queries and collection read requests
+      allow list;
+
+      // Disallow writes
+      allow write: if false;
+    }
+
     match /users/{userId} {
       allow list: if false;
 

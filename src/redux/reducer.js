@@ -15,6 +15,9 @@ import {
   FETCH_GALLERY_FAILURE,
   FETCH_GALLERY_SUCCESS,
   FETCH_GALLERY,
+  FETCH_TRACKS_LINKS,
+  FETCH_TRACKS_LINKS_SUCCESS,
+  FETCH_TRACKS_LINKS_FAILURE,
   FETCH_PARTNERS_FAILURE,
   FETCH_PARTNERS_SUCCESS,
   FETCH_PARTNERS,
@@ -156,6 +159,32 @@ export const ticketsReducer = (state = initialState.tickets, action) => {
       });
 
     case FETCH_TICKETS_SUCCESS:
+      return Object.assign({}, state, {
+        fetching: false,
+        list: action.payload.list,
+      });
+
+    default:
+      return state;
+  }
+};
+
+export const tracksLinksReducer = (state = initialState.tracksLinks, action) => {
+  switch (action.type) {
+    case FETCH_TRACKS_LINKS:
+      return Object.assign({}, state, {
+        fetching: true,
+        fetchingError: null,
+        list: [],
+      });
+
+    case FETCH_TRACKS_LINKS_FAILURE:
+      return Object.assign({}, state, {
+        fetching: false,
+        fetchingError: action.payload.error,
+      });
+
+    case FETCH_TRACKS_LINKS_SUCCESS:
       return Object.assign({}, state, {
         fetching: false,
         list: action.payload.list,
@@ -596,6 +625,7 @@ export const appReducer = (state = initialState, action) => {
     routing: routingReducer(state.routing, action),
     dialogs: dialogsReducer(state.dialogs, action),
     tickets: ticketsReducer(state.tickets, action),
+    tracksLinks: tracksLinksReducer(state.tracksLinks, action),
     partners: partnersReducer(state.partners, action),
     lotto: lottoReducer(state.partners, action),
     feedback: feedbackReducer(state.feedback, action),

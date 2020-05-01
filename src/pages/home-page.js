@@ -10,6 +10,7 @@ import '../elements/partners-block.js';
 import '../elements/speakers-block.js';
 import '../elements/subscribe-block.js';
 import '../elements/tickets-block.js';
+import '../elements/tracks-links-block.js';
 import { ReduxMixin } from '../mixins/redux-mixin.js';
 import { ScrollFunctions } from '../mixins/scroll-functions.js';
 import { uiActions } from '../redux/actions.js';
@@ -221,6 +222,7 @@ class HomePage extends ScrollFunctions(ReduxMixin(PolymerElement)) {
     <!--<speakers-block></speakers-block>-->
     <!--<subscribe-block></subscribe-block>-->
     <tickets-block></tickets-block>
+    <!--<tracks-links-block></tracks-links-block>-->
     <gallery-block></gallery-block>
     <about-organizer-block></about-organizer-block>
     <!--<featured-videos></featured-videos>-->

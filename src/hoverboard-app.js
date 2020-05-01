@@ -50,6 +50,7 @@ import {
   notificationsActions,
   routingActions,
   ticketsActions,
+  tracksLinksActions,
   toastActions,
   uiActions,
   userActions,
@@ -364,6 +365,7 @@ class HoverboardApp extends UtilsFunctions(ScrollFunctions(ReduxMixin(PolymerEle
       });
     });
     this.dispatchAction(ticketsActions.fetchTickets());
+    this.dispatchAction(tracksLinksActions.fetchTracksLinks());
   }
 
   disconnectedCallback() {

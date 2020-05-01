@@ -51,6 +51,11 @@ export const initialState = {
     fetchingError: null,
     list: [],
   },
+  tracksLinks: {
+    fetching: false,
+    fetchingError: null,
+    list: [],
+  },
   videos: {
     fetching: false,
     fetchingError: null,

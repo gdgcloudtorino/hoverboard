@@ -39,6 +39,9 @@ import {
   FETCH_TICKETS_FAILURE,
   FETCH_TICKETS_SUCCESS,
   FETCH_TICKETS,
+  FETCH_TRACKS_LINKS,
+  FETCH_TRACKS_LINKS_FAILURE,
+  FETCH_TRACKS_LINKS_SUCCESS,
   FETCH_USER_FEATURED_SESSIONS_FAILURE,
   FETCH_USER_FEATURED_SESSIONS_SUCCESS,
   FETCH_USER_FEATURED_SESSIONS,
@@ -198,6 +201,33 @@ export const ticketsActions = {
         .catch((error) => {
           dispatch({
             type: FETCH_TICKETS_FAILURE,
+            payload: { error },
+          });
+        });
+  },
+};
+
+export const tracksLinksActions = {
+  fetchTracksLinks: () => (dispatch) => {
+    dispatch({
+      type: FETCH_TRACKS_LINKS,
+    });
+
+    return firebase.firestore().collection('tracksLinks')
+        .orderBy('order', 'asc')
+        .get()
+        .then((snaps) => {
+          const list = snaps.docs
+              .map((snap) => Object.assign({}, snap.data(), { id: snap.id }));
+
+          dispatch({
+            type: FETCH_TRACKS_LINKS_SUCCESS,
+            payload: { list },
+          });
+        })
+        .catch((error) => {
+          dispatch({
+            type: FETCH_TRACKS_LINKS_FAILURE,
             payload: { error },
           });
         });
