@@ -97,6 +97,15 @@ export const bingoCardRequested = functions.firestore.document('cardRequests/{re
         assignedTo: context.params.requestId
       });
 
+      let html = 'Ciao';
+      if (cardRequest.name != null && cardRequest.name !== undefined) {
+        html += ' ';
+        html += cardRequest.name;
+      }
+      html += ',<br/>ecco le tue cartelle per giocare a DevParty Lotto. Hai a disposizione una cartella per ogni giorno dell\'evento.<br/>';
+      html += 'Scaricale e stampale per poter giocare mentre segui i fantastici talk del nostro evento e... buona fortuna!<br/><br/>';
+      html += 'Il team di GDG DevParty<br/><br/><a href=\'' + saturdayCard.imageMediaLink + '\'>Cartella per il sabato</a><br/>';
+      html += '<a href=\'' + sundayCard.imageMediaLink + '\'>Cartella per la domenica</a>';
       transaction.create(firestore().collection("assignedCards").doc(context.params.requestId), {
         email: cardRequest.email,
         name: cardRequest.name,
@@ -104,7 +113,12 @@ export const bingoCardRequested = functions.firestore.document('cardRequests/{re
         saturdayCardId: saturdayCardId,
         saturdayMediaLink: saturdayCard.imageMediaLink,
         sundayCardId: sundayCardId,
-        sundayMediaLink: sundayCard.imageMediaLink
+        sundayMediaLink: sundayCard.imageMediaLink,
+        to: cardRequest.email,
+        message: {
+          subject: 'DevParty Lotto - Ecco le tue cartelle',
+          html: html
+        }
       });
     });
   } catch(e){
