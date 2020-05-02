@@ -179,7 +179,7 @@ class HomePage extends ScrollFunctions(ReduxMixin(PolymerElement)) {
             {$ viewHighlights $}
           </paper-button>-->
           
-          <paper-button
+          <!--<paper-button
             on-tap="_scrollToTickets" ga-on="click"
             ga-event-category="tickets"
             ga-event-action="scroll"
@@ -188,7 +188,7 @@ class HomePage extends ScrollFunctions(ReduxMixin(PolymerElement)) {
             invert>
             <iron-icon icon="hoverboard:ticket"></iron-icon>
             {$ buyTicket $}
-          </paper-button> 
+          </paper-button> -->
           
         </div>
 
