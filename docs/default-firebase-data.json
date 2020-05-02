@@ -608,7 +608,7 @@
 				"Talk"
 			],
 			"icon": "",
-			"title": "TBD"
+			"title": ""
 		},
 		"106": {
 			"complexity": "",
@@ -2384,6 +2384,20 @@
 				"order": 17,
 				"gdg": "",
 				"title": "Community engagement"
+			},
+			{
+				"name": "Oriana Virgillito",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FOrianaVirgilito.jpg?alt=media&token=cb8de861-4af7-4b12-930a-a7b72ca610c5",
+				"socials": [
+					{
+						"icon": "facebook",
+						"link": "https://www.facebook.com/oriana.virgillito",
+						"name": "Facebook"
+					}
+				],
+				"order": 18,
+				"gdg": "GDG Torino",
+				"title": "Comunicazione"
 			}
 		],
 		"title": "Core Team"
@@ -2403,19 +2417,29 @@
 		"images": false
 	},
 	"tracksLinks": [{
+		"name": "Keynote apertura",
+		"imageUrl": "../images/tracks/keynote.png",
+		"url": "https://www.youtube.com/watch?v=LyAzDwg5b-Q",
+		"description": "Sabato 2 Maggio, 15:00-15:20"
+	},{
 		"name": "Cloud Computing",
 		"imageUrl": "../images/tracks/cloud.png",
-		"url": "https://www.eventbrite.it/e/biglietti-gdg-devparty-together-102721366372?aff=website",
-		"description": "Sabato 2 Maggio, 15:00-20:00"
+		"url": "https://www.youtube.com/watch?v=LyAzDwg5b-Q",
+		"description": "Sabato 2 Maggio, 15:20-20:10"
 	},{
 		"name": "Mobile",
 		"imageUrl": "../images/tracks/mobile.png",
-		"url": "https://www.eventbrite.it/e/biglietti-gdg-devparty-together-102721366372?aff=website",
-		"description": "Sabato 2 Maggio, 15:00-20:00"
+		"url": "https://www.youtube.com/watch?v=Cq3di5lfMkY",
+		"description": "Sabato 2 Maggio, 15:20-20:10"
 	},{
 		"name": "IWD/Diversity",
 		"imageUrl": "../images/tracks/iwddiversity.png",
-		"url": "https://www.eventbrite.it/e/biglietti-gdg-devparty-together-102721366372?aff=website",
-		"description": "Sabato 2 Maggio, 15:00-20:00"
+		"url": "https://www.youtube.com/watch?v=twVOmrNEuZ8",
+		"description": "Sabato 2 Maggio, 15:20-20:10"
+	},{
+		"name": "Keynote chiusura",
+		"imageUrl": "../images/tracks/keynote.png",
+		"url": "https://www.youtube.com/watch?v=LyAzDwg5b-Q",
+		"description": "Sabato 2 Maggio, 20:15-20:30"
 	}]
 }
