@@ -2,7 +2,7 @@ os: linux
 dist: bionic
 language: node_js
 node_js:
-  - "12"
+  - "10"
 jobs:
   include:
     - name: Test
