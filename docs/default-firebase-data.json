@@ -38,14 +38,14 @@
 		}
 	},
 	"gallery": [
-		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F4.jpg?alt=media&token=74183b49-4459-4a52-a75f-8750d8ea9669",
-		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F2.jpg?alt=media&token=cb5cecd4-3669-45c7-ac73-f70d79e1f0ae",
-		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F3.jpg?alt=media&token=8f5207b6-16bd-4493-aa30-a7dcef3e12c6",
-		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F1.jpg?alt=media&token=66bb472e-8d09-4aff-b8e2-86ab6362e4e5",
-		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F5.jpg?alt=media&token=bf5c9d2f-1c88-4893-86b9-57681798a848",
-		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F6.jpg?alt=media&token=5e7d7cfc-8ef4-4bd9-a4e6-0e44e4ea5e6d",
-		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F7.jpg?alt=media&token=4a097e27-c4a2-4ae2-ba33-9a08e65e12e7",
-		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F8.jpg?alt=media&token=2d23bd7f-a160-48b4-8a9d-ba2927a7eea6"
+		"https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/homepage%2Fgallery%2F4.jpg?alt=media&token=74183b49-4459-4a52-a75f-8750d8ea9669",
+		"https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/homepage%2Fgallery%2F2.jpg?alt=media&token=cb5cecd4-3669-45c7-ac73-f70d79e1f0ae",
+		"https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/homepage%2Fgallery%2F3.jpg?alt=media&token=8f5207b6-16bd-4493-aa30-a7dcef3e12c6",
+		"https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/homepage%2Fgallery%2F1.jpg?alt=media&token=66bb472e-8d09-4aff-b8e2-86ab6362e4e5",
+		"https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/homepage%2Fgallery%2F5.jpg?alt=media&token=bf5c9d2f-1c88-4893-86b9-57681798a848",
+		"https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/homepage%2Fgallery%2F6.jpg?alt=media&token=5e7d7cfc-8ef4-4bd9-a4e6-0e44e4ea5e6d",
+		"https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/homepage%2Fgallery%2F7.jpg?alt=media&token=4a097e27-c4a2-4ae2-ba33-9a08e65e12e7",
+		"https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/homepage%2Fgallery%2F8.jpg?alt=media&token=2d23bd7f-a160-48b4-8a9d-ba2927a7eea6"
 	],
 	"notifications": {
 		"config": {
@@ -959,7 +959,7 @@
 		"ValentinaAnnaVentura": {
 			"bio": "https://italia.campus-party.org/cpstories/valentina-ventura-a-cpit3/",
 			"company": "",
-			"companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/logos%2Fgdggela.png?alt=media&token=2e689e43-c71a-4009-8edd-5a8088b08876",
+			"companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/logos%2Fgdggela.png?alt=media&token=2e689e43-c71a-4009-8edd-5a8088b08876",
 			"country": "Italy",
 			"name": "Valentina Anna Ventura",
 			"order": 34,
@@ -1099,11 +1099,11 @@
 		"MariangelaTandurella": {
 			"bio": "Psicologa clinica-esperta in DSA - 35 anni. Cresciuta (ma poi mica tanto!) tra fotografie, libri e viaggi, non ha ancora smesso di sognare un mondo...a misura di bambino!",
 			"company": "",
-			"companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/logos%2Fgdggela.png?alt=media&token=2e689e43-c71a-4009-8edd-5a8088b08876",
+			"companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/logos%2Fgdggela.png?alt=media&token=2e689e43-c71a-4009-8edd-5a8088b08876",
 			"country": "Italy",
 			"name": "Mariangela Tandurella",
 			"order": 36,
-			"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/speakers%2FMariangelaTandurella.jpg?alt=media&token=1f292df3-fa5f-4617-a53d-ee0e3ee982ad",
+			"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/speakers%2FMariangelaTandurella.jpg?alt=media&token=1f292df3-fa5f-4617-a53d-ee0e3ee982ad",
 			"shortBio": "Psicologa clinica-esperta in DSA",
 			"title": "Psicologa clinica-esperta in DSA",
 			"socials": [
@@ -1151,7 +1151,7 @@
 			"country": "Italy",
 			"name": "Luca Di Vita",
 			"order": 19,
-			"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/speakers%2FLucaDiVita.jpeg?alt=media&token=64d8f300-ba91-4a15-a787-e31d6ce66b04",
+			"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/speakers%2FLucaDiVita.jpeg?alt=media&token=64d8f300-ba91-4a15-a787-e31d6ce66b04",
 			"shortBio": "Machine Learning Engineer presso AESYS",
 			"title": "Machine Learning Engineer presso AESYS",
 			"socials": [{
@@ -1804,7 +1804,7 @@
       "country": "Italy",
       "name": "Eugenio Paluello",
       "order": 50,
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/speakers%2FEugenio_Paluello.jpg?alt=media&token=f5c9ecf8-1dd6-411c-94f4-cc1b5816cf35",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/speakers%2FEugenio_Paluello.jpg?alt=media&token=f5c9ecf8-1dd6-411c-94f4-cc1b5816cf35",
       "shortBio": "Tocket, co-CTO",
       "title": "Tocket, co-CTO",
       "socials": [
@@ -1824,7 +1824,7 @@
       "country": "Italy",
       "name": "Luca Corbucci",
       "order": 51,
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/speakers%2FLuca_Corbucci.jpg?alt=media&token=2b7a486f-1323-4dff-8cdc-fa02b66cb11a",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/speakers%2FLuca_Corbucci.jpg?alt=media&token=2b7a486f-1323-4dff-8cdc-fa02b66cb11a",
       "shortBio": "Tocket",
       "title": "Tocket",
       "socials": [
@@ -1874,7 +1874,7 @@
       "country": "Italy",
       "name": "Ambra Tonon",
       "order": 63,
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/speakers%2FAmbraTonon.jpeg?alt=media&token=30a442bd-dbb2-4de4-82ca-9703a4574c02",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/speakers%2FAmbraTonon.jpeg?alt=media&token=30a442bd-dbb2-4de4-82ca-9703a4574c02",
       "shortBio": "Nephila – Addetta area amministrativa e gestionale",
       "title": "Nephila – Addetta area amministrativa e gestionale",
       "socials": [
@@ -1894,7 +1894,7 @@
       "country": "Italy",
       "name": "Sabrina Scoma",
       "order": 64,
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/speakers%2FSabrinaScoma.JPG?alt=media&token=51e8137e-7e68-42d9-867a-e4365391931b",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/speakers%2FSabrinaScoma.JPG?alt=media&token=51e8137e-7e68-42d9-867a-e4365391931b",
       "shortBio": "Nephila Content editor e Social Media Manager",
       "title": "Nephila Content editor e Social Media Manager",
       "socials": [
@@ -2029,7 +2029,7 @@
 	"team": [{
 		"members": [{
 				"name": "Gregorio Palamà",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FGregorioPalama.png?alt=media&token=e3a79ce0-22c3-416b-a880-dca17b98455a",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FGregorioPalama.png?alt=media&token=e3a79ce0-22c3-416b-a880-dca17b98455a",
 				"gdg": "GDG Pescara",
 				"socials": [{
 						"icon": "twitter",
@@ -2047,7 +2047,7 @@
 			},
 			{
 				"name": "Francesco Pirrone",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FFrancescoPirrone.jpg?alt=media&token=47f33280-2536-4aff-9d25-80c7b0eb54c0",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FFrancescoPirrone.jpg?alt=media&token=47f33280-2536-4aff-9d25-80c7b0eb54c0",
 				"gdg": "GDG Cloud Torino",
 				"socials": [{
 						"icon": "twitter",
@@ -2065,7 +2065,7 @@
 			},
 			{
 				"name": "Gianni Forlastro",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FGianniForlastro.png?alt=media&token=67ede0e7-b744-47ce-8ae2-3c3bdc8b6aa9",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FGianniForlastro.png?alt=media&token=67ede0e7-b744-47ce-8ae2-3c3bdc8b6aa9",
 				"gdg": "GDG Cloud Torino",
 				"socials": [{
 						"icon": "facebook",
@@ -2088,7 +2088,7 @@
 			},
 			{
 				"name": "Leonardo Dipilato",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FLeonardoDipilato.jpg?alt=media&token=94a7f8a1-4a17-4d84-b87d-1af1036bf23f",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FLeonardoDipilato.jpg?alt=media&token=94a7f8a1-4a17-4d84-b87d-1af1036bf23f",
 				"gdg": "GDG Pisa",
 				"socials": [{
 						"icon": "facebook",
@@ -2111,7 +2111,7 @@
 			},
 			{
 				"name": "Stefano Tomasi",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FStefanoTomasi.png?alt=media&token=2bb61888-ae19-4396-820f-e07f9d9d7715",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FStefanoTomasi.png?alt=media&token=2bb61888-ae19-4396-820f-e07f9d9d7715",
 				"gdg": "GDG Trento",
 				"socials": [{
 						"icon": "facebook",
@@ -2129,7 +2129,7 @@
 			},
 			{
 				"name": "Mattia Piccirillo",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FMattiaPiccirillo.jpg?alt=media&token=35b4f067-a933-40f6-8b46-0e997ace43fc",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FMattiaPiccirillo.jpg?alt=media&token=35b4f067-a933-40f6-8b46-0e997ace43fc",
 				"gdg": "GDG Firenze",
 				"socials": [{
 						"icon": "facebook",
@@ -2152,7 +2152,7 @@
 			},
 			{
 				"name": "Asia Salvaterra",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FAsiaSalvaterra.png?alt=media&token=30ad6303-b4af-4cb4-b79d-c5131e512ec3",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FAsiaSalvaterra.png?alt=media&token=30ad6303-b4af-4cb4-b79d-c5131e512ec3",
 				"gdg": "GDG Trento",
 				"socials": [{
 						"icon": "facebook",
@@ -2170,7 +2170,7 @@
 			},
 			{
 				"name": "Giacomo Ranieri",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FGiacomoRanieri.jpg?alt=media&token=42453fee-ba11-4a21-925e-df625529c759",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FGiacomoRanieri.jpg?alt=media&token=42453fee-ba11-4a21-925e-df625529c759",
 				"gdg": "GDG Torino",
 				"socials": [{
 					"icon": "linkedin",
@@ -2182,7 +2182,7 @@
 			},
 			{
 				"name": "Nicola Corti",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FNicolaCorti.jpeg?alt=media&token=86274a9a-79e4-4f9a-90b2-c732f0b057a4",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FNicolaCorti.jpeg?alt=media&token=86274a9a-79e4-4f9a-90b2-c732f0b057a4",
 				"gdg": "GDG Pisa",
 				"socials": [{
 						"icon": "twitter",
@@ -2205,7 +2205,7 @@
 			},
 			{
 				"name": "Saveria Serena Foti",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FSaveriaSerenaFoti.jpg?alt=media&token=a52e703a-847a-464b-86d2-e5b31c840d9e",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FSaveriaSerenaFoti.jpg?alt=media&token=a52e703a-847a-464b-86d2-e5b31c840d9e",
 				"gdg": "GDG Nebrodi",
 				"socials": [{
 						"icon": "linkedin",
@@ -2223,7 +2223,7 @@
 			},
 			{
 				"name": "Michela Bertaina",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FMichelaBertaina.jpeg?alt=media&token=de3ecd2e-06b6-4cb9-8230-fcdb6046428f",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FMichelaBertaina.jpeg?alt=media&token=de3ecd2e-06b6-4cb9-8230-fcdb6046428f",
 				"gdg": "GDG Bari",
 				"socials": [{
 						"icon": "twitter",
@@ -2246,7 +2246,7 @@
 			},
 			{
 				"name": "Juna Salviati",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FJunaSalviati.png?alt=media&token=69ba69bc-d617-478c-9ecd-44992b33b104",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FJunaSalviati.png?alt=media&token=69ba69bc-d617-478c-9ecd-44992b33b104",
 				"gdg": "GDG Roma",
 				"socials": [{
 						"icon": "twitter",
@@ -2264,7 +2264,7 @@
 			},
 			{
 				"name": "Alessio Rizzolo",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FAlessioRizzolo.jpg?alt=media&token=886c6199-39ed-42a1-8a3d-d2abf1a09aee",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FAlessioRizzolo.jpg?alt=media&token=886c6199-39ed-42a1-8a3d-d2abf1a09aee",
 				"socials": [{
 						"icon": "linkedin",
 						"link": "https://www.linkedin.com/in/rizzolessio/",
@@ -2287,7 +2287,7 @@
 			},
 			{
 				"name": "Loredana Frontino",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FLoredanaFrontino.png?alt=media&token=3b402b46-1a15-464c-93df-d9f3e0a2f48e",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FLoredanaFrontino.png?alt=media&token=3b402b46-1a15-464c-93df-d9f3e0a2f48e",
 				"socials": [{
 					"icon": "linkedin",
 					"link": "https://www.linkedin.com/in/loredana-frontino-0a2367132",
@@ -2299,7 +2299,7 @@
 			},
 			{
 				"name": "Lucia Vigoroso",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FLuciaVigoroso.png?alt=media&token=7f8a1165-aac9-4c39-a0df-2b5ba6e3b455",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FLuciaVigoroso.png?alt=media&token=7f8a1165-aac9-4c39-a0df-2b5ba6e3b455",
 				"socials": [{
 						"icon": "linkedin",
 						"link": "https://www.linkedin.com/in/lucia-vigoroso-40267472/",
@@ -2317,7 +2317,7 @@
 			},
 			{
 				"name": "Santino Caruso",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FSantoCaruso.png?alt=media&token=24f91f1a-ba6e-4ac6-a1c4-87974aeffbfd",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FSantoCaruso.png?alt=media&token=24f91f1a-ba6e-4ac6-a1c4-87974aeffbfd",
 				"socials": [{
 						"icon": "linkedin",
 						"link": "https://www.linkedin.com/in/santocaruso/",
@@ -2335,7 +2335,7 @@
 			},
 			{
 				"name": "Nicola Guglielmi",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FNicolaGuglielmi.jpg?alt=media&token=de2cb4bd-1fe4-4649-8e25-11d9c81bb3e3",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FNicolaGuglielmi.jpg?alt=media&token=de2cb4bd-1fe4-4649-8e25-11d9c81bb3e3",
 				"socials": [{
 					"icon": "linkedin",
 					"link": "https://www.linkedin.com/in/nicola-guglielmi/",
@@ -2347,7 +2347,7 @@
 			},
 			{
 				"name": "Noelia Di Pretoro",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FNoeliaDiPretoro.jpg?alt=media&token=1a6e3c72-8019-4ad6-92ae-02ff31830175",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FNoeliaDiPretoro.jpg?alt=media&token=1a6e3c72-8019-4ad6-92ae-02ff31830175",
 				"socials": [{
 						"icon": "linkedin",
 						"link": "https://it.linkedin.com/in/noelia-di-pretoro",
@@ -2365,7 +2365,7 @@
 			},
 			{
 				"name": "Martina Chillura",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FMartinaChillura.jpeg?alt=media&token=d038981a-7c7c-4f61-9da1-e337562462dc",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FMartinaChillura.jpeg?alt=media&token=d038981a-7c7c-4f61-9da1-e337562462dc",
 				"socials": [{
 						"icon": "linkedin",
 						"link": "https://www.linkedin.com/in/martina-chillura",
@@ -2388,7 +2388,7 @@
 			},
 			{
 				"name": "Oriana Virgillito",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FOrianaVirgilito.jpg?alt=media&token=cb8de861-4af7-4b12-930a-a7b72ca610c5",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FOrianaVirgilito.jpg?alt=media&token=cb8de861-4af7-4b12-930a-a7b72ca610c5",
 				"socials": [
 					{
 						"icon": "facebook",
