@@ -2,20 +2,20 @@ os: linux
 dist: bionic
 language: node_js
 node_js:
-  - "10"
+  - "12"
 jobs:
   include:
-    #- name: Lint
-    #  script: npm run lint
     - name: Test
       script: npm test
     - name: Build & Deploy
-      script: then npm run build
+      script: npm run build
       before_deploy:
         - echo "Deploying!"
       deploy:
-        - provider: script
+        - provider: firebase
           skip_cleanup: true
           on:
-            branch: devfest2020
-          script: firebase deploy --token "$FIREBASE_TOKEN"
+            branch: test
+          project: devfest2020-287916
+          token:
+            secure: "PrKMK0/3OCkZE2CwVerb6f0naNNWpKU5pvWUlkgHY3PkASuwkGfEIQkW+EYByVv/rZXMMP2AZ4bdzb/O/Wh6/vF4ACrUbzjlZdyiK4XH+PdaOusvgGYizL7LQ1FCrJGNUZmJz+Yz/SS1DEvH5q7fOraXZWDP9+i1TUYQEegVBUHtRHQE+WVil1js0sHLOFv2HTKLJab560HSMiIXwgo0SOLJ8ojF4rmS5DXwR2pB7yZL8Gs27uOg1WRf7wURGNGIDOl0C6m/D7skOXw0b6sWbwpr0ZV99jeujABkA4QYG8ILUG7n8GNCgq/ORf8KZObnsz15NPSAYrig1q/O9hmcsyndv7z94Y1sCXMHKNS/vUNBm9rRINjNWQBZn31OUBqTl7HD8dIHEcqLIsp3ufCzLcFVRhOXuUxmkU4EIg+omdsimLd/U8Zng26oFrXO/hAPJm2HjD251uJHMy9fnw28H+fvlkDXLYUNpDcLz+9PUoIZpi18xdRjDVjSZYBKIhQnyMP9wGrOUG+HaioxzdS+KnaJc3Kb9ohrrFJg1JTibz0Yg2HyACemGFTIF00aVzUkDLLJH625aqP7XFlZtdz0Ux2gaCJRCcHJ0u7mUMOow46+37Vkikpi964EtKca7vu00FxzLvYuDL0AlqNdjRXoU+PKRb8oTg59Uvsc4c9edIQ="
