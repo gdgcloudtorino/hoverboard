@@ -22,18 +22,14 @@ const getConfigPath = () => {
 };
 
 const getData = () => {
-  const settingsFiles = [
-    './data/resources.json',
-    './data/settings.json',
-    getConfigPath(),
-  ];
+  const settingsFiles = ['./data/resources.json', './data/settings.json', getConfigPath()];
 
   return settingsFiles.reduce((currentData, path) => {
     return {
       ...currentData,
       ...require(path),
     };
-  }, { loadDevelopmentScripts: development });
+  }, {});
 };
 
 const data = getData();
@@ -51,6 +47,7 @@ const isTemplate = ({ url, contentType }) => {
     'application/json',
     'text/html',
     'text/markdown',
+    'video/mp2t', // TypeScript
   ];
 
   if (isNodeModule({ url })) {

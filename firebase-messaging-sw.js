@@ -1,5 +1,5 @@
-importScripts('./node_modules/firebase/firebase-app.js');
-importScripts('./node_modules/firebase/firebase-messaging.js');
+importScripts('./node_assets/firebase/firebase-app.js');
+importScripts('./node_assets/firebase/firebase-messaging.js');
 
 firebase.initializeApp({
   apiKey: '{$ firebase.apiKey $}',
@@ -21,8 +21,10 @@ messaging.setBackgroundMessageHandler(({ data }) => {
   return self.registration.showNotification(notification.title, notification);
 });
 
-self.addEventListener('notificationclick', event => {
-  const url = event.notification.data.click_action && event.notification.data.click_action.startsWith('/')
+self.addEventListener('notificationclick', (event) => {
+  const isPath =
+    event.notification.data.click_action && event.notification.data.click_action.startsWith('/');
+  const url = isPath
     ? `${self.origin}${event.notification.data.click_action}`
     : event.notification.data.click_action;
   event.waitUntil(clients.openWindow(url));
