@@ -1,4 +1,7 @@
 import {
+  ADD_CARD_REQUEST,
+  ADD_CARD_REQUEST_FAILURE,
+  ADD_CARD_REQUEST_SUCCESS,
   ADD_POTENTIAL_PARTNER_FAILURE,
   ADD_POTENTIAL_PARTNER_SUCCESS,
   ADD_POTENTIAL_PARTNER,
@@ -12,6 +15,9 @@ import {
   FETCH_GALLERY_FAILURE,
   FETCH_GALLERY_SUCCESS,
   FETCH_GALLERY,
+  FETCH_TRACKS_LINKS,
+  FETCH_TRACKS_LINKS_SUCCESS,
+  FETCH_TRACKS_LINKS_FAILURE,
   FETCH_PARTNERS_FAILURE,
   FETCH_PARTNERS_SUCCESS,
   FETCH_PARTNERS,
@@ -153,6 +159,32 @@ export const ticketsReducer = (state = initialState.tickets, action) => {
   }
 };
 
+export const tracksLinksReducer = (state = initialState.tracksLinks, action) => {
+  switch (action.type) {
+    case FETCH_TRACKS_LINKS:
+      return Object.assign({}, state, {
+        fetching: true,
+        fetchingError: null,
+        list: [],
+      });
+
+    case FETCH_TRACKS_LINKS_FAILURE:
+      return Object.assign({}, state, {
+        fetching: false,
+        fetchingError: action.payload.error,
+      });
+
+    case FETCH_TRACKS_LINKS_SUCCESS:
+      return Object.assign({}, state, {
+        fetching: false,
+        list: action.payload.list,
+      });
+
+    default:
+      return state;
+  }
+};
+
 export const partnersReducer = (state = initialState.partners, action) => {
   switch (action.type) {
     case FETCH_PARTNERS:
@@ -187,6 +219,30 @@ export const partnersReducer = (state = initialState.partners, action) => {
       });
 
     case ADD_POTENTIAL_PARTNER_SUCCESS:
+      return Object.assign({}, state, {
+        adding: false,
+      });
+
+    default:
+      return state;
+  }
+};
+
+export const lottoReducer = (state = initialState.partners, action) => {
+  switch (action.type) {
+    case ADD_CARD_REQUEST:
+      return Object.assign({}, state, {
+        adding: true,
+        addingError: null,
+      });
+
+    case ADD_CARD_REQUEST_FAILURE:
+      return Object.assign({}, state, {
+        adding: false,
+        addingError: action.payload.error,
+      });
+
+    case ADD_CARD_REQUEST_SUCCESS:
       return Object.assign({}, state, {
         adding: false,
       });
@@ -556,7 +612,9 @@ export const appReducer = (state = initialState, action) => {
     routing: routingReducer(state.routing, action),
     dialogs: dialogsReducer(state.dialogs, action),
     tickets: ticketsReducer(state.tickets, action),
+    tracksLinks: tracksLinksReducer(state.tracksLinks, action),
     partners: partnersReducer(state.partners, action),
+    lotto: lottoReducer(state.partners, action),
     feedback: feedbackReducer(state.feedback, action),
     videos: videosReducer(state.videos, action),
     blog: blogReducer(state.blog, action),

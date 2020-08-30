@@ -7,6 +7,10 @@ service cloud.firestore {
         && request.resource.data.comment.size() <= 256;
     }
 
+    match /cardRequests/{cardRequest} {
+    	allow read, write: if request.auth.uid != null;
+    }
+
     match /blog/{post} {
       // Applies to single document read requests
       allow get;
@@ -199,6 +203,17 @@ service cloud.firestore {
     }
 
     match /tickets/{ticket} {
+      // Applies to single document read requests
+      allow get;
+
+      // Applies to queries and collection read requests
+      allow list;
+
+      // Disallow writes
+      allow write: if false;
+    }
+
+    match /tracksLinks/{tracksLink} {
       // Applies to single document read requests
       allow get;
 

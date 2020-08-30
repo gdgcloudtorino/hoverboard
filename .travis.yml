@@ -7,4 +7,14 @@ jobs:
     - name: Test
       script: npm test
     - name: Build & Deploy
-      script: npm run build
+      script: if [ "$TRAVIS_BRANCH" == "master" ]; then npm run build; else BUILD_ENV=development npm run build; fi
+      before_deploy:
+        - echo "Deploying!"
+      deploy:
+        - provider: firebase
+          skip_cleanup: true
+          on:
+            branch: devfest
+          project: devfest-together-3f484
+          token:
+            secure: "QDCEVSI3jbTAJMZ7YpemDNN5hSsoxzloASme13usYwIPFVAoMcFvtDY37pALqLKzuXjg/To9C5QA+j5sl0P8ws6v7RN/x+JjNlXk2w1EjCLLFItVLjrazxvqWNlja5L/jlsZddP1dEmqJRGfmPKj1F+dp4mk4evMaaL/eKHLVFul5aP+JuiyuCDw0ItTexQhE1gGDvRblq6S4c2sT2fneNTCBqwbP4pnKSP+F03zBT8iTw6lIURNqjC2Zg3vkYsURIHVofs4m0d6/pkf2wiEMxpY+5SiOXqZ6QdH3+X/yE9vWkqjffBjyfZam6LKUXqnbxZfQHgD3Jz0q6iwPXbMJW+P8MpLpym5sS6SWseD6DzAqCU0H5KvfOidnu0IRLzrhrm2/Lb8YWDvjbrD3lWc9ZqwdBqyJ5XiNwpHbn0vXgjWIwQD0VwNFtI2IS5HoJlpJQwPBNfpuCItNvipKhGm8WkFEeuoMNRwl74i9RKxzwFxxlg4EzfC5hTRXu3Jmxp+uxJ9QWmc4O51lxRiYLPmIyB09rg8F8oZ2CG8DqG3wmQHyV2IUCTnDwFfs2DBaX/b/R722j5R+clM4TuzT11hZ7rQ8tECrr366bb47A8XgcoGq7nY+Q/26S2bXCQbvWapQxjoHgqz275qmtqB/toMT+aUI1mMMUECUDte4Nz3IMA="

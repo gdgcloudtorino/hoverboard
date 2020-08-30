@@ -26,6 +26,11 @@ export const FETCH_TICKETS = 'app/Tickets/FETCH_TICKETS';
 export const FETCH_TICKETS_FAILURE = 'app/Tickets/FETCH_TICKETS_FAILURE';
 export const FETCH_TICKETS_SUCCESS = 'app/Tickets/FETCH_TICKETS_SUCCESS';
 
+// tracks links
+export const FETCH_TRACKS_LINKS = 'app/TracksLinks/FETCH_TRACKS_LINKS';
+export const FETCH_TRACKS_LINKS_FAILURE = 'app/TracksLinks/FETCH_TRACKS_LINKS_FAILURE';
+export const FETCH_TRACKS_LINKS_SUCCESS = 'app/TracksLinks/FETCH_TRACKS_LINKS_SUCCESS';
+
 // feedback
 export const FETCH_PREVIOUS_FEEDBACK = 'app/Feedback/FETCH_PREVIOUS_FEEDBACK';
 export const FETCH_PREVIOUS_FEEDBACK_FAILURE = 'app/Feedback/FETCH_PREVIOUS_FEEDBACK_FAILURE';
@@ -49,6 +54,11 @@ export const FETCH_PARTNERS_SUCCESS = 'app/Partners/FETCH_PARTNERS_SUCCESS';
 export const ADD_POTENTIAL_PARTNER = 'app/Partners/ADD_POTENTIAL_PARTNER';
 export const ADD_POTENTIAL_PARTNER_FAILURE = 'app/Partners/ADD_POTENTIAL_PARTNER_FAILURE';
 export const ADD_POTENTIAL_PARTNER_SUCCESS = 'app/Partners/ADD_POTENTIAL_PARTNER_SUCCESS';
+
+// lotto
+export const ADD_CARD_REQUEST = 'app/Lotto/ADD_CARD_REQUEST';
+export const ADD_CARD_REQUEST_FAILURE = 'app/Lotto/ADD_CARD_REQUEST_FAILURE';
+export const ADD_CARD_REQUEST_SUCCESS = 'app/Lotto/ADD_CARD_REQUEST_SUCCESS';
 
 // featured videos
 export const FETCH_VIDEOS = 'app/Videos/FETCH_VIDEOS';

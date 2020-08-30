@@ -199,12 +199,6 @@ class FooterSocial extends PolymerElement {
         {% endfor %}
       </ul>
     </div>
-
-    <div class="social-group email">
-      <div class="title">
-        <a aria-label="{$ emailUs $}" href="mailto:{$ mailto $}">{$ emailUs $}</a>
-      </div>
-    </div>
 `;
   }
 
