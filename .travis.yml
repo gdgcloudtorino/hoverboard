@@ -1,0 +1,11 @@
+os: linux
+dist: bionic
+language: node_js
+node_js:
+  - "12"
+jobs:
+  include:
+    - name: Test
+      script: npm test
+    - name: Build & Deploy
+      script: npm run build
