@@ -5,13 +5,13 @@ export interface Speaker {
   badges?: Badge[];
   bio: string;
   company: string;
-  companyLogo: string;
+  companyLogo?: string;
   companyLogoUrl: string;
   country: string;
-  featured: boolean;
+  featured?: boolean;
   name: string;
   order: number;
-  photo: string;
+  photo?: string;
   photoUrl: string;
   pronouns?: string;
   shortBio: string;

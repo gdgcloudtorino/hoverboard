@@ -5,7 +5,7 @@ export interface Ticket {
   inDemand?: boolean;
   info: string;
   name: string;
-  price: number;
+  price: number|string;
   primary?: boolean;
   regular?: boolean;
   soldOut: boolean;
