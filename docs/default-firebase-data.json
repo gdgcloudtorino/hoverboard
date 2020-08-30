@@ -9,14 +9,14 @@
 			"source": "/data/posts/2020-04-22-motivi.md",
 			"title": "Motivi per partecipare ed essere speaker alla DevFest"
 		},
-		"la-prima-devparty-italianatutta-online-giovanni-forlastro": {
+		"la-prima-DevFest-italianatutta-online-giovanni-forlastro": {
 			"backgroundColor": "#2196F3",
-			"brief": "Siete tutti invitati alla GDG DevParty Online: la prima conferenza gratuita, ideata dai GDG Italiani.",
-			"content": "Il periodo storico in cui stiamo vivendo ci vede costretti tutti a casa, impossibilitati ad uscire se non per “comprovate esigenze lavorative” e/o “per motivi di salute”.<br/><br/>Per fronteggiare l'emergenza sanitaria dovuta al coronavirus-COVID19, il governo Italiano ha adottato delle misure stringenti: con il Decreto del Presidente del Consiglio dei Ministri (dpcm) del 22 Marzo, Palazzo Chigi ha optato per la sospensione di gran parte delle attività produttive e commerciali e ha deciso di vietare ogni spostamento, soprattutto all’esterno del comune in cui ci si trova.<br/><br/>E questo ha, di fatto, bloccato l'intera nazione. Ma non solo. Infatti questa disastrosa emergenza che, come ben sappiamo non è circoscritta all'Italia ma mondiale, ha obbligato grandi organizzazioni (e a maggior ragione anche quelle piccole) a rimandare, o peggio cancellare, gli eventi programmati da tempo.<br/><br/>E' il caso dell’_E3_, la fiera più importante al mondo dell’industria dei videogiochi, del _Google I/O 2020_, del _Google Cloud Next_ di San Francisco, del _Facebook F8_, del _Mobile World Congress_ di Barcellona e di tante altre che si sono man mano aggiunte alla lista.<br/><br/>Anche le varie community dei **GDG Italiani** si sono ritrovati a doversi confrontare con questo enorme problema, che ancora oggi persiste per gli eventi che, mese dopo mese, vengono organizzati nei tradizionali luoghi d'aggregazione.<br/><br/>Ma non si sono dati per vinti: infatti, grazie al loro voglia di interazione con la proprio comunità, hanno ideato la prima grande conferenza GDG Italiana online: la **DevParty Together**.<br/><br/>Si svolgerà **gratuitamente e interamente online**, nel weekend del **2 e 3 Maggio 2020** e vedrà sul palco virtuale tantissimi Google Developer Experts e professionisti del settore che approfondiranno temi interessanti nelle aree **Cloud Computing, Frontend, Machine Learning, IWD & Diversity, Mobile e Soft Skill**.<br/><br/>Inoltre le dieci persone più rapide ad iscriversi, potranno partecipare al workshop \"**I'm Remarkable**\", ideato internamente in Google e incentrato sulla motivazione e sulla corretta autopromozione di se stessi.<br/><br/>**Ben oltre 30 talk, su 3 rooms in contemporanea: sei curioso di sapere chi sarà presente come relatore?**<br/><br/>**Articolo pubblicato su [LinkedIn](https://www.linkedin.com/pulse/la-prima-devparty-italianatutta-online-giovanni-forlastro/) da Gianni Forlastro**",
-			"image": "/images/posts/prima_devparty.png",
+			"brief": "Siete tutti invitati alla GDG DevFest Online: la prima conferenza gratuita, ideata dai GDG Italiani.",
+			"content": "Il periodo storico in cui stiamo vivendo ci vede costretti tutti a casa, impossibilitati ad uscire se non per “comprovate esigenze lavorative” e/o “per motivi di salute”.<br/><br/>Per fronteggiare l'emergenza sanitaria dovuta al coronavirus-COVID19, il governo Italiano ha adottato delle misure stringenti: con il Decreto del Presidente del Consiglio dei Ministri (dpcm) del 22 Marzo, Palazzo Chigi ha optato per la sospensione di gran parte delle attività produttive e commerciali e ha deciso di vietare ogni spostamento, soprattutto all’esterno del comune in cui ci si trova.<br/><br/>E questo ha, di fatto, bloccato l'intera nazione. Ma non solo. Infatti questa disastrosa emergenza che, come ben sappiamo non è circoscritta all'Italia ma mondiale, ha obbligato grandi organizzazioni (e a maggior ragione anche quelle piccole) a rimandare, o peggio cancellare, gli eventi programmati da tempo.<br/><br/>E' il caso dell’_E3_, la fiera più importante al mondo dell’industria dei videogiochi, del _Google I/O 2020_, del _Google Cloud Next_ di San Francisco, del _Facebook F8_, del _Mobile World Congress_ di Barcellona e di tante altre che si sono man mano aggiunte alla lista.<br/><br/>Anche le varie community dei **GDG Italiani** si sono ritrovati a doversi confrontare con questo enorme problema, che ancora oggi persiste per gli eventi che, mese dopo mese, vengono organizzati nei tradizionali luoghi d'aggregazione.<br/><br/>Ma non si sono dati per vinti: infatti, grazie al loro voglia di interazione con la proprio comunità, hanno ideato la prima grande conferenza GDG Italiana online: la **DevFest Together**.<br/><br/>Si svolgerà **gratuitamente e interamente online**, nel weekend del **2 e 3 Maggio 2020** e vedrà sul palco virtuale tantissimi Google Developer Experts e professionisti del settore che approfondiranno temi interessanti nelle aree **Cloud Computing, Frontend, Machine Learning, IWD & Diversity, Mobile e Soft Skill**.<br/><br/>Inoltre le dieci persone più rapide ad iscriversi, potranno partecipare al workshop \"**I'm Remarkable**\", ideato internamente in Google e incentrato sulla motivazione e sulla corretta autopromozione di se stessi.<br/><br/>**Ben oltre 30 talk, su 3 rooms in contemporanea: sei curioso di sapere chi sarà presente come relatore?**<br/><br/>**Articolo pubblicato su [LinkedIn](https://www.linkedin.com/pulse/la-prima-DevFest-italianatutta-online-giovanni-forlastro/) da Gianni Forlastro**",
+			"image": "/images/posts/prima_DevFest.png",
 			"published": "2020-04-24",
-			"source": "/data/posts/2020-04-24-prima-devparty.md",
-			"title": "La prima DevParty Italiana..tutta online!"
+			"source": "/data/posts/2020-04-24-prima-DevFest.md",
+			"title": "La prima DevFest Italiana..tutta online!"
 		},
 		"far-parte-community": {
 			"backgroundColor": "#2196F3",
@@ -30,22 +30,22 @@
 		"coffe-break-elia-bellussi": {
 			"backgroundColor": "#2196F3",
 			"brief": "Avevo bisogno di lasciare la routine, da sempre cerco di mettermi in gioco, di crearmi o partecipare a nuove sfide: ne sento proprio il bisogno, è qualcosa di più forte di me.",
-			"content": "La settimana della DevParty Together è finalmente giunta: online è possibile dare uno sguardo a tutti gli speakers che prenderanno parte alla due giorni di conferenza.<br/>Per conoscere meglio alcuni speakers, abbiamo previsto una breve intervista ad alcuni speaker, che vi permetterà di conoscerli meglio.<br/>Il primo che incontriamo è <a href=\"https://www.linkedin.com/in/eliabellussi/\">Elia Bellussi</a>, presente nella traccia _**\"Soft Skill\"**_ di **Domenica 3 Maggio**. Appassionato di innovazione e tecnologia, nel mondo della consulenza da oltre 9 anni, che ha appena finito un \"Dual Degree\" con un **Master of Business Administration e un MSc of Disruptive Innovation**. Oltre a tutto questo è il Fondatore del Museo Piemontese dell’Informatica e di CoderDojo Torino è socio di Impact Hub Torino, di Impact Angels Italia e del Club Dirigenti di Informatica di Torino.<br/><br/>**Ciao Elia, e benvenuto alla DevParty Together! Sei stato selezionato per il talk dal titolo \"Design Thinking un approccio agile allo sviluppo del prodotto\". Di cosa parlerai?**_Sempre più le aziende, in particolare in ambito IT, stanno muovendo i primi passi nel mondo dell’empirismo. Termini come agile e scrum sono consolidati e sono sorte certificazioni professionalizzanti. Il design thinking ricade in questo tipo di approccio. Storicamente è nato alla Scuola di Design dell’Università di Stanford, una delle più importanti e innovative università al mondo. Durante la sessione, mi preoccuperò di coprire anche parte della sua storia per coloro che fossero interessati anche a questi aspetti ma quanto deve essere chiaro è il processo che viene applicato. Potrete notare molte similitudini. Ne sono certo._<br/>**Perché è importante il Design Thinking?**_C’è chi mi ha detto che sembrano strategie di marketing, chi mi ha detto che si tratta di qualcosa troppo aleatorio. Io ho avuto modo di provarlo e di comprenderne le specifiche. Il marketing fa parte della sua essenza, sicuramente, perché bisogna comprendere il \"cliente\" ma il design thinking non si ferma all’analisi del mercato in cui il prodotto andrà a collocarsi. Si tratta di uno splendido strumento che aiuta il product manager a realizzare un prodotto o un servizio secondo un processo ricorsivo di perfezionamento, dall’analisi del mercato, ovviamente, alla realizzazione di prototipi, per verificare l’efficacia e l’utilità del risultato, fino alla realizzazione finale. Il fattore che credo sia il più importante, è proprio legato all’empirismo. Si procede in un flusso costante di verifica ed adattamento per evitare dispersione e perdita di tempo così da essere più produttivi._<br/>**I tuoi ultimi 3 anni sono stati molto movimenti: raccontaci l'esperienza che hai vissuto.**_Nel 2017 ho pensato di dare una svolta alla mia vita. Non avevo mai fatto un’esperienza di vita all’estero e volevo dare un impulso anche alla mia carriera. Da tempo pensavo d’iscrivermi ad un MBA e da sempre volevo dedicarmi a tempo pieno all’innovazione. Dopo una ricerca di alcuni mesi ho seguito i processi di iscrizione presso alcune business school tra le più innovative e che offrissero percorsi legati alla mia passione. Alla fine sono stato selezionato dalla HULT, che offre un programma di dual degree. Questo avrebbe significato poter ottenere un MBA ed un MSc in un tempo ridotto, così da poter tornare presto nel mondo del lavoro. Per conseguire l’MBA ho vissuto a Londra per nove mesi, seguiti da un mese a Dubai e un mese a Shanghai. Tutte città fortemente innovative e grazie alle quali ho potuto approcciare diverse culture e imparare ad interagire con esse. In seguito ho vissuto altri sei mesi a San Francisco, per il secondo master. Anche qui il mondo dell’innovazione è in fermento più che mai. Legato specialmente al mondo dell’informatica, da cui provengo. L’esperienza è stata indimenticabile. Due o tre giorni a settimana frequentavo meetup o eventi organizzati da aziende, università e consolati._<br/>_Se il percorso formativo, da un lato, mi ha fatto approfondire tematiche come fintech, data strategy, leading digital innovation e open innovation, dall’altro ho potuto accrescere il network di contatti in quel mondo, frequentando persone nel mondo del venture capitalism, delle startup o del corporate, entrando in contatto e diventando amico di molti di loro: con alcuni ci si sente periodicamente, ci si scambia idee o contatti. Ora le mie competenze non sono più limitate al mondo dell’informatica ma anche della finanza, dell’energia e della produzione._<br/><br/>**Articolo completo pubblicato su [LinkedIn](https://www.linkedin.com/pulse/devparty-together-coffee-break-con-gli-speakers-giovanni-forlastro/) da Gianni Forlastro **",
+			"content": "La settimana della DevFest Together è finalmente giunta: online è possibile dare uno sguardo a tutti gli speakers che prenderanno parte alla due giorni di conferenza.<br/>Per conoscere meglio alcuni speakers, abbiamo previsto una breve intervista ad alcuni speaker, che vi permetterà di conoscerli meglio.<br/>Il primo che incontriamo è <a href=\"https://www.linkedin.com/in/eliabellussi/\">Elia Bellussi</a>, presente nella traccia _**\"Soft Skill\"**_ di **Domenica 3 Maggio**. Appassionato di innovazione e tecnologia, nel mondo della consulenza da oltre 9 anni, che ha appena finito un \"Dual Degree\" con un **Master of Business Administration e un MSc of Disruptive Innovation**. Oltre a tutto questo è il Fondatore del Museo Piemontese dell’Informatica e di CoderDojo Torino è socio di Impact Hub Torino, di Impact Angels Italia e del Club Dirigenti di Informatica di Torino.<br/><br/>**Ciao Elia, e benvenuto alla DevFest Together! Sei stato selezionato per il talk dal titolo \"Design Thinking un approccio agile allo sviluppo del prodotto\". Di cosa parlerai?**_Sempre più le aziende, in particolare in ambito IT, stanno muovendo i primi passi nel mondo dell’empirismo. Termini come agile e scrum sono consolidati e sono sorte certificazioni professionalizzanti. Il design thinking ricade in questo tipo di approccio. Storicamente è nato alla Scuola di Design dell’Università di Stanford, una delle più importanti e innovative università al mondo. Durante la sessione, mi preoccuperò di coprire anche parte della sua storia per coloro che fossero interessati anche a questi aspetti ma quanto deve essere chiaro è il processo che viene applicato. Potrete notare molte similitudini. Ne sono certo._<br/>**Perché è importante il Design Thinking?**_C’è chi mi ha detto che sembrano strategie di marketing, chi mi ha detto che si tratta di qualcosa troppo aleatorio. Io ho avuto modo di provarlo e di comprenderne le specifiche. Il marketing fa parte della sua essenza, sicuramente, perché bisogna comprendere il \"cliente\" ma il design thinking non si ferma all’analisi del mercato in cui il prodotto andrà a collocarsi. Si tratta di uno splendido strumento che aiuta il product manager a realizzare un prodotto o un servizio secondo un processo ricorsivo di perfezionamento, dall’analisi del mercato, ovviamente, alla realizzazione di prototipi, per verificare l’efficacia e l’utilità del risultato, fino alla realizzazione finale. Il fattore che credo sia il più importante, è proprio legato all’empirismo. Si procede in un flusso costante di verifica ed adattamento per evitare dispersione e perdita di tempo così da essere più produttivi._<br/>**I tuoi ultimi 3 anni sono stati molto movimenti: raccontaci l'esperienza che hai vissuto.**_Nel 2017 ho pensato di dare una svolta alla mia vita. Non avevo mai fatto un’esperienza di vita all’estero e volevo dare un impulso anche alla mia carriera. Da tempo pensavo d’iscrivermi ad un MBA e da sempre volevo dedicarmi a tempo pieno all’innovazione. Dopo una ricerca di alcuni mesi ho seguito i processi di iscrizione presso alcune business school tra le più innovative e che offrissero percorsi legati alla mia passione. Alla fine sono stato selezionato dalla HULT, che offre un programma di dual degree. Questo avrebbe significato poter ottenere un MBA ed un MSc in un tempo ridotto, così da poter tornare presto nel mondo del lavoro. Per conseguire l’MBA ho vissuto a Londra per nove mesi, seguiti da un mese a Dubai e un mese a Shanghai. Tutte città fortemente innovative e grazie alle quali ho potuto approcciare diverse culture e imparare ad interagire con esse. In seguito ho vissuto altri sei mesi a San Francisco, per il secondo master. Anche qui il mondo dell’innovazione è in fermento più che mai. Legato specialmente al mondo dell’informatica, da cui provengo. L’esperienza è stata indimenticabile. Due o tre giorni a settimana frequentavo meetup o eventi organizzati da aziende, università e consolati._<br/>_Se il percorso formativo, da un lato, mi ha fatto approfondire tematiche come fintech, data strategy, leading digital innovation e open innovation, dall’altro ho potuto accrescere il network di contatti in quel mondo, frequentando persone nel mondo del venture capitalism, delle startup o del corporate, entrando in contatto e diventando amico di molti di loro: con alcuni ci si sente periodicamente, ci si scambia idee o contatti. Ora le mie competenze non sono più limitate al mondo dell’informatica ma anche della finanza, dell’energia e della produzione._<br/><br/>**Articolo completo pubblicato su [LinkedIn](https://www.linkedin.com/pulse/DevFest-together-coffee-break-con-gli-speakers-giovanni-forlastro/) da Gianni Forlastro **",
 			"image": "/images/posts/elia_bellussi.jpg",
 			"published": "2020-04-27",
 			"source": "/data/posts/2020-04-27-elia-bellussi.md",
-			"title": "DevParty Together: coffee break con gli speakers"
+			"title": "DevFest Together: coffee break con gli speakers"
 		}
 	},
 	"gallery": [
-		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F4.jpg?alt=media&token=74183b49-4459-4a52-a75f-8750d8ea9669",
-		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F2.jpg?alt=media&token=cb5cecd4-3669-45c7-ac73-f70d79e1f0ae",
-		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F3.jpg?alt=media&token=8f5207b6-16bd-4493-aa30-a7dcef3e12c6",
-		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F1.jpg?alt=media&token=66bb472e-8d09-4aff-b8e2-86ab6362e4e5",
-		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F5.jpg?alt=media&token=bf5c9d2f-1c88-4893-86b9-57681798a848",
-		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F6.jpg?alt=media&token=5e7d7cfc-8ef4-4bd9-a4e6-0e44e4ea5e6d",
-		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F7.jpg?alt=media&token=4a097e27-c4a2-4ae2-ba33-9a08e65e12e7",
-		"https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/homepage%2Fgallery%2F8.jpg?alt=media&token=2d23bd7f-a160-48b4-8a9d-ba2927a7eea6"
+		"https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/homepage%2Fgallery%2F4.jpg?alt=media&token=74183b49-4459-4a52-a75f-8750d8ea9669",
+		"https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/homepage%2Fgallery%2F2.jpg?alt=media&token=cb5cecd4-3669-45c7-ac73-f70d79e1f0ae",
+		"https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/homepage%2Fgallery%2F3.jpg?alt=media&token=8f5207b6-16bd-4493-aa30-a7dcef3e12c6",
+		"https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/homepage%2Fgallery%2F1.jpg?alt=media&token=66bb472e-8d09-4aff-b8e2-86ab6362e4e5",
+		"https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/homepage%2Fgallery%2F5.jpg?alt=media&token=bf5c9d2f-1c88-4893-86b9-57681798a848",
+		"https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/homepage%2Fgallery%2F6.jpg?alt=media&token=5e7d7cfc-8ef4-4bd9-a4e6-0e44e4ea5e6d",
+		"https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/homepage%2Fgallery%2F7.jpg?alt=media&token=4a097e27-c4a2-4ae2-ba33-9a08e65e12e7",
+		"https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/homepage%2Fgallery%2F8.jpg?alt=media&token=2d23bd7f-a160-48b4-8a9d-ba2927a7eea6"
 	],
 	"notifications": {
 		"config": {
@@ -959,7 +959,7 @@
 		"ValentinaAnnaVentura": {
 			"bio": "https://italia.campus-party.org/cpstories/valentina-ventura-a-cpit3/",
 			"company": "",
-			"companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/logos%2Fgdggela.png?alt=media&token=2e689e43-c71a-4009-8edd-5a8088b08876",
+			"companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/logos%2Fgdggela.png?alt=media&token=2e689e43-c71a-4009-8edd-5a8088b08876",
 			"country": "Italy",
 			"name": "Valentina Anna Ventura",
 			"order": 34,
@@ -1099,11 +1099,11 @@
 		"MariangelaTandurella": {
 			"bio": "Psicologa clinica-esperta in DSA - 35 anni. Cresciuta (ma poi mica tanto!) tra fotografie, libri e viaggi, non ha ancora smesso di sognare un mondo...a misura di bambino!",
 			"company": "",
-			"companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/logos%2Fgdggela.png?alt=media&token=2e689e43-c71a-4009-8edd-5a8088b08876",
+			"companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/logos%2Fgdggela.png?alt=media&token=2e689e43-c71a-4009-8edd-5a8088b08876",
 			"country": "Italy",
 			"name": "Mariangela Tandurella",
 			"order": 36,
-			"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/speakers%2FMariangelaTandurella.jpg?alt=media&token=1f292df3-fa5f-4617-a53d-ee0e3ee982ad",
+			"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/speakers%2FMariangelaTandurella.jpg?alt=media&token=1f292df3-fa5f-4617-a53d-ee0e3ee982ad",
 			"shortBio": "Psicologa clinica-esperta in DSA",
 			"title": "Psicologa clinica-esperta in DSA",
 			"socials": [
@@ -1151,7 +1151,7 @@
 			"country": "Italy",
 			"name": "Luca Di Vita",
 			"order": 19,
-			"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/speakers%2FLucaDiVita.jpeg?alt=media&token=64d8f300-ba91-4a15-a787-e31d6ce66b04",
+			"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/speakers%2FLucaDiVita.jpeg?alt=media&token=64d8f300-ba91-4a15-a787-e31d6ce66b04",
 			"shortBio": "Machine Learning Engineer presso AESYS",
 			"title": "Machine Learning Engineer presso AESYS",
 			"socials": [{
@@ -1804,7 +1804,7 @@
       "country": "Italy",
       "name": "Eugenio Paluello",
       "order": 50,
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/speakers%2FEugenio_Paluello.jpg?alt=media&token=f5c9ecf8-1dd6-411c-94f4-cc1b5816cf35",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/speakers%2FEugenio_Paluello.jpg?alt=media&token=f5c9ecf8-1dd6-411c-94f4-cc1b5816cf35",
       "shortBio": "Tocket, co-CTO",
       "title": "Tocket, co-CTO",
       "socials": [
@@ -1824,7 +1824,7 @@
       "country": "Italy",
       "name": "Luca Corbucci",
       "order": 51,
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/speakers%2FLuca_Corbucci.jpg?alt=media&token=2b7a486f-1323-4dff-8cdc-fa02b66cb11a",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/speakers%2FLuca_Corbucci.jpg?alt=media&token=2b7a486f-1323-4dff-8cdc-fa02b66cb11a",
       "shortBio": "Tocket",
       "title": "Tocket",
       "socials": [
@@ -1874,7 +1874,7 @@
       "country": "Italy",
       "name": "Ambra Tonon",
       "order": 63,
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/speakers%2FAmbraTonon.jpeg?alt=media&token=30a442bd-dbb2-4de4-82ca-9703a4574c02",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/speakers%2FAmbraTonon.jpeg?alt=media&token=30a442bd-dbb2-4de4-82ca-9703a4574c02",
       "shortBio": "Nephila – Addetta area amministrativa e gestionale",
       "title": "Nephila – Addetta area amministrativa e gestionale",
       "socials": [
@@ -1894,7 +1894,7 @@
       "country": "Italy",
       "name": "Sabrina Scoma",
       "order": 64,
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/speakers%2FSabrinaScoma.JPG?alt=media&token=51e8137e-7e68-42d9-867a-e4365391931b",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/speakers%2FSabrinaScoma.JPG?alt=media&token=51e8137e-7e68-42d9-867a-e4365391931b",
       "shortBio": "Nephila Content editor e Social Media Manager",
       "title": "Nephila Content editor e Social Media Manager",
       "socials": [
@@ -2029,7 +2029,7 @@
 	"team": [{
 		"members": [{
 				"name": "Gregorio Palamà",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FGregorioPalama.png?alt=media&token=e3a79ce0-22c3-416b-a880-dca17b98455a",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FGregorioPalama.png?alt=media&token=e3a79ce0-22c3-416b-a880-dca17b98455a",
 				"gdg": "GDG Pescara",
 				"socials": [{
 						"icon": "twitter",
@@ -2047,7 +2047,7 @@
 			},
 			{
 				"name": "Francesco Pirrone",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FFrancescoPirrone.jpg?alt=media&token=47f33280-2536-4aff-9d25-80c7b0eb54c0",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FFrancescoPirrone.jpg?alt=media&token=47f33280-2536-4aff-9d25-80c7b0eb54c0",
 				"gdg": "GDG Cloud Torino",
 				"socials": [{
 						"icon": "twitter",
@@ -2065,7 +2065,7 @@
 			},
 			{
 				"name": "Gianni Forlastro",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FGianniForlastro.png?alt=media&token=67ede0e7-b744-47ce-8ae2-3c3bdc8b6aa9",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FGianniForlastro.png?alt=media&token=67ede0e7-b744-47ce-8ae2-3c3bdc8b6aa9",
 				"gdg": "GDG Cloud Torino",
 				"socials": [{
 						"icon": "facebook",
@@ -2088,7 +2088,7 @@
 			},
 			{
 				"name": "Leonardo Dipilato",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FLeonardoDipilato.jpg?alt=media&token=94a7f8a1-4a17-4d84-b87d-1af1036bf23f",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FLeonardoDipilato.jpg?alt=media&token=94a7f8a1-4a17-4d84-b87d-1af1036bf23f",
 				"gdg": "GDG Pisa",
 				"socials": [{
 						"icon": "facebook",
@@ -2111,7 +2111,7 @@
 			},
 			{
 				"name": "Stefano Tomasi",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FStefanoTomasi.png?alt=media&token=2bb61888-ae19-4396-820f-e07f9d9d7715",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FStefanoTomasi.png?alt=media&token=2bb61888-ae19-4396-820f-e07f9d9d7715",
 				"gdg": "GDG Trento",
 				"socials": [{
 						"icon": "facebook",
@@ -2129,7 +2129,7 @@
 			},
 			{
 				"name": "Mattia Piccirillo",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FMattiaPiccirillo.jpg?alt=media&token=35b4f067-a933-40f6-8b46-0e997ace43fc",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FMattiaPiccirillo.jpg?alt=media&token=35b4f067-a933-40f6-8b46-0e997ace43fc",
 				"gdg": "GDG Firenze",
 				"socials": [{
 						"icon": "facebook",
@@ -2152,7 +2152,7 @@
 			},
 			{
 				"name": "Asia Salvaterra",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FAsiaSalvaterra.png?alt=media&token=30ad6303-b4af-4cb4-b79d-c5131e512ec3",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FAsiaSalvaterra.png?alt=media&token=30ad6303-b4af-4cb4-b79d-c5131e512ec3",
 				"gdg": "GDG Trento",
 				"socials": [{
 						"icon": "facebook",
@@ -2170,7 +2170,7 @@
 			},
 			{
 				"name": "Giacomo Ranieri",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FGiacomoRanieri.jpg?alt=media&token=42453fee-ba11-4a21-925e-df625529c759",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FGiacomoRanieri.jpg?alt=media&token=42453fee-ba11-4a21-925e-df625529c759",
 				"gdg": "GDG Torino",
 				"socials": [{
 					"icon": "linkedin",
@@ -2182,7 +2182,7 @@
 			},
 			{
 				"name": "Nicola Corti",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FNicolaCorti.jpeg?alt=media&token=86274a9a-79e4-4f9a-90b2-c732f0b057a4",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FNicolaCorti.jpeg?alt=media&token=86274a9a-79e4-4f9a-90b2-c732f0b057a4",
 				"gdg": "GDG Pisa",
 				"socials": [{
 						"icon": "twitter",
@@ -2205,7 +2205,7 @@
 			},
 			{
 				"name": "Saveria Serena Foti",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FSaveriaSerenaFoti.jpg?alt=media&token=a52e703a-847a-464b-86d2-e5b31c840d9e",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FSaveriaSerenaFoti.jpg?alt=media&token=a52e703a-847a-464b-86d2-e5b31c840d9e",
 				"gdg": "GDG Nebrodi",
 				"socials": [{
 						"icon": "linkedin",
@@ -2223,7 +2223,7 @@
 			},
 			{
 				"name": "Michela Bertaina",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FMichelaBertaina.jpeg?alt=media&token=de3ecd2e-06b6-4cb9-8230-fcdb6046428f",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FMichelaBertaina.jpeg?alt=media&token=de3ecd2e-06b6-4cb9-8230-fcdb6046428f",
 				"gdg": "GDG Bari",
 				"socials": [{
 						"icon": "twitter",
@@ -2246,7 +2246,7 @@
 			},
 			{
 				"name": "Juna Salviati",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FJunaSalviati.png?alt=media&token=69ba69bc-d617-478c-9ecd-44992b33b104",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FJunaSalviati.png?alt=media&token=69ba69bc-d617-478c-9ecd-44992b33b104",
 				"gdg": "GDG Roma",
 				"socials": [{
 						"icon": "twitter",
@@ -2264,7 +2264,7 @@
 			},
 			{
 				"name": "Alessio Rizzolo",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FAlessioRizzolo.jpg?alt=media&token=886c6199-39ed-42a1-8a3d-d2abf1a09aee",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FAlessioRizzolo.jpg?alt=media&token=886c6199-39ed-42a1-8a3d-d2abf1a09aee",
 				"socials": [{
 						"icon": "linkedin",
 						"link": "https://www.linkedin.com/in/rizzolessio/",
@@ -2287,7 +2287,7 @@
 			},
 			{
 				"name": "Loredana Frontino",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FLoredanaFrontino.png?alt=media&token=3b402b46-1a15-464c-93df-d9f3e0a2f48e",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FLoredanaFrontino.png?alt=media&token=3b402b46-1a15-464c-93df-d9f3e0a2f48e",
 				"socials": [{
 					"icon": "linkedin",
 					"link": "https://www.linkedin.com/in/loredana-frontino-0a2367132",
@@ -2299,7 +2299,7 @@
 			},
 			{
 				"name": "Lucia Vigoroso",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FLuciaVigoroso.png?alt=media&token=7f8a1165-aac9-4c39-a0df-2b5ba6e3b455",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FLuciaVigoroso.png?alt=media&token=7f8a1165-aac9-4c39-a0df-2b5ba6e3b455",
 				"socials": [{
 						"icon": "linkedin",
 						"link": "https://www.linkedin.com/in/lucia-vigoroso-40267472/",
@@ -2317,7 +2317,7 @@
 			},
 			{
 				"name": "Santino Caruso",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FSantoCaruso.png?alt=media&token=24f91f1a-ba6e-4ac6-a1c4-87974aeffbfd",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FSantoCaruso.png?alt=media&token=24f91f1a-ba6e-4ac6-a1c4-87974aeffbfd",
 				"socials": [{
 						"icon": "linkedin",
 						"link": "https://www.linkedin.com/in/santocaruso/",
@@ -2335,7 +2335,7 @@
 			},
 			{
 				"name": "Nicola Guglielmi",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FNicolaGuglielmi.jpg?alt=media&token=de2cb4bd-1fe4-4649-8e25-11d9c81bb3e3",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FNicolaGuglielmi.jpg?alt=media&token=de2cb4bd-1fe4-4649-8e25-11d9c81bb3e3",
 				"socials": [{
 					"icon": "linkedin",
 					"link": "https://www.linkedin.com/in/nicola-guglielmi/",
@@ -2347,7 +2347,7 @@
 			},
 			{
 				"name": "Noelia Di Pretoro",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FNoeliaDiPretoro.jpg?alt=media&token=1a6e3c72-8019-4ad6-92ae-02ff31830175",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FNoeliaDiPretoro.jpg?alt=media&token=1a6e3c72-8019-4ad6-92ae-02ff31830175",
 				"socials": [{
 						"icon": "linkedin",
 						"link": "https://it.linkedin.com/in/noelia-di-pretoro",
@@ -2365,7 +2365,7 @@
 			},
 			{
 				"name": "Martina Chillura",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FMartinaChillura.jpeg?alt=media&token=d038981a-7c7c-4f61-9da1-e337562462dc",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FMartinaChillura.jpeg?alt=media&token=d038981a-7c7c-4f61-9da1-e337562462dc",
 				"socials": [{
 						"icon": "linkedin",
 						"link": "https://www.linkedin.com/in/martina-chillura",
@@ -2388,7 +2388,7 @@
 			},
 			{
 				"name": "Oriana Virgillito",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-together-3f484.appspot.com/o/team%2FOrianaVirgilito.jpg?alt=media&token=cb8de861-4af7-4b12-930a-a7b72ca610c5",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FOrianaVirgilito.jpg?alt=media&token=cb8de861-4af7-4b12-930a-a7b72ca610c5",
 				"socials": [
 					{
 						"icon": "facebook",
@@ -2412,7 +2412,7 @@
 		"price": "Gratuito",
 		"soldOut": false,
 		"starts": "2 Maggio",
-		"url": "https://www.eventbrite.it/e/biglietti-gdg-devparty-together-102721366372?aff=website"
+		"url": "https://www.eventbrite.it/e/biglietti-gdg-DevFest-together-102721366372?aff=website"
 	}],
 	"triggers": {
 		"images": false

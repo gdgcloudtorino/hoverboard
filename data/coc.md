@@ -33,7 +33,7 @@ This policy is based on and influenced by several other community policies inclu
 
 ### Report
 
-To report your impressions or improvements for the next DevParty contact our team at the following addresses:
+To report your impressions or improvements for the next DevFest contact our team at the following addresses:
 {% for contact in codeOfConductBlock.contacts %}
 
 - {$ contact $}{% endfor %}

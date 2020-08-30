@@ -8,7 +8,7 @@ E' il caso dell’_E3_, la fiera più importante al mondo dell’industria dei v
 
 Anche le varie community dei **GDG Italiani** si sono ritrovati a doversi confrontare con questo enorme problema, che ancora oggi persiste per gli eventi che, mese dopo mese, vengono organizzati nei tradizionali luoghi d'aggregazione.
 
-Ma non si sono dati per vinti: infatti, grazie al loro voglia di interazione con la proprio comunità, hanno ideato la prima grande conferenza GDG Italiana online: la **DevParty Together**.
+Ma non si sono dati per vinti: infatti, grazie al loro voglia di interazione con la proprio comunità, hanno ideato la prima grande conferenza GDG Italiana online: la **DevFest Together**.
 
 Si svolgerà **gratuitamente e interamente online**, nel weekend del **2 e 3 Maggio 2020** e vedrà sul palco virtuale tantissimi Google Developer Experts e professionisti del settore che approfondiranno temi interessanti nelle aree **Cloud Computing, Frontend, Machine Learning, IWD & Diversity, Mobile e Soft Skill**.
 
@@ -16,4 +16,4 @@ Inoltre le dieci persone più rapide ad iscriversi, potranno partecipare al work
 
 **Ben oltre 30 talk, su 3 rooms in contemporanea: sei curioso di sapere chi sarà presente come relatore?**
 
-**Articolo pubblicato su [LinkedIn](https://www.linkedin.com/pulse/la-prima-devparty-italianatutta-online-giovanni-forlastro/) da Gianni Forlastro**
+**Articolo pubblicato su [LinkedIn](https://www.linkedin.com/pulse/la-prima-DevFest-italianatutta-online-giovanni-forlastro/) da Gianni Forlastro**

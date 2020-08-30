@@ -1,17 +1,17 @@
 {
   "basepath": "/",
-  "url": "https://devfest-together-3f484.web.app/",
-  "analytics": "UA-43643469-9",
+  "url": "https://devfest2020-287916.web.app/",
+  "analytics": "UA-43643469-8",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyBFCe5VpnVwe2iBOUt_Ipta_zzQ1AFtBlk",
-    "authDomain": "devfest-together-3f484.firebaseapp.com",
-    "databaseURL": "https://devfest-together-3f484.firebaseio.com",
-    "projectId": "devfest-together-3f484",
-    "storageBucket": "devfest-together-3f484.appspot.com",
-    "messagingSenderId": "232756250168",
-    "appId": "1:232756250168:web:50a923a8dc6d8875de08cd",
-    "measurementId": "G-KQ1TS993PQ"
+    "apiKey": "AIzaSyDgcZfvKlKfypa0TN3-i3FiLWfjB2syOYs",
+    "authDomain": "devfest2020-287916.firebaseapp.com",
+    "databaseURL": "https://devfest2020-287916.firebaseio.com",
+    "projectId": "devfest2020-287916",
+    "storageBucket": "devfest2020-287916.appspot.com",
+    "messagingSenderId": "223479969871",
+    "appId": "1:223479969871:web:cd3fb386e0fc344241523a",
+    "measurementId": "G-1XZ6LGENGV"
   },
-  "googleMapApiKey": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8"
+  "googleMapApiKey": "AIzaSyBu9LI-hY4NfUOPJJKuV3BfQm7edLr2-aE"
 }

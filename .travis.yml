@@ -4,8 +4,6 @@ node_js:
 cache: npm
 jobs:
   include:
-  - name: Test
-    script: npm test
   - name: Build & Deploy
     script: if [ "$TRAVIS_BRANCH" == "master" ]; then npm run build; else BUILD_ENV=development npm run build; fi
     before_deploy:
