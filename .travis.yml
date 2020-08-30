@@ -1,20 +1,21 @@
 language: node_js
 node_js:
-  - 10
+- 10
 cache: npm
 jobs:
   include:
-    - name: Test
-      script: npm test
-    - name: Build & Deploy
-      script: if [ "$TRAVIS_BRANCH" == "master" ]; then npm run build; else BUILD_ENV=development npm run build; fi
-      before_deploy:
-        - echo "Deploying!"
-      deploy:
-        - provider: firebase
-          skip_cleanup: true
-          on:
-            branch: devfest
-          project: devfest-together-3f484
-          token:
-            secure: "QDCEVSI3jbTAJMZ7YpemDNN5hSsoxzloASme13usYwIPFVAoMcFvtDY37pALqLKzuXjg/To9C5QA+j5sl0P8ws6v7RN/x+JjNlXk2w1EjCLLFItVLjrazxvqWNlja5L/jlsZddP1dEmqJRGfmPKj1F+dp4mk4evMaaL/eKHLVFul5aP+JuiyuCDw0ItTexQhE1gGDvRblq6S4c2sT2fneNTCBqwbP4pnKSP+F03zBT8iTw6lIURNqjC2Zg3vkYsURIHVofs4m0d6/pkf2wiEMxpY+5SiOXqZ6QdH3+X/yE9vWkqjffBjyfZam6LKUXqnbxZfQHgD3Jz0q6iwPXbMJW+P8MpLpym5sS6SWseD6DzAqCU0H5KvfOidnu0IRLzrhrm2/Lb8YWDvjbrD3lWc9ZqwdBqyJ5XiNwpHbn0vXgjWIwQD0VwNFtI2IS5HoJlpJQwPBNfpuCItNvipKhGm8WkFEeuoMNRwl74i9RKxzwFxxlg4EzfC5hTRXu3Jmxp+uxJ9QWmc4O51lxRiYLPmIyB09rg8F8oZ2CG8DqG3wmQHyV2IUCTnDwFfs2DBaX/b/R722j5R+clM4TuzT11hZ7rQ8tECrr366bb47A8XgcoGq7nY+Q/26S2bXCQbvWapQxjoHgqz275qmtqB/toMT+aUI1mMMUECUDte4Nz3IMA="
+  - name: Test
+    script: npm test
+  - name: Build & Deploy
+    script: if [ "$TRAVIS_BRANCH" == "master" ]; then npm run build; else BUILD_ENV=development npm run build; fi
+    before_deploy:
+    - echo "Deploying!"
+    deploy:
+    - provider: firebase
+      skip_cleanup: true
+      on:
+        branch: devfest2020
+      project: devfest2020-287916
+      token:
+        secure: Dvsh9QZIEVRewXV4ClNwr6NlHt0eDAcKYCY6xOjzpZcTF1PeXTbxUhR80QiIM8LCOJlwsxfw+ITybXKtm/J/KvPqddDYaprzarQfDpcCMiNJaXgXSqW1TTQXWFHDp3viRdd5AQ5VmjbGPcWzEwA2npS+lJ0R0aGjEuCeQ8Z8E++ISIIvBaMW6I97FaiL+TtgZJsy4vsxDucinoKKgknzRKt9h7wzUT5uReFW1VZ+BU8b9FvKzOXXa+KvDxApGX0ydkMzx/7MjDdEd2FpZjNLv62mPuWFb5Evn6DumGlAI8G9JZMi7SSpEhlFeJ3CTRtqEMeK7Snn78UHed//WMIGRISCYPNmnPAyyLWzpzJE/IslOSH0RrBPqQMA9ydarkCy6//56oTbTl9ACFGrAqiBRICsH9k2MLxeJ9Mr+P+MoPaie81nqTe4VKSWpN1zabt64pkTQoT9lSWyhFX7brosKJlVtU5o1aZAPc2s+XeScrefa6riaHZE7le4Xwwv8j3iPQhxj+l3iD5tFU1jcBspyJLu9EEoyEJjxJilVd7VNYp/OmQUCggSGlNVZFxeqzmLYedl/9Ob8pRTovovSqSnUYnFXFFHTny7Rfjv+ZqzYKl39on267a7zewNzA7M3SeszxjtrhOfAV6gowGxHxPn9CTnCW8SBCVWUlWjCj3xoJ8=
+
