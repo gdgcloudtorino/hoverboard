@@ -36,7 +36,7 @@ Conditions: Mar 7 - Jun 30 or first 200 tickets
 
 #### **Lazy birds tickets**
 
-General Admission: \$90
+General Admission: FREE
 
 Conditions: Jul 1 - Sep 30 or until tickets will be sold out
 
@@ -52,7 +52,7 @@ We’ll be offering a limited number of press passes to qualified members of the
 
 #### **I Love DFUA**
 
-General admission: \$150
+General admission: FREE
 
 Special tickets for real supporters of our conference. As we’re organizing the event on a non-profit basis, additional resources will help us bring more cool speakers from all over the world and additionally invest in demo-zone, party, and other activities. Owners of “I love DFUA” tickets will get additional valuable benefits from our team.
 
@@ -76,7 +76,7 @@ Special tickets for real supporters of our conference. As we’re organizing the
 
 ### More Registration Details
 
-- Registration for GDG DevFest Together includes two full days of sessions, product demos, admission to the after hours party, and attendance at the keynotes. 
+- Registration for GDG DevFest includes two full days of sessions, product demos, admission to the after hours party, and attendance at the keynotes. 
 - If you aren’t a resident of Italy, you should check with your local government to determine the required documents and arrangements needed for your travel to Italy. 
   
 
@@ -84,12 +84,12 @@ Special tickets for real supporters of our conference. As we’re organizing the
 
 ### Language
 
-Presentations at GDG DevFest Together will be in Italian.
+Presentations at GDG DevFest will be in Italian and English.
   
 ### Event Attire
 
-GDG DevFest Together is a developer event, so please be comfortable and casual. There is no enforced dress code.
+GDG DevFest is a developer event, so please be comfortable and casual. There is no enforced dress code.
 
 ### No Soliciting
 
-No solicitation or selling of items or services is allowed at GDG DevFest Together. Any attendee conducting these activities may be removed from the conference.
+No solicitation or selling of items or services is allowed at GDG DevFest. Any attendee conducting these activities may be removed from the conference.

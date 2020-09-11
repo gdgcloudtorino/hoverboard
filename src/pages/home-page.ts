@@ -117,15 +117,33 @@ class HomePage extends ReduxMixin(PolymerElement) {
           hero-block {
             height: calc(100vh + 65px);
           }
-
+  
           .hero-logo {
             max-width: 320px;
           }
-
+  
           .info-items {
             margin: 48px auto;
             font-size: 28px;
             line-height: 1.1;
+          }
+        }
+  
+        .hero-logo-desktop {
+          display: inline;
+        }
+        .hero-logo-mobile {
+          display: none;
+        }
+  
+        @media only screen
+          and (min-device-width: 320px)
+          and (max-device-width: 812px)  {
+          .hero-logo-desktop {
+            display: none;
+          }
+          .hero-logo-mobile {
+            display: inline;
           }
         }
       </style>
