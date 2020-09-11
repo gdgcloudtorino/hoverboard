@@ -60,6 +60,7 @@
     "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
+    "@babel/node": "^7.10.5",
     "@firebase/testing": "^0.20.11",
     "@open-wc/building-rollup": "^1.8.0",
     "@testing-library/dom": "^7.23.0",

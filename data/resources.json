@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Together",
+  "title": "GDG DevFest",
   "description": "Sviluppatori italiani contro il COVID-19",
   "image": "images/social-share.png",
   "keywords": "DevFest together, event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "02-03 Maggio 2020",
+  "dates": "17-18 Ottobre 2020",
   "share": "Condividi",
   "followOur": "Segui",
   "followUs": "Seguici",
@@ -86,13 +86,13 @@
     "title": "About",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Together mette insieme esperti mondiali di Android,Tecnologie Web e Cloud online per 2 giorni di sessioni, workshops and showcases."
+        "description": "GDG DevFest mette insieme esperti mondiali di Android, Tecnologie Web, Cloud, Machine Learning, Soft Skills e Marketing per una due giorni di sessioni online, workshops and showcases."
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Partecipanti",
-        "number": "1300+"
+        "number": "TBD"
       },
       "days": {
         "label": "Giorni",
