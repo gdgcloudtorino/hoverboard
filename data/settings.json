@@ -42,11 +42,6 @@
       "route": "blog",
       "permalink": "/blog/",
       "label": "Blog"
-    },
-    {
-      "route": "games",
-      "permalink": "/games/",
-      "label": "Giochi"
     }
   ],
   "heroSettings": {
