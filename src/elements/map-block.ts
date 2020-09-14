@@ -58,9 +58,6 @@ class MapBlock extends ReduxMixin(PolymerElement) {
         }
       </style>
 
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170167.1807741406!2d11.078739812249946!3d42.554517675191704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d4fe82448dd203%3A0xe22cf55c24635e6f!2sItalia!5e0!3m2!1sit!2sit!4v1600094444897!5m2!1sit!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-
-      <!--
       <template is="dom-if" if="[[viewport.isTabletPlus]]">
         <google-map
           id="map"
@@ -79,7 +76,7 @@ class MapBlock extends ReduxMixin(PolymerElement) {
             icon="images/map-marker.svg"
           ></google-map-marker>
         </google-map>
-      </template> -->
+      </template>
 
       <div class="container" layout vertical end-justified fit$="[[viewport.isTabletPlus]]">
         <div class="description-card" layout vertical justified>
