@@ -103,6 +103,12 @@
 				},
 				{
 					"order": 10,
+					"logoUrl": "../images/logos/gdg_venezia.jpg",
+					"name": "GDG Venezia",
+					"url": "https://www.meetup.com/it-IT/GDG-Venezia/"
+				},
+				{
+					"order": 11,
 					"logoUrl": "../images/logos/wtm_italia.png",
 					"name": "WTM Italia",
 					"url": ""
