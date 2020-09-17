@@ -141,7 +141,7 @@ class PreviousSpeakersPage extends ReduxMixin(PolymerElement) {
         font-color="{$ heroSettings.previousSpeakers.fontColor $}"
         active="[[active]]"
       >
-        <div class="hero-title">{$ heroSettings.previousSpeakers.title $}</div>
+        <div class="hero-title highlight-font">{$ heroSettings.previousSpeakers.title $}</div>
         <p class="hero-details">{$ heroSettings.previousSpeakers.details $}</p>
       </hero-block>
 

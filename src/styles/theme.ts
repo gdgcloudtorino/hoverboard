@@ -79,7 +79,12 @@ export const theme = css`
   h5,
   h6 {
     margin: 0;
+    font-family: "Product Sans", arial, sans-serif;
     font-weight: normal;
+  }
+
+  .highlight-font {
+    font-family: "Product Sans", arial, sans-serif;
   }
 
   h1 {

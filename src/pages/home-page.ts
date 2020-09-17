@@ -164,7 +164,7 @@ class HomePage extends ReduxMixin(PolymerElement) {
             srcset="/images/logo.svg"
             alt="{$ title $}"
           ></plastic-image>
-          <div class="info-items">
+          <div class="info-items highlight-font">
             <div class="info-item">{$ location.city $}. {$ dates $}</div>
             <div class="info-item">{$ heroSettings.home.description $}</div>
           </div>

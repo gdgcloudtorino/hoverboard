@@ -74,7 +74,7 @@ class SchedulePage extends SessionsHoC(SpeakersHoC(ReduxMixin(PolymerElement))) 
         font-color="{$ heroSettings.schedule.fontColor $}"
         active="[[active]]"
       >
-        <div class="hero-title">{$ heroSettings.schedule.title $}</div>
+        <div class="hero-title highlight-font">{$ heroSettings.schedule.title $}</div>
         <p class="hero-description">{$ heroSettings.schedule.description $}</p>
         <sticky-element slot="bottom" active="[[active]]">
           <header-bottom-toolbar></header-bottom-toolbar>
