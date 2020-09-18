@@ -482,7 +482,7 @@
 					}
 				],
 				"order": 3,
-				"title": "Contenuti"
+				"title": "Coordinamento Generale"
 			},
 			{
 				"name": "Stefano Tomasi",
@@ -497,33 +497,15 @@
 						"icon": "linkedin",
 						"link": "https://it.linkedin.com/in/stefanotomasi-web",
 						"name": "LinkedIn"
+					},
+					{
+						"icon": "instagram",
+						"link": "https://www.instagram.com/tomasi_ste",
+						"name": "Instagram"
 					}
 				],
 				"order": 4,
 				"title": "Comunicazione"
-			},
-			{
-				"name": "Mattia Piccirillo",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FMattiaPiccirillo.jpg?alt=media&token=35b4f067-a933-40f6-8b46-0e997ace43fc",
-				"gdg": "GDG Firenze",
-				"socials": [{
-						"icon": "facebook",
-						"link": "https://www.facebook.com/mattiapiccirillo.google/",
-						"name": "Facebook"
-					},
-					{
-						"icon": "linkedin",
-						"link": "https://www.linkedin.com/in/mattiapiccirillo/",
-						"name": "LinkedIn"
-					},
-					{
-						"icon": "instagram",
-						"link": "https://www.instagram.com/mattiapiccirillo14/",
-						"name": "Instagram"
-					}
-				],
-				"order": 5,
-				"title": "Infrastruttura"
 			},
 			{
 				"name": "Asia Salvaterra",
@@ -551,27 +533,13 @@
 					"icon": "linkedin",
 					"link": "https://www.linkedin.com/in/giacomo-ranieri-27081987",
 					"name": "LinkedIn"
+				},{
+					"icon": "instagram",
+					"link": "https://www.instagram.com/ilconteranieri/",
+					"name": "Instagram"
 				}],
 				"order": 7,
 				"title": "Infrastruttura"
-			},
-			{
-				"name": "Saveria Serena Foti",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FSaveriaSerenaFoti.jpg?alt=media&token=a52e703a-847a-464b-86d2-e5b31c840d9e",
-				"gdg": "GDG Nebrodi",
-				"socials": [{
-						"icon": "linkedin",
-						"link": "https://www.linkedin.com/in/saveria-serena-foti/",
-						"name": "LinkedIn"
-					},
-					{
-						"icon": "instagram",
-						"link": "https://www.instagram.com/serenithyweb/",
-						"name": "Instagram"
-					}
-				],
-				"order": 8,
-				"title": "Comunicazione & Community Engagement"
 			},
 			{
 				"name": "Michela Bertaina",
@@ -595,24 +563,6 @@
 				],
 				"order": 9,
 				"title": "Coordinamento"
-			},
-			{
-				"name": "Juna Salviati",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FJunaSalviati.png?alt=media&token=69ba69bc-d617-478c-9ecd-44992b33b104",
-				"gdg": "GDG Roma",
-				"socials": [{
-						"icon": "twitter",
-						"link": "https://twitter.com/1littleendian",
-						"name": "Twitter"
-					},
-					{
-						"icon": "linkedin",
-						"link": "https://www.linkedin.com/in/junasalviati/",
-						"name": "LinkedIn"
-					}
-				],
-				"order": 10,
-				"title": "Infrastruttura"
 			},
 			{
 				"name": "Alessio Rizzolo",
@@ -647,43 +597,7 @@
 				}],
 				"order": 12,
 				"gdg": "GDG Torino",
-				"title": "Comunicazione"
-			},
-			{
-				"name": "Lucia Vigoroso",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FLuciaVigoroso.png?alt=media&token=7f8a1165-aac9-4c39-a0df-2b5ba6e3b455",
-				"socials": [{
-						"icon": "linkedin",
-						"link": "https://www.linkedin.com/in/lucia-vigoroso-40267472/",
-						"name": "Linkedin"
-					},
-					{
-						"icon": "instagram",
-						"link": "https://www.instagram.com/lucia_vig/",
-						"name": "Instagram"
-					}
-				],
-				"order": 13,
-				"gdg": "GDG Torino",
-				"title": "Comunicazione"
-			},
-			{
-				"name": "Santino Caruso",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FSantoCaruso.png?alt=media&token=24f91f1a-ba6e-4ac6-a1c4-87974aeffbfd",
-				"socials": [{
-						"icon": "linkedin",
-						"link": "https://www.linkedin.com/in/santocaruso/",
-						"name": "Linkedin"
-					},
-					{
-						"icon": "twitter",
-						"link": "https://twitter.com/ssantinocaruso",
-						"name": "Twitter"
-					}
-				],
-				"order": 14,
-				"gdg": "GDG Cosenza",
-				"title": "Infrastruttura"
+				"title": "Grafica"
 			},
 			{
 				"name": "Nicola Guglielmi",
@@ -716,41 +630,128 @@
 				"title": "Community engagement"
 			},
 			{
-				"name": "Martina Chillura",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FMartinaChillura.jpeg?alt=media&token=d038981a-7c7c-4f61-9da1-e337562462dc",
-				"socials": [{
-						"icon": "linkedin",
-						"link": "https://www.linkedin.com/in/martina-chillura",
-						"name": "Linkedin"
-					},
+				"name": "Mike Trizio",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FmikeTrizio.jpeg?alt=media&token=fe30d557-06c7-4b2a-97f1-30d9d262df46",
+				"socials": [
 					{
 						"icon": "facebook",
-						"link": "https://www.facebook.com/martina.chillura",
+						"link": "https://www.linkedin.com/in/michelantoniotrizio/",
 						"name": "Facebook"
 					},
 					{
 						"icon": "instagram",
-						"link": "https://www.instagram.com/blueblocky/",
+						"link": "https://www.instagram.com/mikelantonio/",
 						"name": "Instagram"
+					},
+					{
+						"icon": "twitter",
+						"link": "https://twitter.com/mik3lantoni0",
+						"name": "Twitter"
 					}
 				],
 				"order": 17,
-				"gdg": "",
-				"title": "Community engagement"
+				"gdg": "GDG Bari",
+				"title": "Infrastruttura"
 			},
 			{
-				"name": "Oriana Virgillito",
-				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FOrianaVirgilito.jpg?alt=media&token=cb8de861-4af7-4b12-930a-a7b72ca610c5",
+				"name": "Paolo Rotolo",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FpaoloRotolo.jpeg?alt=media&token=e4894e8c-eb97-4729-9e78-17b3d1c16b83",
 				"socials": [
 					{
 						"icon": "facebook",
-						"link": "https://www.facebook.com/oriana.virgillito",
+						"link": "https://www.facebook.com/rotolopao",
 						"name": "Facebook"
+					},
+					{
+						"icon": "twitter",
+						"link": "https://twitter.com/paolorotolo",
+						"name": "Twitter"
+					},
+					{
+						"icon": "linkedin",
+						"link": "https://www.linkedin.com/in/paolorotolo/",
+						"name": "Linkedin"
+					}
+				],
+				"order": 17,
+				"gdg": "GDG Bari",
+				"title": "Infrastruttura"
+			},
+			{
+				"name": "Omar Al Bukhari",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FOmarAlBukhari.jpeg?alt=media&token=046b97b4-de8c-4488-90da-2dbd6411ee0e",
+				"socials": [
+					{
+						"icon": "twitter",
+						"link": "https://twitter.com/Fedom93",
+						"name": "Twitter"
+					},
+					{
+						"icon": "linkedin",
+						"link": "https://www.linkedin.com/in/omar-al-bukhari-01776b111/?locale=en_US",
+						"name": "Linkedin"
 					}
 				],
 				"order": 18,
-				"gdg": "GDG Torino",
-				"title": "Comunicazione"
+				"gdg": "GDG Venezia",
+				"title": "Partnerships"
+			},
+			{
+				"name": "Rosa Taormina",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FrosaTaormina.jpg?alt=media&token=9151738a-8a68-4721-b9c0-0cdef84bfd42",
+				"socials": [
+					{
+						"icon": "instagram",
+						"link": "https://www.instagram.com/rosa_taormina_illustratrice/",
+						"name": "Instagram"
+					},
+					{
+						"icon": "facebook",
+						"link": "https://www.facebook.com/Accussigraficaillustrazione",
+						"name": "Facebook"
+					}
+				],
+				"order": 19,
+				"gdg": "GDG Catania",
+				"title": "Grafica"
+			},
+			{
+				"name": "Raffaele Barone",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FraffaeleBarone.jpeg?alt=media&token=8265544f-84e6-4393-bce0-9206b717476c",
+				"socials": [
+					{
+						"icon": "linkedin",
+						"link": "https://www.linkedin.com/in/raffb/",
+						"name": "Linkedin"
+					}
+				],
+				"order": 20,
+				"gdg": "GDG Catania",
+				"title": "Infrastruttura"
+			},
+			{
+				"name": "Fabio Arcieri",
+				"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/team%2FfabioArceri.jpeg?alt=media&token=f0fbcf66-51a7-4324-8fb3-e9d4aca0709f",
+				"socials": [
+					{
+						"icon": "linkedin",
+						"link": "https://www.linkedin.com/in/fabioarceri",
+						"name": "Linkedin"
+					},
+					{
+						"icon": "twitter",
+						"link": "https://twitter.com/fnarceri",
+						"name": "Twitter"
+					},
+					{
+						"icon": "facebook",
+						"link": "https://www.facebook.com/nicolofabio.arceri",
+						"name": "Facebook"
+					}
+				],
+				"order": 21,
+				"gdg": "GDG Catania",
+				"title": "Community Engagement"
 			}
 		],
 		"title": "Core Team"
