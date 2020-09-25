@@ -365,7 +365,11 @@
 				"link": "https://www.linkedin.com/in/lucamezzalira/",
 				"name": "LinkedIn"
 			}],
-			"badges": []
+			"badges": [{
+				"description": "Google Developers Expert - Web Technologies",
+				"link": "https://developers.google.com/community/experts/directory/profile/profile-luca_mezzalira",
+				"name": "gde"
+			}]
 		},
 		"FabioBiondi": {
 			"bio": "Fabio Biondi, Microsoft MVP e Google Developer Expert in web technologies con specializzazione in Angular, è uno sviluppatore freelance con più di 15 anni di esperienza nella creazione di applicazioni web enterprise. Speaker in numerosi eventi front-end, ha inoltre fondato diverse community italiane che si occupano di Javascript, Angular e React (~ 20000 membri). Attualmente si occupa di formazione e consulenza su Javascript, Typescript, Angular, React, Redux, NGRX e RxJS.",
@@ -399,7 +403,137 @@
 				"link": "https://developers.google.com/community/experts/directory/profile/profile-fabio_biondi",
 				"name": "gde"
 			}]
-	}
+		},
+		"LucaBarboni": {
+			"bio": "Imprenditore, Public Speaker, Growth Hacker. Autore del 1° libro italiano sul tema. Founder & VP of Growth @ 247X, l’unica agenzia di growth hacking italiana partner di GrowthHackers.com. #500strong.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Luca Barboni",
+			"order": 5,
+			"photoUrl": "https://sessionize.com/image?f=30170d49444e0b7628826200eb2a33ba,200,200,1,0,ab633e31-1e21-485e-86df-80b0105c7a0d.jpg",
+			"shortBio": "Founder & VP of Growth @ 247X | ITA Partner di Growthhackers.com | Imprenditore, Autore & Public Speaker",
+			"title": "Founder & VP of Growth @ 247X | ITA Partner di Growthhackers.com | Imprenditore, Autore & Public Speaker",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/lucabarboni/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},
+		"MaurizioMangione": {
+			"bio": "Google Developers Expert for web technologies, Microsoft MVP, Milano JS, Italia JS and JS Girls founder. Self-motivated passionate community professional focused on building engaging, valuable connections between people and organisations. Deep experience of building communities, both in-person and online across many groups and domains. Expert in growing brand awareness and showcasing brand values. Rock climber and metal guitar player.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Maurizio Mangione",
+			"order": 6,
+			"photoUrl": "https://sessionize.com/image?f=842227bba390fa86034b771d3f711168,200,200,1,0,04-bc83-40a6-a39f-b73453673aae.d1e3f842-40c1-43a0-8873-4b1469d4ad18.jpg",
+			"shortBio": "Developer Relations Advocate at DAZN",
+			"title": "Developer Relations Advocate at DAZN",
+			"socials": [{
+				"icon": "twitter",
+				"link": "https://twitter.com/granze",
+				"name": "Twitter"
+			}, {
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/granze/",
+				"name": "LinkedIn"
+			}],
+			"badges": [{
+				"description": "Google Developers Expert - Web Technologies",
+				"link": "https://developers.google.com/community/experts/directory/profile/profile-maurizio_mangione",
+				"name": "gde"
+			}]
+		},
+		"RobertoOrgiu": {
+			"bio": "Born in Italy in 1987, passionate for everything that switches on and off and particularly for handheld and wearable devices. I love to learn new languages such as Kotlin, patterns and everything Android-related. I recently joined The New York Times Android team as Android Engineer.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Roberto Orgiu",
+			"order": 7,
+			"photoUrl": "https://sessionize.com/image?f=0fb5ea70903f37204842b616d8a7e856,200,200,1,0,80-f02c-42cf-92db-98e670bef1a6.eefe1bb7-b14f-4b68-a09f-510d368ef096.jpg",
+			"shortBio": "Android Engineer @ NYTimes",
+			"title": "Android Engineer @ NYTimes",
+			"socials": [{
+				"icon": "twitter",
+				"link": "https://twitter.com/_tiwiz",
+				"name": "Twitter"
+			}, {
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/robertoorgiu/",
+				"name": "LinkedIn"
+			}],
+			"badges": [{
+				"description": "Google Developers Expert - Android, Identity, Internet of Things, Kotlin",
+				"link": "https://developers.google.com/community/experts/directory/profile/profile-roberto_orgiu",
+				"name": "gde"
+			}]
+		},
+		"GiulioRoggero": {
+			"bio": "Sono fortunato perché il mio lavoro e la mia passione coincidono! Scrivere codice, disegnare Architetture Software e “mettere in produzione” sistemi informatici complessi sono le attività che prediligo. In 20 anni di professione ho messo le mani in diversi contesti: dalla migrazione di 3 milioni di righe di codice da SCO Unix a Linux, alle architetture a microservizi su cluster kubernetes. Ho la fortuna di lavorare con i fortissimi team di Mia-Platform e Intré con i quali condivido successi e fatiche nel ruolo di CTO per la prima e di Strategist per la seconda; e visto che il codice da solo non basta, con i coach di Agile Reloaded abbiamo creato una bella realtà per aiutare le aziende a lavorare al meglio.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Giulio Roggero",
+			"order": 8,
+			"photoUrl": "https://sessionize.com/image?f=5b2a0eb5e65329ae38eea3a502e73fb3,200,200,1,0,92-445d-456b-8585-f94d1c4a0e0a.4ef35759-b2f9-488d-a596-6840104ef4ff.jpeg",
+			"shortBio": "Founder & CTO Mia-Platform, Partner & CS Intré, Founder Agile Reloaded",
+			"title": "Founder & CTO Mia-Platform, Partner & CS Intré, Founder Agile Reloaded",
+			"socials": [{
+				"icon": "twitter",
+				"link": "https://twitter.com/giulioroggero",
+				"name": "Twitter"
+			}, {
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/giulioroggero/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},
+		"LucaMassaron": {
+			"bio": "Data scientist transforming data into smarter artifacts. Author of For Dummies books on AI, machine learning and algorithms. Kaggle master.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Luca Massaron",
+			"order": 9,
+			"photoUrl": "https://sessionize.com/image?f=9994f51e1dcd158aad119326719d9886,200,200,1,0,a5440b22-a90d-4100-aaa5-a733603fe78d.jpg",
+			"shortBio": "Google Developer Expert",
+			"title": "Google Developer Expert",
+			"socials": [{
+				"icon": "twitter",
+				"link": "https://twitter.com/lucamassaron",
+				"name": "Twitter"
+			}, {
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/lmassaron/",
+				"name": "LinkedIn"
+			}],
+			"badges": [{
+				"description": "Google Developers Expert - Machine Learning",
+				"link": "https://developers.google.com/community/experts/directory/profile/profile-luca_massaron",
+				"name": "gde"
+			}]
+		},
+		"AliceMarmieri": {
+			"bio": "Da oltre 10 anni mi occupo di Online Marketing e Innovazione. Dopo numerosi anni come Marketing Manager in aziende multinazionali del calibro di Google e Luxottica ho deciso di intraprendere la mia avventura imprenditoriale e fondare Marte Digital, azienda di consulenza e formazione in ambito digitale, certificata Google Digital Trainer e partner del Corriere Economia. Le mie esperienze come manager in azienda, imprenditrice e consulente mi hanno insegnato l'importanza di saper comunicare il proprio valore in modo efficace a clienti, manager e la propria audience. Per questo motivo dal 2017 affianco imprenditori, leader d'azienda e professionisti a creare il proprio Personal Brand per diventare dei leader nel proprio settore. La mia missione è aiutare professionisti straordinari a comunicare il proprio valore, costruire la propria autorità e attrarre il cliente ideale grazie al Personal Branding.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Alice Marmieri",
+			"order": 10,
+			"photoUrl": "https://sessionize.com/image?f=99443df29fd5861254c80250fee28f01,200,200,1,0,93bd0d4a-36bb-4089-bd21-dba6c34a6a0e.jpg",
+			"shortBio": "Consulente Personal Branding & LinkedIn Expert",
+			"title": "Consulente Personal Branding & LinkedIn Expert",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/alice-marmieri-personal-branding/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		}
     },
 	"team": [{
 		"members": [{
