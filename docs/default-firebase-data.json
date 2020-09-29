@@ -533,6 +533,23 @@
 				"name": "LinkedIn"
 			}],
 			"badges": []
+		},
+		"DiegoGosmar": {
+			"bio": "Successful international speaker, Diego Gosmar is a manager with over 20 years of experience in the ICT sector and a writer with passion for innovation. He is author of the new book “Machine Learning - The sixth chakra of Artificial Intelligence” Published on August 2020 - ISBN: 979-8674459958. In 2010 Diego and his partners were rewarded for having founded Xenialab: best innovative start-up at the I3P incubator of the Turin Polytechnic University. Diego has led the international expansion of the XCALLYTM omni-channel software solution, reaching over 50 countries worldwide, managing partners and hundreds of customers scattered from Singapore to the Middle East, Europe, South Africa, the United States, Brazil and others. Since December 2019 Xenialab has become part of the INGO Spa group and Diego has been focusing on the growth of international operations. Diego's experience is linked to Machine Learning and Artificial Intelligence (AI) with particular attention to speech analysis, sentiment analysis and customer service applications through advanced forecasting and IVR models.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Diego Gosmar",
+			"order": 11,
+			"photoUrl": "https://sessionize.com/image?f=369baff2d6fbde5472c59f573fe7a57d,200,200,1,0,03-71a2-4cb0-ae66-e7761cee851f.11690b7c-9d37-4b64-b0d4-fe3d9ea98b62.jpg",
+			"shortBio": "VP International Operations - INGO Spa",
+			"title": "VP International Operations - INGO Spa",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/diego-gosmar-242b521/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
 		}
     },
 	"team": [{
