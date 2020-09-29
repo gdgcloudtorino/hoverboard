@@ -48,7 +48,7 @@
     "home": {
       "description": "",
       "background": {
-        "color": "#673ab7",
+        "color": "#01025a",
         "image": "/images/backgrounds/banner.png"
       },
       "fontColor": "#FFF"

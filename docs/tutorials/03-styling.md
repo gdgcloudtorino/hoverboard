@@ -42,7 +42,7 @@ Color and images for header can be configured via `data/settings.json` in `heroS
   "home": {
     "description": "Join the commuity, learn new things!",
     "background": {
-      "color": "#673ab7",
+      "color": "#01025a",
       "image": "/images/backgrounds/home.jpg"
     },
     "fontColor": "#FFF"
