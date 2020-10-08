@@ -258,7 +258,6 @@ class HomePage extends ReduxMixin(PolymerElement) {
       <tickets-block></tickets-block>
       <gallery-block></gallery-block>
       <about-organizer-block></about-organizer-block>
-      <featured-videos></featured-videos>
       <latest-posts-block></latest-posts-block>
       <map-block></map-block>
       <partners-block></partners-block>
