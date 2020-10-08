@@ -533,6 +533,111 @@
 				"name": "LinkedIn"
 			}],
 			"badges": []
+		},
+		"DiegoGosmar": {
+			"bio": "Successful international speaker, Diego Gosmar is a manager with over 20 years of experience in the ICT sector and a writer with passion for innovation. He is author of the new book “Machine Learning - The sixth chakra of Artificial Intelligence” Published on August 2020 - ISBN: 979-8674459958. In 2010 Diego and his partners were rewarded for having founded Xenialab: best innovative start-up at the I3P incubator of the Turin Polytechnic University. Diego has led the international expansion of the XCALLYTM omni-channel software solution, reaching over 50 countries worldwide, managing partners and hundreds of customers scattered from Singapore to the Middle East, Europe, South Africa, the United States, Brazil and others. Since December 2019 Xenialab has become part of the INGO Spa group and Diego has been focusing on the growth of international operations. Diego's experience is linked to Machine Learning and Artificial Intelligence (AI) with particular attention to speech analysis, sentiment analysis and customer service applications through advanced forecasting and IVR models.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Diego Gosmar",
+			"order": 11,
+			"photoUrl": "https://sessionize.com/image?f=369baff2d6fbde5472c59f573fe7a57d,200,200,1,0,03-71a2-4cb0-ae66-e7761cee851f.11690b7c-9d37-4b64-b0d4-fe3d9ea98b62.jpg",
+			"shortBio": "VP International Operations - INGO Spa",
+			"title": "VP International Operations - INGO Spa",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/diego-gosmar-242b521/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},
+		"GabrieleMittica": {
+			"bio": "Sviluppatore dal 2004, sono co-ideatore della CloudConf e promotore di diversi eventi informatici. Appassionato di cloud computing, innovazione, cucina, canottaggio e birrificazione casalinga",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Gabriele Mittica",
+			"order": 12,
+			"photoUrl": "https://sessionize.com/image?f=fda8e7f3733f154bcda360734b33eab6,200,200,1,0,3016b203-b5d4-4438-9eb6-443d76425c75.jpg",
+			"shortBio": "Co-founder di Corley e CloudConf",
+			"title": "Co-founder di Corley e CloudConf",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/gabrielemittica/",
+				"name": "LinkedIn"
+			},{
+				"icon": "twitter",
+				"link": "https://twitter.com/gabrielemittica",
+				"name": "Twitter"
+			}],
+			"badges": []
+		},
+		"FabioCollini": {
+			"bio": "Fabio Collini is a Google Developer Expert for Android and Kotlin. He started Android development in 2009, first as a freelance with two apps on Play Store and then as a developer for some companies and startups. Now he works as a remote engineer in the Android team at the New York Times. He is one of the authors of the second edition of Android Programmazione Avanzata, an Italian book dedicated to some advanced aspects of Android development, and he publishes articles about Android and Kotlin on his medium profile.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Fabio Collini",
+			"order": 13,
+			"photoUrl": "https://sessionize.com/image?f=7fbd9004af434da37af1a7623cb32756,200,200,1,0,65aceaeb-ea1f-4c7b-bb49-800dabbdfa88.jpg",
+			"shortBio": "Android e Kotlin GDE - Android Engineer at The New York Times",
+			"title": "Android e Kotlin GDE - Android Engineer at The New York Times",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/fabiocollini/",
+				"name": "LinkedIn"
+			},{
+				"icon": "twitter",
+				"link": "https://twitter.com/fabioCollini",
+				"name": "Twitter"
+			}],
+			"badges": [{
+				"description": "Google Developers Expert - Android e Kotlin",
+				"link": "https://developers.google.com/community/experts/directory/profile/profile-fabio_collini",
+				"name": "gde"
+			}]
+		},
+		"JuriStrumpflohner": {
+			"bio": "Juri Strumpflohner was born and lives in South Tyrol. He is currently a JavaScript Architect and Engineering Manager at Nrwl, where he consults for some of the world's biggest companies around the globe. Juri is very involved in the community. Since a couple of years he's a Google Developer Expert in Web Technologies, speaks at international conferences, teaches on [Egghead.io](http://egghead.io) and also co-organizes the Craftsmanship South Tyrol Meetup group. Make sure you connect with him on Twitter @juristr or on juri.dev.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Juri Strumpflohner",
+			"order": 14,
+			"photoUrl": "https://sessionize.com/image?f=2de816b2d5a8efbea720133384d774e2,200,200,1,0,50-cb5f-4c8f-a724-6629c3fe1545.8656bf48-e678-4039-9c67-398b24f151c3.jpeg",
+			"shortBio": "Web Technologies GDE - JavaScript Architect & Engineering Manager @ Nrwl",
+			"title": "Web Technologies GDE - JavaScript Architect & Engineering Manager @ Nrwl",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/juristr/",
+				"name": "LinkedIn"
+			}],
+			"badges": [{
+				"description": "Google Developers Expert - Web Technologies",
+				"link": "https://developers.google.com/community/experts/directory/profile/profile-juri_strumpflohner",
+				"name": "gde"
+			}]
+		},
+		"AntonellaBlasetti": {
+			"bio": "Founder and co-owner of Information Design, an IT Consulting Company. Google Expert Cloud. Certifications: AWS Solutions Architect, Azure Solution Architect Expert, Associate GOOGLE CLOUD Associate Engineer , Professional Data Engineer, Professional Cloud Architect and Professional Cloud Developer, ORACLE Database Administrator Neo4j Certification. Passionate about Machine Learning and Big Data. Since 2011, Google Developer Group GDG ROMA Founder and co-Leader. With our help, many people managed to improve their professional life, to get a better job, and to gain more self-confidence and motivation. I am really proud of it and I am grateful to Google for giving me this opportunity. Application and System Engineer in the International SW Development Lab of IBM in Italy. Professor of Relational Database Design at the University La Sapienza of Rome. Temporary manager (IT and Finance) in the Daimler (Mercedes) Outsourcing Company; Part in international task forces for defining valuation and transfer strategies of all the assets of big data centers (IBM Mainframes). International Software Projects and Big experience in Databases and Data/System Integration",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Antonella Blasetti",
+			"order": 15,
+			"photoUrl": "https://sessionize.com/image?f=3ff6144f9ffed65335511401f96732e8,200,200,1,0,8e-d4e1-40b0-ad03-05d7ec5331a4.a09e8b8e-4b4d-4f56-8fa5-19d4874fc65d.jpg",
+			"shortBio": "IT Manager Information Design - Google Developer Expert Cloud - AWS e GCP Cloud Certified - Leader Google Developer Group Roma",
+			"title": "IT Manager Information Design - Google Developer Expert Cloud - AWS e GCP Cloud Certified - Leader Google Developer Group Roma",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/antonellablasetti/",
+				"name": "LinkedIn"
+			}],
+			"badges": [{
+				"description": "Google Developers Expert - Cloud Computing",
+				"link": "https://developers.google.com/community/experts/directory/profile/profile-antonella_blasetti",
+				"name": "gde"
+			}]
 		}
     },
 	"team": [{

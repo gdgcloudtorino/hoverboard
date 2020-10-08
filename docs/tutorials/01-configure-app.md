@@ -29,7 +29,7 @@ The top block (aka 'hero') view of the page can be adjusted via `heroSettings` i
   "home": {
     "description": "Join the commuity, learn new things!",
     "background": {
-      "color": "#673ab7",
+      "color": "#01025a",
       "image": "/images/backgrounds/home.jpg"
     },
     "fontColor": "#FFF"
