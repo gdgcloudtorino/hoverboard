@@ -110,6 +110,11 @@ class TicketsBlock extends ReduxMixin(PolymerElement) {
           font-size: 12px;
         }
 
+        paper-button[tertiary]{
+          background-color: var(--default-primary-color);
+          color: white;
+        }
+
         @media (min-width: 640px) {
           .tickets-placeholder {
             grid-template-columns: repeat(auto-fill, 200px);
@@ -178,7 +183,7 @@ class TicketsBlock extends ReduxMixin(PolymerElement) {
               <div class="actions">
                 <div class="sold-out" block$="[[ticket.soldOut]]">{$ ticketsBlock.soldOut $}</div>
                 <paper-button
-                  primary
+                  tertiary
                   hidden$="[[ticket.soldOut]]"
                   disabled$="[[!ticket.available]]"
                 >

@@ -2,8 +2,8 @@ import { css } from 'lit-element';
 
 export const theme = css`
   :host {
-    --dark-primary-color: #512da8;
-    --default-primary-color: #673ab7;
+    --dark-primary-color: #0005df;
+    --default-primary-color: #4285f4;
     --focused-color: #311b92;
     --light-primary-color: #d1c4e9;
     --text-primary-color: #ffffff;
@@ -19,6 +19,7 @@ export const theme = css`
     --facebook-color: #3b5998;
     --border-light-color: #e2e2e2;
     --error-color: #e64a19;
+    --button-color: #fbbc04;
 
     /* Custom */
     --default-background-color: #ffffff;
@@ -118,8 +119,8 @@ export const theme = css`
   }
 
   paper-button[primary] {
-    background-color: var(--default-primary-color);
-    color: var(--text-primary-color);
+    background-color: var(--button-color);
+    color: var(--dark-primary-color);
   }
 
   paper-button[primary]:hover {

@@ -158,15 +158,15 @@
     "follow": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/search/top/?q=%23GDGDevFest&epa=SEARCH_BOX"
+        "url": "https://www.facebook.com/hashtag/devfestitalia/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/search?q=%23GDGDevFest&src=typed_query"
+        "url": "https://twitter.com/hashtag/DevFestItalia"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/explore/tags/GDGDevFest/?hl=it"
+        "url": "https://www.instagram.com/explore/tags/devfestitalia/"
       }
     ],
     "share": [
