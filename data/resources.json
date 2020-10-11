@@ -1,291 +1,287 @@
 {
-  "title": "GDG DevFest Italia 2020",
-  "description": "Sviluppatori italiani contro il COVID-19",
-  "image": "images/social-share.png",
-  "keywords": "DevFest, event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "17-18 Ottobre 2020",
-  "share": "Condividi",
-  "followOur": "Segui",
-  "followUs": "Seguici",
-  "emailUs": "Scrivici",
-  "partnershipResources": "Risorse di Partnership",
-  "eventResources": "Risorse dell'evento",
-  "buyTicket": "Prenota un biglietto",
-  "signIn": "Login",
-  "signOut": "Esci",
-  "viewHighlights": "Guarda gli Highlight",
-  "offlineMessage": "Puoi ancora visualizzare questo sito offline.",
-  "cachingComplete": "Caching completato! Le prossime volte il sito lavorerà offline.",
-  "newVersionAvailable": "É disponibile una nuova versione di questa app.",
-  "refresh": "Aggiorna",
-  "position": "Posizione",
-  "country": "Stato",
-  "time": "Orario",
-  "faq": "/data/faq.md",
-  "coc": "/data/coc.md",
-  "footer": {
-    "blog": "Blog"
-  },
-  "mySchedule": {
-    "title": "La mia agenda",
-    "browseSession": "Guarda le sessioni"
-  },
-  "footerRelBlock": [
-    {
-      "title": "About",
-      "links": [
-        {
-          "name": "GDG",
-          "url": "https://developers.google.com/groups/",
-          "newTab": true
+    "title": "GDG DevFest Italia 2020",
+    "description": "Sviluppatori italiani contro il COVID-19",
+    "image": "images/social-share.png",
+    "keywords": "DevFest, event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+    "dates": "17-18 Ottobre 2020",
+    "share": "Condividi",
+    "followOur": "Segui",
+    "followUs": "Seguici",
+    "emailUs": "Scrivici",
+    "partnershipResources": "Risorse di Partnership",
+    "eventResources": "Risorse dell'evento",
+    "buyTicket": "Prenota un biglietto",
+    "signIn": "Login",
+    "signOut": "Esci",
+    "viewHighlights": "Guarda gli Highlight",
+    "offlineMessage": "Puoi ancora visualizzare questo sito offline.",
+    "cachingComplete": "Caching completato! Le prossime volte il sito lavorerà offline.",
+    "newVersionAvailable": "É disponibile una nuova versione di questa app.",
+    "refresh": "Aggiorna",
+    "position": "Posizione",
+    "country": "Stato",
+    "time": "Orario",
+    "faq": "/data/faq.md",
+    "coc": "/data/coc.md",
+    "footer": {
+        "blog": "Blog"
+    },
+    "mySchedule": {
+        "title": "La mia agenda",
+        "browseSession": "Guarda le sessioni"
+    },
+    "footerRelBlock": [{
+            "title": "About",
+            "links": [{
+                    "name": "GDG",
+                    "url": "https://developers.google.com/groups/",
+                    "newTab": true
+                },
+                {
+                    "name": "DevFest",
+                    "url": "https://devfest.withgoogle.com/",
+                    "newTab": true
+                },
+                {
+                    "name": "Incontra il team",
+                    "url": "/team",
+                    "newTab": true
+                }
+            ]
         },
         {
-          "name": "DevFest",
-          "url": "https://devfest.withgoogle.com/",
-          "newTab": true
-        },
-        {
-          "name": "Incontra il team",
-          "url": "/team",
-          "newTab": true
+            "title": "Risorse dell'evento",
+            "links": [{
+                    "name": "Call for Papers",
+                    "url": "https://sessionize.com/devfest-italia-2020/",
+                    "newTab": true
+                },
+                {
+                    "name": "FAQs",
+                    "url": "/faq/",
+                    "newTab": false
+                },
+                {
+                    "name": "Codice di condotta",
+                    "url": "https://docs.google.com/document/d/1rXdwmprQjyJQq0lVvm4Ky1dpJfi_ptjhlOEWHnW261k/edit?usp=sharing",
+                    "newTab": true
+                }
+            ]
         }
-      ]
+    ],
+    "subscribeNote": "Niente spam, solo le ultime news e aggiornamenti!",
+    "codeOfConduct": "Codice di Condotta",
+    "codeOfConductBlock": {
+        "organization": "DevFest",
+        "form": "https://bit.ly/2RstTJ8",
+        "contacts": [
+            "Organizer Gianni Forlastro, gianni.forlastro@gmail.com",
+            "Organizer Francesco Pirrone, c.francesco.p@gmail.com"
+        ]
     },
-    {
-      "title": "Risorse dell'evento",
-      "links": [
-        {
-          "name": "Call for Papers",
-          "url": "https://sessionize.com/devfest-italia-2020/",
-          "newTab": true
-        },
-        {
-          "name": "FAQs",
-          "url": "/faq/",
-          "newTab": false
-        },
-        {
-          "name": "Codice di condotta",
-          "url": "https://docs.google.com/document/d/1HZI_xfuozANZUquZ_rbyzggrIqZvjb0geGfPiecvGUU/edit#heading=h.5lnwmfsfgdww",
-          "newTab": true
-        }
-      ]
-    }
-  ],
-  "subscribeNote": "Niente spam, solo le ultime news e aggiornamenti!",
-  "codeOfConduct": "Codice di Condotta",
-  "codeOfConductBlock": {
-    "organization": "DevFest",
-    "form": "https://bit.ly/2RstTJ8",
-    "contacts": [
-      "Organizer Gianni Forlastro, gianni.forlastro@gmail.com",
-      "Organizer Francesco Pirrone, c.francesco.p@gmail.com"
-    ]
-  },
-  "aboutBlock": {
-    "title": "About",
-    "callToAction": {
-      "featuredSessions": {
-        "description": "GDG DevFest mette insieme esperti mondiali di Android, Tecnologie Web, Cloud, Machine Learning, Soft Skills e Marketing per una due giorni di sessioni online, workshops and showcases."
-      }
-    },
-    "statisticsBlock": {
-      "attendees": {
-        "label": "Partecipanti",
-        "number": "TBD"
-      },
-      "days": {
-        "label": "Giorni",
-        "number": "2"
-      },
-      "sessions": {
-        "label": "Sessioni",
-        "number": "56+"
-      },
-      "tracks": {
-        "label": "Track",
-        "number": "7"
-      }
-    }
-  },
-  "ticketsBlock": {
-    "title": "Biglietti",
-    "ticketsDetails": "Il biglietto garantisce l'accesso a tutte le sessioni della conferenza",
-    "soldOut": "Persi per poco!",
-    "notAvailableYet": "Non ancora disponibili",
-    "save": ""
-  },
-  "tracksLinksBlock": {
-    "title": "Link ai live"
-  },
-  "partnersBlock": {
-    "title": "Partners",
-    "button": "Diventa partner",
-    "form": {
-      "title": "Diventa partner!",
-      "submitLabel": "Invia",
-      "fullName": "Nome",
-      "companyName": "Nome azienda"
-    },
-    "toast": "Ti contatteremo il prima possibile!"
-  },
-  "lottoBlock": {
-    "yourEmail": "La tua email",
-    "emailAddress": "Indirizzo email",
-    "name": "Nome",
-    "lastName": "Cognome",
-    "form": {
-      "title": "Richiedi una cartella!",
-      "submitLabel": "Invia",
-      "name": "Nome",
-      "lastName": "Cognome"
-    },
-    "emailRequired": "Inserisci una email valida",
-    "close": "Chiudi",
-    "generalError": "Errore, prova nuovamente.",
-    "toast": "Richiesta inserita, riceverai le tue cartelle per email!",
-    "mustBeSigned": "Effettua il login per poter richiedere una cartella"
-  },
-  "blog": {
-    "published": "Pubblicato",
-    "suggested": "Prossimamente"
-  },
-  "latestPostsBlock": {
-    "title": "Le ultime news",
-    "callToAction": {
-      "label": "Guarda tutte le storie",
-      "link": "/blog/"
-    }
-  },
-  "speakers": {
-    "skills": "Skill",
-    "previousYears": "Anni",
-    "previousYear": "Anno"
-  },
-  "speakersBlock": {
-    "title": "Speaker",
-    "callToAction": {
-      "label": "Vedi tutti gli speaker",
-      "link": "/speakers/"
-    }
-  },
-  "previousSpeakersBlock": {
-    "title": "Speaker precedenti",
-    "callToAction": {
-      "label": "Vedi tutti",
-      "link": "/previous-speakers/"
-    }
-  },
-  "galleryBlock": {
-    "title": "#gdgitalia highlights",
-    "description": "I nostri eventi suscitano sempre tanto entusiasmo. Queste sono alcune delle foto di talk, sessioni di hand-on e divertimento after-hour."
-  },
-  "mapBlock": {
-    "title": "Luogo"
-  },
-  "subscribeBlock": {
-    "callToAction": {
-      "description": "Ricevi gli aggiornamenti più importanti sull'evento",
-      "label": "Attiva le notifiche"
-    },
-    "yourEmail": "La tua email",
-    "emailAddress": "Indirizzo email",
-    "firstName": "Nome",
-    "lastName": "Cognome",
-    "formTitle": "Ottieni gli ultimi aggiornamenti, approfondimenti e novità su GDG DevFest Italia 2020 direttamente nella tua casella di posta.",
-    "emailRequired": "Inserisci un indirizzo email valido",
-    "subscribe": "Subscribe",
-    "subscribed": "Subscribed",
-    "close": "Chiudi",
-    "generalError": "Errore, prova più tardi.",
-    "toast": "Successfully subscribed!"
-  },
-  "team": {
-    "description": "Google è conosciuta ovunque nel mondo. Tutti 'googolano', controllano su 'maps' e comunicano con 'gmail'. Per l'utente comune, sono servizi che funzionano e basta, ma non per noi. Gli sviluppatori ci vedono molto di più: API, problemi di scalabilità, Stack tecnologici complessi. Questo è il GDG.<br><br> [Google Developers Group (GDG) Italia](...) - è una community aperta e volontaria che crea progetti interessanti e condivide esperienze su tecnologie Google con passione.<br><br> Il nostro scopo è connettere i migliori esperti del settore con l'audience italiana per dare un impulso allo sviluppo IT."
-  },
-  "games": {
-    "description": "Abbiamo organizzato dei giochi appassionanti per divertirci insieme durante la nostra DevFest Italia 2020! E mica solo uno! Sono ben tre: **DevFest Lotto**, **Contest Fotografico** e **Best Question**. Vieni a scoprire tutti i dettagli in <a href='https://bit.ly/DevFestTogether-Games' target='_blank'>questa presentazione</a> che abbiamo preparato per l'occasione.",
-    "lotto": "DevFest Lotto",
-    "button": "Richiedi una cartella"
-  },
-  "schedule": {
-    "saveSessionsSignedOut": "Registrati per salvare le tue sessioni"
-  },
-  "feedback": {
-    "save": "Salva",
-    "headline": "Recensisci le sessioni",
-    "leaveFeedback": "per lasciare un feedback",
-    "sendFeedbackSignedOut": "Registrati per lasciare un feedback",
-    "feedbackRecorded": "Salvato",
-    "feedbackDeleted": "Feedback cancellato",
-    "helperText": "I commenti saranno inviati in maniera anonima allo speaker",
-    "somethingWentWrong": "Qualcosa è andato storto",
-    "contentCaption": "Qualità del contenuto",
-    "styleCaption": "Stile della presentazione",
-    "deleteFeedback": "Elimina",
-    "sessionClosed": "Le recensioni delle sessioni non sono ancora disponibili"
-  },
-  "sessionDetails": {
-    "contentLevel": "Livello del contenuto",
-    "viewPresentation": "Guarda le slide",
-    "viewVideo": "Guarda il video",
-    "speakers": "Speaker"
-  },
-  "speakerDetails": {
-    "sessions": "Sessioni"
-  },
-  "notifications": {
-    "default": "Abilita le notifiche",
-    "enabled": "Ci mancherai, ma puoi discriverti quando vuoi",
-    "blocked": "Non possiamo invarti notifiche. Abilitale nel to browser",
-    "subscribe": "Iscriviti",
-    "unsubscribe": "Disattiva notifiche",
-    "enable": {
-      "label": "Enable",
-      "link": "https://support.google.com/chrome/answer/3220216"
-    },
-    "toast": {
-      "title": "Apri"
-    }
-  },
-  "aboutOrganizerBlock": {
-    "image": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/homepage%2Fgdg-italia.jpg?alt=media&token=fd872e9f-ad55-4412-a580-e1454954c884",
-    "blocks": [
-      {
-        "title": "Organizer",
-        "description": "GDG Italia",
+    "aboutBlock": {
+        "title": "About",
         "callToAction": {
-          "label": "Apri la pagina del Team",
-          "link": "/team"
+            "featuredSessions": {
+                "description": "GDG DevFest mette insieme esperti mondiali di Android, Tecnologie Web, Cloud, Machine Learning, Soft Skills e Marketing per una due giorni di sessioni online, workshops and showcases."
+            }
+        },
+        "statisticsBlock": {
+            "attendees": {
+                "label": "Partecipanti",
+                "number": "TBD"
+            },
+            "days": {
+                "label": "Giorni",
+                "number": "2"
+            },
+            "sessions": {
+                "label": "Sessioni",
+                "number": "56+"
+            },
+            "tracks": {
+                "label": "Track",
+                "number": "7"
+            }
         }
-      },
-      {
-        "title": "Cosa è un GDG?",
-        "description": "Un Google Developer Group è una community fatta da volontari, che creano progetti entusiasmanti e condividono esperienze sulle tecnologie Google.",
+    },
+    "ticketsBlock": {
+        "title": "Biglietti",
+        "ticketsDetails": "Il biglietto garantisce l'accesso a tutte le sessioni della conferenza",
+        "soldOut": "Persi per poco!",
+        "notAvailableYet": "Non ancora disponibili",
+        "save": ""
+    },
+    "tracksLinksBlock": {
+        "title": "Link ai live"
+    },
+    "partnersBlock": {
+        "title": "Partners",
+        "button": "Diventa partner",
+        "form": {
+            "title": "Diventa partner!",
+            "submitLabel": "Invia",
+            "fullName": "Nome",
+            "companyName": "Nome azienda"
+        },
+        "toast": "Ti contatteremo il prima possibile!"
+    },
+    "lottoBlock": {
+        "yourEmail": "La tua email",
+        "emailAddress": "Indirizzo email",
+        "name": "Nome",
+        "lastName": "Cognome",
+        "form": {
+            "title": "Richiedi una cartella!",
+            "submitLabel": "Invia",
+            "name": "Nome",
+            "lastName": "Cognome"
+        },
+        "emailRequired": "Inserisci una email valida",
+        "close": "Chiudi",
+        "generalError": "Errore, prova nuovamente.",
+        "toast": "Richiesta inserita, riceverai le tue cartelle per email!",
+        "mustBeSigned": "Effettua il login per poter richiedere una cartella"
+    },
+    "blog": {
+        "published": "Pubblicato",
+        "suggested": "Prossimamente"
+    },
+    "latestPostsBlock": {
+        "title": "Le ultime news",
         "callToAction": {
-          "label": "Leggi i dettagli",
-          "link": "https://developers.google.com/groups/",
-          "newTab": true
+            "label": "Guarda tutte le storie",
+            "link": "/blog/"
         }
-      }
-    ]
-  },
-  "signInDialog": {
-    "alreadyHaveAccount": "Hai già un account",
-    "alreadyUsed": "Hai già usato",
-    "signInToContinue": {
-      "part1": "Registrati con",
-      "part2": "per continuare."
+    },
+    "speakers": {
+        "skills": "Skill",
+        "previousYears": "Anni",
+        "previousYear": "Anno"
+    },
+    "speakersBlock": {
+        "title": "Speaker",
+        "callToAction": {
+            "label": "Vedi tutti gli speaker",
+            "link": "/speakers/"
+        }
+    },
+    "previousSpeakersBlock": {
+        "title": "Speaker precedenti",
+        "callToAction": {
+            "label": "Vedi tutti",
+            "link": "/previous-speakers/"
+        }
+    },
+    "galleryBlock": {
+        "title": "#gdgitalia highlights",
+        "description": "I nostri eventi suscitano sempre tanto entusiasmo. Queste sono alcune delle foto di talk, sessioni di hand-on e divertimento after-hour."
+    },
+    "mapBlock": {
+        "title": "Luogo"
+    },
+    "subscribeBlock": {
+        "callToAction": {
+            "description": "Ricevi gli aggiornamenti più importanti sull'evento",
+            "label": "Attiva le notifiche"
+        },
+        "yourEmail": "La tua email",
+        "emailAddress": "Indirizzo email",
+        "firstName": "Nome",
+        "lastName": "Cognome",
+        "formTitle": "Ottieni gli ultimi aggiornamenti, approfondimenti e novità su GDG DevFest Italia 2020 direttamente nella tua casella di posta.",
+        "emailRequired": "Inserisci un indirizzo email valido",
+        "subscribe": "Subscribe",
+        "subscribed": "Subscribed",
+        "close": "Chiudi",
+        "generalError": "Errore, prova più tardi.",
+        "toast": "Successfully subscribed!"
+    },
+    "team": {
+        "description": "Google è conosciuta ovunque nel mondo. Tutti 'googolano', controllano su 'maps' e comunicano con 'gmail'. Per l'utente comune, sono servizi che funzionano e basta, ma non per noi. Gli sviluppatori ci vedono molto di più: API, problemi di scalabilità, Stack tecnologici complessi. Questo è il GDG.<br><br> [Google Developers Group (GDG) Italia](...) - è una community aperta e volontaria che crea progetti interessanti e condivide esperienze su tecnologie Google con passione.<br><br> Il nostro scopo è connettere i migliori esperti del settore con l'audience italiana per dare un impulso allo sviluppo IT."
+    },
+    "games": {
+        "description": "Abbiamo organizzato dei giochi appassionanti per divertirci insieme durante la nostra DevFest Italia 2020! E mica solo uno! Sono ben tre: **DevFest Lotto**, **Contest Fotografico** e **Best Question**. Vieni a scoprire tutti i dettagli in <a href='https://bit.ly/DevFestTogether-Games' target='_blank'>questa presentazione</a> che abbiamo preparato per l'occasione.",
+        "lotto": "DevFest Lotto",
+        "button": "Richiedi una cartella"
+    },
+    "schedule": {
+        "saveSessionsSignedOut": "Registrati per salvare le tue sessioni"
+    },
+    "feedback": {
+        "save": "Salva",
+        "headline": "Recensisci le sessioni",
+        "leaveFeedback": "per lasciare un feedback",
+        "sendFeedbackSignedOut": "Registrati per lasciare un feedback",
+        "feedbackRecorded": "Salvato",
+        "feedbackDeleted": "Feedback cancellato",
+        "helperText": "I commenti saranno inviati in maniera anonima allo speaker",
+        "somethingWentWrong": "Qualcosa è andato storto",
+        "contentCaption": "Qualità del contenuto",
+        "styleCaption": "Stile della presentazione",
+        "deleteFeedback": "Elimina",
+        "sessionClosed": "Le recensioni delle sessioni non sono ancora disponibili"
+    },
+    "sessionDetails": {
+        "contentLevel": "Livello del contenuto",
+        "viewPresentation": "Guarda le slide",
+        "viewVideo": "Guarda il video",
+        "speakers": "Speaker"
+    },
+    "speakerDetails": {
+        "sessions": "Sessioni"
+    },
+    "notifications": {
+        "default": "Abilita le notifiche",
+        "enabled": "Ci mancherai, ma puoi discriverti quando vuoi",
+        "blocked": "Non possiamo invarti notifiche. Abilitale nel to browser",
+        "subscribe": "Iscriviti",
+        "unsubscribe": "Disattiva notifiche",
+        "enable": {
+            "label": "Enable",
+            "link": "https://support.google.com/chrome/answer/3220216"
+        },
+        "toast": {
+            "title": "Apri"
+        }
+    },
+    "aboutOrganizerBlock": {
+        "image": "https://firebasestorage.googleapis.com/v0/b/devfest2020-287916.appspot.com/o/homepage%2Fgdg-italia.jpg?alt=media&token=fd872e9f-ad55-4412-a580-e1454954c884",
+        "blocks": [{
+                "title": "Organizer",
+                "description": "GDG Italia",
+                "callToAction": {
+                    "label": "Apri la pagina del Team",
+                    "link": "/team"
+                }
+            },
+            {
+                "title": "Cosa è un GDG?",
+                "description": "Un Google Developer Group è una community fatta da volontari, che creano progetti entusiasmanti e condividono esperienze sulle tecnologie Google.",
+                "callToAction": {
+                    "label": "Leggi i dettagli",
+                    "link": "https://developers.google.com/groups/",
+                    "newTab": true
+                }
+            }
+        ]
+    },
+    "signInDialog": {
+        "alreadyHaveAccount": "Hai già un account",
+        "alreadyUsed": "Hai già usato",
+        "signInToContinue": {
+            "part1": "Registrati con",
+            "part2": "per continuare."
+        }
+    },
+    "filters": {
+        "title": "Filtri",
+        "results": "Risultati",
+        "tags": "Tags",
+        "complexity": "Complessità",
+        "clear": "Pulisci tutti"
+    },
+    "addToHomeScreen": {
+        "cta": "Aggiungi alla home"
     }
-  },
-  "filters": {
-    "title": "Filtri",
-    "results": "Risultati",
-    "tags": "Tags",
-    "complexity": "Complessità",
-    "clear": "Pulisci tutti"
-  },
-  "addToHomeScreen": {
-    "cta": "Aggiungi alla home"
-  }
 }
