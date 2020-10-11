@@ -121,14 +121,14 @@
     }
   },
   "location": {
-    "label": "",
-    "name": "",
+    "label": "Online",
+    "name": "Online",
     "city": "Online",
-    "short": "",
-    "address": "",
+    "short": "Direttamente dal tuo divano",
+    "address": "Direttamente dal tuo divano",
     "pointer": {
-      "latitude": 42.4539319,
-      "longitude": 14.2357789,
+      "latitude": 41.890210,
+      "longitude": 12.492381,
       "zoom": 6
     },
     "mapCenter": {
