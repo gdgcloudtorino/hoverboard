@@ -491,9 +491,10 @@ class HoverboardApp extends ReduxMixin(PolymerElement) {
   }
 
   _getTicketUrl(tickets) {
-    if (!tickets.list.length) return '';
+    /*if (!tickets.list.length) return '';
     const availableTicket = tickets.list.filter((ticket) => ticket.available)[0];
-    return availableTicket ? availableTicket.url : tickets.list[0].url;
+    return availableTicket ? availableTicket.url : tickets.list[0].url;*/
+    return 'https://gdg.community.dev/events/details/google-gdg-torino-presents-devfest-italia-2020/';
   }
 
   _isaddToHomeScreenHidden(addToHomeScreen, isTabletPlus) {
