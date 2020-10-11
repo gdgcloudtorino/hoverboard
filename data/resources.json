@@ -56,7 +56,7 @@
       "links": [
         {
           "name": "Call for Papers",
-          "url": "https://sessionize.com/devfest-together/",
+          "url": "https://sessionize.com/devfest-italia-2020/",
           "newTab": true
         },
         {
@@ -192,7 +192,7 @@
     "emailAddress": "Indirizzo email",
     "firstName": "Nome",
     "lastName": "Cognome",
-    "formTitle": "Ottieni gli ultimi aggiornamenti, approfondimenti e novità su GDG DevFest Together direttamente nella tua casella di posta.",
+    "formTitle": "Ottieni gli ultimi aggiornamenti, approfondimenti e novità su GDG DevFest Italia 2020 direttamente nella tua casella di posta.",
     "emailRequired": "Inserisci un indirizzo email valido",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
@@ -204,7 +204,7 @@
     "description": "Google è conosciuta ovunque nel mondo. Tutti 'googolano', controllano su 'maps' e comunicano con 'gmail'. Per l'utente comune, sono servizi che funzionano e basta, ma non per noi. Gli sviluppatori ci vedono molto di più: API, problemi di scalabilità, Stack tecnologici complessi. Questo è il GDG.<br><br> [Google Developers Group (GDG) Italia](...) - è una community aperta e volontaria che crea progetti interessanti e condivide esperienze su tecnologie Google con passione.<br><br> Il nostro scopo è connettere i migliori esperti del settore con l'audience italiana per dare un impulso allo sviluppo IT."
   },
   "games": {
-    "description": "Abbiamo organizzato dei giochi appassionanti per divertirci insieme durante la nostra DevFest Together! E mica solo uno! Sono ben tre: **DevFest Lotto**, **Contest Fotografico** e **Best Question**. Vieni a scoprire tutti i dettagli in <a href='https://bit.ly/DevFestTogether-Games' target='_blank'>questa presentazione</a> che abbiamo preparato per l'occasione.",
+    "description": "Abbiamo organizzato dei giochi appassionanti per divertirci insieme durante la nostra DevFest Italia 2020! E mica solo uno! Sono ben tre: **DevFest Lotto**, **Contest Fotografico** e **Best Question**. Vieni a scoprire tutti i dettagli in <a href='https://bit.ly/DevFestTogether-Games' target='_blank'>questa presentazione</a> che abbiamo preparato per l'occasione.",
     "lotto": "DevFest Lotto",
     "button": "Richiedi una cartella"
   },
