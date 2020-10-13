@@ -1628,31 +1628,5 @@
 	}],
 	"triggers": {
 		"images": false
-	},
-	"tracksLinks": [{
-		"name": "Keynote apertura",
-		"imageUrl": "../images/tracks/keynote.png",
-		"url": "https://www.youtube.com/watch?v=NevD6AlZP6I",
-		"description": "Domenica 3 Maggio, 15:00-15:10"
-	},{
-		"name": "Machine Learning",
-		"imageUrl": "../images/tracks/machinelearning.png",
-		"url": "https://www.youtube.com/watch?v=lZzI1UPYA0A",
-		"description": "Domenica 3 Maggio, 15:10-20:00"
-	},{
-		"name": "Frontend",
-		"imageUrl": "../images/tracks/frontend.png",
-		"url": "https://www.youtube.com/watch?v=NevD6AlZP6I",
-		"description": "Domenica 3 Maggio, 15:10-20:00"
-	},{
-		"name": "Soft Skill",
-		"imageUrl": "../images/tracks/softskill.png",
-		"url": "https://www.youtube.com/watch?v=Dprq6_NjyOo",
-		"description": "Domenica 3 Maggio, 15:10-20:00"
-	},{
-		"name": "Keynote chiusura",
-		"imageUrl": "../images/tracks/keynote.png",
-		"url": "https://www.youtube.com/watch?v=NevD6AlZP6I",
-		"description": "Domenica 3 Maggio, 20:00-20:45"
-	}]
+	}
 }
