@@ -30,7 +30,7 @@ export const bingoCardAdded = functions.storage.object().onFinalize(async (file)
     await firestore().runTransaction(async transaction => {
       const downloadOptions = {
         action: 'read',
-        expires: '05-31-2020'
+        expires: '10-31-2020'
       };
       const [downloadUrl] = await storageFile.getSignedUrl(downloadOptions);
       const cardRef = firestore().collection("bingo").doc("0").collection("cards").doc()
