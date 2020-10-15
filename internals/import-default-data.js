@@ -191,32 +191,6 @@ const importTickets = () => {
   });
 };
 
-const importTracksLinks = () => {
-  const docs = data.tracksLinks;
-  if (!Object.keys(docs).length) {
-    return false;
-  }
-  console.log('\tImporting tracks\' links...');
-
-  const batch = firestore.batch();
-
-  Object.keys(docs).forEach((docId) => {
-    batch.set(
-      firestore.collection('tracksLinks').doc(`${docId}`.padStart(3, 0)),
-      {
-        ...docs[docId],
-        order: docId,
-      },
-    );
-  });
-
-  return batch.commit()
-    .then(results => {
-      console.log('\tImported data for', results.length, 'tracks\' links');
-      return results;
-    });
-};
-
 const importSessions = () => {
   const docs = data.sessions;
   if (!Object.keys(docs).length) {
@@ -282,7 +256,6 @@ initializeFirebase()
   .then(() => importSpeakers())
   .then(() => importTeam())
   .then(() => importTickets())
-  .then(() => importTracksLinks())
   .then(() => importVideos())
 
   .then(() => {

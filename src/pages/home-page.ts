@@ -9,7 +9,6 @@ import '../elements/latest-posts-block';
 import '../elements/map-block';
 import '../elements/partners-block';
 import '../elements/speakers-block';
-import '../elements/subscribe-block';
 import '../elements/tickets-block';
 import { ReduxMixin } from '../mixins/redux-mixin';
 import { uiActions } from '../redux/actions';
@@ -117,25 +116,25 @@ class HomePage extends ReduxMixin(PolymerElement) {
           hero-block {
             height: calc(100vh + 65px);
           }
-  
+
           .hero-logo {
             max-width: 320px;
           }
-  
+
           .info-items {
             margin: 48px auto;
             font-size: 28px;
             line-height: 1.1;
           }
         }
-  
+
         .hero-logo-desktop {
           display: inline;
         }
         .hero-logo-mobile {
           display: none;
         }
-  
+
         @media only screen
           and (min-device-width: 320px)
           and (max-device-width: 812px)  {
@@ -254,7 +253,6 @@ class HomePage extends ReduxMixin(PolymerElement) {
       {% endif %}
       <about-block></about-block>
       <speakers-block></speakers-block>
-      <subscribe-block></subscribe-block>
       <tickets-block></tickets-block>
       <gallery-block></gallery-block>
       <about-organizer-block></about-organizer-block>
