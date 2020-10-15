@@ -43,6 +43,10 @@ export const initialState = {
       isOpened: false,
       data: {},
     },
+    [DIALOGS.LOTTO]: {
+      isOpened: false,
+      data: {},
+    },
   },
   tickets: {
     fetching: false,
@@ -119,5 +123,9 @@ export const initialState = {
   filters: {
     tags: [],
     complexity: [],
+  },
+  lotto: {
+    adding: '',
+    addingError: '',
   },
 };

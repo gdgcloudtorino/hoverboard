@@ -16,6 +16,7 @@ export const DIALOGS = {
   FEEDBACK: 'feedback',
   SUBSCRIBE: 'subscribe',
   SIGNIN: 'signin',
+  LOTTO: 'lotto',
 };
 // toast
 export const SHOW_TOAST = 'app/Toast/SHOW_TOAST';
