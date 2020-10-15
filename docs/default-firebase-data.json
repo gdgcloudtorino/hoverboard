@@ -121,9 +121,9 @@
 		{
 			"logos": [{
 				"order": 0,
-				"logoUrl": "../images/logos/jetbrains.png",
-				"name": "JetBrains",
-				"url": "https://www.jetbrains.com/"
+				"logoUrl": "../images/logos/adi.png",
+				"name": "ADI - Android Developers Italia",
+				"url": "https://androiddevs.it/"
 			},{
 				"order": 1,
 				"logoUrl": "../images/logos/corley_logo.png",
@@ -149,6 +149,11 @@
 				"logoUrl": "../images/logos/slido_logo.png",
 				"name": "Sli.do",
 				"url": "https://www.sli.do/"
+			},{
+				"order": 6,
+				"logoUrl": "../images/logos/codemotion_milan.png",
+				"name": "Codemotion",
+				"url": "https://www.codemotion.com/"
 			}],
 			"order": 2,
 			"title": "Supporters"
@@ -156,18 +161,18 @@
 	],
 	"schedule": {
 		"2020-10-17": {
-			"dateReadable": "17 Ottobre",
+			"dateReadable": "17 October",
 			"timeslots": [{
-					"endTime": "10:30",
+					"endTime": "10:00",
 					"sessions": [{
 						"items": [
 							100
 						]
 					}],
-					"startTime": "15:00"
+					"startTime": "09:30"
 				},
 				{
-					"endTime": "10:00",
+					"endTime": "10:45",
 					"sessions": [{
 							"items": [
 								111
@@ -175,35 +180,464 @@
 						},
 						{
 							"items": [
-								111
+								112
 							]
 						},
 						{
 							"items": [
-								111
+								113
 							]
 						}
 					],
-					"startTime": "15:20"
+					"startTime": "10:00"
+				},{
+					"endTime": "11:30",
+					"sessions": [{
+							"items": [
+								121
+							]
+						},
+						{
+							"items": [
+								122
+							]
+						},
+						{
+							"items": [
+								123
+							]
+						}
+					],
+					"startTime": "10:45"
+				},{
+					"endTime": "11:45",
+					"sessions": [{
+						"items": [
+							110
+						]
+					}],
+					"startTime": "11:30"
 				},
 				{
-					"endTime": "20:30",
+					"endTime": "12:30",
+					"sessions": [{
+							"items": [
+								131
+							]
+						},
+						{
+							"items": [
+								132
+							]
+						},
+						{
+							"items": [
+								133
+							]
+						}
+					],
+					"startTime": "11:45"
+				},
+				{
+					"endTime": "13:15",
+					"sessions": [{
+							"items": [
+								141
+							]
+						},
+						{
+							"items": [
+								142
+							]
+						},
+						{
+							"items": [
+								143
+							]
+						}
+					],
+					"startTime": "12:30"
+				},{
+					"endTime": "14:15",
+					"sessions": [{
+						"items": [
+							107
+						]
+					}],
+					"startTime": "13:15"
+				},{
+					"endTime": "15:00",
+					"sessions": [{
+							"items": [
+								151
+							]
+						},
+						{
+							"items": [
+								152
+							]
+						},
+						{
+							"items": [
+								153
+							]
+						}
+					],
+					"startTime": "14:15"
+				},{
+					"endTime": "15:45",
+					"sessions": [{
+							"items": [
+								161
+							]
+						},
+						{
+							"items": [
+								162
+							]
+						},
+						{
+							"items": [
+								163
+							]
+						},
+						{
+							"extend": 2,
+							"items": [
+								301
+							]
+						}
+					],
+					"startTime": "15:00"
+				},{
+					"endTime": "16:30",
+					"sessions": [{
+							"items": [
+								171
+							]
+						},
+						{
+							"items": [
+								172
+							]
+						},
+						{
+							"items": [
+								173
+							]
+						}
+					],
+					"startTime": "15:45"
+				},
+				{
+					"endTime": "16:45",
+					"sessions": [{
+						"items": [
+							110
+						]
+					}],
+					"startTime": "16:30"
+				},{
+					"endTime": "17:30",
+					"sessions": [{
+							"items": [
+								181
+							]
+						},
+						{
+							"items": [
+								182
+							]
+						},
+						{
+							"items": [
+								183
+							]
+						}
+					],
+					"startTime": "16:45"
+				},{
+					"endTime": "18:15",
+					"sessions": [{
+							"items": [
+								191
+							]
+						},
+						{
+							"items": [
+								192
+							]
+						},
+						{
+							"items": [
+								193
+							]
+						}
+					],
+					"startTime": "17:30"
+				},
+				{
+					"endTime": "18:30",
 					"sessions": [{
 						"items": [
 							101
 						]
 					}],
-					"startTime": "20:15"
+					"startTime": "18:15"
 				}
 			],
 			"tracks": [{
-					"title": "Cloud Computing"
+					"title": "Room 'Dev'"
 				},
 				{
-					"title": "Mobile"
+					"title": "Room 'Fest'"
 				},
 				{
-					"title": "IWD / Diversity"
+					"title": "Room 'Italia'"
+				},
+				{
+					"title": "Room Workshop"
+				}
+			]
+		},
+		"2020-10-18": {
+			"dateReadable": "18 October",
+			"timeslots": [{
+					"endTime": "10:00",
+					"sessions": [{
+						"items": [
+							100
+						]
+					}],
+					"startTime": "09:30"
+				},
+				{
+					"endTime": "10:45",
+					"sessions": [{
+							"items": [
+								211
+							]
+						},
+						{
+							"items": [
+								212
+							]
+						},
+						{
+							"items": [
+								213
+							]
+						}
+					],
+					"startTime": "10:00"
+				},{
+					"endTime": "11:30",
+					"sessions": [{
+							"items": [
+								221
+							]
+						},
+						{
+							"items": [
+								222
+							]
+						},
+						{
+							"items": [
+								223
+							]
+						}
+					],
+					"startTime": "10:45"
+				},{
+					"endTime": "11:45",
+					"sessions": [{
+						"items": [
+							110
+						]
+					}],
+					"startTime": "11:30"
+				},
+				{
+					"endTime": "12:30",
+					"sessions": [{
+							"items": [
+								231
+							]
+						},
+						{
+							"items": [
+								232
+							]
+						},
+						{
+							"items": [
+								233
+							]
+						}
+					],
+					"startTime": "11:45"
+				},
+				{
+					"endTime": "13:15",
+					"sessions": [{
+							"items": [
+								241
+							]
+						},
+						{
+							"items": [
+								242
+							]
+						},
+						{
+							"items": [
+								243
+							]
+						}
+					],
+					"startTime": "12:30"
+				},{
+					"endTime": "14:15",
+					"sessions": [{
+						"items": [
+							107
+						]
+					}],
+					"startTime": "13:15"
+				},{
+					"endTime": "15:00",
+					"sessions": [{
+							"items": [
+								251
+							]
+						},
+						{
+							"items": [
+								252
+							]
+						},
+						{
+							"items": [
+								253
+							]
+						}
+					],
+					"startTime": "14:15"
+				},{
+					"endTime": "15:45",
+					"sessions": [{
+							"items": [
+								261
+							]
+						},
+						{
+							"items": [
+								262
+							]
+						},
+						{
+							"items": [
+								263
+							]
+						},
+						{
+							"extend": 2,
+							"items": [
+								302
+							]
+						}
+					],
+					"startTime": "15:00"
+				},
+				{
+					"endTime": "16:30",
+					"sessions": [{
+							"items": [
+								271
+							]
+						},
+						{
+							"items": [
+								272
+							]
+						},
+						{
+							"items": [
+								273
+							]
+						}
+					],
+					"startTime": "15:45"
+				},
+				{
+					"endTime": "16:45",
+					"sessions": [{
+						"items": [
+							110
+						]
+					}],
+					"startTime": "16:30"
+				},{
+					"endTime": "17:30",
+					"sessions": [{
+							"items": [
+								281
+							]
+						},
+						{
+							"items": [
+								282
+							]
+						},
+						{
+							"items": [
+								283
+							]
+						}
+					],
+					"startTime": "16:45"
+				},{
+					"endTime": "18:15",
+					"sessions": [{
+							"items": [
+								291
+							]
+						},
+						{
+							"items": [
+								292
+							]
+						},
+						{
+							"items": [
+								293
+							]
+						}
+					],
+					"startTime": "17:30"
+				},
+				{
+					"endTime": "18:30",
+					"sessions": [{
+						"items": [
+							101
+						]
+					}],
+					"startTime": "18:15"
+				}
+			],
+			"tracks": [{
+				"title": "Room 'Dev'"
+				},
+				{
+					"title": "Room 'Fest'"
+				},
+				{
+					"title": "Room 'Italia'"
+				},
+				{
+					"title": "Room Workshop"
 				}
 			]
 		}
@@ -212,7 +646,7 @@
 		"100": {
 			"complexity": "",
 			"description": "",
-			"language": "",
+			"language": "Italian",
 			"speakers": [],
 			"tags": [
 				"Opening",
@@ -253,6 +687,16 @@
 				"Workshop"
 			],
 			"title": "Workshop"
+		},"107": {
+			"complexity": "",
+			"description": "",
+			"language": "",
+			"speakers": [],
+			"tags": [
+				"Lunch"
+			],
+			"icon": "coffee-break",
+			"title": "Pausa Pranzo"
 		},
 		"101": {
 			"complexity": "",
@@ -273,46 +717,443 @@
 				"Closing", "Keynote"
 			],
 			"title": "Chiusura conferenza"
-	},
-	"111": {
-		"complexity": "",
-		"description": "",
-		"language": "Italiano/English",
-		"speakers": [""],
-		"tags": ["Talk"],
-		"title": "TBD"
-	  },
-    "11": {
-      "complexity": "",
-      "description": "In questa sessione di live coding realizzeremo un semplice progetto Angular con l’integrazione di NGRX, lo state manager reattivo più utilizzato in ambito enterprise che si ispira al famoso pattern Redux. Una breve sessione in cui, non solo configureremo lo store, creeremo reducer, effects e selettori, ma parleremo anche di struttura moduli, organizzazione progetti enterprise, manutenzione e scalabilità del codice.",
-      "language": "Italiano",
-      "speakers": ["FabioBiondi"],
-      "tags": ["Frontend"],
-      "title": "State management in Angular e NGRX (live-coding)"
-    },
-	"12": {
-			"complexity": "",
-			"description": "Micro-frontends sono un nuovo trend nelle architetture Frontend. Questa architettura, basata sui principi dei microservizi, offre molteplici benefici quando usata su progetti medio-grandi con diversi team che lavorano sullo stesso prodotto.",
-			"language": "Italiano",
-			"speakers": ["LucaMezzalira"],
-			"tags": ["Frontend"],
-			"title": "Micro-Frontends Decisions Framework"
-	},
-	"13": {
-			"complexity": "",
-			"description": "What is coaching, simple tools that can be applied in daily life",
-			"language": "Italiano",
-			"speakers": ["GiuliaVillirilli"],
-			"tags": ["Soft Skills"],
-			"title": "Coaching boosts your daily life"
 		},
-	"14": {
-				"complexity": "",
-				"description": "Lo studio delle keyword e dell'intento di ricerca ci permette di analizzare una nicchia, il pubblico di riferimento e i contenuti da creare per sviluppare un sito web che permetta a 'domanda' e 'offerta' di incontrarsi.",
-				"language": "Italiano",
-				"speakers": ["ElisaContessotto"],
-				"tags": ["Marketing"],
-				"title": "Come trovare il Principe Azzurro: un esempio di keyword research a lieto fine"
+	"111": {
+		"complexity": "Intermediate",
+		"description": "Partiamo con l'introdurre il concetto di Super-Convergenza dal paper 'Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates' (Leslie N. Smith and Nicholay Topin) per apprenderne potenzialità ed esplorare i successivi tentativi, le idee di modifica del metodo originale e le implementazioni in uso fino ad ora",
+		"language": "Italian",
+		"speakers": ["MichelaSessi"],
+		"tags": ["Talk", "Machine Learning"],
+		"title": "Super-Convergenza di reti neurali: idea, utilizzo e casi studio"
+	  },
+	  "112": {
+		"complexity": "Intermediate",
+		"description": "Dai progetti di startup alle piattaforme enterprise, qualsiasi applicativo in cloud merita una certa attenzione per predire, controllare e governare i costi. Vedremo insieme alcuni pattern, anche molto diversi tra loro, la cui conoscenza può rivelarsi fondamentale per gestire al meglio un progetto in cloud.",
+		"language": "Italian",
+		"speakers": ["GabrieleMittica"],
+		"tags": ["Talk", "Cloud Computing"],
+		"title": "5 strategie per controllare i costi in cloud (ed evitare di spendere milioni!)"
+	  }, 
+	  "113": {
+		"complexity": "Introductory",
+		"description": "Remote is finally here, and it's going to stay. In this talk, Marco and Gian will go through what it means to work remotely for a startup — from both a developer and a manager point of view. They'll share some tips and tricks on how to stay organized and focused, how to manage deadlines and the team organization, how to take care of your mental health, and the pros and cons of hiring remotely. They both work for Uniwhere, a venture-backed startup that went remote-first more than two years ago and is now working with 4 different time-zones.",
+		"language": "Italian",
+		"speakers": ["MarcoGomiero", "GianSegato"],
+		"tags": ["Talk", "Soft Skill"],
+		"title": "Remote is here. Now what?"
+	  },
+	  "121": {
+		"complexity": "Introductory",
+		"description": "In questa presentazione vedremo il perché il deep learning è diventato così importante in questi anni e alcuni casì d'uso in diversi settori",
+		"language": "Italian",
+		"speakers": ["MatteoTesti"],
+		"tags": ["Talk", "Machine Learning"],
+		"title": "Intro to Deep Learning"
+	  },
+	  "122": {
+		"complexity": "Intermediate",
+		"description": "E’ meglio separare i microservizi per layer o per scopo? Quanti gateway devo avere? E’ necessario un pub/sub per far comunicare i microservizi? La persistenza dove la metto? Quali linguaggi uso? Sono alcune delle domande tipiche che ci si pone quando si parte a disegnare e sviluppare una piattaforma moderna basata su microservizi e containers. In questo talk vedremo alcuni stili architetturali e buone pratiche di test, deploy, monitoraggio e business continuity per creare piattaforme robuste e scalabili. Spoiler: non parlerò di Twelve-Factor App :-)",
+		"language": "Italian",
+		"speakers": ["GiulioRoggero"],
+		"tags": ["Talk", "Cloud Computing"],
+		"title": "Stili architetturali in Kubernetes"
+	  },"123": {
+		"complexity": "Introductory",
+		"description": "La comunicazione tra Dev e Designer: come poter trovare un punto di incontro con i giusti strumenti e tips",
+		"language": "Italian",
+		"speakers": ["ValentinaPierpaoli"],
+		"tags": ["Talk", "Soft Skill"],
+		"title": "Dev and Designer: due mondi lontani ma vicini"
+	  }, "131": {
+		"complexity": "Intermediate",
+		"description": "AI, Machine learning and related sciences will change the way we are working in many industries: for sure the communication world will be heavily impacted by such upcoming technologies. During the session, we are going to see how to use Deep Learning based on Convolutional Neural Network to create a voice recognition engine and Recurrent Neural Network application for sentiment analysis. Design and implementation challenges will also be explained, along with practical examples: we will see how to evaluate the performance of the AI model and how to use some of the main machine learning technique to improve its accuracy.",
+		"language": "Italian",
+		"speakers": ["DiegoGosmar"],
+		"tags": ["Talk", "Machine Learning"],
+		"title": "AI and Machine Learning: Sentiment Analysis and Voice Biometric applications"
+	  },"132": {
+		"complexity": "Introductory",
+		"description": "I’ll talk about what’s DNS, why it is important to establish a secure connection to it, existing alternatives and how to self host your own server using Always Free Tier from Google Cloud. Managing your own private DNS server allows you to gain insight on your device’s activity, block malicious requests and protect your traffic from eavesdropping to local hackers when using untrusted WiFi.",
+		"language": "English",
+		"speakers": ["JavierProvechoFernandez"],
+		"tags": ["Talk", "Cloud Computing"],
+		"title": "Deploy your private DNS server on Google Cloud for free"
+	  },"133": {
+		"complexity": "Introductory",
+		"description": "Parlerò dei modelli di business più impattanti sul mercato italiano per creare un'impresa interamente online, automatica e che sia altamente profittevole.",
+		"language": "Italian",
+		"speakers": ["SonnyZanfardino"],
+		"tags": ["Talk", "Soft Skill"],
+		"title": "Come creare un'impresa automatica e gestibile da remoto"
+	  }, "141": {
+		"complexity": "Intermediate",
+		"description": "We’re moving fast towards a world without screens, with 30% of all searches set to happen without a screen by 2020. Google’s investing heavily into voice-first interfaces, making it the new touch, and most of it remains uncharted territory, since building for the ear is very different than building for the eyes. This talk is about building a successful product for a voice-first world. Attendees will learn of the similarities and differences when developing for voice compared to screen-oriented mediums, how to create engaging experiences where customers can easily find what they need via voice, and how the conversational design process works.",
+		"language": "English",
+		"speakers": ["FaizMalkani"],
+		"tags": ["Talk", "Machine Learning"],
+		"title": "Conversational Design for a Voice First World"
+	  },"142": {
+		"complexity": "Introductory",
+		"description": "Jetpack Compose is an exciting new declarative UI framework from Google. This new approach to UI not only changes how we build our apps, but also the mindset that comes with this part of app development. Compose will help to make our apps far more smoother to build, as well as being more maintable in the long run. It's an exciting time to be an Android developer 🥳 In this fully live coded talk we'll explore the bulding blocks of Jetpack compose - covering not only the foundations, but also enough for you to go away curious and be able to build apps of your own using Jetpack Compose",
+		"language": "English",
+		"speakers": ["JoeBirch"],
+		"tags": ["Talk", "Mobile"],
+		"title": "Let's build with Compose!"
+	  },"143": {
+		"complexity": "Introductory",
+		"description": "I explain what the impostor syndrome is and how to deal with it with motivation and reasoning, I deepen the theme of motivation and how to find self-confidence",
+		"language": "Italian",
+		"speakers": ["ManuelTrebbi"],
+		"tags": ["Talk", "Soft Skill"],
+		"title": "Impostor syndrome, motivation and self confidence"
+	  },
+	  "151": {
+		"complexity": "Intermediate",
+		"description": "Non sarebbe bello se il Google Home in salotto ci avvertisse che c'è una nuova live su Twitch e, contemporaneamente, la facesse partire sulla TV? Oppure avere un Nest Mini che ci invita a spegnere subito qualche elettrodomestico, prima che l'ENEL ci stacchi la corrente visto che ne stiamo consumando troppa? Tutto possibile, grazie ad Home Assistant, qualche file yaml, device IoT piazzati qua e là, e una manciata di logica per connetterli tra loro. In questa sessione vedremo come configurare un hub domotico domestico, Home Assistant, magari su di un RasPi, come configurarlo, connetterlo ad uno smart speaker Google Nest e creare delle routine per svolgere i compiti più disparati.",
+		"language": "Italian",
+		"speakers": ["AlfredoMorresi"],
+		"tags": ["Talk", "IoT"],
+		"title": "Smart speaker, ancora più smart, con Home Assistant"
+	  },
+	  "152": {
+		"complexity": "Intermediate",
+		"description": "Modularizing a project is never easy, a lot of files to move and the dependencies between them is not always what we expect. Then the Dagger configuration used in a single module project often doesn't scale well to a multi module project. Hilt is opinionated about the configuration to use (we don't need to argue anymore about using component dependencies or subcomponents!) and this configuration works perfectly even in a multi module project. In this talk we'll see first an introduction to Hilt and a comparison with Dagger to understand why it's easier to configure. Then we'll see how to leverage it in a multi module project (both in a standard layered architecture and in a Clean Architecture that uses the Dependency Inversion) to improve build speed and code testability. Spoiler alert: using sample apps that include a single feature in the app helps a lot!",
+		"language": "Italian",
+		"speakers": ["FabioCollini"],
+		"tags": ["Talk", "Mobile"],
+		"title": "Using Hilt in a multi module project"
+	  },
+	  "153": {
+		"complexity": "Introductory",
+		"description": "In questo talk verrà introdotta la metodologia OKR (objective key result) e spiegato perché da intel a google passando per la melinda and bill gates foundation viene utilizzata per portare avanti progetti di ogni tipo. Il talk verterà sull'esempio di utilizzo per una azienda che vuole mettere in piedi un progetto di diversity e raccontarlo al pubblico.",
+		"language": "Italian",
+		"speakers": ["FrancescoFullone"],
+		"tags": ["Talk", "Marketing"],
+		"title": "OKR, come e perché le grandi aziende dell'IT li usano"
+	  },
+	  "161": {
+		"complexity": "Introductory",
+		"description": "Project Fugu 🐡 is an effort to close gaps in the web's capabilities enabling new classes of applications to run on the web. During the talk, we'll dive into the most exciting features this APIs have to offer.",
+		"language": "Italian",
+		"speakers": ["MaurizioMangione"],
+		"tags": ["Talk", "Frontend"],
+		"title": "Web capabilities AKA project Fugu"
+	  },
+	  "162": {
+		"complexity": "Introductory",
+		"description": "Every application consists of high level features which can be built completely isolated and independent, but what are the benefits of having independent features and when does it make sense to have them? This talk will not only answer those questions, but also show why this was not entirely possible with vanilla Dagger and how new extensions both Hilt and Anvil (previously known as Hepheastus) solve this problem. You will see these libraries in action and learn about one of their core benefits.",
+		"language": "English",
+		"speakers": ["YahyaBayramoglu"],
+		"tags": ["Talk", "Mobile"],
+		"title": "Independent Features - Powered by Dagger Extensions"
+	  },
+	  "163": {
+		"complexity": "Introductory",
+		"description": "R-Ladies Italy è un progetto congiunto tra RLadies Bari e RLadies Milano, due local chapters di RLadies (https://rladies.org/), organizzazione non-profit il cui obiettivo è aiutare donne e minoranze ad accedere al mondo della Data Science, dell'analisi dei dati e della programmazione in R. Il progetto si realizza attraverso una serie di webinars pensati come strumento che permetta di navigare il mare di opportunità professionali legate al settore. Con l'obiettivo di offrire una visione ampia e completa, dedichiamo particolare attenzione soprattutto a ruoli tecnici in settori non tradizionalmente legati alla Data Science, e.g. HR. A fronte del lock-down, le due community di Bari e Milano hanno unito le forze per creare un ecosistema di condivisione, inclusione e supporto reciproco. Molte professioniste del settore hanno deciso di aiutarci nella nostra missione: loro sono le protagoniste dei nostri webinars. Curiosi di scoprire il mondo R-Ladies, le attività, i meetup e come partecipare attivamente all'interno della community? Non perdete questo talk. Parvaneh (RLadies Milano), Giovanna e Sara (RLadies Bari) vi accompagneranno alla scoperta della community.",
+		"language": "Italian",
+		"speakers": ["GiovannaDeVincenzo"],
+		"tags": ["Talk", "Diversity & Inclusion"],
+		"title": "R Ladies Italy"
+	  },
+	  "171": {
+		"complexity": "Intermediate",
+		"description": "Building a cross-platform app includes thinking about a web strategy but also when it comes to mobile, users want to have a nice native app-like experience, we can achieve this using Progressive Web Apps! But before putting our hands-on, the very first step is to think about architecture and design patterns. During this talk, we are going to deep dive into one example of a Progressive Web App using a serverless architecture built with Firebase and Node.",
+		"language": "English",
+		"speakers": ["LauraMorinigo"],
+		"tags": ["Talk", "Frontend"],
+		"title": "Behind the scenes of a Progressive Web App Serverless Architecture"
+	  },
+	  "172": {
+		"complexity": "Intermediate",
+		"description": "Since the early days of mobile that we keep seeing new frameworks being designed to overcome one of the biggest challenges: * How can I develop for both Android and iOS? Although it’s initial promises, when we talk about performance, maintainability or even customization we keep discarding these solutions and we always choose native. Fast forward to the present, and now we have two new languages: Android is Kotlin first and iOS, Swift. And if you put them side by side you can see a lot of similarities between both what will ease switching between one to the other if you have to develop for both platforms. But what I told that you could just develop in Kotlin and run it seamlessly on all devices? Here comes Kotlin Multiplatform!",
+		"language": "English",
+		"speakers": ["CarlosMota"],
+		"tags": ["Talk", "Mobile"],
+		"title": "The Hitchhikers Guide Through Kotlin Multiplatform"
+	  },
+	  "173": {
+		"complexity": "Intermediate",
+		"description": "Cosa significa approcciare la crescita di un progetto come farebbe un hacker? Significa seguire le stesse best practice adottate da aziende come Facebook, Uber o Airbnb per ottenere una crescita dirompente. In questa sessione vedremo cosa significa davvero 'Growth Hacking' e perché non si tratta di trucchetti magici, ma di processi per integrare la crescita nel DNA del progetto stesso.",
+		"language": "Italian",
+		"speakers": ["LucaBarboni"],
+		"tags": ["Talk", "Marketing"],
+		"title": "Hacking Growth - Prodotti Straordinari con Strategie di Distribuzione Non Ordinarie"
+	  },
+	  "181": {
+		"complexity": "Intermediate",
+		"description": "Codespaces è un nuovo servizio di GitHub che permette di creare un environment di sviluppo direttamente nel browser. Questo permette ovviamente di poterlo utilizzare da qualsiasi device e soprattutto creare un ambiente con versioni specifiche di librerie e tool, risparmiando così un sacco di tempo prezioso. In questa sessione vedremo come iniziare a utilizzare Codespaces e sfruttarne pure l’integrazione con Visual Studio Code.",
+		"language": "Italian",
+		"speakers": ["EmanueleBartolesi"],
+		"tags": ["Talk", "Frontend"],
+		"title": "Niente più ambiente di sviluppo locale con GitHub Codespaces"
+	  },
+	  "182": {
+		"complexity": "Introductory",
+		"description": "If you're developing mobile apps, you probably know what's one of your most important KPI: Store Rating. In such an environment, speed is key. You want to be able to iterate fast and ship beautiful apps to your users frequently. But with growing mobile teams, this is becoming more and more challenging. The Mobile DevOps imposes a prospective shift to the 'classical' DevOps perspective. Tools and processes should be adapted to the mobile release flow. You need to have tools to monitor your application, rollout a feature safely, and react to incident and 1-star reviews. Mobile DevOps engineers to the rescue. They play a fundamental role in adapting your development flow to deliver mobile apps to your end-users. In this talk, I will share my experience as a Mobile DevOps engineer, some of my preferred tools, and some of the lessons learned while building mobile infrastructures.",
+		"language": "Italian",
+		"speakers": ["NicolaCorti"],
+		"tags": ["Talk", "Mobile"],
+		"title": "Tales of a Mobile DevOps"
+	  },
+	  "183": {
+		"complexity": "Intermediate",
+		"description": "Il Personal Branding ti permette di comunicare il tuo valore, costruire la tua autorità e creare fiducia nella tua audience. Solo grazie alla fiducia che le persone avranno in te potrai attrarre il tuo cliente ideale. Fare Personal Branding significa appropriarsi dell'immagine che le persone hanno di te, della sensazione che susciti negli altri e comunicare ciò che desideri, controllando la percezione che le persone hanno di te e condividendo il tuo valore. In questo speech vedremo i 5 step chiave per costruire il tuo Personal Brand, un leader di riferimento nella tua nicchia e attrarre il cliente ideale su LinkedIn.",
+		"language": "Italian",
+		"speakers": ["AliceMarmieri"],
+		"tags": ["Talk", "Marketing"],
+		"title": "Personal Branding su LinkedIn i 5 step chiave"
+	  },
+	  "191": {
+		"complexity": "Intermediate",
+		"description": "Costruisci un termometro bluetooth con Flutter ed Arduino",
+		"language": "Italian",
+		"speakers": ["JunaSalviati"],
+		"tags": ["Talk", "IoT"],
+		"title": "Un termometro bluetooth DIY con Flutter e Arduino"
+	  },
+	  "192": {
+		"complexity": "Introductory",
+		"description": "A brief and fast paced introduction on what is Flutter, how can flutter can be useful for you day by day developers need and why you can trust Flutter enough for chosing this framework for your next production level application",
+		"language": "Italian",
+		"speakers": ["CarloLucera"],
+		"tags": ["Talk", "Mobile"],
+		"title": "What The Flutter"
+	  },
+	  "193": {
+		"complexity": "Intermediate",
+		"description": "Lo studio delle keyword e dell'intento di ricerca ci permette di analizzare una nicchia, il pubblico di riferimento e i contenuti da creare per sviluppare un sito web che permetta a 'domanda' e 'offerta' di incontrarsi.",
+		"language": "Italian",
+		"speakers": ["ElisaContessotto"],
+		"tags": ["Talk", "Marketing"],
+		"title": "Come trovare il Principe Azzurro: un esempio di keyword research a lieto fine"
+	  },
+	  "211": {
+		"complexity": "Introductory",
+		"description": "Quindi...potreste non essere necessariamente un grande team di sviluppatori distribuiti in tutto il mondo. Ma avete diverse app disperse nella vostra azienda (backend e frontend) che hanno bisogno di essere integrate tra di loro? Oppure avete una libreria di componenti UI riutilizzabili condivisa con tutti i vostri gruppi di sviluppo? O forse non ce l'avete perché la pubblicazione è difficile, il versioning è ancora più complesso, per non parlare poi della retrocompatibilità! In questa presentazione vi mostro come grandi aziende come ad esempio Google, Facebook e Microsoft affrontano questo problema, perché un monorepo potrebbe essere una buona scelta e come il toolkit open source Nx, in particolare, può aiutarvi in questo.",
+		"language": "Italian",
+		"speakers": ["JuriStrumpflohner"],
+		"tags": ["Talk", "Frontend"],
+		"title": "Beyond Basics - Scaling Development across large teams"
+	  },
+	  "212": {
+		"complexity": "Intermediate",
+		"description": "Flutter app development is fast? But do you know that you can make it faster? Are you having trouble with making responsive UIs or do you want to utilize the powerful extension methods? If your answer to any of these questions is yes then this talk is for you. In this talk, I'll explain this new microframework VelocityX which is a minimalist Flutter framework inspired by TailwindCSS and SwiftUI for rapidly building custom designs and comes with many handy utilities.",
+		"language": "English",
+		"speakers": ["PawanKumar"],
+		"tags": ["Talk", "Mobile"],
+		"title": "Supercharging your app with VelocityX"
+	  },
+	  "213": {
+		"complexity": "Introductory",
+		"description": "What are the problems (and how to resolve them) that a new member of the team is facing during a remote onboarding. I want to share my experience.",
+		"language": "Italian",
+		"speakers": ["FabrizioWaldner"],
+		"tags": ["Talk", "Diversity & Inclusion"],
+		"title": "The remote onboarder"
+	  },
+	  "221": {
+		"complexity": "Intermediate",
+		"description": "In questa sessione di live coding realizzeremo un semplice progetto Angular con l’integrazione di NGRX, lo state manager reattivo più utilizzato in ambito enterprise che si ispira al famoso pattern Redux. Una breve sessione in cui, non solo configureremo lo store, creeremo reducer, effects e selettori, ma parleremo anche di struttura moduli, organizzazione progetti enterprise, manutenzione e scalabilità del codice.",
+		"language": "Italian",
+		"speakers": ["FabioBiondi"],
+		"tags": ["Talk", "Frontend"],
+		"title": "State management in Angular e NGRX (live-coding)"
+	  },
+	  "222": {
+		"complexity": "Introductory",
+		"description": "'Flutter is more than just an engine, a set of widgets, and some tools; it also includes a large ecosystem of packages to add functionality to your apps beyond what comes out of the box.' Today, the Flutter ecosystem has more than 12,000 packages and new packages are being added to pub.dev everyday. As the package landscape is getting more and more vast, developers often find themselves searching for suitable packages tirelessly and sometimes end up reinventing the wheel. This talk will introduce upcoming Flutter developers to the current Flutter package landscape (including package discovery tools) and will also cover some state-of-the-art methods which should be followed when publishing a new Flutter package to gain a wider adoption.",
+		"language": "English",
+		"speakers": ["AshitaPrasad"],
+		"tags": ["Talk", "Mobile"],
+		"title": "Navigating the Flutter Ecosystem - Journey from Package Discovery to Publishing and Beyond"
+	  },
+	  "223": {
+		"complexity": "Introductory",
+		"description": "Alcune volte, involontariamente, si creano prodotti e algoritmi che non sono così etici e/o inclusivi. In questa sessione vediamo qualche esempio di come, in alcuni casi, involontariamente o per errore algoritmi e progetti hanno tralasciato gli aspetti d'inclusione e di eticità. Nulla di tecnico, esclusivamente qualche spunto di riflessione per imparare dagli errori e rendere il mondo un posto migliore (per tutti) :)",
+		"language": "Italian",
+		"speakers": ["MichelMurabito"],
+		"tags": ["Talk", "Diversity & Inclusion"],
+		"title": "Algoritmi e Software Etici"
+	  },
+	  "231": {
+		"complexity": "Intermediate",
+		"description": "Micro-frontends sono un nuovo trend nelle architetture Frontend. Questa architettura, basata sui principi dei microservizi, offre molteplici benefici quando usata su progetti medio-grandi con diversi team che lavorano sullo stesso prodotto. Grazie al lavoro svolto in DAZN, Luca Mezzalira condividerà la sua esperienza sul campo enfatizzando uno dei mental framework da lui creati chiamato Micro-Frontends Decisions Framework. Il framework permette di definite i 4 pilastri per il corretto design di una architettura a micro-frontends",
+		"language": "Italian",
+		"speakers": ["LucaMezzalira"],
+		"tags": ["Talk", "Frontend"],
+		"title": "Micro-Frontends Decisions Framework"
+	  },
+	  "232": {
+		"complexity": "Intermediate",
+		"description": "Android is an ever-growing ecosystem and most API are unknown to most of the devs out there. In this talk, we will travel across some of these API to see those that you might not see in your day to day life.",
+		"language": "Italian",
+		"speakers": ["RobertoOrgiu"],
+		"tags": ["Talk", "Mobile"],
+		"title": "Fantastic API and where to find them"
+	  },
+	  "233": {
+		"complexity": "Introductory",
+		"description": "Malgrado i molti passi in avanti nella lotta alla disparità, persiste, in alcuni casi, un linguaggio ormai datato e una rappresentazione stereotipata delle donne che lavorano nel mondo scientifico e tecnologico. Vi propongo un analisi storica di questo fenomeno con testimonianze dirette di ricercatrici, professioniste del settore e giornaliste che permettano di riflettere e interrogarsi sui i passi necessari per una comunicazione e un linguaggio maggiormente inclusivo.",
+		"language": "Italian",
+		"speakers": ["MirellaOrsi"],
+		"tags": ["Talk", "Diversity & Inclusion"],
+		"title": "Comunicazione inclusiva nel mondo scientifico e tecnologico"
+	  },
+	  "241": {
+		"complexity": "Intermediate",
+		"description": "Traditionally, when developers wanted to distribute their web-based apps through app stores like Google Play, there was only one option: Apache Cordova. In the meantime, Progressive Web Apps (PWA) have arrived. The life of a PWA starts in the browser, and users can choose to install the application to the home screen for faster access. Still, there are lots of reasons why developers might want to distribute their applications via app stores. With the help of Trusted Web Activities (TWA) and Bubblewrap, developers can distribute their existing PWA through the Play Store for Android and Chrome OS, combining the power of both worlds.",
+		"language": "English",
+		"speakers": ["BlessingKrofegha"],
+		"tags": ["Talk", "Frontend"],
+		"title": "Shipping a PWA as an Android app using Bubblewrap"
+	  },
+	  "242": {
+		"complexity": "Intermediate",
+		"description": "After a political earthquake Huawei and Honor newest smartphone cannot run Google Mobile Services and Google Play anymore. Your cool app probably will not run fully in this new world. But all is not lost, it is still Android, and Huawei offers plenty of APIs to supply the lack of the GMS functionalities: the Huawei Mobile Services (HMS). You will learn how to make the appropriate lifting to your app to make it compatible with the HMS and the AppGallery app-store, supports both stores and make your users happy.",
+		"language": "Italian",
+		"speakers": ["GiovanniLaquidara"],
+		"tags": ["Talk", "Mobile"],
+		"title": "Adapt your Android app for the HMS new world"
+	  },
+	  "243": {
+		"complexity": "Intermediate",
+		"description": "I would like to talk about how to implement and test accessibility in Android apps. I will cover all the aspects including manual as well as automation testing. I will use theory as well as coding samples in this session.",
+		"language": "Italian",
+		"speakers": ["NavSingh"],
+		"tags": ["Talk", "Diversity & Inclusion"],
+		"title": "Accessibility in Android world"
+	  },
+	  "251": {
+		"complexity": "Advanced",
+		"description": "Developing a native kubernetes app goes around two simple concepts: defining new data structures (custom resources) and delivering a kubernetes component that handles those structures. Despite that, doing the first steps can be intimidating: how do we define (and consume) new resources? How about interacting with existing resources defined by somebody else? How do I even find their Go definition? In this talk, I'll introduce: <br> - how to interact with kubernetes custom resource using non type safe clients <br> - how to leverage the code generation to avoid casting errors and reduce the proliferation of boilerplate code <br> - how informers, workqueues and other powerful tools make it possible to implement a bullet proof event loop <br> - Finally, I'll describe the operator-sdk, a framework that makes the implementation of a controller even simpler and more automated The audience will walk away with a solid understanding on how the codebase of a kubernetes controller looks like, how to read it and how to leverage the tools required to be able to write a kubernetes controller.",
+		"language": "Italian",
+		"speakers": ["FedericoPaolinelli"],
+		"tags": ["Talk", "Cloud Computing"],
+		"title": "It's all about reconciliation - anatomy of a kubernetes controller"
+	  }, "252": {
+		"complexity": "Advanced",
+		"description": "In this session I explain how to leverage bayesian optimization in order to draft the best DNN architecture for your TensorFlow projects",
+		"language": "Italian",
+		"speakers": ["LucaMassaron"],
+		"tags": ["Talk", "Machine Learning"],
+		"title": "Bayesian Optimization for Neural Architecture Search"
+	  }, "253": {
+		"complexity": "Intermediate",
+		"description": "One of the most powerful software quality tools are code reviews - an activity in which a developer, other than the author, examines a software deliverable for defects, and improvement opportunities. For a new Engineer, a code review can be a valuable learning resource, and for a more experienced Engineer it can be a good teaching mechanism when done properly. Whether you are a fresh college graduate, or a Senior Engineer with multiple years of experience under your belt, this talk will take you on the journey of a team that transformed their code review process from being vague and lacking, to being the biggest investment of their resulting, high quality code output. By the end of this talk your perspective on code reviews should change and you will approach code reviews as what they really are - a Software Engineer's Best Friend (woof! woof!)",
+		"language": "English",
+		"speakers": ["GoceAnastasovski"],
+		"tags": ["Talk", "Soft Skill"],
+		"title": "Code Review, A Software Engineer's Best Friend"
+	  },"261": {
+		"complexity": "Intermediate",
+		"description": "Estratto da un vero progetto, pipeline di analisi dati raccolti da tracker gps veicolari usando strumenti della Google Cloud Platform.",
+		"language": "Italian",
+		"speakers": ["NicolaGuglielmi"],
+		"tags": ["Talk", "Cloud Computing"],
+		"title": "Road risk analysis with Google Cloud serverless tools"
+	  }, "262": {
+		"complexity": "Introductory",
+		"description": "Overview sui sistemi di raccomadazione della piattaforma di streaming musicale di Spotify: la costruzione di una business intelligence per il miglioramento della customer experience e la customer satisfation.",
+		"language": "Italian",
+		"speakers": ["LorenzaDeBerardinis"],
+		"tags": ["Talk", "Machine Learning"],
+		"title": "Come Spotify migliora la customer satisfaction utilizzando l’intelligenza artificiale"
+	  }, 
+	  "263": {
+		"complexity": "Intermediate",
+		"description": "What is coaching, simple tools that can be applied in daily life",
+		"language": "Italian",
+		"speakers": ["GiuliaVillirilli"],
+		"tags": ["Talk", "Soft Skill"],
+		"title": "Coaching boosts your daily life"
+	  },
+	  "271": {
+		"complexity": "Introductory",
+		"description": "È un player ancora molto giovane e non è chiaro se è una meteora o qualcosa che resterà sul mercato e ritaglierà una fetta della torta...ma proviamo a capire insieme cosa offre questo nuovo runtime per Javascript che vanta maggiore sicurezza rispetto a Node e la possibilità di utilizzare TypeScript...e non solo!",
+		"language": "Italian",
+		"speakers": ["FrancescoSciuti"],
+		"tags": ["Talk", "Cloud Computing"],
+		"title": "Deno - L'anagramma di Node"
+	  }, 
+	  "272": {
+		"complexity": "Intermediate",
+		"description": "Machine Learning (ML) models have become very popular in recent years due to the capabilities they offer by adding to our applications with seemingly intelligent behaviors and predictive analytics systems. Everyone talks about prediction models, learning models, neuron networks and Deep Learning. But the big question is how we can automate the learning/building and deployment processes. In this talk, I will explain what Machine Learning is and which are the different families of algorithms that exist to build our ML models. I will also describe How the life cycle of the ML models work in order to understand how this process can be automated and monitored. The need for automation will lead me to explain what Machine Learning Operations (MLOps) is and how we can deploy them into Google Cloud Platform (GCP) by means of Kubernetes, Kubeflow, Pipelines, Jupyter Notebooks and Hub AI.",
+		"language": "English",
+		"speakers": ["MoiśesMartínez"],
+		"tags": ["Talk", "Machine Learning"],
+		"title": "Machine Learning Operations (MLOps) in GCP"
+	  }, 
+	  "273": {
+		"complexity": "Intermediate",
+		"description": "In questo speech illustrerò il mio processo logico con schemi e mappe mentali complete per capire se la nostra comunicazione in rete è digital oriented oppure siamo rimasti fermi ai segnali di fumo. Infine presenterò un caso di studio reale di ristrutturazione del marketing per la vendita di strumenti e servizi di smart working digitale.",
+		"language": "Italian",
+		"speakers": ["FrancescoLoMonaco"],
+		"tags": ["Talk", "Soft Skill"],
+		"title": "Come comunicare online nel 2020"
+	  },
+	  "281": {
+		"complexity": "Introductory",
+		"description": "GraphQL is the easy way to do the hard stuff for developers! In this session, we show how to set-up and manage a hosted, serverless, and secure GraphQL API in minutes. Then we will extend it with relationships to other data collections and custom resolvers to bundle together different data sources and APIs together under the same schema. Finally, we will build out an entire web application using our GraphQL endpoint to demonstrate how GraphQL gives us exactly the data we want- nothing more, nothing less.",
+		"language": "English",
+		"speakers": ["KarenHuaulme"],
+		"tags": ["Talk", "Cloud Computing"],
+		"title": "GraphQL: The Easy Way to Do The Hard Stuff"
+	  }, 
+	  "282": {
+		"complexity": "Intermediate",
+		"description": "AI forte prevede un uso simbolico formale di logica in grado di spiegare in modo non ambiguo le inferenze, ML impara da sola usando metodi matematici di approssimazione, ottimizzazione e statistica che vanno alimentati con cura. Il futuro prevede una ibridazione dei due approcci e quello che noi presentiamo in questo incontro come anello di congiunzione sono i modelli concettuali (o semantici).",
+		"language": "Italian",
+		"speakers": ["NicolaPedot"],
+		"tags": ["Talk", "Machine Learning"],
+		"title": "AI, ML e l'anello mancante"
+	  }, 
+	  "283": {
+		"complexity": "Introductory",
+		"description": "Questo talk vuole porre l'attenzione su quanto le community e l'open source sono importanti. In community si può esprimere il proprio pensiero senza nessuna paura, questo fa sì che si possa uscire dal proprio guscio e che si possano stringere rapporti di collaborazione ed amicizia duratura. D'altra parte anche il mondo open source ci permette di crescere perché la collaborazione con altri developer ci può insegnare molto. Ci saranno ottimi consigli per iniziare con l'open source e una live che mostrerà come contribuire ad un progetto....ma non é tutto, c'è molto di più da dire su questi due favolosi mondi 😊",
+		"language": "Italian",
+		"speakers": ["GiorgioBoa"],
+		"tags": ["Talk", "Soft Skill"],
+		"title": "Lunga vita a community 🥳 & open source 💻"
+	  },
+	  "291": {
+		"complexity": "Advanced",
+		"description": "Lynn is actually Google Cloud Expert, Microsoft Regional Director, and AWS Community Hero. The interview will be a nice chat between 2 GDE Cloud Ladies, Lynn from the USA and Antonella from Europe about the current and future methodologies and strategies, not only Cloud, not only Google. A great opportunity for discussion made even more significant by your questions in the Q&A section.",
+		"language": "English",
+		"speakers": ["AntonellaBlasetti", "LynnLangit"],
+		"tags": ["Talk", "Cloud Computing"],
+		"title": "Lynn Langit - Interview with the first Google Expert ever"
+	  },
+	  "292": {
+		"complexity": "Intermediate",
+		"description": "Gli algoritmi genetici sono una classe di algoritmi di intelligenza artificiale ed in particolare della branca della computazione evolutiva. Sono utilizzati per tentare di risolvere problemi di ottimizzazione per i quali non sono note soluzioni a complessità lineare o polinomiale.",
+		"language": "Italian",
+		"speakers": ["LucaDiVita"],
+		"tags": ["Talk", "Machine Learning"],
+		"title": "Processi evolutivi attraverso algoritmi genetici"
+	  }, 
+	  "293": {
+		"complexity": "Introductory",
+		"description": "Parlare in pubblico fa paura, soprattutto se sei timida, introversa, ansiosa e con poca autostima. Cento, trena, dieci persone, a volte anche solo una: le ginocchia tremano, la voce muore in gola, le mani sudato. E le nostri migliori idee restano intrappolate in testa, bloccate da un muro di pensieri negativi, vergogna e paura. Come superare queste emozioni e parlare davanti a un pubblico? Come esprimere meglio quello che già comunichiamo? Come far arrivare agli ascolatori il nostro messaggio, manenendo alto il livello di attenzione e magari coinvolgendoli nel discorso? In questo talk fornirò vari suggerimenti utili a chi vuole parlare in pubblico con un po' meno ansia e molta più chiarezza nell'esposizione.",
+		"language": "Italian",
+		"speakers": ["NicoleBartolini"],
+		"tags": ["Talk", "Soft Skill"],
+		"title": "Public Speaking per chiacchieroni timidi"
+	  },
+	  "301":{
+			"complexity": "",
+			"description": "I am Remarkable è il workshop di Google incentrato sulla motivazione e sulla corretta autopromozione di se stessi. Posti limitati. Per partecipare al workshop è richiesta l'iscrizione tramite il form https://docs.google.com/forms/d/e/1FAIpQLSf-dycCwqY4M-oI0I9uRonVprUcqibSfUVJSGLz1H6vISoTtw/viewform",
+			"language": "Italiano",
+			"speakers": ["MariaStimolo"],
+			"tags": ["Workshop"],
+			"title": "I am Remarkable"
+		},
+		"302":{
+			"complexity": "",
+			"description": "WORKSHOP Creative Problem Solving: stimolare l’intelligenza creativa e risolvere problemi del new normal (online/offline). Il creative problem solving è un metodo strutturato per immaginare rapidamente nuove soluzioni a problemi complessi. Molto utile in tempi di trasformazione, permette di allenare l’intelligenza creativa di squadra al servizio dell’innovazione. Non si cercano semplicemente soluzioni, ma soluzioni inedite, con un processo che associa l'utile al dilettevole tramite una dinamica ludica. Non sarete semplici spettatori, ma partecipanti al 100%. Posti limitati, iscrizione tramite il form https://docs.google.com/forms/d/e/1FAIpQLSeoI19Ecb_6R8f3WAX38wdI-zk9MmkdVXUVtp7sfGNHRji45A/viewform",
+			"language": "Italiano",
+			"speakers": ["NadiaBenedetti"],
+			"tags": ["Workshop"],
+			"title": "Creative Problem Solving Online"
 		}
 	},
 	"speakers": {
@@ -472,13 +1313,13 @@
 			}]
 		},
 		"GiulioRoggero": {
-			"bio": "Sono fortunato perché il mio lavoro e la mia passione coincidono! Scrivere codice, disegnare Architetture Software e “mettere in produzione” sistemi informatici complessi sono le attività che prediligo. In 20 anni di professione ho messo le mani in diversi contesti: dalla migrazione di 3 milioni di righe di codice da SCO Unix a Linux, alle architetture a microservizi su cluster kubernetes. Ho la fortuna di lavorare con i fortissimi team di Mia-Platform e Intré con i quali condivido successi e fatiche nel ruolo di CTO per la prima e di Strategist per la seconda; e visto che il codice da solo non basta, con i coach di Agile Reloaded abbiamo creato una bella realtà per aiutare le aziende a lavorare al meglio.",
+			"bio": "Il mio focus principale è semplificare la vita a sviluppatori e IT operations con Mia-Platform, uno dei primi Digital Integration Hub out-of-the-box al mondo. Ad oggi aiuto più di 70 persone dei team di Mia (software engineers, product owners, IT operations, UX designers) a creare un prodotto che semplifica lo sviluppo su Kubernetes.",
 			"company": "",
 			"companyLogoUrl": "",
 			"country": "Italy",
 			"name": "Giulio Roggero",
 			"order": 8,
-			"photoUrl": "https://sessionize.com/image?f=5b2a0eb5e65329ae38eea3a502e73fb3,200,200,1,0,92-445d-456b-8585-f94d1c4a0e0a.4ef35759-b2f9-488d-a596-6840104ef4ff.jpeg",
+			"photoUrl": "https://sessionize.com/image?f=bbef81e20c034b0fe27fe03f63fe5c4b,200,200,1,0,92-445d-456b-8585-f94d1c4a0e0a.abeec8d8-a8e6-4585-8327-4396b283b273.jpg",
 			"shortBio": "Founder & CTO Mia-Platform, Partner & CS Intré, Founder Agile Reloaded",
 			"title": "Founder & CTO Mia-Platform, Partner & CS Intré, Founder Agile Reloaded",
 			"socials": [{
@@ -1194,10 +2035,10 @@
 			}],
 			"badges": []
 		},"GianSegato": {
-			"bio": "Gianluca Segato is the CEO and founder of Uniwhere, an app that helps students go through college more effectively thanks to data aggregation. He graduated in Economics and he's skilled in machine learning, growth engineering and venture investment. His company has been included among the top 100 startups in Berlin and has been featured in several international media outlets, from SkyNews24 to The Huffington Post.",
+			"bio": "Gian Segato is the CEO and founder of Uniwhere, an app that is redesigning how college email works. He graduated in Economics and he's skilled in machine learning, growth engineering and venture investment. His company has been included among the top 100 startups in Berlin and has been featured in several international media outlets, from SkyNews24 to The Huffington Post. He's been awarded Italian of the Year by the Italian Embassy in Germany.",
 			"company": "",
 			"companyLogoUrl": "",
-			"country": "Italy",
+			"country": "Germany",
 			"name": "Gian Segato",
 			"order": 50,
 			"photoUrl": "https://sessionize.com/image?f=18c38b66718d8c04032cf77f9b541356,200,200,1,0,48-02a3-4d42-b92d-f963188f95a4.2c1fcea8-e676-485d-bdcc-de3234ed9399.jpg",
@@ -1209,7 +2050,7 @@
 				"name": "LinkedIn"
 			}],
 			"badges": []
-		},"Lynn Langit": {
+		},"LynnLangit": {
 			"bio": "Cloud Architect working with remote dev teams world-wide to build cloud solutions. Author of 30 LinkedIn Learning Cloud/Data courses with over 4 million student views. https://www.linkedin.com/learning/instructors/lynn-langit ",
 			"company": "",
 			"companyLogoUrl": "",
@@ -1224,7 +2065,11 @@
 				"link": "https://www.linkedin.com/in/lynnlangit/",
 				"name": "LinkedIn"
 			}],
-			"badges": []
+			"badges": [{
+				"description": "Google Developers Expert - Cloud",
+				"link": "https://developers.google.com/community/experts/directory/profile/profile-lynn_langit",
+				"name": "gde"
+			}]
 		},"NadiaBenedetti": {
 			"bio": "Advanced Trainer in Ludo-pedagogia, Facilitatrice Serious Play e Game Thinking Coach, sono specializzata nel migliorare la performance individuale e di squadra attraverso le dinamiche del gioco. In particolare costruisco percorsi coinvolgenti che invitano i partecipanti a mettersi in azione, esercitare le soft skills e sperimentare comportamenti più efficaci per gestire il cambiamento.",
 			"company": "",
@@ -1257,7 +2102,127 @@
 				"name": "LinkedIn"
 			}],
 			"badges": []
+		},"GoceAnastasovski": {
+			"bio": "Goce started working with Android in 2014 for alarm.com (a security and home automation company) where he worked on an app that would let customers control various IoT devices, such as locks, garage doors, in their home. Since then, he has transitioned to a Mobile Video Tech Lead role at alarm.com in Washington D.C. where he works closely with several Android and iOS engineers. In his free time, you will find Goce traveling, cooking or learning a new spoken language.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "USA",
+			"name": "Goce Anastasovski",
+			"order": 54,
+			"photoUrl": "https://sessionize.com/image?f=59958de42580a1aa4d308ea7214f8ace,200,200,1,0,27-b900-4a69-8214-4d16d13ee594.b284c293-8e83-42b9-b610-2e2feb8f6b03.jpg",
+			"shortBio": "alarm.com, Mobile Tech Lead and Android Developer",
+			"title": "alarm.com, Mobile Tech Lead and Android Developer",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/anastasovski-goce/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},"NicolaGuglielmi": {
+			"bio": "I started my first computer at 10 and I never stopped researching and learning each single day from then. I’m a technology enthusiast, not meaning only the IT ones but every product of the mind that extends human abilities to solve a problem. I love solve problems, I can safely say that is what I'm doing since I started to work, and perhaps before.In the last few years I investigated the effectiveness of team management and the extraordinary results that a well motivated and focused team can reach. As a matter of fact, I learned every day how to effectively manage resources, how to resolve issues to build great teams and keep it running at the best.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Nicola Guglielmi",
+			"order": 55,
+			"photoUrl": "https://sessionize.com/image?f=b6ad49ffd82630d4c1dd591cf88df017,200,200,1,0,ee-dfb9-4a4c-9d21-9d14f5205986.79705d60-79be-4fea-8418-ad8ce2b8c790.jpg",
+			"shortBio": "Innovation Manager | Team Lead",
+			"title": "Innovation Manager | Team Lead",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/nicola-guglielmi/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		}, "NicolaCorti": {
+			"bio": "Nicola Corti has been an Android Software Engineer since 2.2, and a Free and Open Source lover for as long as he remembers. He’s currently working as an Android Infrastructure Engineer at Spotify, building the audio experience for millions of Android users worldwide. Nicola usually calls himself a ‘community addict’. He can’t survive without learning every day, sharing knowledge, and having fun with other developers. He’s also currently managing the GDG chapter in Stockholm and the one in Pisa. In his free time, he also loves open-source, photography and running.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Nicola Corti",
+			"order": 56,
+			"photoUrl": "https://sessionize.com/image?f=1a5baae5171d001dce5c4fde199ecc7f,200,200,1,0,0b-3fb7-450d-ab71-08c9dd81a48a.c0dc6d76-1fd5-4817-9e90-888aed776eca.jpg",
+			"shortBio": "Android Infrastructure Engineer @ Spotify",
+			"title": "Android Infrastructure Engineer @ Spotifys",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/cortinico/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		}, 
+		"PawanKumar": {
+			"bio": "I'm the first GDE (Google Developer Expert) for Flutter in India. Also, I'm a passionate Android & Xamarin developer and always excited about learning new technologies as well as mentoring and helping others get started in their programming career. I love open-sourcing cool projects on Github and helping the Flutter & Android community regularly on Facebook, YouTube, and other platforms. I also gave talks and did code labs at few places about flutter and I make flutter tutorials on my youtube channel MTechViral (100+).",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "India",
+			"name": "PawanKumar",
+			"order": 57,
+			"photoUrl": "https://sessionize.com/image?f=4b76f9f1356621573e46d106d6715240,200,200,1,0,e7944e1a-2ae8-4e84-b6c6-ede7c3cc8d50.jpg",
+			"shortBio": "Google Developer Expert for Flutter",
+			"title": "Google Developer Expert for Flutter",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/imthepk/",
+				"name": "LinkedIn"
+			}],
+			"badges": [{
+				"description": "Google Developers Expert - Flutter",
+				"link": "https://developers.google.com/community/experts/directory/profile/profile-pawan_kumar",
+				"name": "gde"
+			}]
+		},
+		"GiovanniLaquidara": {
+			"bio": "Started my development journey using Ada83 in the Archipelago of Real Time Systems years and years ago, migrated into Object Oriented country surviving to C, Python and Java. With these in the bag I've decided to leave for the newborn country of the Mobile Development choosing Android as a first town. I was not alone in the journey, many communities and events made me safe and satisfied and I liked to give back speaking about my past trips and helping the others during around the fire meetups (GDG, Facebook DevC, Mobile Tea and others) conferences like Droidcons and Codemotions. I'm ready to pack my bag for VR/AR worlds and AI new lands and currently helping Huawei ecosystem to be the safest and smartest harbour for developers!",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Giovanni Laquidara",
+			"order": 58,
+			"photoUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQEZb3e0r26UkA/profile-displayphoto-shrink_400_400/0?e=1608163200&v=beta&t=AktuotH1i4eHpsTQrfNYco_c81BUiygr6S8O941eWqc",
+			"shortBio": "Huawei Developer Advocate",
+			"title": "Huawei Developer Advocate",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/glaquidara/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},
+		"BlessingKrofegha": {
+			"bio": "Blessing Krofegha is a dynamic Software Engineer with a drive to create marketable solutions to global businesses. He is also a Technical author at Smashing Magazine and LogRocket.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Nigeria",
+			"name": "Blessing Krofegha",
+			"order": 59,
+			"photoUrl": "https://sessionize.com/image?f=c9d3b6e4a738357e638c3cc72a3a968f,200,200,1,0,5abc3869-8f65-4dc1-bbbd-54fa1d23a14a.jpg",
+			"shortBio": "Software Engineer and Technical Author",
+			"title": "Software Engineer and Technical Author",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/blessing-krofegha-a0277a161/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},"MirellaOrsi": {
+			"bio": "Mirella Orsi is a London based freelance Science Writer, Science Communicator and Chief Coordinator of the BSS-HUB. Her work focuses on the communication of science-related topics, education, and Public Outreach (EPO) with broad expertise in the History of women in Science. Her writings on Science for the popular press have covered a range of topics in medicine, chemistry and physics, ranging from the History of Science to the latest STEM discoveries. She has written for a variety of outlets and interviewed some of the most influential scientists, including two Nobel Prize laureates. She has been a guest speaker and a moderator in many science festivals including the Science & Philosophy Festival in Foligno and the Futuro Remoto Festival in Naples. She has been the co-organiser of the panel “Science and Politics” at the CNR in Rome and of the 'Between Science and Society' conference in Naples. Member of the NUJ and The Association of British Science Writers (ABSW), she has been a coordinator and tutor in EU journalism internship projects. She has a master’s degree in Chemistry and Pharmaceutical Technology from University of Naples Federico II.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Mirella Orsi",
+			"order": 60,
+			"photoUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFihxq4yPshQA/profile-displayphoto-shrink_400_400/0?e=1608163200&v=beta&t=cX6rv-kCO1M-F9lQxIkvfCvwtI1r2vAC-nGF4hA0qME",
+			"shortBio": "Freelance Science Writer, divulgatrice scientifica e coordinatrice di BSS-HUB dell’Italian Institute for the Future(IIF).",
+			"title": "Freelance Science Writer, divulgatrice scientifica e coordinatrice di BSS-HUB dell’Italian Institute for the Future(IIF).",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/mirella-orsi-03331660/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
 		}
+		
 
     },
 	"team": [{
