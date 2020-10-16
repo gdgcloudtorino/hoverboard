@@ -66,4 +66,5 @@
     "resolveJsonModule": true
   },
   "compileOnSave": true,
+  "include": ["**/*.ts"]
 }

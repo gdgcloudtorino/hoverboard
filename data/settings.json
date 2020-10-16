@@ -45,7 +45,11 @@
     },  {
       "route": "games",
       "permalink": "/games/",
-      "label": "Games"
+      "label": "Giochi"
+    },  {
+      "route": "leaderboard",
+      "permalink": "/leaderboard/",
+      "label": "Classifica"
     }
   ],
   "heroSettings": {

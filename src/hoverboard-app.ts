@@ -45,6 +45,7 @@ import './pages/coc-page';
 import './pages/faq-page';
 import './pages/home-page';
 import './pages/game-page';
+import './pages/leaderboard-page';
 import './pages/previous-speakers-page';
 import './pages/schedule-page';
 import './pages/speakers-page';
@@ -258,9 +259,10 @@ class HoverboardApp extends ReduxMixin(PolymerElement) {
               route="[[subRoute]]"
             ></previous-speakers-page>
             <team-page name="team"></team-page>
+            <game-page name="games"></game-page>
+            <leaderboard name="Classifica"></leaderboard>
             <faq-page name="faq"></faq-page>
             <coc-page name="coc"></coc-page>
-            <game-page name="games"></game-page>
           </iron-pages>
         </app-header-layout>
       </app-drawer-layout>
