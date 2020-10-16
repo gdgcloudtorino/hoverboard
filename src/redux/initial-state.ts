@@ -1,6 +1,6 @@
 import { DIALOGS, NOTIFICATIONS_STATUS } from './constants';
 
-export const initialState = {
+export const initialState:any = {
   ui: {
     viewport: {
       isPhone: true,
