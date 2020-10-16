@@ -28,19 +28,22 @@ class Leaderboardpage extends ReduxMixin(PolymerElement) {
         <p class="hero-description">Leaderboard</p>
       </hero-block>
 
-      <div>
-        <h1>Classifica personale</h1>
-        <marked-element class="description" markdown="{{leaderboard.md}}">
-          <div slot="markdown-html"></div>
-        </marked-element>
-      </div>
+      <div style="text-align: center;">
+        <div style="float: left;padding-left: 25px; width: 50%;">
+          <h1>Classifica personale</h1>
+          <marked-element class="description" markdown="{{leaderboard.md}}">
+            <div slot="markdown-html"></div>
+          </marked-element>
+        </div>
 
-      <div>
-        <h1>Classifica per GDG</h1>
-        <marked-element class="description" markdown="{{leaderboard.md2}}">
-          <div slot="markdown-html"></div>
-        </marked-element>
+        <div style= "float: right; padding-right: 25px; width: 48%;">
+          <h1>Classifica per GDG</h1>
+          <marked-element class="description" markdown="{{leaderboard.md2}}">
+            <div slot="markdown-html"></div>
+          </marked-element>
+        </div>
       </div>
+      <div style="clear: both;"></div>
 
       <footer-block></footer-block>
     `;
