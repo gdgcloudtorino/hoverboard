@@ -128,4 +128,8 @@ export const initialState:any = {
     adding: '',
     addingError: '',
   },
+  leaderboard: {
+    md: '',
+    md2: '',
+  },
 };

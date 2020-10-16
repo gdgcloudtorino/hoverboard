@@ -260,7 +260,7 @@ class HoverboardApp extends ReduxMixin(PolymerElement) {
             ></previous-speakers-page>
             <team-page name="team"></team-page>
             <game-page name="games"></game-page>
-            <leaderboard name="Classifica"></leaderboard>
+            <leaderboard-page name="leaderboard"></leaderboard-page>
             <faq-page name="faq"></faq-page>
             <coc-page name="coc"></coc-page>
           </iron-pages>

@@ -15,6 +15,9 @@ import {
   FETCH_GALLERY_FAILURE,
   FETCH_GALLERY_SUCCESS,
   FETCH_GALLERY,
+  FETCH_LEADERBOARD,
+  FETCH_LEADERBOARD_FAILURE,
+  FETCH_LEADERBOARD_SUCCESS,
   FETCH_PARTNERS_FAILURE,
   FETCH_PARTNERS_SUCCESS,
   FETCH_PARTNERS,
@@ -1083,5 +1086,32 @@ export const lottoActions = {
             payload: { error },
           });
         });
+  },
+};
+
+export const leadeboardActions = {
+  fetchLeaderboard: () => (dispatch) => {
+    dispatch({
+      type: FETCH_LEADERBOARD,
+    });
+    
+    return window.firebase
+      .firestore()
+      .collection('leaderboard').doc('0')
+      .get()
+      .then((doc) => {
+        const leaderboard = doc.data();
+        dispatch({
+          type: FETCH_LEADERBOARD_SUCCESS,
+          data: leaderboard,
+        });
+      })
+      .catch((error) => {
+        console.log(error);
+        dispatch({
+          type: FETCH_LEADERBOARD_FAILURE,
+          payload: { error },
+        });
+      });
   },
 };

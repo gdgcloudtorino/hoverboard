@@ -2,40 +2,42 @@ import { html, PolymerElement } from '@polymer/polymer';
 import '../elements/footer-block';
 import '../elements/md-content';
 import '../elements/polymer-helmet';
+import { ReduxMixin } from '../mixins/redux-mixin';
+import { leadeboardActions } from '../redux/actions';
+import { store } from '../redux/store';
 
-class Leaderboardpage extends PolymerElement {
+class Leaderboardpage extends ReduxMixin(PolymerElement) {
   static get template() {
     return html`
-      <style>
-        :host {
-          display: block;
-        }
+      <style include="shared-styles flex flex-alignment">
+      :host {
+        display: block;
+      }
       </style>
 
       <polymer-helmet
-        title="{$ heroSettings.coc.title $} | {$ title $}"
-        description="{$ heroSettings.coc.metaDescription $}"
+        title="{$ title $}"
+        description=""
         active="[[active]]"
       ></polymer-helmet>
 
       <hero-block
-        background-image="{$ heroSettings.coc.background.image $}"
-        background-color="{$ heroSettings.coc.background.color $}"
-        font-color="{$ heroSettings.coc.fontColor $}"
         active="[[active]]"
       >
-        <div class="hero-title highlight-font">{$ heroSettings.coc.title $}</div>
-        <p class="hero-description">{$ heroSettings.coc.description $}</p>
+        <div class="hero-title highlight-font"></div>
+        <p class="hero-description"></p>
       </hero-block>
 
-      <md-content md-source="[[source]]"></md-content>
+      <md-content md-source="[[leaderboard.md]]"></md-content>
 
       <footer-block></footer-block>
     `;
   }
 
+  private leaderboard = {};
+
   static get is() {
-    return 'ldeaderboard-page';
+    return 'leaderboard-page';
   }
 
   static get properties() {
@@ -45,8 +47,28 @@ class Leaderboardpage extends PolymerElement {
         type: String,
         value: '{$ leaderboard $}',
       },
+      leaderboard: Object,
     };
   }
+
+  stateChanged(state: import('../redux/store').State) {
+    super.stateChanged(state);
+    this.setProperties({
+      leaderboard: state.leaderboard 
+    });
+  }
+
+  static get observers() {
+    return [
+      '_leaderboardChanged()',
+    ];
+  }
+
+  _leaderboardChanged() {
+    store.dispatch(leadeboardActions.fetchLeaderboard());
+  }
+
 }
 
 window.customElements.define(Leaderboardpage.is, Leaderboardpage);
+

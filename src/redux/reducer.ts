@@ -68,6 +68,7 @@ import {
   UPDATE_NOTIFICATIONS_STATUS,
   UPDATE_SESSIONS,
   WIPE_PREVIOUS_FEEDBACK,
+  FETCH_LEADERBOARD_SUCCESS,
 } from './constants';
 import { initialState } from './initial-state';
 
@@ -648,6 +649,15 @@ export const filtersReducer = (state = initialState.filters, action) => {
   }
 };
 
+export const leaderboardReducer = (state = initialState.leaderboard, action) => {
+  switch (action.type) {
+    case FETCH_LEADERBOARD_SUCCESS:
+      return action.data;
+    default:
+      return state;
+  }
+};
+
 export const appReducer = (state = initialState, action) => {
   return {
     ui: uiReducer(state.ui, action),
@@ -670,5 +680,6 @@ export const appReducer = (state = initialState, action) => {
     toast: toastReducer(state.toast, action),
     notifications: notificationsReducer(state.notifications, action),
     filters: filtersReducer(state.filters, action),
+    leaderboard: leaderboardReducer(state.leaderboard, action),
   };
 };

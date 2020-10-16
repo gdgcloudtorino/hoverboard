@@ -42,6 +42,10 @@ export const DELETE_FEEDBACK_SUCCESS = 'app/Feedback/DELETE_FEEDBACK_SUCCESS';
 
 export const WIPE_PREVIOUS_FEEDBACK = 'app/Feedback/WIPE_PREVIOUS_FEEDBACK';
 
+export const FETCH_LEADERBOARD = 'app/Leaderboard/FETCH_LEADERBOARD';
+export const FETCH_LEADERBOARD_FAILURE = 'app/Leaderboard/FETCH_LEADERBOARD_FAILURE';
+export const FETCH_LEADERBOARD_SUCCESS = 'app/Leaderboard/FETCH_LEADERBOARD_SUCCESS';
+
 // partners
 export const FETCH_PARTNERS = 'app/Partners/FETCH_PARTNERS';
 export const FETCH_PARTNERS_FAILURE = 'app/Partners/FETCH_PARTNERS_FAILURE';
