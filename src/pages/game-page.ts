@@ -59,9 +59,6 @@ class GamePage extends ReduxMixin(PolymerElement) {
               <span>Iscriviti ai giochi</span>
             </paper-button>
           </a>
-          <paper-button primary class="cta-button animated icon-right centered">
-            <span>Leaderboard</span>
-          </paper-button>
         </div>
       </div>
 
