@@ -17,7 +17,7 @@
         "postinstall": "npm run install:functions && npm run install:emulator",
         "serve": "npm run build && firebase serve",
         "start:emulators": "firebase emulators:start",
-        "start": "SET NODE_ENV=development & npm run watch",
+        "start": "SET NODE_ENV=development && tsc && rollup --config rollup.config.js && serve dist",
         "test": "jest",
         "watch:es-dev-server": "es-dev-server --open --watch",
         "watch:tsc": "tsc --watch",

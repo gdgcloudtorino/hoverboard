@@ -59,7 +59,7 @@ class ScheduleDay extends PolymerElement {
             display: grid;
             grid-column-gap: 16px;
             grid-row-gap: 32px;
-            grid-template-columns: repeat(var(--tracks-number), 1fr);
+            grid-template-columns: repeat(var(--tracks-number),minmax(0, 1fr));
           }
 
           .start-time {
@@ -84,7 +84,7 @@ class ScheduleDay extends PolymerElement {
         }
       </style>
 
-      <div class="grid" style$="--tracks-number: [[day.tracks.length]];">
+      <div class="grid" style$="--tracks-number: [[_getColumns(day.tracks)]];">
         <template is="dom-repeat" items="[[day.timeslots]]" as="timeslot" index-as="timeslotIndex">
           <div
             id$="[[timeslot.startTime]]"
@@ -204,6 +204,22 @@ class ScheduleDay extends PolymerElement {
         0
       )
     );
+  }
+  _getColumns(tracks:any[]){
+    // esempio 4 diventa 12
+    return tracks.length * 3;
+  }
+  _sessionGridArea(session:any){
+    if(!session){
+      return;
+    }
+    const area = session.area;
+    console.log("Grid area", session);
+    const temp = area.split("/");
+    // a questo punto il secondo e l'ultimo gli moltiplico per 3
+    const startAt = (parseInt(temp[1]) - 1 ) * 3+1;
+    const endAt   = (parseInt(temp[3]) ) * 3;
+    return temp[0]+'/'+startAt+'/'+temp[2]+'/'+endAt;
   }
 
   _isNotEmpty(sessionBlock) {

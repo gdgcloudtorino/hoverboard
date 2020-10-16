@@ -1,3 +1,5 @@
+import { fixture } from '../../__tests__/helpers/fixtures';
+import { Timeslot } from '../models/timeslot';
 import {
   ADD_CARD_REQUEST,
   ADD_CARD_REQUEST_FAILURE,
@@ -464,11 +466,80 @@ export const sessionsReducer = (state = initialState.sessions, action) => {
       return state;
   }
 };
-
+interface Session{
+  item:any[];
+  gridArea:string;
+}
+interface Timestlot{
+  endTime:string;
+  startTime:string;
+  sessions:Session[]
+}
+interface DaySchedule{
+  timeslots:Timestlot[];
+  tracks:any[];
+}
+const columnsMultiplier = 3; // verosimilmente
+function fixSessions(sessions:Session[],tracks:any[],previusSession?:Timestlot):Session[]{
+  /**
+   * numero di sessioni in quel timeslot
+   */
+  console.log("fixSessions" ,sessions);
+  let sessionNumber:number=1;
+  if(sessions.length>1){
+    sessionNumber = previusSession ? Math.max(sessions.length,previusSession.sessions.length) : sessions.length;
+  }
+  const width = Math.floor( (tracks.length * 3)/ sessionNumber);
+  const counter:{startColumn:number,endColumn:number}[] = [];
+  let c=1;
+  for(let i =0;i< sessionNumber;i++){
+    const startColumn = c;
+    // se 1 colonna deve essere 13
+    // se 3 colonne deve essere 5 / 9 / 13
+    // se 4 colonne deve essere 4 / 7 / 10 / 13
+    const endColumn = startColumn+width;
+    counter.push({startColumn,endColumn});
+    c= endColumn;
+ }
+ // MMM
+ /*
+ if(counter.length == 4){
+   counter[3].startColumn -=3;
+   counter[2] = {endColumn:counter[3].startColumn,startColumn:counter[3].startColumn-2};
+   counter[1] = {endColumn:counter[2].startColumn,startColumn:counter[2].startColumn-2};
+   counter[0] = {endColumn:counter[1].startColumn,startColumn:counter[1].startColumn-2}; 
+ }*/
+ return sessions.map((s,index) => {
+   console.log("FIX SESSION", s,index,counter);
+    const gridArea:string[] = s.gridArea.split("/");
+    // 0 e 2 vanno bene poiche sono le righe
+    // 1 diventa la partenza
+    // se 4 colonne deve essere 1 / 4 / 7 / 10
+    const startColumn = counter[index].startColumn;
+    // se 1 colonna deve essere 13
+    // se 3 colonne deve essere 5 / 9 / 13
+    // se 4 colonne deve essere 4 / 7 / 10 / 13
+    const endColumn = counter[index].endColumn;
+    const newGridArea:string = gridArea[0]+'/'+startColumn+'/'+gridArea[2]+'/'+endColumn;
+    console.log("FIXED AREA", gridArea, newGridArea);
+    //
+    return {...s,gridArea:newGridArea};
+  });
+}
+function fixtimeslot(timeslots:Timestlot[],tracks:any[]):Timestlot[]{
+  console.log("FIXTIMESLOTs" ,timeslots ,tracks);
+  return timeslots.map( (timeslot,index) => ({...timeslot,sessions:fixSessions(timeslot.sessions,tracks,timeslots[index-1])}))
+}
 export const scheduleReducer = (state = initialState.schedule, action) => {
   switch (action.type) {
     case FETCH_SCHEDULE_SUCCESS:
-      return action.data;
+      // qua posso fixare la timetable e la gridArea
+      console.log("TIMETABLE", action.data);
+      const data:DaySchedule[] = action.data;
+      
+      const t= data.map(schedule => ({...schedule,timeslots:fixtimeslot(schedule.timeslots,schedule.tracks)}));
+      // console.log("AFTER" , t);
+      return t;
     default:
       return state;
   }
