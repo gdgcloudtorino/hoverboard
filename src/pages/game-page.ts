@@ -37,7 +37,7 @@ class GamePage extends ReduxMixin(PolymerElement) {
         active="[[active]]"
       >
       <div class="hero-title highlight-font">{$ heroSettings.games.title $}</div>
-      <p class="hero-description">{$ heroSettings.games.metaDescription $}</p>
+        <p class="hero-description" style="max-width: 100%">{$ heroSettings.games.metaDescription $}</p>
       </hero-block>
       
 
@@ -46,15 +46,19 @@ class GamePage extends ReduxMixin(PolymerElement) {
           <h1 class="centered" style="ont-size: 2.1em;"></h1>
         </div>
         <div class="container" style="padding-top: 0;text-align: center;" layout horizontal centered>
-          <paper-button primary class="cta-button animated icon-right centered">
-            <span>I giochi</span>
-          </paper-button>
+          <a href="https://drive.google.com/file/d/1um_m_n-gEZ8lmy-oQ88yT6Qj33v0pJYL/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="text-decoration: none">
+            <paper-button primary class="cta-button animated icon-right centered">
+              <span>I giochi</span>
+            </paper-button>
+          </a>
           <paper-button primary class="cta-button animated icon-right centered" on-tap="_addCardRequest">
             <span>Richiedi una cartella</span>
           </paper-button>
-          <paper-button primary class="cta-button animated icon-right centered">
-            <span>Iscriviti ai giochi</span>
-          </paper-button>
+          <a href="https://forms.gle/bgNEosdXq5AXfqyCA" target="_blank" rel="noopener noreferrer" style="text-decoration: none">
+            <paper-button primary class="cta-button animated icon-right centered">
+              <span>Iscriviti ai giochi</span>
+            </paper-button>
+          </a>
           <paper-button primary class="cta-button animated icon-right centered">
             <span>Leaderboard</span>
           </paper-button>

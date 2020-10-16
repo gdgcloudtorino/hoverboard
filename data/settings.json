@@ -129,7 +129,7 @@
     },
     "games": {
       "title": "Giochi",
-      "metaDescription": "Gioca con noi!",
+      "metaDescription": "Il nostro team di community - engagement ha creato tante attività divertenti e dinamiche da affiancare ai talk dei nostri fantastici speakers! \n In totale ci saranno 6 differenti giochi: \"DevFest Lotto\", \"Trova il bug\", \"DevFest Quiz\", \"Best Question\", \"Devopardy\", \"Be Dev, Be Social\". Per partecipare basta compilare il form d'iscrizione presente in questa pagina, dove verrà indicato anche il \"GDG di provenienza\", ovvero il Google Developer Group per cui verranno guadagnati punti. \nOgni gioco infatti conferisce un punteggio in base alle risposte date: ogni partecipante avrà un punteggio individuale, che sommato a tutti i punteggi dei partecipanti che gareggiano per lo stesso gruppo andrà a formare il punteggio totale del GDG. \nIn questo modo oltre a dimostrare le proprie capacità sarà possibile sviluppare una vera e propria \"Sfida tra GDG\", in cui le communities potranno sfidarsi per mantenere la propria individualità e far svettare il proprio gruppo. Per conoscere i dettagli riguardanti tutti i giochi e la sfida, in questa pagina troverete delle slides esplicative... pronti, partenza, via! Che la gara abbia inizio!",
       "background": {
         "color": "#fff"
       },
