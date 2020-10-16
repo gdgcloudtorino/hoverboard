@@ -16,7 +16,7 @@ class Leaderboardpage extends ReduxMixin(PolymerElement) {
       </style>
 
       <polymer-helmet
-        title="{$ title $}"
+        title="Leaderboard"
         description=""
         active="[[active]]"
       ></polymer-helmet>
@@ -25,10 +25,22 @@ class Leaderboardpage extends ReduxMixin(PolymerElement) {
         active="[[active]]"
       >
         <div class="hero-title highlight-font"></div>
-        <p class="hero-description"></p>
+        <p class="hero-description">Leaderboard</p>
       </hero-block>
 
-      <md-content md-source="[[leaderboard.md]]"></md-content>
+      <div>
+        <h1>Classifica personale</h1>
+        <marked-element class="description" markdown="{{leaderboard.md}}">
+          <div slot="markdown-html"></div>
+        </marked-element>
+      </div>
+
+      <div>
+        <h1>Classifica per GDG</h1>
+        <marked-element class="description" markdown="{{leaderboard.md2}}">
+          <div slot="markdown-html"></div>
+        </marked-element>
+      </div>
 
       <footer-block></footer-block>
     `;
