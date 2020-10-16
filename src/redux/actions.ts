@@ -1,4 +1,7 @@
 import {
+  ADD_CARD_REQUEST,
+  ADD_CARD_REQUEST_FAILURE,
+  ADD_CARD_REQUEST_SUCCESS,
   ADD_POTENTIAL_PARTNER_FAILURE,
   ADD_POTENTIAL_PARTNER_SUCCESS,
   ADD_POTENTIAL_PARTNER,
@@ -1040,5 +1043,45 @@ export const helperActions = {
     } else {
       console.warn('window.ga not defined');
     }
+  },
+};
+
+const shuffle = function (a) {
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+};
+
+export const lottoActions = {
+  addCardRequest: (data) => (dispatch) => {
+    dispatch({
+      type: ADD_CARD_REQUEST,
+      payload: data,
+    });
+    const id = data.email.replace(/[^\w\s]/gi, '');
+    const request = {
+      email: data.email,
+      name: data.firstFieldValue || '',
+      lastName: data.secondFieldValue || '',
+    };
+
+    window.firebase.firestore().collection('cardRequests')
+        .doc(id)
+        .set(request)
+        .then(() => {
+          dispatch({
+            type: ADD_CARD_REQUEST_SUCCESS,
+            payload: { request },
+          });
+        })
+        .catch((error) => {
+          console.log(error);
+          dispatch({
+            type: ADD_CARD_REQUEST_FAILURE,
+            payload: { error },
+          });
+        });
   },
 };

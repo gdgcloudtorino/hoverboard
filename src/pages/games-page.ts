@@ -3,10 +3,11 @@ import '@polymer/marked-element';
 import '@polymer/paper-icon-button';
 import { html, PolymerElement } from '@polymer/polymer';
 import 'plastic-image';
-import '../elements/shared-styles.js';
-import { ReduxMixin } from '../mixins/redux-mixin.js';
-import { dialogsActions, lottoActions, toastActions } from '../redux/actions.js';
-import { DIALOGS } from '../redux/constants.js';
+import '../elements/shared-styles';
+import { ReduxMixin } from '../mixins/redux-mixin';
+import { dialogsActions, lottoActions, toastActions } from '../redux/actions';
+import { DIALOGS } from '../redux/constants';
+import { store } from '../redux/store';
 
 class GamesPage extends ReduxMixin(PolymerElement) {
     static get template() {
@@ -77,60 +78,62 @@ class GamesPage extends ReduxMixin(PolymerElement) {
 
     <footer-block></footer-block>
 `;
-    }
+  }
 
-    static get is() { return 'games-page'; }
+  private active = false;
+  private user = {};
+  private cardRequestAdding = false;
+  private cardRequestAddingError = {};
 
-    static get properties() {
-        return {
-            active: Boolean,
-            user: {
-                type: Object,
-            },
-            cardRequestAdding: {
-                type: Boolean,
-                observer: '_cardRequestAddingChanged',
-            },
-            cardRequestAddingError: {
-                type: Object,
-            },
-        };
-    }
+  static get is() {return 'games-page';}
 
-    static mapStateToProps(state, _element) {
-        return {
-            user: state.user,
-            cardRequestAdding: state.lotto.adding,
-            cardRequestAddingError: state.lotto.addingError,
-        };
-    }
+  static get properties() {
+    return {
+      active: Boolean,
+      user: Object,
+      cardRequestAdding: {
+        type: Boolean,
+        observer: '_cardRequestAddingChanged',
+      },
+      cardRequestAddingError: Object,
+    };
+  }
 
-    _addCardRequest() {
-        if (!this.user.signedIn) {
-            toastActions.showToast({ message: '{$ lottoBlock.mustBeSigned $}' });
-            return;
-        }
-        dialogsActions.openDialog(DIALOGS.SUBSCRIBE, {
-            title: '{$ lottoBlock.form.title $}',
-            submitLabel: '{$ lottoBlock.form.submitLabel $}',
-            nameFieldLabel: '{$ lottoBlock.form.name $}',
-            lastNameFieldLabel: '{$ lottoBlock.form.lastName $}',
-            emailFieldValue: this.user.email,
-            submit: (data) => {
-                this.dispatchAction(lottoActions.addCardRequest(data));
-            },
-        });
-    }
+  stateChanged(state: import('../redux/store').State) {
+    super.stateChanged(state);
+    this.setProperties({
+      user: state.user,
+      cardRequestAdding: state.lotto.adding,
+      cardRequestAddingError: state.lotto.addingError,
+    });
+  }
 
-    _cardRequestAddingChanged(newCardRequestAdding, oldCardRequestAdding) {
-        if (oldCardRequestAdding && !newCardRequestAdding) {
-            if (this.cardRequestAddingError) {
-                this.dispatchAction(dialogsActions.setDialogError(DIALOGS.SUBSCRIBE));
-            } else {
-                dialogsActions.closeDialog(DIALOGS.SUBSCRIBE);
-                toastActions.showToast({ message: '{$ lottoBlock.toast $}' });
-            }
-        }
+  _addCardRequest() {
+    if (!(this.user as any).signedIn) {
+      toastActions.showToast({ message: '{$ lottoBlock.mustBeSigned $}' });
+      return;
     }
+    dialogsActions.openDialog(DIALOGS.SUBSCRIBE, {
+      title: '{$ lottoBlock.form.title $}',
+      submitLabel: '{$ lottoBlock.form.submitLabel $}',
+      nameFieldLabel: '{$ lottoBlock.form.name $}',
+      lastNameFieldLabel: '{$ lottoBlock.form.lastName $}',
+      emailFieldValue: (this.user as any).email,
+      submit: (data) => {
+        store.dispatch(lottoActions.addCardRequest(data));
+      },
+    });
+  }
+
+  _cardRequestAddingChanged(newCardRequestAdding, oldCardRequestAdding) {
+    if (oldCardRequestAdding && !newCardRequestAdding) {
+      if (this.cardRequestAddingError) {
+        store.dispatch(dialogsActions.setDialogError(DIALOGS.SUBSCRIBE));
+      } else {
+        dialogsActions.closeDialog(DIALOGS.SUBSCRIBE);
+        toastActions.showToast({ message: '{$ lottoBlock.toast $}' });
+      }
+    }
+}
 }
 window.customElements.define(GamesPage.is, GamesPage);

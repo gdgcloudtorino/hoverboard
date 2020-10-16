@@ -112,9 +112,6 @@
         "notAvailableYet": "Non ancora disponibili",
         "save": ""
     },
-    "tracksLinksBlock": {
-        "title": "Link ai live"
-    },
     "partnersBlock": {
         "title": "Partners",
         "button": "Diventa partner",
@@ -283,5 +280,5 @@
     },
     "addToHomeScreen": {
         "cta": "Aggiungi alla home"
-    }
+	}
 }

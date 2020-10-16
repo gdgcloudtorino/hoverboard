@@ -16,6 +16,7 @@ export const DIALOGS = {
   FEEDBACK: 'feedback',
   SUBSCRIBE: 'subscribe',
   SIGNIN: 'signin',
+  LOTTO: 'lotto',
 };
 // toast
 export const SHOW_TOAST = 'app/Toast/SHOW_TOAST';
@@ -25,11 +26,6 @@ export const HIDE_TOAST = 'app/Toast/HIDE_TOAST';
 export const FETCH_TICKETS = 'app/Tickets/FETCH_TICKETS';
 export const FETCH_TICKETS_FAILURE = 'app/Tickets/FETCH_TICKETS_FAILURE';
 export const FETCH_TICKETS_SUCCESS = 'app/Tickets/FETCH_TICKETS_SUCCESS';
-
-// tracks links
-export const FETCH_TRACKS_LINKS = 'app/TracksLinks/FETCH_TRACKS_LINKS';
-export const FETCH_TRACKS_LINKS_FAILURE = 'app/TracksLinks/FETCH_TRACKS_LINKS_FAILURE';
-export const FETCH_TRACKS_LINKS_SUCCESS = 'app/TracksLinks/FETCH_TRACKS_LINKS_SUCCESS';
 
 // feedback
 export const FETCH_PREVIOUS_FEEDBACK = 'app/Feedback/FETCH_PREVIOUS_FEEDBACK';
