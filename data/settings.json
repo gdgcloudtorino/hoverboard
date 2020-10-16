@@ -42,6 +42,10 @@
       "route": "blog",
       "permalink": "/blog/",
       "label": "Blog"
+    },  {
+      "route": "games",
+      "permalink": "/games/",
+      "label": "Games"
     }
   ],
   "heroSettings": {
@@ -114,6 +118,14 @@
     "coc": {
       "title": "Code of Conduct",
       "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "games": {
+      "title": "Giochi",
+      "metaDescription": "Gioca con noi!",
       "background": {
         "color": "#fff"
       },

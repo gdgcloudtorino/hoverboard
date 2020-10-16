@@ -9,8 +9,8 @@ import { dialogsActions, lottoActions, toastActions } from '../redux/actions.js'
 import { DIALOGS } from '../redux/constants.js';
 
 class GamesPage extends ReduxMixin(PolymerElement) {
-  static get template() {
-    return html`
+    static get template() {
+        return html `
     <style include="shared-styles flex flex-alignment">
       :host {
         display: block;
@@ -77,60 +77,60 @@ class GamesPage extends ReduxMixin(PolymerElement) {
 
     <footer-block></footer-block>
 `;
-  }
-
-  static get is() {return 'games-page';}
-
-  static get properties() {
-    return {
-      active: Boolean,
-      user: {
-        type: Object,
-      },
-      cardRequestAdding: {
-        type: Boolean,
-        observer: '_cardRequestAddingChanged',
-      },
-      cardRequestAddingError: {
-        type: Object,
-      },
-    };
-  }
-
-  static mapStateToProps(state, _element) {
-    return {
-      user: state.user,
-      cardRequestAdding: state.lotto.adding,
-      cardRequestAddingError: state.lotto.addingError,
-    };
-  }
-
-  _addCardRequest() {
-    if (!this.user.signedIn) {
-      toastActions.showToast({ message: '{$ lottoBlock.mustBeSigned $}' });
-      return;
     }
-    dialogsActions.openDialog(DIALOGS.SUBSCRIBE, {
-      title: '{$ lottoBlock.form.title $}',
-      submitLabel: '{$ lottoBlock.form.submitLabel $}',
-      nameFieldLabel: '{$ lottoBlock.form.name $}',
-      lastNameFieldLabel: '{$ lottoBlock.form.lastName $}',
-      emailFieldValue: this.user.email,
-      submit: (data) => {
-        this.dispatchAction(lottoActions.addCardRequest(data));
-      },
-    });
-  }
 
-  _cardRequestAddingChanged(newCardRequestAdding, oldCardRequestAdding) {
-    if (oldCardRequestAdding && !newCardRequestAdding) {
-      if (this.cardRequestAddingError) {
-        this.dispatchAction(dialogsActions.setDialogError(DIALOGS.SUBSCRIBE));
-      } else {
-        dialogsActions.closeDialog(DIALOGS.SUBSCRIBE);
-        toastActions.showToast({ message: '{$ lottoBlock.toast $}' });
-      }
+    static get is() { return 'games-page'; }
+
+    static get properties() {
+        return {
+            active: Boolean,
+            user: {
+                type: Object,
+            },
+            cardRequestAdding: {
+                type: Boolean,
+                observer: '_cardRequestAddingChanged',
+            },
+            cardRequestAddingError: {
+                type: Object,
+            },
+        };
     }
-  }
+
+    static mapStateToProps(state, _element) {
+        return {
+            user: state.user,
+            cardRequestAdding: state.lotto.adding,
+            cardRequestAddingError: state.lotto.addingError,
+        };
+    }
+
+    _addCardRequest() {
+        if (!this.user.signedIn) {
+            toastActions.showToast({ message: '{$ lottoBlock.mustBeSigned $}' });
+            return;
+        }
+        dialogsActions.openDialog(DIALOGS.SUBSCRIBE, {
+            title: '{$ lottoBlock.form.title $}',
+            submitLabel: '{$ lottoBlock.form.submitLabel $}',
+            nameFieldLabel: '{$ lottoBlock.form.name $}',
+            lastNameFieldLabel: '{$ lottoBlock.form.lastName $}',
+            emailFieldValue: this.user.email,
+            submit: (data) => {
+                this.dispatchAction(lottoActions.addCardRequest(data));
+            },
+        });
+    }
+
+    _cardRequestAddingChanged(newCardRequestAdding, oldCardRequestAdding) {
+        if (oldCardRequestAdding && !newCardRequestAdding) {
+            if (this.cardRequestAddingError) {
+                this.dispatchAction(dialogsActions.setDialogError(DIALOGS.SUBSCRIBE));
+            } else {
+                dialogsActions.closeDialog(DIALOGS.SUBSCRIBE);
+                toastActions.showToast({ message: '{$ lottoBlock.toast $}' });
+            }
+        }
+    }
 }
 window.customElements.define(GamesPage.is, GamesPage);
