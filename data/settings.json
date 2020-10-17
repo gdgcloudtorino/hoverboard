@@ -134,6 +134,9 @@
         "color": "#fff"
       },
       "fontColor": "#424242"
+    },
+    "leaderboard": {
+      "image": "../images/Sticker_devfestItalia_18.png"
     }
   },
   "location": {
