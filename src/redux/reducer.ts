@@ -225,7 +225,10 @@ export const lottoReducer = (state = initialState.lotto, action) => {
       });
     
     case FETCH_CARDS_SUCCESS:
-      return action.data;
+      console.log("FETCH_CARDS_SUCCESS", action.data);
+      return Object.assign({}, state, {
+        cards: action.data,
+      });
 
     default:
       return state;
@@ -537,7 +540,7 @@ export const scheduleReducer = (state = initialState.schedule, action) => {
   switch (action.type) {
     case FETCH_SCHEDULE_SUCCESS:
       // qua posso fixare la timetable e la gridArea
-      console.log("TIMETABLE", action.data);
+      
       const data:DaySchedule[] = action.data;
       
       const t= data.map(schedule => ({...schedule,timeslots:fixtimeslot(schedule.timeslots,schedule.tracks)}));
@@ -666,7 +669,7 @@ export const appReducer = (state = initialState, action) => {
     dialogs: dialogsReducer(state.dialogs, action),
     tickets: ticketsReducer(state.tickets, action),
     partners: partnersReducer(state.partners, action),
-    lotto: lottoReducer(state.partners, action),
+    lotto: lottoReducer(state.lotto, action),
     feedback: feedbackReducer(state.feedback, action),
     videos: videosReducer(state.videos, action),
     blog: blogReducer(state.blog, action),

@@ -90,26 +90,41 @@ class GamePage extends ReduxMixin(PolymerElement) {
       },
       cardRequestAddingError: Object,
       cards: Array,
+      lotto:Object
     };
   }
 
   stateChanged(state: import('../redux/store').State) {
+    // console.log("state changed", state);
     super.stateChanged(state);
     this.setProperties({
       user: state.user,
       cardRequestAdding: state.lotto.adding,
       cardRequestAddingError: state.lotto.addingError,
       cards: state.lotto.cards,
+      lotto:state.lotto
     });
   }
 
   static get observers() {
     return [
-      '_cardsChanged(user)',
+      '_userChanged(user)',
+      '_cardsChanged(lotto)'
     ];
   }
-
-  _cardsChanged(user) {
+  _cardsChanged(lotto){
+    console.log("cards changed" ,lotto);
+    if(lotto && lotto.cards){
+      this.cards = lotto.cards;
+    } else {
+      this.cards = [];
+    }
+    if(!Array.isArray(this.cards)){
+      console.log("Convert to array", this.cards);
+      this.cards = [this.cards];
+    }
+  }
+  _userChanged(user) {
     console.log('changed');
     console.log(user);
     if (this.user !== null && (this.user as any).email !== undefined) {
