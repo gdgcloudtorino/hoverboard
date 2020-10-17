@@ -51,7 +51,10 @@ class GamePage extends ReduxMixin(PolymerElement) {
               <span>I giochi</span>
             </paper-button>
           </a>
-          <paper-button primary class="cta-button animated icon-right centered" on-tap="_addCardRequest">
+          <paper-button primary 
+              hidden="[[!lottoRequestVisible]]"
+              class="cta-button animated icon-right centered" 
+              on-tap="_addCardRequest">
             <span>Richiedi una cartella</span>
           </paper-button>
           <a href="https://forms.gle/bgNEosdXq5AXfqyCA" target="_blank" rel="noopener noreferrer" style="text-decoration: none">
@@ -59,6 +62,22 @@ class GamePage extends ReduxMixin(PolymerElement) {
               <span>Iscriviti ai giochi</span>
             </paper-button>
           </a>
+        </div>
+      </div>
+
+      <div class"container" hidden="[[lottoRequestVisible]]">
+        <div class="container" layout >
+          <h2 class="centered" style="font-size: 1.5em; text-align: center;">Ecco le tue card per il lotto</h2>
+        </div>
+        <div class="container" style="padding-top: 0;text-align: center;" layout horizontal centered>
+          <div>
+            <h3 class="centered" style="font-size: 1.1em;">Card per Sabato 17/10</h3>
+            <img src="[[saturdayMediaLink]]" style="max-width: 350px;" />
+          </div>
+          <div>
+            <h3 class="centered" style="font-size: 1.1em;">Card per Domenica 18/10</h3>
+            <img src="[[sundayMediaLink]]" style="max-width: 350px;" />
+          </div>
         </div>
       </div>
 
@@ -71,6 +90,9 @@ class GamePage extends ReduxMixin(PolymerElement) {
   private cardRequestAdding = false;
   private cardRequestAddingError = {};
   private cards = [];
+  private lottoRequestVisible = true;
+  private saturdayMediaLink = "";
+  private sundayMediaLink = "";
 
   static get is() {
     return 'game-page';
@@ -89,8 +111,9 @@ class GamePage extends ReduxMixin(PolymerElement) {
         observer: '_cardRequestAddingChanged',
       },
       cardRequestAddingError: Object,
-      cards: Array,
-      lotto:Object
+      cards: Object,
+      lotto: Object,
+      lottoRequestVisible: Boolean,
     };
   }
 
@@ -114,20 +137,18 @@ class GamePage extends ReduxMixin(PolymerElement) {
   }
   _cardsChanged(lotto){
     console.log("cards changed" ,lotto);
-    if(lotto && lotto.cards){
+    if(lotto && lotto.cards && lotto.cards.saturdayMediaLink){
       this.cards = lotto.cards;
-    } else {
-      this.cards = [];
-    }
-    if(!Array.isArray(this.cards)){
-      console.log("Convert to array", this.cards);
-      this.cards = [this.cards];
+      this.lottoRequestVisible = false;
+      this.saturdayMediaLink = lotto.cards.saturdayMediaLink;
+      this.sundayMediaLink = lotto.cards.sundayMediaLink;
     }
   }
   _userChanged(user) {
     console.log('changed');
     console.log(user);
     if (this.user !== null && (this.user as any).email !== undefined) {
+      console.log('changed 2');
       store.dispatch(lottoActions.fetchCards((this.user as any).email));
       console.log(this.cards);
     }

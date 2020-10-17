@@ -127,7 +127,7 @@ export const initialState:any = {
   lotto: {
     adding: '',
     addingError: '',
-    cards: [],
+    cards: {},
   },
   leaderboard: {
     md: '',
