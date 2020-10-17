@@ -105,12 +105,13 @@ class GamePage extends ReduxMixin(PolymerElement) {
 
   static get observers() {
     return [
-      '_cardsChanged()',
+      '_cardsChanged(user)',
     ];
   }
 
-  _cardsChanged() {
-    console.log(this.user);
+  _cardsChanged(user) {
+    console.log('changed');
+    console.log(user);
     if (this.user !== null && (this.user as any).email !== undefined) {
       store.dispatch(lottoActions.fetchCards((this.user as any).email));
       console.log(this.cards);

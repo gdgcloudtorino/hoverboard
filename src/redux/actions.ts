@@ -1094,16 +1094,16 @@ export const lottoActions = {
     dispatch({
       type: FETCH_CARDS,
     });
-    
+    const id = email.replace(/[^\w\s]/gi, '');
     return window.firebase
       .firestore()
-      .collection('bingo').doc('0').collection('cards').where("assignedTo", "==", email)
+      .collection('assignedCards').doc(id)
       .get()
-      .then((snaps) => {
-        const list = snaps.docs.map((snap) => Object.assign({}, snap.data(), { id: snap.id }));
+      .then((doc) => {
+        const data = doc.data();
         dispatch({
           type: FETCH_CARDS_SUCCESS,
-          data: list,
+          data: data,
         });
       })
       .catch((error) => {

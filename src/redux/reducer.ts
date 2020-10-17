@@ -203,7 +203,9 @@ export const partnersReducer = (state = initialState.partners, action) => {
   }
 };
 
-export const lottoReducer = (state = initialState.partners, action) => {
+export const lottoReducer = (state = initialState.lotto, action) => {
+  console.log('lotto reducer');
+  console.log(action);
   switch (action.type) {
     case ADD_CARD_REQUEST:
       return Object.assign({}, state, {
