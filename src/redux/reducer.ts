@@ -491,7 +491,6 @@ function fixSessions(sessions:Session[],tracks:any[],previusSession?:Timestlot):
   /**
    * numero di sessioni in quel timeslot
    */
-  console.log("fixSessions" ,sessions);
   let sessionNumber:number=1;
   if(sessions.length>1){
     sessionNumber = previusSession ? Math.max(sessions.length,previusSession.sessions.length) : sessions.length;
@@ -517,7 +516,6 @@ function fixSessions(sessions:Session[],tracks:any[],previusSession?:Timestlot):
    counter[0] = {endColumn:counter[1].startColumn,startColumn:counter[1].startColumn-2}; 
  }*/
  return sessions.map((s,index) => {
-   console.log("FIX SESSION", s,index,counter);
     const gridArea:string[] = s.gridArea.split("/");
     // 0 e 2 vanno bene poiche sono le righe
     // 1 diventa la partenza
@@ -528,13 +526,11 @@ function fixSessions(sessions:Session[],tracks:any[],previusSession?:Timestlot):
     // se 4 colonne deve essere 4 / 7 / 10 / 13
     const endColumn = counter[index].endColumn;
     const newGridArea:string = gridArea[0]+'/'+startColumn+'/'+gridArea[2]+'/'+endColumn;
-    console.log("FIXED AREA", gridArea, newGridArea);
     //
     return {...s,gridArea:newGridArea};
   });
 }
 function fixtimeslot(timeslots:Timestlot[],tracks:any[]):Timestlot[]{
-  console.log("FIXTIMESLOTs" ,timeslots ,tracks);
   return timeslots.map( (timeslot,index) => ({...timeslot,sessions:fixSessions(timeslot.sessions,tracks,timeslots[index-1])}))
 }
 export const scheduleReducer = (state = initialState.schedule, action) => {
@@ -545,7 +541,6 @@ export const scheduleReducer = (state = initialState.schedule, action) => {
       const data:DaySchedule[] = action.data;
       
       const t= data.map(schedule => ({...schedule,timeslots:fixtimeslot(schedule.timeslots,schedule.tracks)}));
-      // console.log("AFTER" , t);
       return t;
     default:
       return state;
