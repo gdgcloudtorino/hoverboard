@@ -46,7 +46,7 @@ class GamePage extends ReduxMixin(PolymerElement) {
           <h1 class="centered" style="ont-size: 2.1em;"></h1>
         </div>
         <div class="container" style="padding-top: 0;text-align: center;" layout horizontal centered>
-          <a href="https://drive.google.com/file/d/1um_m_n-gEZ8lmy-oQ88yT6Qj33v0pJYL/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="text-decoration: none">
+          <a href="https://drive.google.com/file/d/1heRt-T20Z9SyHnU7Uriuo4vr_FOwkPf-/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="text-decoration: none">
             <paper-button primary class="cta-button animated icon-right centered">
               <span>I giochi</span>
             </paper-button>

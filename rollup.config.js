@@ -34,7 +34,7 @@ export default merge(baseConfig, {
       targets: [
         {
           src: 'images/',
-          dest: 'dist/images'
+          dest: 'dist',
         },
         {
           src: 'manifest.json',
