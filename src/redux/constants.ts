@@ -108,6 +108,10 @@ export const FETCH_GALLERY = 'app/Gallery/FETCH_GALLERY';
 export const FETCH_GALLERY_FAILURE = 'app/Gallery/FETCH_GALLERY_FAILURE';
 export const FETCH_GALLERY_SUCCESS = 'app/Gallery/FETCH_GALLERY_SUCCESS';
 
+export const FETCH_CARDS = 'app/bingo/FETCH_CARDS';
+export const FETCH_CARDS_FAILURE = 'app/bingo/FETCH_CARDS_FAILURE';
+export const FETCH_CARDS_SUCCESS = 'app/bingo/FETCH_CARDS_SUCCESS';
+
 // team
 export const FETCH_TEAM = 'app/Team/FETCH_TEAM';
 export const FETCH_TEAM_FAILURE = 'app/Team/FETCH_TEAM_FAILURE';

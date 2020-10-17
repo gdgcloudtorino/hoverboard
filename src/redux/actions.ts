@@ -12,6 +12,9 @@ import {
   FETCH_BLOG_LIST_FAILURE,
   FETCH_BLOG_LIST_SUCCESS,
   FETCH_BLOG_LIST,
+  FETCH_CARDS,
+  FETCH_CARDS_FAILURE,
+  FETCH_CARDS_SUCCESS,
   FETCH_GALLERY_FAILURE,
   FETCH_GALLERY_SUCCESS,
   FETCH_GALLERY,
@@ -1086,6 +1089,30 @@ export const lottoActions = {
             payload: { error },
           });
         });
+  },
+  fetchCards: (email) => (dispatch) => {
+    dispatch({
+      type: FETCH_CARDS,
+    });
+    
+    return window.firebase
+      .firestore()
+      .collection('bingo').doc('0').collection('cards').where("assignedTo", "==", email)
+      .get()
+      .then((snaps) => {
+        const list = snaps.docs.map((snap) => Object.assign({}, snap.data(), { id: snap.id }));
+        dispatch({
+          type: FETCH_CARDS_SUCCESS,
+          data: list,
+        });
+      })
+      .catch((error) => {
+        console.log(error);
+        dispatch({
+          type: FETCH_CARDS_FAILURE,
+          payload: { error },
+        });
+      });
   },
 };
 

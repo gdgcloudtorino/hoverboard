@@ -69,6 +69,7 @@ import {
   UPDATE_SESSIONS,
   WIPE_PREVIOUS_FEEDBACK,
   FETCH_LEADERBOARD_SUCCESS,
+  FETCH_CARDS_SUCCESS,
 } from './constants';
 import { initialState } from './initial-state';
 
@@ -220,6 +221,9 @@ export const lottoReducer = (state = initialState.partners, action) => {
       return Object.assign({}, state, {
         adding: false,
       });
+    
+    case FETCH_CARDS_SUCCESS:
+      return action.data;
 
     default:
       return state;

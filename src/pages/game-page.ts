@@ -70,6 +70,7 @@ class GamePage extends ReduxMixin(PolymerElement) {
   private user = {};
   private cardRequestAdding = false;
   private cardRequestAddingError = {};
+  private cards = [];
 
   static get is() {
     return 'game-page';
@@ -88,6 +89,7 @@ class GamePage extends ReduxMixin(PolymerElement) {
         observer: '_cardRequestAddingChanged',
       },
       cardRequestAddingError: Object,
+      cards: Array,
     };
   }
 
@@ -97,7 +99,22 @@ class GamePage extends ReduxMixin(PolymerElement) {
       user: state.user,
       cardRequestAdding: state.lotto.adding,
       cardRequestAddingError: state.lotto.addingError,
+      cards: state.lotto.cards,
     });
+  }
+
+  static get observers() {
+    return [
+      '_cardsChanged()',
+    ];
+  }
+
+  _cardsChanged() {
+    console.log(this.user);
+    if (this.user !== null && (this.user as any).email !== undefined) {
+      store.dispatch(lottoActions.fetchCards((this.user as any).email));
+      console.log(this.cards);
+    }
   }
 
   _addCardRequest() {
