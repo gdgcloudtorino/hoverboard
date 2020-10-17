@@ -138,7 +138,7 @@
         "emailRequired": "Inserisci una email valida",
         "close": "Chiudi",
         "generalError": "Errore, prova nuovamente.",
-        "toast": "Richiesta inserita, riceverai le tue cartelle per email!",
+        "toast": "Richiesta inserita, aggiorna la pagina per visualizzare le cartelle!",
         "mustBeSigned": "Effettua il login per poter richiedere una cartella"
     },
     "blog": {
